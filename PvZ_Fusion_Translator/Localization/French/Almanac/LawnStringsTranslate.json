@@ -2092,7 +2092,23 @@
             "introduce": "<align=justified><size=36><color=black>Sous la terre dorment des trésors… et des zombies ? « Alors mon jardin de chasse aux trésors est en fait un cimetière ?! » La Mine Souci voulait simplement déterrer des richesses, mais Dave a enterré des zombies pour rendre la chasse plus palpitante. Autant dire que ça complique les choses.</color>",
             "info": "<size=36>Toujours occupée à creuser pour trouver des trésors.\n\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Petite plante. Déniche un trésor toutes les 30 s : 1 % de chance de faire apparaître un zombie aléatoire, 10 % d’obtenir un paquet de graines, sinon produit 25 Soleils et 100 Pièces.\n<color=black>•</color> Sur les cartes de plage, les Mines Souci placées sur des zones à trésor produisent 50 % plus vite ; la probabilité d’un paquet de graines passe à 33 %, celle d’un zombie tombe à 0 %.\n<color=black>•</color> Disparaît après avoir trouvé 3 paquets de graines.\n<color=black>•</color> À sa mort, déclenche une explosion de Mine Patate infligeant 1800 dégâts.</color>",
             "cost": "<size=36>Recette de Fusion : <color=#8B0000>Souci + Mine Patate</color>"
+        },
+        {
+            "seedType": 1192,
+            "name": "Mordeur Maudit",
+            "introduce": "<align=justified><size=36><color=black>Lors du Grand Championnat des mangeurs, le Mordeur Maudit était une véritable terreur… jusqu’à ce qu’il aille un peu trop loin. « Il n’a pas seulement mangé son gâteau — il a réduit le mien en cendres ! » se souvient un autre concurrent. Sans surprise, il fut disqualifié pour destruction excessive.</color>",
+            "info": "<size=36>Dévore un zombie et provoque une explosion apocalyptique.\n\n<color=black>Dégâts : </color><color=#8B0000>Élimination instantanée (Dévoration)</color>\n<color=black>Temps de digestion : </color><color=#8B0000>60 s</color>\n<color=black>Spécial : </color><color=#8B0000>À chaque fois qu’il mord avec succès un zombie, il déclenche une explosion de type Champi-mort, créant un cratère devant lui (ne provoque pas d’explosion s’il se trouve sur la colonne la plus à droite).</color>",
+            "cost": "<size=36>Recette de Fusion : <color=#8B0000>Mordeur + Champi-mort</color>"
+        },
+        {
+            "seedType": 1241,
+            "name": "Pêcheur Lumineux",
+            "introduce": "<align=justified><size=36><color=black>On raconte que le Pêcheur Lumineux n’a jamais eu faim — pas une seule fois. Chaque bouchée lui rapporte un zombie bien juteux. Il a même publié un livre où il partage ses secrets : « Remuez... remuez... les zombies adorent une lueur douce. » — Extrait de son ouvrage *Lantern*</color>",
+            "info": "<size=36>Attire les zombies avec sa lueur avant de les croquer.\n\n<color=black>Dégâts : </color><color=#8B0000>Élimination instantanée (Dévoration)</color>\n<color=black>Temps de digestion : </color><color=#8B0000>40 s</color>\n<color=#99582a>Système Lumos : </color><color=#8B0000>Chaque niveau de Lumos réduit le temps de digestion de 10 s, jusqu’à un minimum de 10 s.</color>\n<color=black>Spécial : </color><color=#8B0000>Après avoir digéré un zombie, attire un autre zombie proche depuis une ligne adjacente vers la sienne.</color>",
+            "cost": "<size=36>Recette de Fusion : <color=#8B0000>Mordeur + Planterne</color>"
         }
+
+
 
 
 
