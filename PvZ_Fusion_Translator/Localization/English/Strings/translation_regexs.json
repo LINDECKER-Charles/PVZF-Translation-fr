@@ -205,7 +205,7 @@
   "资产：(\\d+)": "Money: ${0}",
   "选择地图：([^\\s]+)": "<size=24>Selected Map: {0}\n(scroll for more)",
   "当前战备值：(\\d+)": "Current Combat Power: {0}",
-  "([^\\s]+)\n耐久：([^\\s]+)\n参考价值：([^\\s]+)\n植物品质：([^\\s]+)\n生长阶段：([^\\s]+)\n成长值：([^\\s]+)": "{0}\nDurability: {1}\nCombat Power: {2}\nPlant Quality: {3}\nGrowth Stage: {4}\nGrowth Value: {5}",
+  "([^\\s]+)\n耐久：([^\\s]+)\n参考价值：([^\\s]+)\n植物品质：([^\\s]+)\n生长阶段：([^\\s]+)\n成长值：([^\\s]+)": "{0}\nDurability: {1}\nValue for Ref.: {2}\nPlant Quality: {3}\nGrowth Stage: {4}\nGrowth Value: {5}",
   "你将花费([^\\s]+)元以购买它": "Buy this Packet for ${0}?",
   "仓库等级：([^\\s]+)容量：([^\\s]+)": "Test {0} {1}",
   "仓库等级：(\\d+)     容量：(\\d+)": "Storage Level: {0}, Capacity: {1}",
