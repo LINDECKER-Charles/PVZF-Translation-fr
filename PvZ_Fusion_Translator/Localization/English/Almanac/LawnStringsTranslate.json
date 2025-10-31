@@ -1768,7 +1768,7 @@
             "seedType": 1124,
             "name": "Overripe Melon",
             "introduce": "<align=justified><size=36><color=black>\"Peel away the green exterior, and you'll find a heart of roses within.\" This phrase means don't randomly walk into an unfamiliar barber shop—it will be a mind-blowing decision.\nMelon Pot: \"After finishing a watermelon, wearing its rind on your head is something everyone did as a kid.\" Flower Pot remarks, \"Honestly, it's kind of silly.\"</color>",
-            "info": "<size=36>Fires melons that bounce once.\n\n<color=black>Damage: </color><color=#8B0000>80/3s</color>",
+            "info": "<size=36>Fires melons that bounce once.\n\n<color=black>Damage: </color><color=#8B0000>80/3s</color>\n<color=black>Special: </color><color=#8B0000>Projectiles bounce once.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Cabbage-pult + Melon-pult</color>"
         },
         {
