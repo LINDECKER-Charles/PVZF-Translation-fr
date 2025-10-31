@@ -381,7 +381,7 @@
         {
             "theZombieType": 68,
             "name": "Chicken Jockey Zombie",
-            "introduce": "<align=justified><size=36><color=black>What would you rather fight? 10 Zombie-sized Chicken or 100 Chicken-sized Zombies? Well, fret now if you don't know, they now coming together!</color>",
+            "introduce": "<align=justified><size=36><color=black>What would you rather fight? 10 Zombie-sized Chicken or 100 Chicken-sized Zombies? Well, fret not if you don't know, they are now coming at you together!</color>",
             "info": "<size=36>Rides a chicken that dashes forward to peck plants.\n\n<color=black>Toughness: </color><color=#4B0082>500</color>\n<color=black>Traits: </color><color=#4B0082>Moves and pecks extremely fast. When the chicken dies, an Imp falls from its back onto the field.</color>"
         },
         {
@@ -406,7 +406,7 @@
             "theZombieType": 72,
             "name": "Cursed Ladder Zombie",
             "introduce": "<align=justified><size=36><color=black>\"The strong never complain about their environment, and I never rely on ladders!\" says Cursed Ladder Zombie while gripping the ladder. \"This bad boy in my hand is a defensive tool, and the one I set down is still my weapon against damage!\" He sets down the ladder and listens to nuts cracking.</color>",
-            "info": "<size=36>Wields a wooden ladder imbued with a curse.\n\n<color=black>Toughness: </color><color=#4B0082>720 + 1350 (Type 2)</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> After placing a ladder, any final damage dealt to the placer is fully transferred to the Plant in the Cursed Ladder's tile, causing equal HP loss. If transferred damage exceeds 8k or the placer dies, the ladder is destroyed.\n<color=black>•</color> The Cursed Ladder cannot be attracted my Magnet-shrooms.</color>"
+            "info": "<size=36>Wields a wooden ladder imbued with a curse.\n\n<color=black>Toughness: </color><color=#4B0082>720 + 1350 (Type 2)</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> After placing a ladder, any final damage dealt to the placer is fully transferred to the Plant in the Cursed Ladder's tile, causing equal HP loss. If transferred damage exceeds 8k or the placer dies, the ladder is destroyed.\n<color=black>•</color> The Cursed Ladder cannot be attracted by Magnet-shrooms.</color>"
         },
         {
             "theZombieType": 100,
@@ -484,7 +484,7 @@
             "theZombieType": 112,
             "name": "Explod-o-pult Zombie",
             "introduce": "<align=justified><size=36><color=black>Warning: If you see him running low on basketballs, it's already too late! His explosive shots aren’t just for scoring points—they’re for total chaos! Better start running!</color>",
-            "info": "<size=36>Throws explosive basketballs to destroy your defenses!\n\n<color=black>Damage: </color><color=#4B0082>60/3s (basketballs), 1000/3s (explosive basketballs)</color>\n<color=black>Toughness: </color><color=#4B0082>1350</color>\n<color=black>Traits: </color><color=#4B0082>Throws 5 basketballs, then launches explosive basketballs (has 20 in total). Explosions deal 100 damage to Umbrella plants.</color>"
+            "info": "<size=36>Throws explosive basketballs to destroy your defenses!\n\n<color=black>Damage: </color><color=#4B0082>60/3s (basketballs), 1000/3s (explosive cherry basketballs)</color>\n<color=black>Toughness: </color><color=#4B0082>1350</color>\n<color=black>Traits: </color><color=#4B0082>Throws 5 basketballs, then launches explosive cherry basketballs (has 20 in total). Explosions deal 100 damage to Umbrella plants.</color>"
         },
         {
             "theZombieType": 113,

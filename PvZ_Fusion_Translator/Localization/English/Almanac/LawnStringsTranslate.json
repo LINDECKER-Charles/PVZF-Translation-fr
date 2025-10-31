@@ -1432,21 +1432,21 @@
             "seedType": 1076,
             "name": "Urchin-shroom",
             "introduce": "<align=justified><size=36><color=black>\"People often ask about my appearance, so let me clarify: I'm from the Namib Desert,\" Urchin-shroom said to anyone who inquired. \"If you're familiar with geography, you'll know that a desert can be found right next to the ocean!\"</color></size>",
-            "info": "<size=36>Attacks flying zombies and airships, growing in size after a while.\n\n<color=black>Damage: </color><color=#8B0000>20 → 20×4/1.5s</color>\n<color=black>Growth Time: </color><color=#8B0000>120s</color>\n<color=black>Special: </color><color=#8B0000>Short plant.</color></size>",
+            "info": "<size=36>Attacks flying zombies and airships, growing in size after a while.\n\n<color=black>Damage: </color><color=#8B0000>20 → 20×4/1.5s</color>\n<color=black>Growth Time: </color><color=#8B0000>120s</color>\n<color=black>Special: </color><color=#8B0000>Short plant (evades straight-firing projectiles).</color></size>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Cactus > Sea-shroom</color>"
         },
         {
             "seedType": 1077,
             "name": "Sunset-shroom",
             "introduce": "<align=justified><size=36><color=black>\"Sadly, I am a mushroom, not a flower, so I can't be called a sea flower or anything similar,\" Sunset-shroom admitted. \"At times, this brings me down, but don't let it bother you. I may not be a sunflower, yet I can still use different physical and chemical reactions in the water to bring you sunshine!\"</color></size>",
-            "info": "<size=36>Produces increasing amounts of Sun as it grows.\n\n<color=black>Sun Output: </color><color=#8B0000>15 → 25 → 50/15s</color>\n<color=black>Growth Time: </color><color=#8B0000>20 Seconds → 40s</color>\n<color=black>Special: </color><color=#8B0000>Short plant.</color></size>",
+            "info": "<size=36>Produces increasing amounts of Sun as it grows.\n\n<color=black>Sun Output: </color><color=#8B0000>15 → 25 → 50/15s</color>\n<color=black>Growth Time: </color><color=#8B0000>20 Seconds → 40s</color>\n<color=black>Special: </color><color=#8B0000>Short plant (evades straight-firing projectiles).</color></size>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Sunflower > Sea-shroom</color>"
         },
         {
             "seedType": 1078,
             "name": "Beacon-shroom",
             "introduce": "<align=justified><size=36><color=black>\"I've been a light system at a pirate pool party, worked for an Amazon deep-water salvage company for three months, and even served as night fishing bait while I was sleeping!\" Beacon-shroom shared, a mix of anger and pride evident in his voice. \"Now, I'm looking for a stable job. Uncle Dave mentioned that the backyard pool needed lighting, but he forgot to mention it was infested with zombies!\"</color></size>",
-            "info": "<size=36>Dispels fog and gives off light, growing in size after a while.\n\n<color=black>Growth Time: </color><color=#8B0000>60s</color>\n<color=#99582a>Lumos System: </color><color=#8B0000>Gives 1 Lumos Level to a 3×3 area, then 5×5 after growth.</color>\n<color=black>Special: </color><color=#8B0000>Short plant. Inherits traits from Plantern.</color></size>",
+            "info": "<size=36>Dispels fog and gives off light, growing in size after a while.\n\n<color=black>Growth Time: </color><color=#8B0000>60s</color>\n<color=#99582a>Lumos System: </color><color=#8B0000>Gives 1 Lumos Level to a 3×3 area, then 5×5 after growth.</color>\n<color=black>Special: </color><color=#8B0000>Short plant (evades straight-firing projectiles). Inherits traits from Plantern.</color></size>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Plantern > Sea-shroom</color>"
         },
         {
@@ -1481,7 +1481,7 @@
             "seedType": 1083,
             "name": "Sea Star",
             "introduce": "<align=justified><size=36><color=black>\"Though my name resembles that of an animal, it's just a stage name,\" Sea Star explained. \"I'm a magician who can expel spores of various shapes.\" He harbors a deep dislike for diving zombies, worried they'll uncover the truth: he's simply a sea-shroom with a star-shaped water gun perched on his head.</color></size>",
-            "info": "<size=36>Attacks twice when fully grown.\n\n<color=black>Damage: </color><color=#8B0000>20×5 → 20×5×2/1.5s</color>\n<color=black>Growth Time: </color><color=#8B0000>60s</color></size>",
+            "info": "<size=36>Attacks twice when fully grown.\n\n<color=black>Damage: </color><color=#8B0000>20×5 → 20×5×2/1.5s</color>\n<color=black>Special:</color> Short plant (evades straight-firing projectiles).\n<color=black>Growth Time: </color><color=#8B0000>60s</color></size>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Starfruit > Sea-shroom</color>"
         },
         {
@@ -1502,7 +1502,7 @@
             "seedType": 1086,
             "name": "Tide-shroom",
             "introduce": "<align=justified><size=36><color=black>Tide-shroom has aspirations as grand as a dragon's. Mastering the ancient art of \"Feng Shui\" from the East, he is well aware of both lucky and unlucky positions. Understanding that wind and water complement each other, he hopes to keep misfortune at bay, whether soaring in the sky or gliding through the water.</color></size>",
-            "info": "<size=36>Dispels fog and blows back zombies in the water.\n\n<color=black>Special: </color><color=#8B0000>Dispels fog and push the zombies in his lane to the rightmost column.</color></size>",
+            "info": "<size=36>Dispels fog and blows back zombies in the water.\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Dispels fog and push the zombies in his lane to the rightmost column.\n<color=black>•</color> Short plant (evades straight-firing projectiles).</color></size>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Blover > Sea-shroom</color>"
         },
         {
@@ -1607,7 +1607,7 @@
             "seedType": 1101,
             "name": "Anchor-shroom",
             "introduce": "<align=justified><size=36><color=black>The other sea-shrooms couldn't comprehend why Anchor-shroom could absorb iron to become bigger and taller. \"It's simple: E=mc²,\" he explained, even if most of the energy was lost in the air and went completely unused.</color></size>",
-            "info": "<size=36>That's weird... Why does the magnet get bigger as well when he grows?\n\n<color=black>Magnet Interval: </color><color=#8B0000>15 Seconds → 10s</color>\n<color=black>Special: </color><color=#8B0000>Grows after attracting 3 times.</color></size>",
+            "info": "<size=36>That's weird... Why does the magnet get bigger as well when he grows?\n\n<color=black>Magnet Interval: </color><color=#8B0000>15 Seconds → 10s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Grows after attracting 3 times.\n<color=black>•</color> Short plant (evades straight-firing projectiles).</color></size>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Magnet-shroom > Sea-shroom</color>"
         },
         {
@@ -1768,7 +1768,7 @@
             "seedType": 1124,
             "name": "Overripe Melon",
             "introduce": "<align=justified><size=36><color=black>\"Peel away the green exterior, and you'll find a heart of roses within.\" This phrase means don't randomly walk into an unfamiliar barber shop—it will be a mind-blowing decision.\nMelon Pot: \"After finishing a watermelon, wearing its rind on your head is something everyone did as a kid.\" Flower Pot remarks, \"Honestly, it's kind of silly.\"</color>",
-            "info": "<size=36>Fires melons that bounce once.\n\n<color=black>Damage: </color><color=#8B0000>80/3s</color>",
+            "info": "<size=36>Fires melons that bounce once.\n\n<color=black>Damage: </color><color=#8B0000>80/3s</color>\n<color=black>Special: </color><color=#8B0000>Projectiles bounce once.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Cabbage-pult + Melon-pult</color>"
         },
         {
@@ -2979,7 +2979,7 @@
             "seedType": 1297,
             "name": "Swell-shroom",
             "introduce": "<align=justified><size=36><color=black>\"Hey, stay away from me! Let me be alone quietly, or I'll stab you with ice spikes!\" Swell-shroom inflates to scare approaching enemies. Watching the ice spikes protruding out towards the zombies, the other plants can't help but wonder: who's really approaching whom?</color>",
-            "info": "<size=36>Inflates after consuming Sea-shrooms, emitting cold air around himself.\n\n<color=black>Special: </color><color=#8B0000>Short plant. Loses the ability to attack. Using a Sea-shroom seed packet on him makes him swell up and freeze all zombies in a 3×3 area, applying chill and dealing 20 damage.</color>",
+            "info": "<size=36>Inflates after consuming Sea-shrooms, emitting cold air around himself.\n\n<color=black>Special: </color><color=#8B0000>Short plant (evades straight-firing projectiles). Loses the ability to attack. Using a Sea-shroom seed packet on him makes him swell up and freeze all zombies in a 3×3 area, applying chill and dealing 20 damage.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Ice-shroom > Sea-shroom</color>"
         },
         {
@@ -3014,14 +3014,14 @@
             "seedType": 1302,
             "name": "Minnow-shroom",
             "introduce": "<align=justified><size=36><color=black>Reproduction and proliferation are life's instincts. Under certain conditions, Minnow-shrooms grow together, resisting waves, and swim in schools to confuse predators. In recent years, technology enabling compact breeding has finally been developed and immediately applied in aquariums.</color>",
-            "info": "<size=36>Highly reproductive; an important part of the ocean fungal ecosystem.\n\n<color=black>Damage: </color><color=#8B0000>20×2 (later ×3)/1.5s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Starts out as a school of 2.\n<color=black>•</color> Grows into a school of 3 after 15s.\n<color=black>•</color> Afterwards, feeds the plant directly in front with a Sea-shroom every 15s. If unsuccessful, drops a Sea-shroom seed packet.</color>",
+            "info": "<size=36>Highly reproductive; an important part of the ocean fungal ecosystem.\n\n<color=black>Damage: </color><color=#8B0000>20×2 (later ×3)/1.5s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Short plant (evades straight-firing projectiles).\n<color=black>•</color> Starts out as a school of 2.\n<color=black>•</color> Grows into a school of 3 after 15s.\n<color=black>•</color> Afterwards, feeds the plant directly in front with a Sea-shroom every 15s. If unsuccessful, drops a Sea-shroom seed packet.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Puff-shroom > Sea-shroom</color>"
         },
         {
             "seedType": 1303,
             "name": "Orca-shroom",
             "introduce": "<align=justified><size=36><color=black>They say this giant used to swim in the open seas of Sharktooth Ridge, the terror of all fish. But one fateful mishap with a certain Shrink Shroom bubble somehow left him tiny. His body's shrunken, but not his appetite, nor his penchant for explosive enthusiasm when a Sea-shroom drifts too close.</color>",
-            "info": "<size=36>After consuming Sea-shrooms, spits small Doom-bombs forward.\n\n<color=black>Damage: </color><color=#8B0000>600</color>\n<color=black>Special: </color><color=#8B0000>Launches a Doom spore that deals 600 damage in a moderate radius after consuming a Sea-shroom. Feeding has no CD, but each shot takes 1.5s to fire and only a max of 2 shots can register at the same time.</color>",
+            "info": "<size=36>After consuming Sea-shrooms, spits small Doom-bombs forward.\n\n<color=black>Damage: </color><color=#8B0000>600</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Short plant (evades straight-firing projectiles).\n<color=black>•</color> Launches a Doom spore that deals 600 damage in a moderate radius after consuming a Sea-shroom. Feeding has no CD, but each shot takes 1.5s to fire and only a max of 2 shots can register at the same time.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Doom-shroom > Sea-shroom</color>"
         },
         {
@@ -3035,7 +3035,7 @@
             "seedType": 1305,
             "name": "Jelly-shroom",
             "introduce": "<align=justified><size=36><color=black>\"Am I a Jellyfish? Or a Mushroom? Guess wrong, and you'll have to work for me.\" The Jelly-shroom loves playing these games with brainless zombies and has never lost. The closest to the right answer was Professor Cherryz, who answered \"I know Box Jellies are not true Jellies… Are you one of those?\"</color>",
-            "info": "<size=36>Summons grunt zombies to fight for you after consuming a Sea-shroom.\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Summons a hypnotized Ducky Tube Zombie (browncoat) that fights for you after consuming a Sea-shroom.\n<color=black>•</color> When bitten, hypnotizes the attacker, then disappears.</color>",
+            "info": "<size=36>Summons grunt zombies to fight for you after consuming a Sea-shroom.\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Short plant (evades straight-firing projectiles).\n<color=black>•</color> Summons a hypnotized Ducky Tube Zombie (browncoat) that fights for you after consuming a Sea-shroom.\n<color=black>•</color> When bitten, hypnotizes the attacker, then disappears.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Hypno-shroom > Sea-shroom</color>"
         },
         {
@@ -3118,7 +3118,7 @@
         {
             "seedType": 1317,
             "name": "MAD Pepper",
-            "introduce": "<align=justified><size=36><color=black>\"I'm about to explode! Everyone in front of me better watch out, plant or zombie alike! This is mutual destruction, assured!\" said MAD Pepper. His slightly trembling body indicates a massive energy build-up, or maybe it's just from standing on tiptoe and unstable stance.</color>",
+            "introduce": "<align=justified><size=36><color=black>\"I'm about to explode! Everyone in front of me better watch out, plant or zombie alike! This is mutual destruction, assured!\" said MAD Pepper. His slightly trembling body indicates a massive energy build-up, or maybe it's just from standing on tiptoes with an unstable stance.</color>",
             "info": "<size=36>Burns plants too to trigger chain explosions.\n\n<color=black>Damage: </color><color=#8B0000>1800 (Cremator)</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Does not explode automatically; click manually to trigger a Jalapeno blast and a Doom-shroom explosion.\n<color=black>•</color> In every other tile in the same lane that has a plant, releases a Doom-shroom explosion without leaving craters and destroys all plants in that tile; the destroyed plants have a 25% chance to drop as a Seed packet.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Jalapeno + Doom-shroom</color>"
         },
