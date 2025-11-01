@@ -495,7 +495,7 @@
             "name": "Gatling Cherrybomber",
             "introduce": "<align=justified><size=36><color=black>\"I'm not sure why the Gatling Pea has so many fans. My brother and I can fire four bullets too,\" Gatling Cherrybomber remarked enviously. However, the truth is that everyone appreciates Gatling Pea for his kindness and outstanding culinary talents.</color></size>",
             "info": "<size=36>Gatling Cherrybomber is the strongest damage-dealer on land.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable</color>\n<color=black>Damage: </color><color=#8B0000>300×4/1.5s</color>\n<color=black>Main Odyssey Modifiers:\n</color><color=#8B0000>1. Explosive cherries from plants ×3 damage\n2. Attack Interval halved</color>\n\n<color=black>Infernal Squashwood Synergy Modifier:</color><color=#8B0000>\n<color=black>•</color> You must have unlocked all Gatling Cherrybomber and Infernal Squashwood's modifiers before this synergy becomes available in the shop.\n<color=black>•</color> Gatling Cherrybomber now fires equal amounts of projectiles across three lanes when attacking, with the upper and lower projectiles following sine and cosine trajectories. Infernal Squashwood unleashes Jalapeno effect across the entire field if there's no available space to spawn a Spicy Squash.</color></size>",
-            "cost": "<size=36>Fusion Formula: <color=#8B0000>Gatling Cherry + Explod-o-shooter</color>"
+            "cost": "<size=36>Fusion Formula: <color=#8B0000>Gatling Cherry + Explode-o-shooter</color>"
         },
         {
             "seedType": 902,
@@ -933,8 +933,8 @@
         },
         {
             "seedType": 1005,
-            "name": "Explod-o-shooter",
-            "introduce": "<align=justified><size=36><color=black>Meet Explod-o-shooter, the ultimate plant killer. He's more irritable than ever—who would've thought the warm and friendly Cherryshooter would swallow another special cherry? Don't push your luck with him. That cherry stuck in his throat might just be his next shot—his face is already turning red!</color></size>",
+            "name": "Explode-o-shooter",
+            "introduce": "<align=justified><size=36><color=black>Meet Explode-o-shooter, the ultimate plant killer. He's more irritable than ever—who would've thought the warm and friendly Cherryshooter would swallow another special cherry? Don't push your luck with him. That cherry stuck in his throat might just be his next shot—his face is already turning red!</color></size>",
             "info": "<size=36>Shoots out explosive cherries that explode on impact.\n\n<color=black>Damage: </color><color=#8B0000>300/3s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Its bullets will deal area explosion damage.\n<color=black>•</color> Has immunity to cherry explosions.\n<color=black>•</color> Reduces the Recharge of the last Cherry Bomb seed packet used for its fusion by 85%.</color></size>",
             "cost": "<size=36>Fusion Formula: <color=#8B0000>Peashooter + Cherry Bomb + Cherry Bomb</color>"
         },
@@ -3236,8 +3236,8 @@
         },
         {
             "seedType": 352,
-            "name": "Explod-o-shooter (TD)",
-            "introduce": "<align=justified><size=36><color=black>Meet Explod-o-shooter, the ultimate plant killer. He's more irritable than ever—who would've thought the warm and friendly Cherryshooter would swallow another special cherry? Don't push your luck with him. That cherry stuck in his throat might just be his next shot—his face is already turning red!</color>",
+            "name": "Explode-o-shooter (TD)",
+            "introduce": "<align=justified><size=36><color=black>Meet Explode-o-shooter, the ultimate plant killer. He's more irritable than ever—who would've thought the warm and friendly Cherryshooter would swallow another special cherry? Don't push your luck with him. That cherry stuck in his throat might just be his next shot—his face is already turning red!</color>",
             "info": "<size=36>Shoots out explosive cherries that explode on impact.\n\n<color=blue>Reversible by pressing R</color>\n<color=black>Damage: </color><color=#8B0000>20/3s</color>\n<color=black>Special: </color><color=#8B0000>Immune to explosive cherries and deals AoE damage.</color>\n<color=black>Upgrades: </color><color=#8B0000>\n<color=black>• Basic Upgrade: </color>(160 Sun) Attack Damage +50%\n<color=black>• Elite Upgrade Path 1: </color>(400 Sun) Attack Damage +100%, Explosion Radius +50%\n<color=black>• Elite Upgrade Path 2: </color>(400 Sun) Attack Speed +200%</color>",
             "cost": "<size=36>Cost: <color=#8B0000>400</color>\nRecharge: <color=#8B0000>50s</color></size>"
         },
