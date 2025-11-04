@@ -484,6 +484,13 @@
             "cost": "\n"
         },
         {
+            "seedType": 303,
+            "name": "Enlightened Solarnova",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n\n<color=blue>Unsealed form of Selene Cabbage</color>\n<color=#4A2900>Usage Condition: Harvest Mode | Legendary Odyssey Plant: Special form of Princess Solarnova</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> \n<color=black>•</color> \n<color=black>•</color> \n<color=black>•</color> \n<color=black>•</color> </color>",
+            "cost": "\n"
+        },
+        {
             "seedType": 900,
             "name": "Empress-shroom",
             "introduce": "<align=justified><size=36><color=black>Empress-shroom holds great affection for her zombie subordinates. \"They contributed significantly to my rise as an Empress,\" she expressed. Unfortunately, these powerful zombies instill fear in other plants, something Empress-shroom is completely unaware of.</color></size>",
@@ -895,6 +902,20 @@
             "introduce": "<align=justified><size=36><color=black></color>",
             "info": "<size=36>\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable</color>\n<color=black>Damage: </color><color=#8B0000></color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> \n<color=black>•</color> </color>\n<color=black>Odyssey Modifiers:</color>\n<color=#8B0000>1. \n2. </color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Pepper Popper > Flame Cattail</color>"
+        },
+        {
+            "seedType": 959,
+            "name": "Big Bang Cherry",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable</color>\n<color=black>Damage: </color><color=#8B0000></color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> \n<color=black>•</color> </color>\n<color=black>Odyssey Modifiers:</color>\n<color=#8B0000>1. \n2. </color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Cherry Bomb + Black Cherry</color>"
+        },
+        {
+            "seedType": 960,
+            "name": "Scylla Leviathan",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable</color>\n<color=black>Damage: </color><color=#8B0000></color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> \n<color=black>•</color> </color>\n<color=black>Odyssey Modifiers:</color>\n<color=#8B0000>1. \n2. </color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Minnow-shroom + Kraken-shroom</color>"
         },
         {
             "seedType": 1000,
@@ -3219,6 +3240,27 @@
             "introduce": "<align=justified><size=36><color=black></color>",
             "info": "<size=36>\n\n<color=black>Damage: 20×6/1.5s</color><color=#8B0000></color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> \n<color=black>•</color> </color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Cherry Bomb + Pea-storm Commando</color>"
+        },
+        {
+            "seedType": 1332,
+            "name": "Black Cherry",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n\n<color=black>Damage: 20×6/1.5s</color><color=#8B0000></color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> \n<color=black>•</color> </color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Cherry Bomb + Doom-shroom</color>"
+        },
+        {
+            "seedType": 1333,
+            "name": "Sea-shell",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n\n<color=black>Toughness: 4000</color><color=#8B0000></color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> \n<color=black>•</color> </color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Sea-shroom > Pumpkin</color>"
+        },
+        {
+            "seedType": 1334,
+            "name": "Catalyst-shroom",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n\n<color=black>Toughness: 4000</color><color=#8B0000></color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> \n<color=black>•</color> </color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Cherry Bomb + Hypno-shroom</color>"
         },
         {
             "seedType": 350,
