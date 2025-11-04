@@ -2328,7 +2328,7 @@
             "seedType": 1201,
             "name": "Starry-shroom",
             "introduce": "<align=justified><size=36><color=black>\"Guys in the distance, no matter who you are, except for the circus people, don't come over!\" The Starry-shroom, trembled, \"I, I am very powerful!\" He kept attacking, thinking that this would scare off those with ill intentions, but he didn't notice that his bullets weren't even hitting straight ahead.</color>",
-            "info": "<size=36>Starry-shroom shoots stars faster and in 5 directions, but also gets frightened more often.\n\n<color=black>Damage: </color><color=#8B0000>20×5/0.75s</color>\n<color=black>Special: </color><color=#8B0000>Attacks in the same way as Starfruit, but becomes afraid if there is a zombie in its range.</color>",
+            "info": "<size=36>Starry-shroom shoots stars faster and in 5 directions, but also gets frightened more often.\n\n<color=black>Damage: </color><color=#8B0000>20×5/0.75s</color>\n<color=black>Special: </color><color=#8B0000>Keeps shooting stars in 5 directions like Starfruit, but becomes afraid and stops if there is a zombie in its range.</color>",
             "cost": "<size=36>\nFusion Formula: <color=#8B0000>Starfruit + Scaredy-shroom</color>"
         },
         {
