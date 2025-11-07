@@ -10,7 +10,7 @@
         {
             "seedType": 1,
             "name": "Tournesol",
-            "introduce": "<size=36><color=black>Tournesol ne peut s'empêcher de rebondir au rythme. De quel rythme s'agit-il ? Eh bien, le rythme jazzy et vivifiant de la Terre elle-même, résonnant à une fréquence que seul Tournesol peut entendre.</color></size>",
+            "introduce": "<size=36><color=black>Tournesol ne peut s'arrêter de danser au rythme de la musique. De quelle musique s'agit-il ? Eh bien, la musique rythmée de la Terre elle-même, résonnante à une fréquence que seul le Tournesol peut entendre.</color></size>",
             "info": "<size=36>Les Tournesols sont essentiels pour produire du soleil. Plantez-en autant que possible.\n\n<color=black>Production de Soleil : </color><color=#8B0000>25/25 Secondes</color></size>",
             "cost": "<size=36>Coût : <color=#8B0000>50</color>\nRecharge : <color=#8B0000>7.5 Secondes</color></size>"
         },
@@ -493,9 +493,9 @@
         {
             "seedType": 1002,
             "name": "Bombe Solaire",
-            "introduce": "<size=36><color=black>\"Alors… c'est évident… nous sommes Pretty Cure, n'est-ce pas ?\" Les deux sœurs Tournesol essayèrent de réprimer leur excitation. \"Le monde a besoin de nous pour le sauver !\" Leur passion bouillonnait alors qu'ils criaient ensemble : \"Lumière ! Illuminez cette terre !\"</color></size>",
-            "info": "<size=36>La Bombe Solaire peut produire du Soleil après avoir tué des zombies.\n\n<color=black>Dégâts : </color><color=#8B0000>1800 (Incendiaire)</color>\n<color=black>Spécial : </color><color=#8B0000>Produit 25 Soleil pour chaque zombie tué dans l'explosion.</color>\n<color=black>Recette de Fusion : </color><color=#8B0000>Tournesol + Cerise Explosive</color></size>",
-            "cost": ""
+            "introduce": "<size=36><color=black>\"Alors… c'est évident… nous sommes le remède de ce monde, n'est-ce pas ?\" Les deux sœurs Tournesol essayèrent de réprimer leur excitation. \"Le monde a besoin de nous pour le sauver !\" Leur passion bouillonnait alors qu'elles criaient ensembles : \"Lumière ! Purifie cette terre !\"</color></size>",
+            "info": "<size=36>La Bombe Solaire produit du Soleil après avoir tué des zombies.\n\n<color=black>Dégâts : </color><color=#8B0000>1800 (Incendiaire)</color>\n<color=black>Spécial : </color><color=#8B0000>Produit 25 Soleil pour chaque zombie tué dans l'explosion.</color>\n",
+            "cost": "<color=black>Formule de Fusion : </color><color=#8B0000>Tournesol + Cerise Explosive</color></size>"
         },
         {
             "seedType": 1003,
@@ -668,8 +668,8 @@
         {
             "seedType": 1027,
             "name": "Grande Noix",
-            "introduce": "<size=36><color=black>\"Plus vous êtes grand, plus vous devenez puissant.\" Grand-Nut y croyait fermement, c'est pourquoi il restait toujours en première ligne. D'autres plantes le pousseraient à y aller doucement, mais il se contenterait de sourire et de dire : \"C'est bon, je suis grand. Tant que tu te bats vite, les zombies n'auront pas le temps de me manger entièrement.\"< /couleur></taille>",
-            "info": "<size=36>Grande Noix sont des plantes murales résistantes qui ne peuvent pas être franchies en sautant ou en passant par-dessus.\n\n<color=black>Robustesse : </color><color=#8B0000>8000</color></size>",
+            "introduce": "<size=36><color=black>\"Plus vous êtes grand, plus vous devenez puissant.\" et la Grande Noix y croyait fermement, c'est pourquoi elle restait toujours en première ligne. D'autres plantes la poussent à y aller doucement, mais elle se contente de sourire et de dire : \"C'est bon, je suis grande. Tant que tu te bats vite, les zombies n'auront pas le temps de me manger entièrement.\"</couleur></taille>",
+            "info": "<size=36>Les Grandes Noix sont des plantes résistantes s'apparentant à des murs et qui ne peuvent pas être franchies en sautant ou en passant par-dessus.\n\n<color=black>Robustesse : </color><color=#8B0000>8000</color></size>",
             "cost": "<size=36>Coût : <color=#8B0000>125</color>\nRecharge : <color=#8B0000>50 Secondes</color></size>"
         },
         {
