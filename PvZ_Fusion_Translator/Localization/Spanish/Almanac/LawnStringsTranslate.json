@@ -3836,7 +3836,7 @@
    "seedType": 901,
    "name": "Cerezantralladora Explosiva",
    "introduce": "<size=39><color=#3D1400>\u0022No entiendo por qué Guisantralladora tiene tantos fans. Mi hermano y yo también podemos disparar cuatro balas\u0022, comentó Cerezantralladora Explosiva con envidia. La verdad es que todos aprecian a Guisantralladora simplemente por su amabilidad y sus increíbles talentos culinarios.</color></size>",
-   "info": "<size=39>Dispara 4 cerezas explosivas sucesivamente.\n\n<color=#3D1400>Daño:</color> <color=red>300*4 cada 1,5s (área de 3x3)\n\n<color=purple>Mejoras de Odisea:</color>\n</color></color>- Cerezas explosivas de plantas hacen x3 de daño</color>\n- Intervalos de ataque divididos a la mitad</color>\n\n<color=purple>Mejoras Mutuas:</color></color></color>\n- Debes tener todos los modificadores de Cerezantralladora Explosiva y Apisonantorcha Infernal para tener la chance de obtener este modificador en la tienda.\n- La Cerezantralladora Explosiva ahora dispara la misma cantidad de proyectiles en tres líneas al atacar, con los proyectiles superior e inferior siguiendo trayectorias seno-cosenos.\n- La Apisonantorcha Infernal incendia todo el campo si no hay espacio disponible para generar una Apisonaflor Picante.</color>\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Cerezantralladora + Lanzacerezas Explosiva</color></size>",
+   "info": "<size=39>Dispara 4 cerezas explosivas sucesivamente.\n\n<color=#3D1400>Daño:</color> <color=red>300*4 cada 1,5s\n\n<color=purple>Mejoras de Odisea:</color>\n</color></color>- Cerezas explosivas de plantas hacen x3 de daño</color>\n- Intervalos de ataque divididos a la mitad</color>\n\n<color=purple>Mejoras Mutuas:</color></color></color>\n- Debes tener todos los modificadores de Cerezantralladora Explosiva y Apisonantorcha Infernal para tener la chance de obtener este modificador en la tienda.\n- La Cerezantralladora Explosiva ahora dispara la misma cantidad de proyectiles en tres líneas al atacar, con los proyectiles superior e inferior siguiendo trayectorias seno-cosenos.\n- La Apisonantorcha Infernal incendia todo el campo si no hay espacio disponible para generar una Apisonaflor Picante.</color>\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Cerezantralladora + Lanzacerezas Explosiva</color></size>",
       "cost": "<size=33>Costo: <color=red>950</color>   Recarga: <color=red>187,5 Segundos</color>\nPlantas Requeridas: <color=red>8\n<color=purple>Condición de Uso: Modo Odisea - Desbloqueable</color></size>"
     },
     {
@@ -6353,7 +6353,7 @@
       "seedType": 1278,
       "name": "Ajonuez",
       "introduce": "<size=39><color=#3D1400>Ajonuez cree que incluso los zombis merecen una dieta equilibrada. Siempre se interpondrá entre ellos y tu cerebro, animándolos suavemente a optar por opciones más saludables, como Nuez Col.</color></size>",
-      "info": "<size=39>Parte del <color=#133816>Sistema Venenoso</color>\nTremendo ajón con mucha resistencia.\n<color=#133816>Sistema Venenoso:</color></color>\n- Envenena al zombi que lo muerde.</color></color>\n\n<color=#3D1400>Dureza: </color><color=red>4000</color>\n<color=#3D1400>Especial: </color><color=red>Desvía a zombis a otras líneas tras morderlo.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Nuez + Ajo</color></size>",
+      "info": "<size=39>Parte del <color=#133816>Sistema Venenoso</color>\nUn ajo con mucha resistencia.\n<color=#133816>Sistema Venenoso:</color></color>\n- Envenena al zombi que lo muerde.</color></color>\n\n<color=#3D1400>Dureza: </color><color=red>4000</color>\n<color=#3D1400>Especial: </color><color=red>Desvía a zombis a otras líneas tras morderlo.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Nuez + Ajo</color></size>",
       "cost": "<size=39>Costo: <color=red>100</color>   Recarga: <color=red>37,5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
     {
@@ -6463,8 +6463,8 @@
   },
   {
     "seedType": 1294,
-    "name": "Almejanseta",
-    "introduce": "<size=39><color=#3D1400>La Almejanseta flota como un arrecife oculto, tímido, quieto, pero peligroso para los incautos. Cuando el agua circundante se mueve, se despierta y se defiende ferozmente, para luego volver a refugiarse bajo las olas como si nada hubiera pasado.</color></size>",
+    "name": "Conchaseta",
+    "introduce": "<size=39><color=#3D1400>La Conchaseta flota como un arrecife oculto, tímido, quieto, pero peligroso para los incautos. Cuando el agua circundante se mueve, se despierta y se defiende ferozmente, para luego volver a refugiarse bajo las olas como si nada hubiera pasado.</color></size>",
     "info": "<size=39>Muy tímido para atacar, hasta que ve una Marseta llegar al agua.</color>\n\n<color=#3D1400>Daño:</color> <color=red>20 cada 0,5s\n<color=#3D1400>Especial:</color> <color=red>Se esconde, a pesar que no hayan zombis cercanos. Al ocupar un paquete de semillas de Marseta en ella, la hace atacar por 10s. Después de esto, vuelve a esconderse.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Marseta + Seta Miédica (En Orden)</color></size>",
     "cost": "<size=39>Costo: <color=red>25, 175 (-50)</color>   Recarga: <color=red>15 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
         },
@@ -6664,6 +6664,88 @@
    "cost": "<size=39>Costo: <color=red>525</color>   Recarga: <color=red>80 Segundos</color>\nPlantas Requeridas: <color=red>5</color></size>"
         },
         {
+    "seedType": 1323,
+    "name": "Calabaza Ajo",
+   "introduce": "<size=39><color=#3D1400>INTRO</color></size>",
+      "info": "<size=39>Parte del <color=#133816>Sistema Venenoso</color>\nRepele zombis a otras filas y protege a una planta dentro suyo.\n<color=#133816>Sistema Venenoso:</color></color>\n- Envenena al zombi que lo muerde.</color></color>\n\n<color=#3D1400>Dureza: </color><color=red>4000</color>\n<color=#3D1400>Especial: </color><color=red>Desvía a zombis a otras líneas tras morderlo. Puede mantener una planta dentro.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Calabaza + Ajo</color></size>",
+      "cost": "<size=39>Costo: <color=red>175</color>   Recarga: <color=red>37,5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
+    },
+    {
+    "seedType": 1324,
+    "name": "Calabaza Solar",
+   "introduce": "<size=39><color=#3D1400>INTRO</color></size>",
+   "info": "<size=39>INFO</color>\n\n<color=#3D1400>Dureza: </color><color=red>4000</color>\n<color=#3D1400>Producción Solar:</color> <color=red>25 cada 25s\n<color=#3D1400>Especial:</color> <color=red>\n<color=#3D1400>Especial:</color><color=red>Se da a si mismo 50 PE al generar sol sin límite.\n<color=#3D1400>Puntos Escuderos (PE):</color> <color=red>Los puntos escuderos son puntos de salud adicionales que se le puede dar a una planta.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Calabaza + Girasol</color></size>",
+   "cost": "<size=39>Costo: <color=red>175</color>   Recarga: <color=red>37,5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
+        },
+        {
+    "seedType": 1325,
+    "name": "Seta Aurora",
+   "introduce": "<size=39><color=#3D1400>INTRO</color></size>",
+   "info": "<size=39>Soporte del <color=#0077b6>Sistema Criogénico</color>\nCuando la Seta Aurora genera sol, todos los zombis ya congelados soltarán soles.</color>\n\n<color=#3D1400>Producción Solar: </color><color=red>25 cada 25s</color>\n<color=#3D1400>Especial:</color> <color=red>Solo puede generar sol tres veces. Las primeras 2 veces ralentizarán a todos los zombis, y la tercera vez, todos los zombis se congelarán y Seta Aurora desaparecerá. Al producir sol, cada zombi que ya esté congelado dejará caer 15 de sol.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Girasol + Seta Congelada</color></size>",
+   "cost": "<size=39>Costo: <color=red>125, 200</color>   Recarga: <color=red>57,5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
+        },
+        {
+    "seedType": 1326,
+    "name": "Reflejaseta",
+   "introduce": "<size=39><color=#3D1400>INTRO</color></size>",
+   "info": "<size=39>Invoca un Cometa Solar que rebota entre zombis para obtener sol.</color>\n\n<color=#3D1400>Producción Solar: </color><color=red>25 cada 25s</color>\n<color=#3D1400>Especial:</color> <color=red>Cuando es comida, hipnotiza al zombi mordiendola y invoca un Cometa Solar. Este Cometa Solar busca zombis y rebota entre ellos, hasta 10 veces. Cuando golpea a un zombi hipnotizado, le inflige 200 de daño y suelta 25 soles. A un zombi no hipnotizado, le inflige 100 de daño, haciéndolo soltar 15 soles. Después de que el Cometa complete sus rebotes o desaparezca, suelta 25 soles adicionales.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Girasol + Hipnoseta</color></size>",
+   "cost": "<size=39>Costo: <color=red>125, 200</color>   Recarga: <color=red>37,5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
+        },
+        {
+            "seedType": 1327,
+            "name": "Chompkin",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n\n<color=black>Toughness: 4000</color><color=#8B0000></color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Chompkin periodically uses a reserve Digestive Sac to help the Chomper plant in the same tile to instantly finish swallowing.\n<color=black>•</color> Chompkin starts with 1 Digestive Sac and regenerates 1 every 40s, up to a maximum of 3 at the same time.</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Chomper > Pumpkin</color>"
+        },
+        {
+            "seedType": 1328,
+            "name": "Stench-spreader",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n\n<color=black>Damage: 30×3/1.5s</color><color=#8B0000></color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Projectiles add 1 Poison value to zombies on hit.\n<color=black>•</color> If the zombie hit is already in a Poisoned state, creates a poison cloud at the zombie's feet that lasts for 6s, applying 1 Poison value per second to all zombies caught within.</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Threepeater + Garlic</color>"
+        },
+        {
+            "seedType": 1329,
+            "name": "Plaguebringer Snipea",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n\n<color=black>Damage: s</color><color=#8B0000></color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> \n<color=black>•</color> </color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Snipea + Garlic</color>"
+        },
+        {
+            "seedType": 1330,
+            "name": "Cherry-spreader",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n\n<color=black>Damage: 20×3/1.5s</color><color=#8B0000></color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> \n<color=black>•</color> </color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Cherry Bomb + Threepeater</color>"
+        },
+        {
+            "seedType": 1331,
+            "name": "Dynamite Commando",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n\n<color=black>Damage: 20×6/1.5s</color><color=#8B0000></color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> \n<color=black>•</color> </color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Cherry Bomb + Pea-storm Commando</color>"
+        },
+        {
+            "seedType": 1332,
+            "name": "Black Cherry",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n\n<color=black>Damage: 20×6/1.5s</color><color=#8B0000></color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> \n<color=black>•</color> </color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Cherry Bomb + Doom-shroom</color>"
+        },
+        {
+            "seedType": 1333,
+            "name": "Sea-shell",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n\n<color=black>Toughness: 4000</color><color=#8B0000></color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> \n<color=black>•</color> </color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Sea-shroom > Pumpkin</color>"
+        },
+        {
+            "seedType": 1334,
+            "name": "Catalyst-shroom",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n\n<color=black>Toughness: 4000</color><color=#8B0000></color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> \n<color=black>•</color> </color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Cherry Bomb + Hypno-shroom</color>"
         }
     ]
 }
