@@ -144,7 +144,7 @@
             "seedType": 20,
             "name": "Plantern",
             "introduce": "<align=justified><size=36><color=black>Plantern defies science. He just does. Other plants eat light and excrete oxygen; Plantern eats darkness and excretes light. Plantern's cagey about how he does it. \"I'm not gonna say 'sorcery,' I wouldn't use the term 'dark forces,' I just... I think I've said enough.\"</color></size>",
-            "info": "<size=36>Planterns light up an area to let you see through fog, and give Lumos levels to plants.\n\n<color=black>Special: </color><color=#8B0000>Dispels fog (5×7 except the corners). Plantern fusions dispel fog in a smaller 1-tile radius.</color>\n<color=#99582a>Lumos System: </color><color=#8B0000>Provides 1 Lumos Level in a 3×3 Grid, which can be stacked to provide strength to other Lumos plants. Refer to its fusions for the list of affected plants.</color></size>",
+            "info": "<size=36>Planterns light up an area to let you see through fog, and give Lumos levels to plants.\n\n<color=black>Special: </color><color=#8B0000>Dispels fog (5×7 except the corners). Plantern fusions dispel fog in a smaller 1-tile radius.</color>\n<color=#99582a>Lumos System: </color><color=#8B0000>Provides 1 Lumos Level in a 3×3 area, which can be stacked to provide strength to other Lumos plants. Refer to its fusions for the list of affected plants.</color></size>",
             "cost": "<size=36>Cost: <color=#8B0000>25</color>\nRecharge: <color=#8B0000>15s</color></size>"
         },
         {
@@ -172,7 +172,7 @@
             "seedType": 24,
             "name": "Pumpkin",
             "introduce": "<align=justified><size=36><color=black>Pumpkin had just wrapped up his part-time gig. \"Honestly, it was a pretty fun experience,\" he chuckled. \"But can someone explain why they kept stuffing candy and candles inside me?\"</color></size>",
-            "info": "<size=36>Pumpkins protect plants that are within their shells.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>Pumpkin and subsequent fusions prevent splash damage from explosive cherries at difficulty 4 or lower. Use a Pumpkin seed packet on Pumpkin and his fusions with less than 2/3 Toughness to restore HP to full.</color>\n<color=black>Fusion Priority: </color><color=#8B0000>Lowest, hold Left Shift key while fusing to forcibly fuse with Pumpkin. (with Better Pumpkin Fusions mod, included by default)</color></size>",
+            "info": "<size=36>Pumpkins protect plants that are within their shells.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>Pumpkin and subsequent fusions prevent splash damage from explosive cherries at difficulty 4 or lower. Use a Pumpkin seed packet on Pumpkin and his fusions with less than 2/3 Toughness to restore HP to full.</color>\n<color=black>Fusion Priority: </color><color=#8B0000>Lowest, hold Left Shift key while fusing to forcibly fuse with Pumpkin. (requires BetterFusionSuite mod, included by default)</color></size>",
             "cost": "<size=36>Cost: <color=#8B0000>125</color>\nRecharge: <color=#8B0000>30s</color></size>"
         },
         {
@@ -193,7 +193,7 @@
             "seedType": 27,
             "name": "Flower Pot",
             "introduce": "<align=justified><size=36><color=black>Plants always think Flower Pot is just a \"pot,\" but in reality, Flower Pot is a \"flower\" that just looks like a \"pot.\" Look, that little sprout is the bud of a flower.</color>",
-            "info": "<size=36>Allows planting plants above it.\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Enables plants to be planted on bare ground/roof.\n<color=black>•</color> Short plant (evades straight-firing projectiles).\n<color=black>Fusion Priority: </color><color=#8B0000>Lowest, hold Left Alt key while fusing to forcibly fuse with Flower Pot. (with Better Pot Fusions mod, included by default)</color>",
+            "info": "<size=36>Allows planting plants above it.\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Enables plants to be planted on bare ground/roof.\n<color=black>•</color> Short plant (evades straight-firing projectiles).\n<color=black>Fusion Priority: </color><color=#8B0000>Lowest, hold Left Alt key while fusing to forcibly fuse with Flower Pot. (requires BetterFusionSuite mod, included by default)</color>",
             "cost": "<size=36>Cost: <color=#8B0000>25</color>\nRecharge: <color=#8B0000>7.5s</color>"
         },
         {
@@ -279,6 +279,13 @@
             "introduce": "<align=justified><size=36><color=black>\"Where there's a will, there’s a wall.\" That's Bamblock's motto. \"Back when I first sprouted, folks said I was just a pesky pebble underfoot. But I kept growing, and now I've become an official traffic cone.\" If you ask how long ago that was? \"Three days,\" he says.</color>",
             "info": "<size=36>Damages incoming zombies at the cost of his own HP.\n\n<color=black>Toughness: </color><color=#8B0000>1500</color>\n<color=black>Special: </color>\n<color=black>•</color><color=#8B0000> Other plants cannot absorb damage for Bamblocks.</color>\n<color=black>•</color><color=#8B0000> Immune to crush.\n<color=black>•</color><color=#8B0000> On contact with a zombie, instantly defeats the zombie if the zombie's HP is less than or equal to his own, but takes damage equal to that zombie's HP. Against zombies with higher HP, deals damage equal to his own HP to the zombie and destroys himself.</color>",
             "cost": "<size=36>Cost: <color=#8B0000>50</color>\nRecharge: <color=#8B0000>15s</color>"
+        },
+        {
+            "seedType": 228,
+            "name": "Necroflame",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n\n<color=black>Special: </color><color=#8B0000></color>",
+            "cost": "<size=36>Cost: <color=#8B0000></color>\nRecharge: <color=#8B0000></color>"
         },
         {
             "seedType": 229,
@@ -410,7 +417,7 @@
             "seedType": 249,
             "name": "Swordmaster Starfruit",
             "introduce": "<align=justified><size=36><color=black>\"I have fought across 3,000 miles of battlefield, my blade halting millions in their tracks.\" The Swordmaster Starfruit, a lover of fine drinks and poetry, takes great pride in his impeccable cosplaying skills. With a sly smile, he adds, \"My sword never bleeds, for it is merely a decoration.\"</color></size>",
-            "info": "<size=36>A guest from afar, I think you will want to become friends.\n\n<color=#4A2900>Unlock Conditions: Beat The Gods 1</color>\n<color=black>Damage: </color><color=#8B0000>(200×5+30×20)/6s</color>\n<color=black>Special: </color><color=#8B0000>Each attack unleashes 5 swords that pierce infinitely, dealing 200 damage each. Additionally, it inflicts 30 damage to all zombies within the surrounding grid, repeating this 20 times.</color></size>",
+            "info": "<size=36>A guest from afar, I think you will want to become friends.\n\n<color=#4A2900>Unlock Conditions: Beat The Gods 1</color>\n<color=black>Damage: </color><color=#8B0000>(200×5+30×20)/6s</color>\n<color=black>Special: </color><color=#8B0000>Each attack unleashes 5 swords that pierce infinitely, dealing 200 damage each. Additionally, it inflicts 30 damage to all zombies within the surrounding area, repeating this 20 times.</color></size>",
             "cost": "<size=36>Cost: <color=#8B0000>325</color>\nRecharge: <color=#8B0000>30s</color></size>"
         },
         {
@@ -484,6 +491,20 @@
             "cost": "\n"
         },
         {
+            "seedType": 303,
+            "name": "Mimic-rye",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n\n<color=blue>Unsealed form of Selene Cabbage</color>\n<color=#4A2900>Usage Condition: Harvest Mode | Legendary Odyssey Plant: Special form of Princess Solarnova</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> \n<color=black>•</color> \n<color=black>•</color> \n<color=black>•</color> \n<color=black>•</color> </color>",
+            "cost": "\n"
+        },
+        {
+            "seedType": 304,
+            "name": "Enlightened Solarnova",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n\n<color=blue>Unsealed form of Selene Cabbage</color>\n<color=#4A2900>Usage Condition: Harvest Mode | Legendary Odyssey Plant: Special form of Princess Solarnova</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> \n<color=black>•</color> \n<color=black>•</color> \n<color=black>•</color> \n<color=black>•</color> </color>",
+            "cost": "\n"
+        },
+        {
             "seedType": 900,
             "name": "Empress-shroom",
             "introduce": "<align=justified><size=36><color=black>Empress-shroom holds great affection for her zombie subordinates. \"They contributed significantly to my rise as an Empress,\" she expressed. Unfortunately, these powerful zombies instill fear in other plants, something Empress-shroom is completely unaware of.</color></size>",
@@ -495,7 +516,7 @@
             "name": "Gatling Cherrybomber",
             "introduce": "<align=justified><size=36><color=black>\"I'm not sure why the Gatling Pea has so many fans. My brother and I can fire four bullets too,\" Gatling Cherrybomber remarked enviously. However, the truth is that everyone appreciates Gatling Pea for his kindness and outstanding culinary talents.</color></size>",
             "info": "<size=36>Gatling Cherrybomber is the strongest damage-dealer on land.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable</color>\n<color=black>Damage: </color><color=#8B0000>300×4/1.5s</color>\n<color=black>Main Odyssey Modifiers:\n</color><color=#8B0000>1. Explosive cherries from plants ×3 damage\n2. Attack Interval halved</color>\n\n<color=black>Infernal Squashwood Synergy Modifier:</color><color=#8B0000>\n<color=black>•</color> You must have unlocked all Gatling Cherrybomber and Infernal Squashwood's modifiers before this synergy becomes available in the shop.\n<color=black>•</color> Gatling Cherrybomber now fires equal amounts of projectiles across three lanes when attacking, with the upper and lower projectiles following sine and cosine trajectories. Infernal Squashwood unleashes Jalapeno effect across the entire field if there's no available space to spawn a Spicy Squash.</color></size>",
-            "cost": "<size=36>Fusion Formula: <color=#8B0000>Gatling Cherry + Explod-o-shooter</color>"
+            "cost": "<size=36>Fusion Formula: <color=#8B0000>Gatling Cherry + Explode-o-shooter</color>"
         },
         {
             "seedType": 902,
@@ -606,7 +627,7 @@
             "seedType": 917,
             "name": "Enchantress-shroom",
             "introduce": "<align=justified><size=36><color=black>The subjects of the Empress-shroom are captivated by the Enchantress-shroom's mysterious power. \"She's not just my advisor; she's the force that keeps our kingdom thriving. Her magic isn't just powerful—it's explosive\", the Empress-shroom declared. In truth, the Enchantress-shroom simply delights in blowing up any unruly dissenters who dare resist her charm.</color>",
-            "info": "<size=36>Summons exclusively explosive zombies to fight for you!\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable With Empress-shroom's Modifier</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> The same as Empress-shroom, but only summons Cherryshooter Newspaper Zombie/Zombarine/Gatling Cherry Newspaper/Gatling Explod-o-rider zombies.\n<color=black>•</color> Benefits from Empress-shroom modifiers.\n<color=black>•</color> Immediately summons a zombie when an Empress-shroom dies in a 3×3 range.</color>",
+            "info": "<size=36>Summons exclusively explosive zombies to fight for you!\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable With Empress-shroom's Modifier</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> The same as Empress-shroom, but only summons Cherryshooter Newspaper Zombie/Zombarine/Gatling Cherry Newspaper/Gatling Explode-o-rider zombies.\n<color=black>•</color> Benefits from Empress-shroom modifiers.\n<color=black>•</color> Immediately summons a zombie when an Empress-shroom dies in a 3×3 range.</color>",
             "cost": "<size=36>Conversion Formula: <color=#8B0000> Hypno-shroom <-> Cherry Bomb</color>"
         },
         {
@@ -823,7 +844,7 @@
             "seedType": 948,
             "name": "Infernal Sparkwood",
             "introduce": "<align=justified><size=36><color=black>Infernal Sparkwood may burn brighter than any flame, but it was futuristic cuisine that truly lit up the competition. At the Culinary Clash's grand finale, he shared his trophy with Astro-nut, whose time-travel snacks left the judges starstruck. Even the judge McCornics called it \"out of this world.\"</color>",
-            "info": "<size=36>A Torchwood blazing with Starfruit flames, boasting extreme ignition power and granting star projectiles homing capabilities.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable with Infernal Squashwood</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Subspecies of Infernal Squashwood.\n<color=black>•</color> No longer spawns Spicy Squashes. Every 51 projectiles affected spawns a Spicy Starfruit in front.\n<color=black>•</color> Ignites star projectiles (except spicy stars) for ×2 damage, but with original traits removed (except Magnetar stars), granting global homing with anti-air priority.\n<color=black>•</color> Explosive cherries become Explod-o-Stars: ×2 damage, global homing with anti-air priority.\n<color=black>•</color> Affects other projectiles like Infernal Squashwood. Triggers Jalapeno effect on death.</color>",
+            "info": "<size=36>A Torchwood blazing with Starfruit flames, boasting extreme ignition power and granting star projectiles homing capabilities.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable with Infernal Squashwood</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Subspecies of Infernal Squashwood.\n<color=black>•</color> No longer spawns Spicy Squashes. Every 51 projectiles affected spawns a Spicy Starfruit in front.\n<color=black>•</color> Ignites star projectiles (except spicy stars) for ×2 damage, but with original traits removed (except Magnetar stars), granting global homing with anti-air priority.\n<color=black>•</color> Explosive cherries become Explode-o-Stars: ×2 damage, global homing with anti-air priority.\n<color=black>•</color> Affects other projectiles like Infernal Squashwood. Triggers Jalapeno effect on death.</color>",
             "cost": "\n<size=36>Conversion Formula: <color=#8B0000>Squash <-> Starfruit</color>"
         },
         {
@@ -880,7 +901,7 @@
             "name": "Grim Arbiter",
             "introduce": "<align=justified><size=36><color=black>Grim Arbiter stands as judge at the end of all things. In his jaws every offering is measured: the unworthy are stripped away, the pure are given new form, and the balance is upheld without mercy; from his maw comes a verdict no soul can escape.</color>",
             "info": "<size=36>Click to channel destruction into rebirth for the plants ahead, while turning curses back upon their casters.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Initial Selection</color>\n<color=black>Damage: </color><color=#8B0000>1800</color>\n<color=black>Digestion Time: </color><color=#8B0000>30s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Does not target zombies.\n<color=black>•</color> If there is a plant in the tile in front, it is destroyed with a 50% chance to drop its seed packet. If the plant is cursed, the drop is guaranteed and the curse caster loses 15% max HP.</color>\n<color=black>Odyssey Modifiers:</color>\n<color=#8B0000>1. Seed packet drop is now guaranteed\n2. When destroying Odyssey plants with unbuffed on-death effects, the effect is amplified 4 times</color>",
-            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Doom Chomper + MAD Pepper</color>"
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Doom Chomper + M.A.D. Pepper</color>"
         },
         {
             "seedType": 957,
@@ -895,6 +916,27 @@
             "introduce": "<align=justified><size=36><color=black></color>",
             "info": "<size=36>\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable</color>\n<color=black>Damage: </color><color=#8B0000></color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> \n<color=black>•</color> </color>\n<color=black>Odyssey Modifiers:</color>\n<color=#8B0000>1. \n2. </color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Pepper Popper > Flame Cattail</color>"
+        },
+        {
+            "seedType": 959,
+            "name": "Big Bang Cherry",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable</color>\n<color=black>Damage: </color><color=#8B0000></color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> \n<color=black>•</color> </color>\n<color=black>Odyssey Modifiers:</color>\n<color=#8B0000>1. \n2. </color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Cherry Bomb + Black Cherry</color>"
+        },
+        {
+            "seedType": 960,
+            "name": "Scylla Leviathan",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable</color>\n<color=black>Damage: </color><color=#8B0000></color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> \n<color=black>•</color> </color>\n<color=black>Odyssey Modifiers:</color>\n<color=#8B0000>1. \n2. </color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Minnow-shroom + Kraken-shroom</color>"
+        },
+        {
+            "seedType": 961,
+            "name": "Buck-strike Squadron",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable</color>\n<color=black>Damage: </color><color=#8B0000></color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> \n<color=black>•</color> </color>\n<color=black>Odyssey Modifiers:</color>\n<color=#8B0000>1. \n2. </color>",
+            "cost": "\n<size=36>Conversion Formula: <color=#8B0000>Magnet-shroom <-> Blover</color>"
         },
         {
             "seedType": 1000,
@@ -933,8 +975,8 @@
         },
         {
             "seedType": 1005,
-            "name": "Explod-o-shooter",
-            "introduce": "<align=justified><size=36><color=black>Meet Explod-o-shooter, the ultimate plant killer. He's more irritable than ever—who would've thought the warm and friendly Cherryshooter would swallow another special cherry? Don't push your luck with him. That cherry stuck in his throat might just be his next shot—his face is already turning red!</color></size>",
+            "name": "Explode-o-shooter",
+            "introduce": "<align=justified><size=36><color=black>Meet Explode-o-shooter, the ultimate plant killer. He's more irritable than ever—who would've thought the warm and friendly Cherryshooter would swallow another special cherry? Don't push your luck with him. That cherry stuck in his throat might just be his next shot—his face is already turning red!</color></size>",
             "info": "<size=36>Shoots out explosive cherries that explode on impact.\n\n<color=black>Damage: </color><color=#8B0000>300/3s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Its bullets will deal area explosion damage.\n<color=black>•</color> Has immunity to cherry explosions.\n<color=black>•</color> Reduces the Recharge of the last Cherry Bomb seed packet used for its fusion by 85%.</color></size>",
             "cost": "<size=36>Fusion Formula: <color=#8B0000>Peashooter + Cherry Bomb + Cherry Bomb</color>"
         },
@@ -1187,7 +1229,7 @@
             "seedType": 1041,
             "name": "Cryonic-shroom",
             "introduce": "<align=justified><size=36><color=black>A frosty beauty? An untouchable flower? Cryonic-shroom couldn't care less. She quietly took care of the frosty ornament on her head, always ready to hand her Frost Tall-nut headgear to the zombies at any time. \"They'll appreciate the chill vibe,\" she remarks coolly.</color></size>",
-            "info": "<size=36>When a zombie eats a Cryonic-shroom, it will transform into a Frost Tall-nut Zombie that will fight for you.\n\n<color=black>Special: </color><color=#8B0000>Upon contact turns a zombie into a Frost Tall-nut Zombie that will fight for you. Also freezes the full field.</color></size>",
+            "info": "<size=36>When a zombie eats a Cryonic-shroom, it will transform into a Frost Tall-nut Zombie that will fight for you.\n\n<color=black>Special: </color><color=#8B0000>Upon being bitten turns the zombie into a Hypnotized Frost Tall-nut Zombie and freezes the full field.</color></size>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Hypno-shroom + Ice-shroom</color>"
         },
         {
@@ -1474,7 +1516,7 @@
             "seedType": 1082,
             "name": "Cactus Drone",
             "introduce": "<align=justified><size=36><color=black>Cactus Drones always move in groups, chirping arrogantly and looking down on others. The other plants are curious what such tiny creatures could possibly do, but the Cactus Drones remain unfazed: \"If butterflies can stir up a storm, then of course we're far more powerful.\"</color></size>",
-            "info": "<size=36>Spits out thorns to attack zombies in the sky. Does not occupy any grid.\n\n<color=black>Damage: </color><color=#8B0000>30×2/1.5 seconds (Stationary), 30×2/1 Second (Wingman)</color>\n<color=black>Special: </color><color=#8B0000>Hovering plant. Can be planted on top of another plant.</color></size>",
+            "info": "<size=36>Spits out thorns to attack zombies in the sky. Does not occupy any tile.\n\n<color=black>Damage: </color><color=#8B0000>30×2/1.5 seconds (Stationary), 30×2/1 Second (Wingman)</color>\n<color=black>Special: </color><color=#8B0000>Hovering plant. Can be planted on top of another plant.</color></size>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Cactus + Blover</color>"
         },
         {
@@ -1509,7 +1551,7 @@
             "seedType": 1087,
             "name": "Jack O' Lantern",
             "introduce": "<align=justified><size=36><color=black>Jack O' Lantern insists that he frequently encounters ghosts, but do they truly exist? Who can say for certain? Perhaps he was simply dragged into another round of Halloween festivities by someone eager for a good scare.</color></size>",
-            "info": "<size=36>In a small area, dispels fog like a Plantern and increase the Lumos Level for the Lumos plants inside.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=#99582a>Lumos System: </color><color=#8B0000>Provides 1 Lumos Level in a 3×3 Grid. Restores 150 Toughness per Lumos Level every 15s.</color></size>",
+            "info": "<size=36>In a small area, dispels fog like a Plantern and increase the Lumos Level for the Lumos plants inside.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=#99582a>Lumos System: </color><color=#8B0000>Provides 1 Lumos Level in a 3×3 area. Restores 150 Toughness per Lumos Level every 15s.</color></size>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Plantern > Pumpkin</color>"
         },
         {
@@ -1670,7 +1712,7 @@
             "seedType": 1110,
             "name": "Pump-karrier",
             "introduce": "<align=justified><size=36><color=black>Pump-karrier always kept three books on its shelf, their titles concealed from the curious eyes of the other plants. One day, a Cactus Drone's curiosity led it into the study, where it uncovered the titles: \"Guide to Succulent Plant Cultivation,\" \"Postpartum Care for Pumpkins,\" and \"30-Second Cactus Quick Flight Tutorial.\" The Cactus Drone chuckled at the unexpected collection.</color></size>",
-            "info": "<size=36>Spawns a Cactus Drone that moves around the field to attack flying zombies.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>Inherits Thorny Pumpkin traits. Always has a Cactus Drone wingman with him when he appears. Generates a Cactus Drone on top of a 3×3 grid regularly.</color></size>",
+            "info": "<size=36>Spawns a Cactus Drone that moves around the field to attack flying zombies.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>Inherits Thorny Pumpkin traits. Always has a Cactus Drone wingman with him when he appears. Generates a Cactus Drone on top of a 3×3 area regularly.</color></size>",
             "cost": "<size=36>Fusion Formula: <color=#8B0000>Cactus > Blover > Pumpkin OR Blover > Cactus > Pumpkin</color>"
         },
         {
@@ -1745,8 +1787,8 @@
         },
         {
             "seedType": 1121,
-            "name": "Corn-pult",
-            "introduce": "<align=justified><size=36><color=black>Corn-pult is often seen frowning. When asked why, he says nothing. \"People keep asking me if Buttered Corn is sticky or sweet,\" Corn-pult sighs. \"Why ask me? I don't eat it. Only the zombies would know.\"</color>",
+            "name": "Cob-pult",
+            "introduce": "<align=justified><size=36><color=black>Cob-pult is often seen frowning. When asked why, he says nothing. \"People keep asking me if Buttered Corn is sticky or sweet,\" Cob-pult sighs. \"Why ask me? I don't eat it. Only the zombies would know.\"</color>",
             "info": "<size=36>Throws large corns at the zombies; sometimes they're buttered.\n\n<color=black>Damage: </color><color=#8B0000>120/3s</color>\n<color=black>Special: </color><color=#8B0000>Has a 1/4 chance to throw a Buttered Corn with 140 damage, immobilizing the main target for 4 seconds and zombies in the splash range for (4 / total splash spread) seconds (minimum of 0.5).</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Melon-pult + Kernel-pult</color>"
         },
@@ -1824,7 +1866,7 @@
             "seedType": 1132,
             "name": "Melon Mortar",
             "introduce": "<align=justified><size=36><color=black>Melon Mortar is a fervent advocate of the \"overwhelming firepower\" doctrine: \"If one shot doesn't do it, try two, three, or even four!\" This approach has made it a powerhouse on the battlefield—and a hit at summer parties.</color>",
-            "info": "<size=36>Use manually to launch a barrage of melons from above.\n\n<color=black>Damage: </color><color=#8B0000>200/Melon. Up to 40 melons in a 3×3 area without splash falloff. Randomly hits within a 5×3 grid.</color>\n<color=black>Arming Time: </color><color=#8B0000>36s</color>",
+            "info": "<size=36>Use manually to launch a barrage of melons from above.\n\n<color=black>Damage: </color><color=#8B0000>200/Melon. Up to 40 melons in a 3×3 area without splash falloff. Randomly hits within a 5×3 area.</color>\n<color=black>Arming Time: </color><color=#8B0000>36s</color>",
             "cost": "<size=36>Fusion Formula:  <color=#8B0000>Melon-pult ∞ [Kernel-pult] ∞ Melon-pult < Jicamagic (Place On Middle)</color>"
         },
         {
@@ -2032,15 +2074,15 @@
         },
         {
             "seedType": 1162,
-            "name": "Explod-o-tato Mine",
-            "introduce": "<align=justified><size=36><color=black>Explod-o-tato Mine is a top chef, and his \"hash cherries\" and \"potato jam\" are highly praised in the plant world. If he runs out of ingredients, he will cheerfully say: \"I'll go buy some.\"</color>",
+            "name": "Explode-o-tato Mine",
+            "introduce": "<align=justified><size=36><color=black>Explode-o-tato Mine is a top chef, and his \"hash cherries\" and \"potato jam\" are highly praised in the plant world. If he runs out of ingredients, he will cheerfully say: \"I'll go buy some.\"</color>",
             "info": "<size=36>Splits into 8 Potato Mines in surrounding tiles.\n\n<color=black>Damage: </color><color=#8B0000>1800</color>\n<color=black>Special: </color><color=#8B0000>Spawns Potato Mines that only need 5s to arm themselves in a 3×3 range upon defeat.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Potato Mine + Cherry Bomb</color>"
         },
         {
             "seedType": 1163,
             "name": "Chili Mine",
-            "introduce": "<align=justified><size=36><color=black>Chili Mine is a capable assistant to Explod-o-tato Mine, but most of her dishes are given low ratings by customers. \"What's going on—\" Chili Mine feels really guilty but doesn't know why. The truth is, she is not sensitive to spicy flavors and always adds too much chili.</color>",
+            "introduce": "<align=justified><size=36><color=black>Chili Mine is a capable assistant to Explode-o-tato Mine, but most of her dishes are given low ratings by customers. \"What's going on—\" Chili Mine feels really guilty but doesn't know why. The truth is, she is not sensitive to spicy flavors and always adds too much chili.</color>",
             "info": "<size=36>Splits into 7 Potato Mines in her lane. \n\n<color=black>Damage: </color><color=#8B0000>1800</color>\n<color=black>Special: </color><color=#8B0000>Spawns up to 7 Potato Mines that only need 5s to arm themselves in her lane upon defeat.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Potato Mine + Jalapeno</color>"
         },
@@ -2307,7 +2349,7 @@
             "seedType": 1201,
             "name": "Starry-shroom",
             "introduce": "<align=justified><size=36><color=black>\"Guys in the distance, no matter who you are, except for the circus people, don't come over!\" The Starry-shroom, trembled, \"I, I am very powerful!\" He kept attacking, thinking that this would scare off those with ill intentions, but he didn't notice that his bullets weren't even hitting straight ahead.</color>",
-            "info": "<size=36>Starry-shroom shoots stars faster and in 5 directions, but also gets frightened more often.\n\n<color=black>Damage: </color><color=#8B0000>20×5/0.75s</color>\n<color=black>Special: </color><color=#8B0000>Attacks in the same way as Starfruit, but becomes afraid if there is a zombie in its range.</color>",
+            "info": "<size=36>Starry-shroom shoots stars faster and in 5 directions, but also gets frightened more often.\n\n<color=black>Damage: </color><color=#8B0000>20×5/0.75s</color>\n<color=black>Special: </color><color=#8B0000>Keeps shooting stars in 5 directions like Starfruit, but becomes afraid and stops if there is a zombie in its range.</color>",
             "cost": "<size=36>\nFusion Formula: <color=#8B0000>Starfruit + Scaredy-shroom</color>"
         },
         {
@@ -3063,7 +3105,7 @@
             "seedType": 1309,
             "name": "Illumi-nut",
             "introduce": "<align=justified><size=36><color=black>\"Streetlights sometimes malfunction, and that’s normal. This is when my role as a backup streetlight becomes important, though everyone seems worried about me,\" said Illumi-nut. He didn't know that others worry not about his brightness, but that he might break the streetlight frame.</color>",
-            "info": "<size=36>Wall-nut with Plantern properties; heals himself with Lumos level.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=#99582a>Lumos System: </color><color=#8B0000>Provides 1 Lumos Level in a 3×3 Grid. Restores 150 Toughness per Lumos Level every 15s.</color></size>",
+            "info": "<size=36>Wall-nut with Plantern properties; heals himself with Lumos level.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=#99582a>Lumos System: </color><color=#8B0000>Provides 1 Lumos Level in a 3×3 area. Restores 150 Toughness per Lumos Level every 15s.</color></size>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Wall-nut + Plantern</color>"
         },
         {
@@ -3117,8 +3159,8 @@
         },
         {
             "seedType": 1317,
-            "name": "MAD Pepper",
-            "introduce": "<align=justified><size=36><color=black>\"I'm about to explode! Everyone in front of me better watch out, plant or zombie alike! This is mutual destruction, assured!\" said MAD Pepper. His slightly trembling body indicates a massive energy build-up, or maybe it's just from standing on tiptoes with an unstable stance.</color>",
+            "name": "M.A.D. Pepper",
+            "introduce": "<align=justified><size=36><color=black>\"I'm about to explode! Everyone in front of me better watch out, plant or zombie alike! This is mutual destruction, assured!\" said M.A.D. Pepper. His slightly trembling body indicates a massive energy build-up, or maybe it's just from standing on tiptoes with an unstable stance.</color>",
             "info": "<size=36>Burns plants too to trigger chain explosions.\n\n<color=black>Damage: </color><color=#8B0000>1800 (Cremator)</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Does not explode automatically; click manually to trigger a Jalapeno blast and a Doom-shroom explosion.\n<color=black>•</color> In every other tile in the same lane that has a plant, releases a Doom-shroom explosion without leaving craters and destroys all plants in that tile; the destroyed plants have a 25% chance to drop as a Seed packet.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Jalapeno + Doom-shroom</color>"
         },
@@ -3221,6 +3263,41 @@
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Cherry Bomb + Pea-storm Commando</color>"
         },
         {
+            "seedType": 1332,
+            "name": "Black Cherry",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n\n<color=black>Damage: 1800 (Cremator)</color><color=#8B0000></color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Triggers a Cherry Bomb explosion on fusion, and explodes like a Doom-shroom after 1.5s.\n<color=black>•</color> The Doom-shroom blast deals 1800 base Cremator damage, increasing by 300 for each zombie caught in the initial Cherry Bomb explosion..</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Cherry Bomb + Doom-shroom</color>"
+        },
+        {
+            "seedType": 1333,
+            "name": "Catalyst-shroom",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n\n<color=black>Special: </color><color=#8B0000>Upon being bitten turns the zombie into a Hypnotized Explode-o-shooter Zombie.</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Cherry Bomb + Hypno-shroom</color>"
+        },
+        {
+            "seedType": 1334,
+            "name": "Sea-shell",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n\n<color=black>Toughness: 4000</color><color=#8B0000></color>\n<color=black>Special: </color><color=#8B0000>Land-only plant. Can be fed Sea-shroom seed packets to heal by 1/3 max HP.</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Sea-shroom > Pumpkin</color>"
+        },
+        {
+            "seedType": 1335,
+            "name": "Hypno Chomper",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n\n<color=black>Damage: Insta-kill (Devour)</color><color=#8B0000></color>\n<color=black>Digestion Time: </color><color=#8B0000>12s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Only targets Hypnotized Zombies and drops a Hypno-shroom seed packet as soon as the Zombie is devoured.\n<color=black>•</color> When bitten, hypnotizes the attacker, then reverts to a Chomper.</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Chomper + Hypno-shroom</color>"
+        },
+        {
+            "seedType": 1335,
+            "name": "Hypno Pepper",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Hypnotizes all zombies with less than 900 HP in its lane.\n<color=black>•</color> Deals 1800 Cremator damage to all other zombies in its lane.</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Hypno-shroom + Jalapeno</color>"
+        },
+        {
             "seedType": 350,
             "name": "Solar-shooter (TD)",
             "introduce": "<align=justified><size=36><color=black>\"Actually, the Sunflower behind me is my sister,\" Solar-shooter explained to everyone. \"We've been inseparable since birth. She loves producing Sun, and I destroy zombies on her behalf.\" But everyone knows the truth: the cheerful Pea brother is a total siscon. After all, every zombie that gets near his sister mysteriously ends up vaporized by sunlight.</color>",
@@ -3236,8 +3313,8 @@
         },
         {
             "seedType": 352,
-            "name": "Explod-o-shooter (TD)",
-            "introduce": "<align=justified><size=36><color=black>Meet Explod-o-shooter, the ultimate plant killer. He's more irritable than ever—who would've thought the warm and friendly Cherryshooter would swallow another special cherry? Don't push your luck with him. That cherry stuck in his throat might just be his next shot—his face is already turning red!</color>",
+            "name": "Explode-o-shooter (TD)",
+            "introduce": "<align=justified><size=36><color=black>Meet Explode-o-shooter, the ultimate plant killer. He's more irritable than ever—who would've thought the warm and friendly Cherryshooter would swallow another special cherry? Don't push your luck with him. That cherry stuck in his throat might just be his next shot—his face is already turning red!</color>",
             "info": "<size=36>Shoots out explosive cherries that explode on impact.\n\n<color=blue>Reversible by pressing R</color>\n<color=black>Damage: </color><color=#8B0000>20/3s</color>\n<color=black>Special: </color><color=#8B0000>Immune to explosive cherries and deals AoE damage.</color>\n<color=black>Upgrades: </color><color=#8B0000>\n<color=black>• Basic Upgrade: </color>(160 Sun) Attack Damage +50%\n<color=black>• Elite Upgrade Path 1: </color>(400 Sun) Attack Damage +100%, Explosion Radius +50%\n<color=black>• Elite Upgrade Path 2: </color>(400 Sun) Attack Speed +200%</color>",
             "cost": "<size=36>Cost: <color=#8B0000>400</color>\nRecharge: <color=#8B0000>50s</color></size>"
         },

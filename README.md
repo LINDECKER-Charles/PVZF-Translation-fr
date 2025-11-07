@@ -20,22 +20,20 @@ The download links for the Multi-language Mod and the translation files of the M
  PvZ Fusion Version  |  Platform  |  Download Links 
 ------ | ------ | ------
 **\_Redist (Install these if you have problem launching the game)** | PC | [MEGA](https://mega.nz/file/gzU2QTIY#R71lWGYvXCxG4WBtzLyCRkkHV-WGqKB84rXXR4ikOSg)
-**Multi-Language 3.0.1 Version 1** | PC | [Github Release](https://github.com/Teyliu/PVZF-Translation/releases/tag/3.0.1_v1)
+**Multi-Language 3.0.1 Version 2** | PC | [Github Release](https://github.com/Teyliu/PVZF-Translation/releases/tag/3.0.1_v2)
 **English 3.0.1 Version 2** | Android | [Github Release](https://github.com/Teyliu/PVZF-Translation/releases/tag/3.0.1_android_v2)
-**Multi-Language 2.8.2 Version 2** | PC | [Github Release](https://github.com/Teyliu/PVZF-Translation/releases/tag/2.8.2_v2)
-**English 2.7 by Nvdtn19** | Android |  [Google Drive](https://drive.google.com/drive/folders/13-zefuw1geoi_Ky7919GQ3Can65guXrJ) [Archive](https://archive.org/download/pvz-fusion-fanmade-android-english-version-by-nvdtn19/PvZ%20Fusion%20Fanmade%20Android%20English%20version%20by%20Nvdtn19/)
 **Chinese 3.0.1** | PC | [MEGA](https://mega.nz/file/Ej0nETYL#RR8fHiJ4IIKhEM0_SxC6K_xqVU5HME1yRNzqr9ICidQ) [Google Drive](https://drive.google.com/file/d/1EGwwTEh2XWs8p2exGfX3i8CSt_xJuHPJ/view?usp=sharing)
 **Chinese 3.0.1** | Android | [MEGA](https://mega.nz/file/BvNx3QZT#lyoe_KgjVAzChUhYKzhD0wAJn39K16BAjRcOHvYm2FQ) [Google Drive](https://drive.google.com/file/d/16wk8HRLOCFpw6fF5fotcUzy-fZVrV-sE/view?usp=sharing)
-Chinese 2.8.2 | PC | [MEGA](https://mega.nz/file/yFoFkJpb#I_bM6OW3Mvflea7vx-qP5fFFGRYbXebpupkRUacQGlM) [Google Drive](https://drive.google.com/file/d/1G5xq0mIGaYj3W8Mqku2d3j--Au-qdkp8/view?usp=sharing)
 
+> Other versions (starting from 2.8.1) can be found on the [Releases page.](https://github.com/Teyliu/PVZF-Translation/releases)
 
 > Looking to play the Multi-Language on Linux? [Click Here](https://discord.com/channels/1320410104587227147/1320555521744437258)
 
-> The Multi-Language version supports the following languages: **English**, **French**, **Italian**, **German**, **Spanish**, **Portuguese**, **Vietnamese**, **Javanese**, **Indonesian**, **Russian**, **Japanese**, and **Korean**. Other contained languages are empty for the moment.
-	Up-to-date - English, Spanish, Vietnamese, Japanese
+> The Multi-Language version supports the following languages: **English**, **French**, **Italian**, **German**, **Spanish**, **Portuguese**, **Vietnamese**, **Javanese**, **Indonesian**, **Russian**, **Japanese**, **Ukrainian** and **Korean**. Other contained languages are empty for the moment.
+	Up-to-date - English, Spanish, Vietnamese, Japanese, Korean, Ukrainian
 	Last Updated 2.6.1 - Indonesian, Russian 
 	Last Updated 2.5.1 - Portuguese, Javanese
-	Last Updated 2.3.1 - Korean, French
+	Last Updated 2.3.1 - French
 	Last Updated 2.1.6 / Partially Updated - German, Italian
 	Want to add your language here? Go to our Discord for more info!
 
@@ -113,7 +111,8 @@ Vietnamese | Shion, Cryda, JustNull |
 Indonesian | 由羅 (Yura), Xelag, Seroja, Star Apple | 
 Russian | Nekosha, LancerX0 (Coder), Kammerer | 
 Japanese | AnnieTGM | devilzwawa, Ryna (Marina), Mamoru-kun
-Korea | No active translator | 설이 , ATMnou, 취미로 놀고 먹는 사람
+Korea | fumufumolover, 취미로 놀고 먹는 사람 | 설이 , ATMnou
+Ukrainian | Easter Wolf |
 
 ## Notice to Translators
 The translator mod, PvZ_Fusion_Translator.dll, is currently closed source, but you can grab the latest build dll on the root directory of this repo's main branch. It is constantly updated.

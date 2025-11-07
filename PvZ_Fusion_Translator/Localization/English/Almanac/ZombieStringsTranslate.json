@@ -68,21 +68,21 @@
         },
         {
             "theZombieType": 11,
-            "name": "Ducky Tube Zombie NOT IN GAME",
-            "introduce": "<align=justified><size=36><color=black>只有特定的僵尸才能成为鸭子救生圈僵尸，不是每只僵尸都能胜任。有些救生圈有点漏气，他们却处理不了，脱身后永远放弃了对脑子的渴求。</color>",
-            "info": "<size=36>可以在水里移动。\n\n<color=black>Toughness: </color><color=#4B0082>270</color>"
+            "name": "Ducky Tube Zombie",
+            "introduce": "<align=justified><size=36><color=black>It takes a certain kind of zombie to be a Ducky Tuber. Not every zombie can handle it. Some crack. They can't take it. They walk away and give up on brains forever.</color>",
+            "info": "<size=36>Can swim in water lanes.\n\n<color=black>Toughness: </color><color=#4B0082>270</color>"
         },
         {
             "theZombieType": 12,
-            "name": "Conehead Ducky Tube Zombie NOT IN GAME",
-            "introduce": "<align=justified><size=36><color=black>都说差生文具多，但是路障鸭子并不这么认为，毕竟他不想承认他是个差生。</color>",
-            "info": "<size=36>可以在水里移动。\n\n<color=black>Toughness: </color><color=#4B0082>270 + 370 (Type 1)</color>"
+            "name": "Ducky Tube Conehead Zombie",
+            "introduce": "<align=justified><size=36><color=black>They say bad students always have fancy stationery, but Ducky Tube Conehead doesn't agree. After all, he refuses to admit he's one of them.</color>",
+            "info": "<size=36>Can swim in water lanes.\n\n<color=black>Toughness: </color><color=#4B0082>270 + 370 (Type 1)</color>"
         },
         {
             "theZombieType": 13,
-            "name": "Buckethead Ducky Tube Zombie NOT IN GAME",
-            "introduce": "<align=justified><size=36><color=black>铁桶鸭子本不想带上那个漏气的游泳圈的，但是没办法，谁叫他戴着那个容易生锈的铁桶呢。</color>",
-            "info": "<size=36>可以在水里移动。\n\n<color=black>Toughness: </color><color=#4B0082>270 + 1100 (Type 1)</color>"
+            "name": "Ducky Tube Buckethead Zombie",
+            "introduce": "<align=justified><size=36><color=black>Ducky Tube Buckethead never wanted to wear that leaky float ring… but what can he do? That rusty bucket on his head isn't exactly waterproof.</color>",
+            "info": "<size=36>Can swim in water lanes.\n\n<color=black>Toughness: </color><color=#4B0082>270 + 1100 (Type 1)</color>"
         },
         {
             "theZombieType": 14,
@@ -268,7 +268,7 @@
             "theZombieType": 46,
             "name": "Dr. Zomboss Auric Prime",
             "introduce": "<align=justified><size=36><color=black>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In non consectetur odio, ac consectetur dui.</color>",
-            "info": "<size=36>Plants vs. Zombies: Fusion Edition\n\n<color=black>Toughness: </color><color=#4B0082>60000</color>\n<color=black>Traits: </color><color=#4B0082>Inherits all traits from Dr. Zomboss. Additionally, disables player's gloves and mallet on appearance. Mallet is unlocked at 2/3 health. Gloves are unlocked at 1/3 health. Thrown campers also clears the conveyor belt.</color>\n<size=36>Fusion Formula: <color=#4B0082>Dr. Zombie + Trophy</color>"
+            "info": "<size=36>The evil final boss of... wait, you are not supposed to see this part!\n\n<color=black>Toughness: </color><color=#4B0082>60000</color>\n<color=black>Traits: </color><color=#4B0082>Inherits all traits from Dr. Zomboss. Additionally, disables player's gloves and mallet on appearance. Mallet is unlocked at 2/3 health. Gloves are unlocked at 1/3 health. Thrown campers also clears the conveyor belt.</color>\n<size=36>Fusion Formula: <color=#4B0082>Dr. Zomboss + Trophy</color>"
         },
         {
             "theZombieType": 47,
@@ -308,8 +308,8 @@
         },
         {
             "theZombieType": 53,
-            "name": "Frost Legion Floating Disk",
-            "introduce": "<align=justified><size=36><color=black>Before every liftoff, the crew of the Floating Disk spends half an hour clearing snow and ice — and dragging out the Snowfurs hiding in the corners. \"Getting this frozen lump off the ground eats up a ridiculous amount of fuel,\" the pilot grumbles.</color>",
+            "name": "Frost Legion Freezer Disc",
+            "introduce": "<align=justified><size=36><color=black>Before every liftoff, the crew of the Freezer Disc spends half an hour clearing snow and ice — and dragging out the Snowfurs hiding in the corners. \"Getting this frozen lump off the ground eats up a ridiculous amount of fuel,\" the pilot grumbles.</color>",
             "info": "<size=36>It’s snowing! This chilly guest drifts in with flurries, silences plants, and leaves with backup.\n\n<color=black>Toughness: </color><color=#4B0082>720</color>\n<color=black>Traits: </color><color=#4B0082>Immune to Blover. Creates snowflakes while moving, silencing plants below. Slows down over time — when speed reaches zero, reverses direction. Upon exit, summons a Frost Legion Squad: one each of Shieldbearer, Snowball Launcher, and Trident Thrower Zombies.</color>"
         },
         {
@@ -404,9 +404,9 @@
         },
         {
             "theZombieType": 72,
-            "name": "Cursed Ladder Zombie",
-            "introduce": "<align=justified><size=36><color=black>\"The strong never complain about their environment, and I never rely on ladders!\" says Cursed Ladder Zombie while gripping the ladder. \"This bad boy in my hand is a defensive tool, and the one I set down is still my weapon against damage!\" He sets down the ladder and listens to nuts cracking.</color>",
-            "info": "<size=36>Wields a wooden ladder imbued with a curse.\n\n<color=black>Toughness: </color><color=#4B0082>720 + 1350 (Type 2)</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> After placing a ladder, any final damage dealt to the placer is fully transferred to the Plant in the Cursed Ladder's tile, causing equal HP loss. If transferred damage exceeds 8k or the placer dies, the ladder is destroyed.\n<color=black>•</color> The Cursed Ladder cannot be attracted by Magnet-shrooms.</color>"
+            "name": "Lifelink Ladder Zombie",
+            "introduce": "<align=justified><size=36><color=black>\"The strong never complain about their environment, and I never rely on ladders!\" says Lifelink Ladder Zombie while gripping the ladder. \"This bad boy in my hand is a defensive tool, and the one I set down is still my weapon against damage!\" He sets down the ladder and listens to nuts cracking.</color>",
+            "info": "<size=36>Wields a wooden ladder imbued with a lifelink curse.\n\n<color=black>Toughness: </color><color=#4B0082>720 + 1350 (Type 2)</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> After placing a ladder, any final damage dealt to the placer is fully transferred to the Plant in the Lifelink Ladder's tile, causing equal HP loss. If transferred damage exceeds 8k or the placer dies via insta-kills, the ladder is destroyed.\n<color=black>•</color> The Lifelink Ladder cannot be attracted by Magnet-shrooms.</color>"
         },
         {
             "theZombieType": 100,
@@ -422,8 +422,8 @@
         },
         {
             "theZombieType": 102,
-            "name": "Explod-o-shooter Zombie",
-            "introduce": "<align=justified><size=36><color=black>Explod-o-shooter Zombie loves listening to \"Cherry Bomb\" by The Runaways, which might explain his fiery passion. However, no one knows how he learned to ignite fireworks with his mouth.</color>",
+            "name": "Explode-o-shooter Zombie",
+            "introduce": "<align=justified><size=36><color=black>Explode-o-shooter Zombie loves listening to \"Cherry Bomb\" by The Runaways, which might explain his fiery passion. However, no one knows how he learned to ignite fireworks with his mouth.</color>",
             "info": "<size=36>Shoots explosive cherries to attack your plants.\n\n<color=black>Damage: </color><color=#4B0082>1000/10s</color>\n<color=black>Toughness: </color><color=#4B0082>500</color>"
         },
         {
@@ -482,7 +482,7 @@
         },
         {
             "theZombieType": 112,
-            "name": "Explod-o-pult Zombie",
+            "name": "Explode-o-pult Zombie",
             "introduce": "<align=justified><size=36><color=black>Warning: If you see him running low on basketballs, it's already too late! His explosive shots aren’t just for scoring points—they’re for total chaos! Better start running!</color>",
             "info": "<size=36>Throws explosive basketballs to destroy your defenses!\n\n<color=black>Damage: </color><color=#4B0082>60/3s (basketballs), 1000/3s (explosive cherry basketballs)</color>\n<color=black>Toughness: </color><color=#4B0082>1350</color>\n<color=black>Traits: </color><color=#4B0082>Throws 5 basketballs, then launches explosive cherry basketballs (has 20 in total). Explosions deal 100 damage to Umbrella plants.</color>"
         },
@@ -633,7 +633,7 @@
         {
             "theZombieType": 211,
             "name": "Grounded Sharkmarine",
-            "introduce": "<align=justified><size=36><color=black>Why is it here? Did it emerge from the groud? Or did it fall from the sky? No one really knows. What is certain is that those displaced dirt looking thingies are definitely camouflage.</color></size>",
+            "introduce": "<align=justified><size=36><color=black>Why is it here? Did it emerge from the ground? Or did it fall from the sky? No one really knows. What is certain is that those displaced dirt looking thingies are definitely camouflage.</color></size>",
             "info": "<size=36>A failed example of a Sharkmarine test.\n\n<color=black>Damage: </color><color=#4B0082>20/0.02s</color>\n<color=black>Toughness: </color><color=#4B0082>Giga Mecha-nut HP/3</color>\n<color=black>Traits: </color><color=#4B0082>Sharkmarine, but on land and immobile. Using a Wall-nut seedpacket on a Giga Mecha-nut summons a hypnotized Sharkmarine. The Grounded Sharkmarine dies instantly if the Giga Mecha-nut summons again or is destroyed.</color></size>"
         },
         {
@@ -650,8 +650,8 @@
         },
         {
             "theZombieType": 214,
-            "name": "Gatling Explod-o-rider Zombie",
-            "introduce": "<align=justified><size=36><color=black>Gatling Explod-o-rider Zombie always wakes up in a terrible mood — especially when a whale riding colleague drags him to work. Fueled by rage, he's ready to blow away any plants in his path before heading back for a nap.</color>",
+            "name": "Gatling Explode-o-rider Zombie",
+            "introduce": "<align=justified><size=36><color=black>Gatling Explode-o-rider Zombie always wakes up in a terrible mood — especially when a whale riding colleague drags him to work. Fueled by rage, he's ready to blow away any plants in his path before heading back for a nap.</color>",
             "info": "<size=36>Jumps into and demolishes from behind your defense by shooting explosive cherries!\n\n<color=black>Damage: </color><color=#4B0082>1000</color>\n<color=black>Toughness: </color><color=#4B0082>1500</color>\n<color=black>Traits: </color><color=#4B0082>Starts to shoot 4 explosive cherries every 1.5s, 3s after entering your lawn.</color>"
         },
         {

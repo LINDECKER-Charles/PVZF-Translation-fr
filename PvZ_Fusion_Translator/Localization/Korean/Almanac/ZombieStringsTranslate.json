@@ -280,7 +280,7 @@
             "theZombieType": 48,
             "name": "니엔 좀비",
             "introduce": "<align=justified><size=36><color=black>새해를 기념하기 위해, 좀비 파티는 축제 정신의 화신인 니엔 좀비를 내보냅니다. \n\n\"내 새 옷 좀 봐요! 마치 사자춤 추는 사람처럼 안 보이나요? 꽤 멋지죠? 자, 이제 식물들에게 새해 인사를 전할 시간이에요!\"\n\n안타깝게도 식물들은 너무 공손했습니다. 즐거운 ”감사합니다”” 인사 세례가 끝나자, 니옌 좀비는 좋아하든 말든 금세 쓸려가 버렸습니다.",
-            "info": "<size=36>니옌 좀비는 매우 강력한 갑옷을 가지고 있습니다.\n\n<color=black>체력: </color><color=#4B0082>8888 + 8888 (제1 방어구)</color>\n<color=black>약점: </color><color=#4B0082>밤붐은 니옌 좀비에게 150% 피해를 줍니다.</color>"
+            "info": "<size=36>니옌 좀비는 매우 강력한 갑옷을 가지고 있습니다.\n\n<color=black>체력: </color><color=#4B0082>8888 + 8888 (제1 방어구)</color>\n<color=black>약점: </color><color=#4B0082>체리붐은 니옌 좀비에게 150% 피해를 줍니다.</color>"
         },
         {
             "theZombieType": 49,
