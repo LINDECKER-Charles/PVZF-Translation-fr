@@ -486,7 +486,7 @@
         {
             "seedType": 1001,
             "name": "Pisto-cerise",
-            "introduce": "<align=justified><size=36><color=black>« Tu crois que j’ai des problèmes de colère brûlants ? Moi ? Bah ! C’est toi qui es rouge et chaud ! Toute ta famille est rouge ! » Pisto-cerise détestait qu’on se moque de la couleur de sa tête. Mais les plaisanteries n’ont pas duré longtemps. Ce fut simplement un heureux accident. Après avoir mangé des cerises spéciales, Pisto-Pois devint rouge et ardent, et, à sa grande surprise, il pouvait tirer des cerises.</color></size></align>",
+            "introduce": "<align=justified><size=36><color=black>\" Tu crois que j’ai des problèmes de colère brûlants ? Moi ? Bah ! C’est toi qui es rouge et chaud ! Toute ta famille est rouge ! \" Pisto-cerise détestait qu’on se moque de la couleur de sa tête. Mais les plaisanteries n’ont pas duré longtemps. Ce fut simplement un heureux accident. Après avoir mangé des cerises spéciales, Pisto-Pois devint rouge et ardent, et, à sa grande surprise, il pouvait tirer des cerises.</color></size></align>",
             "info": "<size=36>Pisto-cerise tire des cerises puissantes.\n\n<color=black>Dégâts : </color><color=#8B0000>40/1,5 s</color></size>",
             "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Pisto-Pois + Cerise Explosive</color></size>"
         },
@@ -507,7 +507,7 @@
         {
             "seedType": 1004,
             "name": "Pois-noix",
-            "introduce": "<align=justified><size=36><color=black>« Non... ne me traite pas de moche, sinon... attends... je vais te vaporiser. » Pois-noix a toujours eu du mal avec son apparence « unique ». Mais il croit fermement que ce qu’il y a à l’intérieur d’une plante compte plus que son apparence. En quête de sagesse, il a humblement demandé conseil à l’expérimenté Noix de Bowling et a fini par maîtriser la technique consistant à faire rouler les noix comme des boules de bowling.</color></size></align>",
+            "introduce": "<align=justified><size=36><color=black>\" Non... ne me traite pas de moche, sinon... attends... je vais te vaporiser. \" Pois-noix a toujours eu du mal avec son apparence \" unique \". Mais il croit fermement que ce qu’il y a à l’intérieur d’une plante compte plus que son apparence. En quête de sagesse, il a humblement demandé conseil à l’expérimenté Noix de Bowling et a fini par maîtriser la technique consistant à faire rouler les noix comme des boules de bowling.</color></size></align>",
             "info": "<size=36>Pois-noix tire des mini-noix capables de traverser les zombies.\n\n<color=black>Résistance : </color><color=#8B0000>4000</color>\n<color=black>Dégâts : </color><color=#8B0000>20/1,5 s (Perçant)</color></size>",
             "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Pisto-Pois + Noix</color></size>"
         },
@@ -521,14 +521,14 @@
         {
             "seedType": 1006,
             "name": "Noix Solaire",
-            "introduce": "<align=justified><size=36><color=black>La Noix Solaire se considère toujours comme un ange, totalement inconsciente que les autres plantes parlent souvent dans son dos. « Vous savez, s’il ajoutait quelques lignes noires, il ressemblerait à une abeille ! »</color></size>",
+            "introduce": "<align=justified><size=36><color=black>La Noix Solaire se considère toujours comme un ange, totalement inconsciente que les autres plantes parlent souvent dans son dos. \" Vous savez, s’il ajoutait quelques lignes noires, il ressemblerait à une abeille ! \"</color></size>",
             "info": "<size=36>Noix Solaire produit du Soleil tout en protégeant vos plantes.\n\n<color=black>Robustesse : </color><color=#8B0000>4000</color>\n<color=black>Phases de Dégâts : </color><color=#8B0000>1333/2666</color>\n<color=black>Production de Soleil : </color><color=#8B0000>25/15s</color>\n<color=black>Spécial : </color><color=#8B0000>Produit 25 Soleil lors des transitions de phase de dégâts. Lâche 50 Soleil à la mort.</color></size>",
             "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Tournesol + Noix</color></size>"
         },
         {
             "seedType": 1007,
             "name": "Pois-mine",
-            "introduce": "<align=justified><size=36><color=black>Pois-mine n’a peut-être pas d’yeux, mais il a sa propre manière de sentir les zombies. « Je le sens… » murmura-t-il, « Les zombies se rapprochent… se rapprochent… se rapprochent… » Le rythme de son cœur s’accéléra, tout comme sa cadence de tir. De plus en plus vite… jusqu’à ce qu’un « bang » retentisse : Pois-mine explosa dans un feu d’artifice au goût de pomme de terre.</color></size></align>",
+            "introduce": "<align=justified><size=36><color=black>Pois-mine n’a peut-être pas d’yeux, mais il a sa propre manière de sentir les zombies. \" Je le sens… \" murmura-t-il, \" Les zombies se rapprochent… se rapprochent… se rapprochent… \" Le rythme de son cœur s’accéléra, tout comme sa cadence de tir. De plus en plus vite… jusqu’à ce qu’un \" bang \" retentisse : Pois-mine explosa dans un feu d’artifice au goût de pomme de terre.</color></size></align>",
             "info": "<size=36>Pois-mine peut attaquer avant d’être déterrée.\n\n<color=black>Dégâts : </color><color=#8B0000>30/1,5 s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Plante de petite taille (évite les projectiles tirés en ligne droite).\n<color=black>•</color> La fusion rend 50 Soleils.\n<color=black>•</color> Attaque plus rapidement à mesure que les zombies se rapprochent, avec un intervalle minimal de 0,5 seconde. Lorsqu’elle explose, inflige 1 800 dégâts aux zombies dans un petit rayon et libère 36 projectiles dans toutes les directions.</color></size>",
             "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Pisto-Pois + Mine Patate</color></size>"
         },
@@ -542,7 +542,7 @@
         {
             "seedType": 1009,
             "name": "Mine Solaire",
-            "introduce": "<align=justified><size=36><color=black>« Arrêtez-vous aux feux rouges, ralentissez aux feux jaunes et respectez le code de la route ! » Mine Solaire avertit fréquemment les zombies. Mais pour eux, tout ce qu’ils voient, c’est cette teinte verdâtre dégoûtante devant eux. Il serre ses feuilles vertes et fait la moue, souhaitant plus de soleil. « Après tout, c’est le soleil qui nous alimente tous ! »</color></size>",
+            "introduce": "<align=justified><size=36><color=black>\" Arrêtez-vous aux feux rouges, ralentissez aux feux jaunes et respectez le code de la route ! \" Mine Solaire avertit fréquemment les zombies. Mais pour eux, tout ce qu’ils voient, c’est cette teinte verdâtre dégoûtante devant eux. Il serre ses feuilles vertes et fait la moue, souhaitant plus de soleil. \" Après tout, c’est le soleil qui nous alimente tous ! \"</color></size>",
             "info": "<size=36>Mine Solaire produit du Soleil jusqu’à et après son explosion.\n\n<color=black>Dégâts : </color><color=#8B0000>1800</color>\n<color=black>Production de Soleil : </color><color=#8B0000>25/15s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Plante basse (évite les projectiles tirés en ligne droite).\n<color=black>•</color> La fusion restitue 25 Soleil.\n<color=black>•</color> Lâche 50 Soleil lors de l’explosion.</color></size>",
             "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Tournesol + Mine Patate</color></size>"
         },
@@ -1011,7 +1011,7 @@
         {
             "seedType": 1077,
             "name": "Champi-Soleil Marin",
-            "introduce": "<align=justified><size=36><color=black>« Malheureusement, je suis un champignon, pas une fleur, donc je ne peux pas être appelé une fleur de mer ou quelque chose du genre », admit Champi-Soleil Marin. « Parfois, cela me déprime, mais ne t’en fais pas. Je ne suis peut-être pas un Tournesol, mais je peux tout de même utiliser différentes réactions physiques et chimiques dans l’eau pour t’apporter du soleil ! »</color></size>",
+            "introduce": "<align=justified><size=36><color=black>\" Malheureusement, je suis un champignon, pas une fleur, donc je ne peux pas être appelé une fleur de mer ou quelque chose du genre \", admit Champi-Soleil Marin. \" Parfois, cela me déprime, mais ne t’en fais pas. Je ne suis peut-être pas un Tournesol, mais je peux tout de même utiliser différentes réactions physiques et chimiques dans l’eau pour t’apporter du soleil ! \"</color></size>",
             "info": "<size=36>Produit de plus en plus de Soleil à mesure qu’il grandit.\n\n<color=black>Production de Soleil : </color><color=#8B0000>15 → 25 → 50/15s</color>\n<color=black>Temps de croissance : </color><color=#8B0000>20s → 40s</color>\n<color=black>Spécial : </color><color=#8B0000>Plante basse (évite les projectiles tirés en ligne droite).</color></size>",
             "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Tournesol + Champi-Mer</color></size>"
         },
@@ -1249,7 +1249,7 @@
         {
             "seedType": 1111,
             "name": "Cata-Soleil",
-            "introduce": "<align=justified><size=36><color=black>Certains se demandent pourquoi les petits Soleils de Cata-Soleil disparaissent lorsqu’ils sont projetés du côté droit du toit. Cata-Soleil se contente de sourire : « D’où pensez-vous que viennent les Soleils de la cour avant ? »</color></size>",
+            "introduce": "<align=justified><size=36><color=black>Certains se demandent pourquoi les petits Soleils de Cata-Soleil disparaissent lorsqu’ils sont projetés du côté droit du toit. Cata-Soleil se contente de sourire : \" D’où pensez-vous que viennent les Soleils de la cour avant ? \"</color></size>",
             "info": "<size=36>Lance des choux solaires pour attaquer les zombies et peut aussi générer du Soleil.\n\n<color=black>Dégâts : </color><color=#8B0000>50/5s</color>\n<color=black>Spécial : </color><color=#8B0000>Rend 100 Soleil lors de la fusion. Chaque tir rebondit une fois après avoir touché un zombie. Pour chaque tranche de 200 Soleil, il peut rebondir une fois supplémentaire ; chaque rebond fait perdre 5 Soleil.</color></size>",
             "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Cata-chou + Tournesol</color></size>"
         },
@@ -1550,7 +1550,7 @@
         {
             "seedType": 1154,
             "name": "Aimant Solaire",
-            "introduce": "<align=justified><size=36><color=black>Avez-vous entendu ? L'Aimant Solaire rayonne de richesse ces derniers temps ! « Je ne produis pas de fer ; je ne fais que la lumière », dit-il fièrement. « C’est le fruit d’années de dur labeur. » On raconte même qu’il a ouvert une entreprise au-delà de la pelouse !</color></size>",
+            "introduce": "<align=justified><size=36><color=black>Avez-vous entendu ? L'Aimant Solaire rayonne de richesse ces derniers temps ! \" Je ne produis pas de fer ; je ne fais que la lumière \", dit-il fièrement. \" C’est le fruit d’années de dur labeur. \" On raconte même qu’il a ouvert une entreprise au-delà de la pelouse !</color></size>",
             "info": "<size=36>Produit des objets métalliques et transforme les objets métalliques en Soleil.\n\n<color=black>Production de Soleil : </color><color=#8B0000>25/25s</color>\n<color=black>Spécial : </color><color=#8B0000>Produit un objet métallique aléatoire toutes les 30 secondes. Faites glisser un objet métallique dessus et il produira 25 Soleil. Les objets produits sont automatiquement envoyés à Grenadier Aimant, Hypno Aimant ou Charmatron placés directement devant.</color></size>",
             "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Tournesol + Champi-Aimant</color></size>"
         },
@@ -2124,42 +2124,42 @@
         {
             "seedType": 239,
             "name": "Dévoreur de Tombe",
-            "introduce": "<align=justified><size=36><color=black>Malgré son apparence terrifiante, le Dévoreur de Tombe tient à préciser qu’il adore les chatons et passe son temps libre à faire du bénévolat dans un centre de réhabilitation pour zombies. « C’est simplement la bonne chose à faire », dit-il.</color>",
+            "introduce": "<align=justified><size=36><color=black>Malgré son apparence terrifiante, le Dévoreur de Tombe tient à préciser qu’il adore les chatons et passe son temps libre à faire du bénévolat dans un centre de réhabilitation pour zombies. \" C’est simplement la bonne chose à faire \", dit-il.</color>",
             "info": "<size=36>Plantez un Dévore-Tombe sur une tombe pour la retirer.\n\n<color=black>Spécial : </color><color=#8B0000>Plantez le Dévore-Tombe sur une pierre tombale pour la supprimer, ce qui prend 5 s. Il se transforme en paquet de graines s’il n’est pas planté sur une tombe.</color>",
             "cost": "<size=36>Coût : <color=#8B0000>75</color>\nRecharge : <color=#8B0000>7,5 s</color>"
         },
         {
             "seedType": 1298,
             "name": "Champi-Pois",
-            "introduce": "<align=justified><size=36><color=black>« Tirer ou ne pas tirer de pois ? » Telle est la question pour Champi-Pois. Depuis son plus jeune âge, il a refusé de tirer des pois. Il a déclaré qu’il préférait aider les autres plantes. Lorsqu’on lui a demandé d’où venait ce désir d’aider, il a répondu : « Lampignon a toujours été un grand modèle pour moi en grandissant. »\n\n— Écrit par Berfy Boy</color>",
+            "introduce": "<align=justified><size=36><color=black>\" Tirer ou ne pas tirer de pois ? \" Telle est la question pour Champi-Pois. Depuis son plus jeune âge, il a refusé de tirer des pois. Il a déclaré qu’il préférait aider les autres plantes. Lorsqu’on lui a demandé d’où venait ce désir d’aider, il a répondu : \" Lampignon a toujours été un grand modèle pour moi en grandissant. \"\n\n— Écrit par Berfy Boy</color>",
             "info": "<size=36>Lanceur à longue portée ; ses vapeurs peuvent aussi donner plus d’élan aux projectiles.\n\n<color=black>Dégâts : </color><color=#8B0000>20/1,5 s</color>\n<color=black>Spécial : </color><color=#8B0000>Dispose d’une portée sur toute la ligne. Lorsqu’il émet ses vapeurs, il propulse les projectiles droits devant lui, augmentant leur vitesse et leur infligeant +1 dégât toutes les 0,02 s. L’effet est cumulable.</color>",
             "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Pisto-Pois + Champi-Fumée</color>"
         },
         {
             "seedType": 1267,
             "name": "Hypno-Pois",
-            "introduce": "<align=justified><size=36><color=black>« Transformer les zombies en alliés ne suffit pas. Il faut aussi les équiper d’un peu de puissance de feu supplémentaire… et les rendre un peu plus stylés au passage ! » déclare Hypno-Pois d’un ton envoûtant.\n\n— Écrit par Mr. Etc.</color>",
+            "introduce": "<align=justified><size=36><color=black>\" Transformer les zombies en alliés ne suffit pas. Il faut aussi les équiper d’un peu de puissance de feu supplémentaire… et les rendre un peu plus stylés au passage ! \" déclare Hypno-Pois d’un ton envoûtant.\n\n— Écrit par Mr. Etc.</color>",
             "info": "<size=36>Tire des pois hypnotiques qui transforment les zombies vaincus en Hypno-Zombies alliés.\n\n<color=black>Dégâts : </color><color=#8B0000>30/1,5 s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Invoque un Hypno-Zombie de type Hypno-Pois lorsqu’il tue un zombie.\n<color=black>•</color> Ses capacités ne fonctionnent pas sur les lignes aquatiques.\n<color=black>•</color> Hypno-Zombie : 270 PV, tire un pois hypnotique infligeant 20 dégâts toutes les 1,5 s.</color>",
             "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Pisto-pois + Champi Hypno</color>"
         },
         {
             "seedType": 1194,
             "name": "Pois Maudit",
-            "introduce": "<align=justified><size=36><color=black>Pois Maudit et Champi-furieux sont de grands amis — l’un est impulsif, l’autre plutôt détendu. Mais ensemble, ils forment le duo parfait. « Nous sommes peut-être opposés, mais chacun fait ressortir le meilleur de l’autre. »</color>",
+            "introduce": "<align=justified><size=36><color=black>Pois Maudit et Champi-furieux sont de grands amis — l’un est impulsif, l’autre plutôt détendu. Mais ensemble, ils forment le duo parfait. \" Nous sommes peut-être opposés, mais chacun fait ressortir le meilleur de l’autre. \"</color>",
             "info": "<size=36>Un Tire-Pois dont la puissance augmente avec le temps, et le partenaire idéal du Champi Frénétique.\n\n<color=black>Dégâts : </color><color=#8B0000>40/1,5 s</color>\n<color=black>Spécial : </color><color=#8B0000>Ses attaques traversent les armures de type 2. Ses dégâts augmentent de 1 à chaque tir, jusqu’à un maximum de 60. Si un Champi Frénétique est planté une case derrière lui, Pois Maudit gagne la vitesse d’attaque du champignon, et celui-ci reçoit en retour la puissance d’attaque du pois.</color>",
             "cost": "<size=36>\nFormule de Fusion : <color=#8B0000>Pisto-Pois + Champi-mort</color>"
         },
         {
             "seedType": 1216,
             "name": "Drone Pois",
-            "introduce": "<align=justified><size=36><color=black>Drone Pois se considère comme l’avenir de la guerre des jardins. « Les drones de soutien aérien — l’arme d’une nouvelle ère. » Malheureusement, il a peu de temps pour promouvoir ses idées : il cumule trois emplois pour rembourser son prêt de culture hors-sol.</color>",
+            "introduce": "<align=justified><size=36><color=black>Drone Pois se considère comme l’avenir de la guerre des jardins. \" Les drones de soutien aérien — l’arme d’une nouvelle ère. \" Malheureusement, il a peu de temps pour promouvoir ses idées : il cumule trois emplois pour rembourser son prêt de culture hors-sol.</color>",
             "info": "<size=36>Un drone Tire-Pois qui augmente la puissance de feu lorsqu’il se coordonne avec les plantes tirant en ligne droite en dessous de lui.\n\n<color=black>Dégâts : </color><color=#8B0000>20/1,5 s</color>\n<color=black>Spécial : </color><color=#8B0000>Plante volante. Si le tireur directement en dessous attaque plus d’une fois toutes les 1,5 secondes, Drone Pois synchronise sa cadence de tir sur la sienne.</color>",
             "cost": "<size=36>\nFormule de Fusion : <color=#8B0000>Pisto-Pois + Troufle</color>"
         },
         {
             "seedType": 1318,
             "name": "Citrouille Pois",
-            "introduce": "<align=justified><size=36><color=black>Des zombies ont apporté un « char » ? Montrez-leur la forteresse mitrailleuse vivante — Citrouille Pois ! Quant aux munitions… eh bien, le concepteur a oublié d’en installer ! Pas de problème ! Les pois voisins pourront « partager » un peu de leurs projectiles !</color>",
+            "introduce": "<align=justified><size=36><color=black>Des zombies ont apporté un \" char \" ? Montrez-leur la forteresse mitrailleuse vivante — Citrouille Pois ! Quant aux munitions… eh bien, le concepteur a oublié d’en installer ! Pas de problème ! Les pois voisins pourront \" partager \" un peu de leurs projectiles !</color>",
             "info": "<size=36>Copie le comportement de la plante Pisto-Pois placée à l’intérieur.\n\n<color=black>Résistance : </color><color=#8B0000>4000</color>\n<color=black>Dégâts : </color><color=#8B0000>?/3 s</color>\n<color=black>Spécial : </color><color=#8B0000>Si une plante de la famille des Pois est placée à l’intérieur, elle tire toutes les 3 secondes, en reproduisant le nombre, les dégâts et le type de projectiles de cette plante. Ces tirs sont considérés comme provenant de la plante interne.</color>",
             "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Pisto-Pois + Citrouille</color>"
         }
