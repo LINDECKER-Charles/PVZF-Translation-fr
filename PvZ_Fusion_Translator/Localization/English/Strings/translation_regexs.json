@@ -176,6 +176,9 @@
   "抽取次数：\n(\\d+)/(\\d+)\n当前up植物：\n究极灯笼巨嘴花\nup刷新倒计时：\n(\\d+)": "Draw Count:\n{0}/{1}\nCurrent Up:\nTyrannoflora Lux\nNext Up in: \n{2}s",
   "抽取次数：\n(\\d+)/(\\d+)\n当前up植物：\n究极爆破加农炮\nup刷新倒计时：\n(\\d+)": "Draw Count:\n{0}/{1}\nCurrent Up:\nVulcannon\nNext Up in: \n{2}s",
   "抽取次数：\n(\\d+)/(\\d+)\n当前up植物：\n究极向日葵\nup刷新倒计时：\n(\\d+)": "Draw Count:\n{0}/{1}\nCurrent Up:\nPrincess Solarnova\nNext Up in: \n{2}s",
+  "抽取次数：\n(\\d+)/(\\d+)\n当前up植物：\n究极冰神西瓜\nup刷新倒计时：\n(\\d+)": "Draw Count:\n{0}/{1}\nCurrent Up:\nVortex Melon\nNext Up in: \n{2}s",
+  "抽取次数：\n(\\d+)/(\\d+)\n当前up植物：\n究极海妖菇\nup刷新倒计时：\n(\\d+)": "Draw Count:\n{0}/{1}\nCurrent Up:\nScylla Leviathan\nNext Up in: \n{2}s",
+  "抽取次数：\n(\\d+)/(\\d+)\n当前up植物：\n究极爆焱猫尾草\nup刷新倒计时：\n(\\d+)": "Draw Count:\n{0}/{1}\nCurrent Up:\nPrometheus Liontail\nNext Up in: \n{2}s",
   "^(\\d+\\D\\d+)%\n\\D+\n\\D+$": "{0}%\nReady\nInvin.",
   "^(\\d+\\D\\d+)%\n(\\d+)\n\\D+$": "{0}%\n{1}\nInvin.",
   "^(\\d+\\D\\d+)%\n\\D+\n冷却：(\\d+)\\D$": "{0}%\nReady\nCD: {1}",
@@ -230,5 +233,8 @@
   "^大河奔流$": "Splash and Clash",
   "([^\\s]+)，推荐难度：(\\d+)": "{0}, Recommended Difficulty: {1}",
   "([^\\s]+)\n等级：(\\d+)\n生效范围：\n([^\\s]+)\n生效间隔：\n(\\d+)秒": "{0}\nLevel: {1}\nRange: \n{2}\nInterval: \n{3} Seconds",
-  "^(\\d+)级$": "Level {0}"
+  "^(\\d+)级$": "Level {0}",
+  "历史最高：第(\\d+)关": "Highest Record: Level {0}",
+  "关卡制作中：([^\\s]+)": "Editing Level for: {0}",
+  "当前偏好：([^\\s]+)": "Current Favorite: {0}"
 }
