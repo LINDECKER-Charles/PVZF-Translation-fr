@@ -236,7 +236,7 @@
             "name": "Imitateur",
             "introduce": "<size=36><color=black>'Je me souviens de la guerre des zombies en '76', dit Imitater d'une voix rauque de vieil homme, 'À l'époque, nous n'avions pas tous ces Pisto-poiss et Jalapeños sophistiqués. . Tout ce que nous avions, c'était du courage. Des tripes et une cuillère.'</color>",
             "info": "<size=36>L'Imitateur peut faire des copies de vos plantes !\n\n<color=black>Spécial : </color><color=#8B0000>Plantez l'Imitateur sur une plante ou fusion pour obtenir un Paquet de Graines gratuit. Ne peut pas imiter les pots, nénuphars, citrouilles ou drones.</color>",
-            "cost": "<size=36>Coût : <color=#8B0000>0</color>\nRecharge : <color=#8B0000>5 Minutes</color>"
+            "cost": "<size=36>Coût : <color=#8B0000>100</color>\nRecharge : <color=#8B0000>5 Minutes</color>"
         },
         {
             "seedType": 248,
@@ -255,7 +255,7 @@
         {
             "seedType": 250,
             "name": "Cadeau Zombie",
-            "introduce": "<size=36><color=black>Nous vous présentons le cadeau zombie ! —Le point d'entrée des zombies dans le monde de la finance. Peut-être un produit financier à haut risque, il est délivré avec un rappel : \"Investir implique de grands risques inhérents; procédez avec prudence. Sponsorisé par le dr Yang Wang.\"Cette information vitale est intelligement rentré dans la boîte.</color ></taille>",
+            "introduce": "<size=36><color=black>Nous vous présentons le Cadeau Zombie ! Le point d'entrée des zombies dans le monde de la finance. Peut-être un produit financier à haut risque, il est délivré avec un rappel : \"Investir implique de grands risques inhérents; procédez avec prudence. Sponsorisé par le dr Yang Wang.\"Cette information vitale est intelligement rentré dans la boîte.</color ></taille>",
             "info": "<size=36>Vous donne 100 Soleils, mais fait apparaître un Zombie Boîte-mystère Doré.\n\n<color=black>Spécial : </color><color=#8B0000>Fait apparaître un Zombie Boîte-mystère Doré.</color></size>",
             "cost": "<size=36>Coût : <color=#8B0000>-100</color>\nRecharge : <color=#8B0000>50 Secondes</color></size>"
         },
@@ -283,7 +283,7 @@
         {
             "seedType": 254,
             "name": "Endoflamme",
-            "introduce": "<size=36><color=black>On dit que les petites fleurs comme elle ne rêveraient jamais de produire du Soleil — l'Endoflame allait à l'origine postuler pour le poste de Tournesol, mais elle s'est rendu compte que sa lumière ne brillerait que lorsqu'elle le serait. étant détruit. Tout le monde dit que la flamme au sommet de sa tête est la plus brillante, mais elle sait que ses yeux ardents et déterminés sont la source de sa force.</color></size>",
+            "introduce": "<size=36><color=black>On dit que les petites fleurs comme elle ne rêveraient jamais de produire du Soleil — l'Endoflame allait à l'origine postuler pour le poste de Tournesol, mais elle s'est rendu compte que sa lumière ne brillerait que lorsqu'elle le serait détruite. Tout le monde dit que la flamme au sommet de sa tête est la plus brillante, mais elle sait que ses yeux ardents et déterminés sont la source de sa force.</color></size>",
             "info": "<size=36>Endoflame peut absorber les projectiles et produire du Soleil.\n\n<color=black>Spécial : </color><color=#8B0000>Chaque projectile réduite la Robustesse de 50 et génère 25 Soleils. Produit un Engrais à sa mort.</color></size>",
             "cost": "<size=36>Coût : <color=#8B0000>125</color>\nRecharge : <color=#8B0000>50 Secondes</color></size>"
         },
@@ -297,8 +297,8 @@
         {
             "seedType": 256,
             "name": "Cadeau Florale",
-            "introduce": "<size=36><color=black>Personne ne comprend vraiment pourquoi le Plant Giftbox se bat aux côtés des plantes contre les zombies. Il ne ressemble pas du tout à une plante, mais il semble connaître les capacités de chaque plante de fond en comble. \"En fait, je ne suis qu'un étudiant qui adore les jeux vidéo\", admet-il avec un sourire. \"Le professeur a mentionné des crédits supplémentaires, alors me voilà.\"</color></size>",
-            "info": "<size=36>Cadeau de Plante peut être plantée pour produire des plantes aléatoires ou des fusions.\n\n<color=black>Spécial : </color><color=#8B0000>Placée sur le sol ou un Nénuphar, produit une Plante aléatoire. Placée sur une Plante éligible, peut produire une Fusion aléatoire.</color></size>",
+            "introduce": "<size=36><color=black>Personne ne comprend vraiment pourquoi le Cadeau Floral se bat aux côtés des plantes contre les zombies. Il ne ressemble pas du tout à une plante, mais il semble connaître les capacités de chaque plante de fond en comble. \"En fait, je ne suis qu'un étudiant qui adore les jeux vidéo\", admet-il avec un sourire. \"Le professeur a mentionné des crédits supplémentaires, alors me voilà.\"</color></size>",
+            "info": "<size=36>Cadeau Floral peut être plantée pour produire des plantes aléatoires ou des fusions.\n\n<color=black>Spécial : </color><color=#8B0000>Placée sur le sol ou un Nénuphar, produit une Plante aléatoire. Placée sur une Plante éligible, peut produire une Fusion aléatoire.</color></size>",
             "cost": "<size=36>Coût : <color=#8B0000>100</color>\nRecharge : <color=#8B0000>15 Secondes</color></size>"
         },
         {
@@ -2120,6 +2120,13 @@
             "introduce": "<align=justified><size=36><color=black>\" Retenir son souffle, se concentrer… et frapper avec précision ! \" Le Melon à Ressort est d’une patience exemplaire, toujours à l’affût du moment parfait pour agir. Si vous lui demandez comment il reste aussi calme, il citera toujours son mentor : l’Imitateur.</color>",
             "info": "<size=36>Un grand champignon doté de vrilles spiralées qui lancent des pastèques après une charge.\n\n<color=black>Dégâts : </color><color=#8B0000>120/4 s</color>\n<color=black>Portée : </color><color=#8B0000>4 cases devant</color>\n<color=black>Spécial : </color><color=#8B0000>Se charge lorsqu’il n’attaque pas pendant au moins 4,5 s, augmentant ses dégâts à (1 + temps de charge × 0,5) fois les dégâts de base. Temps de charge maximal : 30 s.</color>",
             "cost": "<size=36>Recette de Fusion : <color=#8B0000>Champi-fumée + Cata-melon</color>"
+        },
+        {
+            "seedType": 239,
+            "name": "Dévoreur de Tombe",
+            "introduce": "<align=justified><size=36><color=black>Malgré son apparence terrifiante, le Dévoreur de Tombe tient à préciser qu’il adore les chatons et passe son temps libre à faire du bénévolat dans un centre de réhabilitation pour zombies. « C’est simplement la bonne chose à faire », dit-il.</color>",
+            "info": "<size=36>Plantez un Dévore-Tombe sur une tombe pour la retirer.\n\n<color=black>Spécial : </color><color=#8B0000>Plantez le Dévore-Tombe sur une pierre tombale pour la supprimer, ce qui prend 5 s. Il se transforme en paquet de graines s’il n’est pas planté sur une tombe.</color>",
+            "cost": "<size=36>Coût : <color=#8B0000>75</color>\nRecharge : <color=#8B0000>7,5 s</color>"
         }
     ]
 }
