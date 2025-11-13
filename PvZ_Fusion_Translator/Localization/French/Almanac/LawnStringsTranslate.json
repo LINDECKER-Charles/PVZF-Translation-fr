@@ -584,9 +584,9 @@
         {
             "seedType": 1015,
             "name": "Mine Carnivore",
-            "introduce": "<size=36><color=black>Délicieuses et alléchantes, les Mine Patates ont le même goût que de la purée de pommes de terre auto-chauffante, ce qui leur a valu des critiques élogieuses de la part des zombies. Parmi eux, les frites occupent la première place en termes de popularité. Alors que les zombies affluent vers l'arôme alléchant des frites, ils ne savent pas qu'ils se régalent également de délicieuses chips. \"Attendez et voyez\", dit Chomp-mine avec une bouchée, \"Leurs nutriments deviendront bientôt de nouvelles mines.\"</color></size>",
-            "info": "<size=36>Après avoir avalé un zombie, la Mord-mine fera pousser des Mines Patate devant.\n\n<color=black>Dégâts : </color><color=#8B0000> Insta</color>\n<color=black>Spécial : </color><color=#8B0000>Plante une Mine Patate devant elle en avalant un zombie.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Mine Patate + Mordeur</color></size>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black>Délicieuses et alléchantes, les Mines Patates ont le goût d’une purée de pommes de terre bien chaude, ce qui leur vaut les éloges des zombies. Parmi elles, les frites tiennent la première place en popularité. Tandis que les zombies accourent vers l’arôme alléchant des frites, ils ignorent qu’ils s’offrent également de délicieuses chips. \" Attendez un peu \", dit Mine Carnivore en croquant, \" leurs nutriments deviendront bientôt de nouvelles mines. \"</color></size>",
+            "info": "<size=36>Après avoir avalé un zombie, Mine Carnivore fera pousser une Mine Patate devant elle.\n\n<color=black>Dégâts : </color><color=#8B0000>Élimination instantanée (Dévoration)</color>\n<color=black>Spécial : </color><color=#8B0000>Plante une Mine Patate devant elle après avoir avalé un zombie.</color></size>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Mine Patate + Mordeur</color></size>"
         },
         {
             "seedType": 1016,
