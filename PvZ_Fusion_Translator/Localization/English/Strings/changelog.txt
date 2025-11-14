@@ -62,10 +62,10 @@ Plants VS. Zombies: Fusion - Update 3.1 Changelog
 
 6. New Odyssey Route
 - Before starting an Odyssey run, you can now choose to go down the River Route! Add exclusive aquatic fusions to your arsenal to fend off against the new threats along your journey.
-(Currently exclusive to Odyssey: Classic and Odyssey Purgatory.)
+(Currently exclusive to Odyssey: Classic and Odyssey: Purgatory.)
 
 7. Fusion Showcase Level Editor
 - Unleash your creativity with a brand new level editor for Fusion Showcase, with an insane amount of new features!
 
-8. Miscellanious bug fixes.
+8. Miscellaneous bug fixes.
 
