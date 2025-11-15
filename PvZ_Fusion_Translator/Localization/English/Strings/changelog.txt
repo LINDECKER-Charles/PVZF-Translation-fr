@@ -5,7 +5,7 @@ Plants VS. Zombies: Fusion - Update 3.1 Changelog
 - Retain your setup throughout your run and upgrade it after each level by choosing new modifiers. You can favor which buffs you want in the new Abyss almanac.
 
 2. New Plants
-- Common Plants:
+- Basic Fusions:
  - Blaze Pea (Peashooter + Jalapeno)
  - Blaze Repeater (Repeater + Jalapeno)
  - Split Blaze (Split Pea + Jalapeno)

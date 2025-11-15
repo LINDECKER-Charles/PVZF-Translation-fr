@@ -376,7 +376,7 @@
             "theZombieType": 67,
             "name": "Tumbling",
             "introduce": "<align=justified><size=36><color=black>Tumbling used to be a Furling. One day, it went out to play and got covered in sand at the beach, transforming it into the Tumbling. \"Sometimes plants ignore me because I use sand as camouflage!\" it thought to itself.</color>",
-            "info": "<size=36>Moves like a tumbleweed; small size makes it harder to hit.\n\n<color=black>Toughness: </color><color=#4B0082>300</color>\n<color=black>Traits: </color><color=#4B0082>Rolls forward, ignoring plants 2/3 of the time. When colliding with a plant, deals damage equal to its own health and dies. Has a 1/3 chance to evade any damage.</color>"
+            "info": "<size=36>Moves like a tumbleweed; small size makes it harder to hit.\n\n<color=black>Toughness: </color><color=#4B0082>300</color>\n<color=black>Traits: </color><color=#4B0082>Rolls forward, ignoring plants 2/3 of the time (each can ignore a maximum of 3 plants). When colliding with a plant, deals damage equal to its own health and dies. Has a 1/3 chance to evade any damage.</color>"
         },
         {
             "theZombieType": 68,
@@ -802,7 +802,7 @@
             "theZombieType": 238,
             "name": "Frost Legion Beastmaster",
             "introduce": "<align=justified><size=36><color=black>Adult Snowfurs instinctively protect the young in their pack. Taking advantage of this trait, the Beastmaster disguised himself as a Furling and successfully tamed one. The price? He'll probably have to live like a Furling for the rest of his unlife.</color>",
-            "info": "<size=36>Rides a Snowfur that pushes your defenses backward.\n\n<color=black>Toughness: </color><color=#4B0082>9000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Immune to Chill and Freeze. Vulnerable to Deep Chill.\n<color=black>•</color> Upon contacting with a crush-immune or Titan plant, attempts to crush it. Otherwise pushes all connecting plants in the lane one tile left.\n<color=black>•</color> If unable to push (blocked by Titans or no space), instantly destroys the leftmost plant to make room.\n<color=black>•</color> Flying plants are unaffected by the push.\n<color=black>•</color> When below half max HP, leaps 2.2 tiles forward ignoring plants.</color>"
+            "info": "<size=36>Rides a Snowfur that pushes your defenses backward.\n\n<color=black>Toughness: </color><color=#4B0082>9000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Immune to Chill and Freeze. Vulnerable to Deep Chill.\n<color=black>•</color> Upon contacting with a Pot, crush-immune or Titan plant, attempts to crush it. Otherwise pushes all connecting plants in the lane one tile left.\n<color=black>•</color> If unable to push (blocked by Titans or no space), instantly destroys the leftmost plant to make room.\n<color=black>•</color> Flying plants are unaffected by the push.\n<color=black>•</color> When below half max HP, leaps 2.2 tiles forward ignoring plants.</color>"
         },
         {
             "theZombieType": 239,

@@ -117,11 +117,11 @@
     "Vulcannon: Now triggers Thermonuclear Detonations when main blasts strike Cherry Bombs or Jalapenos",
     "Princess Solarnova: When a solar shot hits a zombie, it cause nearby projectiles to explode as well",
     "Princess Solarnova: Energy cap ×3, Sun production amount after storage overflow ×3",
-    "Vortex Melon: Nebula Rift's hit rate is greatly improved",
+    "Vortex Melon: Nebula Rift now focuses on the zombie with the least HP for the first half of the barrage",
     "Vortex Melon: Cryo-melon damage ×6, but with decreased splash radius",
     "Prometheus Liontail: Heatbeam damage frequency ×2",
     "Prometheus Liontail: Regular shots' damage ×3",
-    "Scylla Leviathan: Tangler minions can drown up to 3 zombies, each zombie drowned provides 10 charges to the main body",
+    "Scylla Leviathan: Tangler minions can drown up to 3 zombies (or deal ×3 damage), and each zombie drowned rewards 10 energy stacks",
     "Scylla Leviathan: Fires 3 base attack projectiles at once"
   ],
   "strongUltimates": [
