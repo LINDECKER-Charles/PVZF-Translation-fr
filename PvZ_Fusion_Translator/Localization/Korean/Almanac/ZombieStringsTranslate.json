@@ -304,7 +304,7 @@
             "theZombieType": 52,
             "name": "크로노포탈 좀비",
             "introduce": "<align=justified><size=36><color=black>크로노포탈 좀비가 들고 있는 포털 뒤에는 정확히 무엇이 있는 걸까요? 사실 좀비들 자신도 모르며, 알아내려는 관심도 없습니다. 하지만 오래된 동료들이 하나둘 기어나오기 시작하면, 새로운 뇌가 있는지 묻기 위해 기꺼이 나설 준비가 되어 있습니다.</color>",
-            "info": "<size=36>시간과 공간의 경계를 넘어, 현실의 끝자락에서 끌려온 존재입니다.\n\n<color=black>대미지 | 공격 쿨타임: </color><color=#4B0082>20 | 1.5초</color>\n<color=black>체력: </color><color=#4B0082>270 + 200 (제2 방어구)</color>\n<color=black>특수 능력: </color><color=#4B0082>크로노 콩를 발사합니다. 6초마다 포탈에서 일반, 꼬깔콘, 양동이, 또는 스크린도어 좀비를 무작위로 소환합니다. 사망시 크로노 코어를 떨어뜨립니다.</color>"
+            "info": "<size=36>시간과 공간의 경계를 넘어, 현실의 끝자락에서 끌려온 존재입니다.\n\n<color=black>대미지 | 공격 쿨타임: </color><color=#4B0082>20 | 1.5초</color>\n<color=black>체력: </color><color=#4B0082>270 + 200 (제2 방어구)</color>\n<color=black>특수 능력: </color><color=#4B0082>크로노 콩를 발사합니다. 6초마다 포탈에서 일반, 꼬깔콘, 양동이, 또는 스크린도어 좀비를 랜덤으로 소환합니다. 사망시 크로노 코어를 떨어뜨립니다.</color>"
         },
         {
             "theZombieType": 53,
@@ -322,19 +322,19 @@
             "theZombieType": 56,
             "name": "설귀",
             "introduce": "<align=justified><size=36><color=black>설귀의 생물학적 분류 연구는 거의 진전이 없었습니다. 결국 뇌가 없는 좀비들에게 학문적 날카로움을 기대할 수는 없으니까요.<page>대부분은 진짜 설귀와 설귀 가죽을 뒤집어쓴 예티 좀비를 구분조차 못합니다. 다행히 Dr. 에드거가 훌륭한 방법을 제시했습니다. \"더 똑똑해 보이는 쪽이 설귀다.\"</color>",
-            "info": "<size=36>눈 덮인 설원이 원산지인 중립적인 생물입니다.\n\n<color=black>체력: </color><color=#4B0082>1350</color>\n<color=black>특수 능력: </color><color=#4B0082>아무것도 없거나 좀보토니와 연관이 없는 식물이 담긴 얼음 블록을 파괴하면 설귀가 나타납니다. 이동 속도는 매우 느리며, 식물을 짓밟지만 직접 공격하지는 않습니다.</color>"
+            "info": "<size=36>눈 덮인 설원이 원산지인 중립적인 생물입니다.\n\n<color=black>체력: </color><color=#4B0082>1350</color>\n<color=black>특수 능력: </color><color=#4B0082>아무것도 없거나 좀보타니와 연관이 없는 식물이 담긴 얼음 블록을 파괴하면 설귀가 나타납니다. 이동 속도는 매우 느리며, 식물을 짓밟지만 직접 공격하지는 않습니다.</color>"
         },
         {
             "theZombieType": 57,
             "name": "설귀왕",
             "introduce": "<align=justified><size=36><color=black>다른 설귀들보다 강하고 지혜로우며 꼬리가 더 무거웠지만, 그를 진정한 리더로 만든 것은 놀라운 도약력이었습니다. 그의 도약 덕분에 무리들은 얼어붙은 폭포의 근원으로 안내받을 수 있었습니다.</color>",
-            "info": "<size=36>눈 덮인 설원의 정점입니다.\n\n<color=black>체력: </color><color=#4B0082>3000</color>\n<color=black>특수 능력: </color><color=#4B0082>아무것도 없거나 좀보토니와 연관이 없는 식물이 담긴 얼음 블록을 파괴하면 설귀가 나타나며, 1/4 확률로 설귀왕이 등장합니다. 이동 속도는 매우 느리며 식물을 짓밟습니다. 등장할 때는 식물을 무시하고 2칸 앞으로 돌진합니다.</color>"
+            "info": "<size=36>눈 덮인 설원의 정점입니다.\n\n<color=black>체력: </color><color=#4B0082>3000</color>\n<color=black>특수 능력: </color><color=#4B0082>아무것도 없거나 좀보타니와 연관이 없는 식물이 담긴 얼음 블록을 파괴하면 설귀가 나타나며, 1/4 확률로 설귀왕이 등장합니다. 이동 속도는 매우 느리며 식물을 짓밟습니다. 등장할 때는 식물을 무시하고 2칸 앞으로 돌진합니다.</color>"
         },
         {
             "theZombieType": 58,
             "name": "스티브 좀비",
             "introduce": "<align=justified><size=36><color=black>\"나는 이 세상에서 살고 싶지 않아…\" 스티브 좀비는 한탄합니다. 단조로운 삶 속에서 아무런 즐거움도 찾지 못한 채, 그저 포탈을 만들 만큼의 흑요석을 캐내 떠나고 싶어 할 뿐입니다. 하지만 포탈 너머는 더 위험하고 더 지루한 곳일 뿐 아니라, 애초에 포탈에 불을 붙일 가능성조차 없습니다. 알려진 유일한 점화 도구는 세상에 단 두 곳뿐인 고대 피라미드 깊숙한 곳에 있으며, 그곳에는 횃불을 든 좀비들이 배회하고 있기 때문입니다.</color>",
-            "info": "<size=36>무작위 곡괭이를 휘둘러 방어선을 뚫고 채굴합니다.\n\n<color=black>체력: </color><color=#4B0082>720 + 1400 (제1 방어구)</color>\n<color=black>대미지: </color><color=#4B0082>50 (물기 아님)</color>\n<color=black>특수 능력: </color><color=#4B0082>\n<color=black>•</color> 방어 식물을 캘 수 있으며 진행도가 100% 넘어설 시 체력과 상관없이 방어 식물을 즉시 파괴시킵니다. \n<color=black>•</color> 채굴 진행도는 (공격 횟수 × 채굴 포인트) / 식물 체력\n<color=black>•</color> 등장할 때 무작위로 서로 다른 곡괭이 능력을 가진 곡괭이를 받습니다. 체력이 곡괭이 능력보다 낮은 식물을 공격할 때는 곡괭이 피해가 500% 증가합니다.\n<color=black>•</color>곡괭이 종류:\n\t금 곡괭이: 150 대미지 | 4000 힘\n\t철 곡괭이: 50 대미지 | 16000 힘\n\t다이아 곡괭이: 100 대미지 | 30000 힘\n<color=black>•</color> 방어 식물 종류: 호두류, 호박류, 햄버거슈터 배구동토</color>"
+            "info": "<size=36>랜덤 곡괭이를 휘둘러 방어선을 뚫고 채굴합니다.\n\n<color=black>체력: </color><color=#4B0082>720 + 1400 (제1 방어구)</color>\n<color=black>대미지: </color><color=#4B0082>50 (물기 아님)</color>\n<color=black>특수 능력: </color><color=#4B0082>\n<color=black>•</color> 방어 식물을 캘 수 있으며 진행도가 100% 넘어설 시 체력과 상관없이 방어 식물을 즉시 파괴시킵니다. \n<color=black>•</color> 채굴 진행도는 (공격 횟수 × 채굴 포인트) / 식물 체력\n<color=black>•</color> 등장할 때 랜덤으로 서로 다른 곡괭이 능력을 가진 곡괭이를 받습니다. 체력이 곡괭이 능력보다 낮은 식물을 공격할 때는 곡괭이 피해가 500% 증가합니다.\n<color=black>•</color>곡괭이 종류:\n\t금 곡괭이: 150 대미지 | 4000 힘\n\t철 곡괭이: 50 대미지 | 16000 힘\n\t다이아 곡괭이: 100 대미지 | 30000 힘\n<color=black>•</color> 방어 식물 종류: 호두류, 호박류, 햄버거슈터 배구동토</color>"
         },
         {
             "theZombieType": 59,
@@ -407,6 +407,12 @@
             "name": "녹슨 사다리 좀비",
             "introduce": "<align=justified><size=36><color=black>\"강한 자는 결코 환경을 탓하지 않으며, 나는 사다리에 의존하지 않는다!\"라고 녹슨 사다리 좀비가 사다리를 잡으며 말합니다. \"내 손에 있는 이 녀석은 방어용 도구이고, 내가 내려놓은 것은 여전히 피해에 맞서는 무기입니다!\" 그는 사다리를 내려놓고 호두가 부서지는 소리를 듣습니다.</color>",
             "info": "<size=36>저주가 깃든 사다리를 휘두르고 다닙니다.\n\n<color=black>체력: </color><color=#4B0082>720 + 1350 (제2 방어구)</color>\n<color=black>특수 능력: </color><color=#4B0082>\n<color=black>•</color> 사다리를 설치한 후, 녹슨 사다리 좀비가 입는 최종 피해는 녹슨 사다리 타일에 있는 식물로 완전히 이전되어 동일한 체력 손실을 초래합니다. 피해가 8,000을 초과하거나 녹슨 사다리 좀비가 사망하면 사다리는 파괴됩니다.\n<color=black>•</color> 자석 버섯에 의해 해당 사다리를 뺏을 수 없습니다.</color>"
+        },
+        {
+            "theZombieType": 73,
+            "name": "좀비 연불꽃",
+            "introduce": "<align=justified><size=36><color=black>그녀가 어째서 언데드들 사이에 나타나는지, 어떻게 끝없는 좀비의 파도를 불러오는지는 아무도 모릅니다. 어떤 이는 그녀를 연불꽃의 묘비라 부르고, 또 어떤 이는 식물들 사이의 배신자라 부릅니다. 진실이 무엇이든, 좀비연불꽃은 그것을</color>",
+            "info": "<size=36>좀비를 소환하고 묘비처럼 식물을 대체할 수 있는 사악한 꽃입니다.\n\n<color=black>체력: </color><color=#4B0082>300</color>\n<color=black>특수 능력: </color><color=#4B0082>\n<color=black>•</color> 필드내 가장 오른쪽 다섯 열에만 등장합니다. 빈 칸을 우선하며, 없을 경우 랜덤 식물을 대체합니다.\n<color=black>•</color> 삽으로 퍼내거나 장갑으로 옮길 수 없습니다. 좀비를 무시합니다.\n<color=black>•</color> 식물의 투사체를 막으며 30 피해를 입습니다.\n<color=black>•</color> 등장 후 10초 후에 랜덤으로 좀보타니 1마리 소환하며, 그 후 15초마다 랜덤으로 좀보타니를 소환하고, 죽을 때마다 한 번 더 소환합니다.\n<color=black>•</color> 비료를 사용하면 즉시 사라지고 식물 상자 시드패킷을 얻습니다.</color>"
         },
         {
             "theZombieType": 100,
@@ -508,7 +514,7 @@
             "theZombieType": 116,
             "name": "스파이시 스쿼시 좀비",
             "introduce": "<align=justified><size=36><color=black>스파이시 스쿼시 좀비만큼 성급한 좀비는 없습니다—말 그대로요. 현장에 발을 들이는 순간, 그는 다른 좀비들을 밀쳐내고 당당히 서서 \"재에서 재로!\"라고 외치려 합니다. 그러나 안타깝게도 그의 머리가 따로 계획을 세워, 그가 말을 마치기도 전에 스스로 날아가 버리고 말았습니다.</color>",
-            "info": "<size=36>도약하여 한 줄의 모든 식물을 파괴합니다!\n\n<color=black>체력: </color><color=#4B0082>1500</color>\n<color=black>특수 능력: </color><color=#4B0082>처음 만나는 식물을 짓밟고 해당 줄의 모든 식물에 불 태워버립니다. 둔화 걸렸을 시 불이 붙지 않으며, 매혹된 좀비나 빙판길에는 피해를 주지 않습니다.</color>"
+            "info": "<size=36>도약하여 한 줄의 모든 식물을 파괴합니다!\n\n<color=black>체력: </color><color=#4B0082>1500</color>\n<color=black>특수 능력: </color><color=#4B0082>처음 만나는 식물을 짓밟고 해당 줄의 모든 식물에 불 태워버립니다. 빙결에 걸렸을 시 불이 붙지 않으며, 매혹된 좀비나 빙판길에는 피해를 주지 않습니다.</color>"
         },
         {
             "theZombieType": 117,
@@ -538,7 +544,7 @@
             "theZombieType": 121,
             "name": "랜덤박스 가르강튀아",
             "introduce": "<align=justified><size=36><color=black>랜덤박스 가르강튀아는 머리에 상자를 뒤집어쓴 채 비틀거리며 다가옵니다. 그것이 당신을 혼란스럽게 하려는 것인지, 아니면 세상으로부터 드문 패치워크 눈을 가리기 위한 것인지는 알 수 없습니다. 다만 분명한 건, 그 안에 무엇이 있든 간에 곧 터져 나올 파괴와 함께한 수수께끼라는 사실입니다.</color>",
-            "info": "<size=36>저 종이 가면 아래에 무엇이 숨어 있는지, 누가 알겠는가?\n\n<color=black>체력: </color><color=#4B0082>3000 + 1100 (제1 방어구)</color>\n<color=black>특수 능력: </color><color=#4B0082>식물을 짓밟고, 가면이 파괴되면 무작위 가르강튀아로 변합니다.</color>"
+            "info": "<size=36>저 종이 가면 아래에 무엇이 숨어 있는지, 누가 알겠는가?\n\n<color=black>체력: </color><color=#4B0082>3000 + 1100 (제1 방어구)</color>\n<color=black>특수 능력: </color><color=#4B0082>식물을 짓밟고, 가면이 파괴되면 랜덤으로 다른 가르강튀아로 변합니다.</color>"
         },
         {
             "theZombieType": 122,
@@ -712,7 +718,7 @@
             "theZombieType": 224,
             "name": "<color=#4B0082><u>광대 여왕</u>",
             "introduce": "<align=justified><size=36><color=black>여왕의 시선만으로도 그녀의 하인들은 떨게 됩니다. 감히 누구도 그녀에게 도전하지 못합니다. 하지만 권력만이 그녀의 즐거움은 아닙니다—그녀는 주는 것을 사랑합니다. 화려하게 장식된 그녀의 선물 상자 안에는 어린 손길을 기다리는 장난감과 장신구들이 있습니다… 그리고 놀라움을 선사할 폭탄들도 함께 들어 있습니다. 아, 그녀가 얼마나 놀라움을 사랑하는지요.</color>",
-            "info": "<size=36>광대 여왕은 \"폭발적인 장면\"을 만드는 데 매우 열정적입니다.\n\n<color=black>체력: </color><color=#4B0082>48000</color>\n<color=black>특수 능력: </color><color=#4B0082>\n<color=black>•</color> 연옥 보스 좀비. 최면 및 삼키기를 무효화합니다.\n<color=black>•</color> 식물을 짓밟습니다.\n<color=black>•</color> 사망 시 폭발를 일으킵니다.\n<color=black>•</color> 정기적으로 상자에서 튀어나오며, 다음 효과 중 하나를 무작위로 발생시킵니다:\n<page>1. 다섯 번째 열과 그 오른쪽 모든 열의 타일마다 광대왕 좀비를 소환합니다.\n2. 스카이콩콩 광대 좀비를 소환하기도 합니다.\n3. 자신이 있는 행에다 폭발을 일으킵니다.</color>"
+            "info": "<size=36>광대 여왕은 \"폭발적인 장면\"을 만드는 데 매우 열정적입니다.\n\n<color=black>체력: </color><color=#4B0082>48000</color>\n<color=black>특수 능력: </color><color=#4B0082>\n<color=black>•</color> 연옥 보스 좀비. 최면 및 삼키기를 무효화합니다.\n<color=black>•</color> 식물을 짓밟습니다.\n<color=black>•</color> 사망 시 폭발를 일으킵니다.\n<color=black>•</color> 정기적으로 상자에서 튀어나오며, 다음 효과 중 하나를 랜덤으로 발생시킵니다:\n<page>1. 다섯 번째 열과 그 오른쪽 모든 열의 타일마다 광대왕 좀비를 소환합니다.\n2. 스카이콩콩 광대 좀비를 소환하기도 합니다.\n3. 자신이 있는 행에다 폭발을 일으킵니다.</color>"
         },
         {
             "theZombieType": 225,
@@ -749,6 +755,60 @@
             "name": "<color=#4B0082>몰락한 기가 양동이 사령관",
             "introduce": "<align=justified><size=36><color=black>기가 해골군마 사령관은 기가 미식축구 스트라이커와 오랜 인연을 가지고 있습니다. 둘은 함께 정원을 침공하고, 병사를 훈련시키며, 부사령관 자리를 두고 경쟁합니다. 여가 시간에는 부하들을 말 그대로 말과 병사로 삼아 실전 중국 장기를 두는데, 두 지휘관은 중앙에서 명령을 내리다가도 종종 참지 못하고 구칸 바깥으로 직접 뛰쳐나가곤 합니다.</color>",
             "info": "<size=36>몰락한 사령관은 더 이상 권력을 행사하지 못합니다.\n\n<color=black>체력: </color><color=#4B0082>18000</color>\n<color=black>대미지 | 공격 쿨타임: </color><color=#4B0082>80 (양동이콩) | 0.1초</color>\n<color=black>물기 대미지: </color><color=#4B0082>200</color>\n<color=black>특수 능력: </color><color=#4B0082>\n<color=black>•</color> 넉백에 면역입니다.</color>"
+        },
+        {
+            "theZombieType": 231,
+            "name": "<color=#4B0082><u><i>복수의 기가 양동이 사령관</i></u>",
+            "introduce": "<align=justified><size=36><color=black>전쟁은 지휘관에게 최고의 숫돌입니다. 한때 강등되고 패배했던 기가 해골군마 사령관은 지옥 같은 훈련 끝에 전장의 말과 함께 돌아왔습니다. 이제 그는 적의 시체로 새로운 지휘대를 세울 준비가 되어 있습니다.</color>",
+            "info": "<size=36>\"오라, 나의 전사들이여 - 그들의 영혼을 빼앗아라!\"\n\n<color=black>체력: </color><color=#4B0082>90000</color>\n<color=black>대미지: </color><color=#4B0082>500 (베기 공격)</color>\n<color=black>특수 능력: </color><color=#4B0082>\n<color=black>•</color> 보스 좀비. 식물을 짓밟습니다. 보통 가장 오른쪽 열에서 위아래로 이동합니다. 주기적으로 다음 기술 중 하나를 사용합니다:\n<color=black>1.</color> 배너를 흔들어 각 라인에 좀비를 1마리씩 소환합니다.\n<color=black>2.</color> 앞으로 돌진하며 칼을 휘두른 후 돌아서서 또 한 번 칼을 휘두릅니다.\n<color=black>3.</color> 전방으로 크게 세 번 칼날을 휘두릅니다.\n<color=black>4.</color> 각 길의 가장 오른쪽에 홀로그램 양동이 사령관을 소환하여 왼쪽으로 돌진하며, 경로상의 식물에게 1000의 피해를 입힙니다.\n<color=black>5.</color> 왼쪽이나 중앙의 랜덤 장소로 뛰어들어 식물을 짓밟은 후 오른쪽으로 돌아옵니다.</color>"
+        },
+        {
+            "theZombieType": 232,
+            "name": "<color=#4B0082>홀로그램 양동이 사령관",
+            "introduce": "<align=justified><size=36><color=black>\"그가 돌아왔다!\" 좀비들은 경외심에 차 외쳤습니다. \"그가 돌아왔다!\" 식물들은 공포에 질려 비명을 질렀습니다. 그 사이 닥터 좀보스는 복수의 좀비 전쟁에서 빛날 홀로그램 프로젝터를 자랑스럽게 손질하고 있었습니다.</color>",
+            "info": "<size=36>단순한 홀로그램에 불과하지만, 방어선을 찢고 돌파하는 군단입니다.\n\n<color=black>체력: </color><color=#4B0082>15000</color>\n<color=black>특수 능력: </color><color=#4B0082>\n<color=black>•</color> 빙결, 스턴, 넉백에 면역입니다. 왼쪽으로 돌진하는 동안 식물을 무시하며, 통과하는 모든 식물에 1000의 피해를 입힙니다.\n<color=black>•</color> 잔디깎이나 패배를 유발하지 않습니다.</color>"
+        },
+        {
+            "theZombieType": 233,
+            "name": "특무장 가르강튀아",
+            "introduce": "<align=justified><size=36><color=black>오래전, 좀보스 박사는 더욱 다재다능한 병사를 만들기 위해 자신의 가르강튀아들에게 불, 물, 바람, 대지의 네 원소의 힘을 주입하려 했습니다. 그 실험은 대부분 성공적이었습니다. 불로 단련된 가르강튀아, 바람을 머금은 가르강튀아, 대지에 속한 가르강튀아들은 새로 얻은 힘을 통해 빠르게 유대감을 쌓았습니다. 그러나 물의 힘을 지닌 파도에 단련된 가르강튀아는 혼자 외톨이가 되고 말았습니다.\" 우리 셋이면 이미 완벽한 신호색 세트잖아. \" 다른 셋이 투덜댔습니다. \"빨강, 노랑, 초록, 넌 그냥… 쓸데없이 파란색일 뿐이야.\"</color>",
+            "info": "<size=36>눈의 색으로 속성을 구분할 수 있는 완전무장한 가르강튀아입니다.\n\n<color=black>체력: </color><color=#4B0082>16000 + 16000 (제1 방어구)</color>\n<color=black>특수 능력: </color><color=#4B0082></color>\n<color=black>•</color><color=#4B0082> 임프를 던지지 않습니다. 내려찍기 공격은 매혹된 좀비에게 3600의 피해를 줍니다. 등장 시 네 가지 외형(눈 색상) 중 하나를 가지며, 각각 고유한 원소 속성을 지닙니다:\n<color=red>• 빨간 눈:</color> 화염 디버프에 면역이며 모든 피해를 2/3만큼 받습니다\n<color=blue>• 파란 눈:</color> 빙결에 면역이며 식물에게 500%의 피해를 입힙니다.\n<color=yellow>•노란 눈:</color> 경직에 면역이며 내려찍을 때 앞으로 점프하면서 한 번 더 내려찍습니다.\n<color=green>• 초록 눈:</color> 중독에 면역이며 공격마다 최대 체력을 10% 회복합니다.\n<color=black>오디세이 버프:\n</color><color=#4B0082>1. 외형은 더 이상 중요하지 않으며, 네 가지 모든 속성을 동시에 지닙니다.\n2. 내려치기 공격 범위가 1타일 증가합니다.</color>"
+        },
+        {
+            "theZombieType": 234,
+            "name": "<color=#4B0082><u>임프 제왕선</u>",
+            "introduce": "<align=justified><size=36><color=black>모든 임프들의 보스로서, 그는 그들의 세계에서 절대적인 지위를 누립니다. 학자 좀비처럼 박식할 필요도, 마이클 좀비처럼 우아할 필요도 없습니다. 그저 자신이 즐기는 일을 할 뿐이죠 — ‘치킨 제왕선’이라 불리는 사랑하는 황금 스피드보트를 타고 귀찮은 식물들에게 큰 소동을 일으키는 것. 설명 따위는 필요 없습니다. 자, 돛을 올리고 모험을 맞이합시다!</color>",
+            "info": "<size=36>당신의 오디세이 마지막에 맞서게 될 최종 임프입니다. 호화로운 ‘치킨 제왕선‘을 조종하며 언데드\n함대를 이끕니다.\n\n<color=black>체력: </color><color=#4B0082>48000</color>\n<color=black>특수 능력: </color><color=#4B0082>\n<color=black>•</color> 연옥 보스 좀비. 덩쿨과 경직에 면역입니다.\n<color=black>•</color> 식물들은 빠르게 짓밟습니다.\n<color=black>•</color> 자신에게 80%의 피해 감소 효과가 있습니다.\n<color=black>•</color> 이 효과가 나타나면 모든 좀비의 이동 속도가 20% 증가하고, 20% 확률로 받는 피해를 1로 줄입니다.\n<color=black>•</color> 사망 시 배가 폭발하면서 임프 제왕이 날아갑니다.</color>"
+        },
+        {
+            "theZombieType": 235,
+            "name": "<color=#4B0082>임프 제왕",
+            "introduce": "<align=justified><size=36><color=black>격렬한 전투 한가운데서도, 임프 제왕은 여전히 한가로운 시간을 꿈꿉니다. 쫓아야 할 뇌도, 싸워야 할 식물도 없이 조용히 산책하며 할로윈에 신하들에게 어떤 장난을 칠지 고민하는 시간 말이죠. 하지만 왕족으로서의 의무가 그를 항상 왕좌로 돌아오게 합니다. 다음 공격을 지휘할 준비가 되어 있는 채로 말입니다.</color>",
+            "info": "<size=36>제왕은 후퇴 중이지만, 일단 탈출하면 반드시 돌아올 것입니다.\n\n<color=black>체력: </color><color=#4B0082>18000</color>\n<color=black>대미지 | 공격 쿨타임: </color><color=#4B0082>80 | 0.1초\n100 (물기)</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> 연옥 보스 좀비. 경직과 넉백에 면역이지만, 피해 감소 버프를 잃었습니다.\n<color=black>•</color> 주변에 연옥 보스 좀비가 한 명 있을 때마다, 받는 피해가 20% 감소합니다.\n<color=black>•</color> 착지 시, 돌아서서 후퇴하며 식물은 무시합니다.\n<color=black>•</color> 필드를 벗어날 시 새로운 치킨 제왕선에 다시 탑승합니다.</color>"
+        },
+        {
+            "theZombieType": 236,
+            "name": "혹한 UFO 궁중병",
+            "introduce": "<align=justified><size=36><color=black>새로 개발된 플로팅 디스크의 이 모델은 고급 반중력 방출기와 식물 감지 센서를 탑재하여 완전한 자율 비행과 전투가 가능합니다. 조종사는 조작할 필요도, 심지어 깨어 있을 필요도 없습니다. 그렇다면 왜 조종사를 태우는 걸까요? \"몇몇 좀비들은 그거 말고는 아무것도 못 하거든.\" 닥터 좀보스가 조종석을 용접하며 말했습니다.</color>",
+            "info": "<size=36>고전적인 공상과학 무기 두 개를 장착했습니다.\n\n<color=black>체력: </color><color=#4B0082>3000</color>\n<color=black>특수 능력: </color><color=#4B0082>\n<color=black>•</color> 2초마다 반경 2.5타일 내의 가장 가까운 식물을 조준해, 용해 광선을 발사하며, 300의 피해를 줍니다. 호박, 화분, 공중 식물을 제외한 목표를 우선적으로 노립니다.\n<color=black>•</color> 식물에 가까이 다가가면 그 바로 위로 떠올라 흡수 배출기를 작동시켜, 해당 타일의 모든 식물에게 0.02초마다 10의 피해를 입힙니다. 매혹 상태일 경우, 같은 양만큼 피해 대신 회복을 줍니다.\n<color=black>오디세이 버프:\n</color><color=#4B0082>1. 용해 광선은 이제 범위 내에서 가장 먼 식물을 표적으로 삼습니다.\n2. 흡수 배출기의 범위가 이제 1 타일에서 3×3 범위로 증가합니다.</color>"
+        },
+        {
+            "theZombieType": 237,
+            "name": "체리라이너",
+            "introduce": "<align=justified><size=36><color=black>Painted pink, this massive vessel was meant to be hidden among the Sharkmarines, but all the pink paint was mistaken for brain juice and eaten by zombies. Not a single drop left.</color>",
+            "info": "<size=36>동맹국의 체리 폭발을 이용해 자신의 힘을 증폭시킵니다.\n\n<color=black>체력: </color><color=#4B0082>9000</color>\n<color=black>특수 능력: </color><color=#4B0082>\n<color=black>•</color> 식물들을 짓밟습니다.\n<color=black>•</color> 적의 체리 투사체가 식물에 맞을 시 영향을 받은 체리라이너는 체력을 150 회복하고 이동 속도가 30% 증가합니다. 이 효과는 최대 8회까지 중첩됩니다.\n<color=black>•</color> 이 좀비의 덩쿨 포인트를 10을 초과해서 받지 않습니다.</color>"
+        },
+        {
+            "theZombieType": 238,
+            "name": "혹한 설귀 승마병",
+            "introduce": "<align=justified><size=36><color=black>성체 설귀들은 본능적으로 무리의 새끼를 보호합니다. 이 습성을 이용해 승마병는 설귀 새끼, 즉 아기 설귀로 변장하여 한 마리를 성공적으로 길들였습니다. 대가는? 그는 아마 남은 좀비생을 아기 설귀처럼 살아야 할 것입니다.</color>",
+            "info": "<size=36>방어선을 뒤로 밀어내는 설귀를 타고 다닙니다.\n\n<color=black>체력: </color><color=#4B0082>9000</color>\n<color=black>특수 능력: </color><color=#4B0082>\n<color=black>•</color> 빙결에 면역이며, 저체온증에는 취약합니다.\n<color=black>•</color> 짓밟기 면역 식물이나 거대 식물과 접촉시 짓밟을려고 시도합니다. 그렇지 않으면 해당 라인에 연결된 모든 식물을 왼쪽으로 한 타일 밀어냅니다.\n<color=black>•</color> 밀 수 없을 경우(거대 식물에 막혔거나 공간이 없을 경우), 가장 왼쪽에 있는 식물을 즉시 파괴하여 공간을 만듭니다.\n<color=black>•</color> 공중 식물은 밀어내기에 영향을 받지 않습니다.\n<color=black>•</color> 체력이 절반이 될 시 2.2타일을 뛰어들어 식물을 짓밟습니다.\n</color>"
+        },
+        {
+            "theZombieType": 239,
+            "name": "수상스키 광대 좀비",
+            "introduce": "<align=justified><size=36><color=black>The first zombie to use pogo sticks and Jack-in-the-Boxes on water. How did he do it? \"Science! Newton's third law, nitroglycerin, and springs! Oh yeah!\" Is he a genius or a maniac? Who knows!</color>",
+            "info": "<size=36>개조된 스카이콩콩을 이용해 물길 위를 제트스키처럼 달리며 식물에게 돌진하고, 깜짝 상자를 한 무더기 흩뿌립니다.\n\n<color=black>체력: </color><color=#4B0082>6000</color>\n<color=black>특수 능력: </color><color=#4B0082>\n<color=black>•</color> 매우 빠릅니다. 식물과 충돌할 시 자폭하며 3.5타일 반경 내에 깜짝 상자 폭탄을 흩뿌립니다. 총 (식물 충돌 횟수 × 맵 라인 수)개의 폭탄이 생성됩니다.\n<color=black>•</color> 사망시 항상 깜짝 상자 폭발을 일으킵니다.</color>"
         },
         {
             "theZombieType": 300,
@@ -868,7 +928,7 @@
             "theZombieType": 319,
             "name": "네더라이트 드릴 좀비",
             "introduce": "<align=justified><size=36><color=black>용암을 연료로 한 네더라이트 드릴 덕분에 발굴 대회에서 늘 박수를 받습니다. 다만, 곡괭이도 네더라이트라는 사실은 정작 본인이 잊고 말하지 않지요. 이 정도면 정말 집념의 사나이입니다!</color>",
-            "info": "<size=36>굴을 파지만 쉽게 길을 잃습니다.\n\n<color=black>체력: </color><color=#4B0082>6000 + 6000 (제1 방어구)</color>\n<color=black>특수 능력: </color><color=#4B0082>\n<color=black>•</color> 2 티어 에불루션 좀비.\n<color=black>•</color> 각 공격은 식물에 4000의 채굴 진행도를 추가합니다.\n<color=black>•</color> 땅속을 파고 들어가며, 땅속에 있는 동안에는 드릴이 자석 버섯를 무시합니다.\n<color=black>•</color> 무작위로 2열에서 8열 사이에 나타납니다.</color>"
+            "info": "<size=36>굴을 파지만 쉽게 길을 잃습니다.\n\n<color=black>체력: </color><color=#4B0082>6000 + 6000 (제1 방어구)</color>\n<color=black>특수 능력: </color><color=#4B0082>\n<color=black>•</color> 2 티어 에불루션 좀비.\n<color=black>•</color> 각 공격은 식물에 4000의 채굴 진행도를 추가합니다.\n<color=black>•</color> 땅속을 파고 들어가며, 땅속에 있는 동안에는 드릴이 자석 버섯를 무시합니다.\n<color=black>•</color> 랜덤으로 2열에서 8열 사이에 나타납니다.</color>"
         },
         {
             "theZombieType": 320,

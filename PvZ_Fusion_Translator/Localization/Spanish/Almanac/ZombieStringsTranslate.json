@@ -287,7 +287,7 @@
       "theZombieType": 49,
       "name": "Yombi Esquimal",
       "introduce": "<size=39><color=#3D1400>\"¡Guerra de bolas de nieve!\" El Yombi Esquimal despierta de su caverna, lanzando bolas de nieve en todas partes. \"¿Le decimos que así no es como funciona la guerra?\" Pregunta un zombi. \"Nah, veamos cuanto tiempo se tarda en darse cuenta.\"</color>",
-      "info": "<size=39>¡Puede congelar a plantas con sus grandes bolas..de nieve!\n\n<color=#3D1400>Durabilidad: </color><color=#4B0082>720</color>\n<color=#3D1400>Características:</color><color=#4B0082> Invulnerable al congelamiento básico, pero sí al congelamiento profundo. Al aparecer, lanza bolas de nieve hacia las plantas cada 2 segundos, congelándolos en una área de 3x3. Plantas debajo de una Plantérmica o fusionadas con Seta Congelada/Jalapeño no son afectados al congelamiento.</color>"
+      "info": "<size=39>¡Puede congelar a plantas con bolas de nieve!\n\n<color=#3D1400>Durabilidad: </color><color=#4B0082>720</color>\n<color=#3D1400>Características:</color><color=#4B0082> Invulnerable al congelamiento básico, pero sí al congelamiento profundo. Al aparecer, lanza bolas de nieve hacia las plantas cada 2 segundos, congelándolos en una área de 3x3. Plantas debajo de una Plantérmica o fusionadas con Seta Congelada/Jalapeño no son afectados al congelamiento.</color>"
     },
     {
       "theZombieType": 50,
@@ -311,7 +311,7 @@
       "theZombieType": 53,
       "name": "Ovni Invernal",
       "introduce": "<size=39><color=#3D1400>Cada vez que el Ovni Invernal despega, se tarda media hora limpiando la nieve y el hielo acumulado, y sacando al monstruo de nieve escondido en los rincones. “¡Hacer volar este bloque de hielo consume una cantidad ridícula de combustible!”, se queja el piloto.</color>",
-      "info": "<size=39>¿Esta nevando? ¡No, es simplemente el Ovni Invernal que congela todo lo que esta debajo suyo!\n\n<color=#3D1400>Durabilidad: </color><color=#4B0082>720</color>\n<color=#3D1400>Características:</color><color=#4B0082> Invulnerable al Trebolador y al congelamiento básico (pero sí al congelamiento profundo). Al moverse, genera nieve que congela las plantas por debajo, se ralentiza gradualmente hasta detenerse y luego se mueve en sentido contrario. Al retirarse invoca un escuadrón nevado: 1 Yombi Escudero, 1 Yombi Esquimal y 1 Yombi Tridente. Plantas debajo de una Plantérmica o fusionadas con Seta Congelada/Jalapeño no son afectados al congelamiento.</color>"
+      "info": "<size=39>¿Esta nevando? ¡No, es simplemente el Ovni Invernal, congelando todo por debajo!\n\n<color=#3D1400>Durabilidad: </color><color=#4B0082>720</color>\n<color=#3D1400>Características:</color><color=#4B0082> Invulnerable al Trebolador y al congelamiento básico (pero sí al congelamiento profundo). Al moverse, genera nieve que congela las plantas por debajo, se ralentiza gradualmente hasta detenerse y luego se mueve en sentido contrario. Al retirarse invoca un escuadrón nevado: 1 Yombi Escudero, 1 Yombi Esquimal y 1 Yombi Tridente. Plantas debajo de una Plantérmica o fusionadas con Seta Congelada/Jalapeño no son afectados al congelamiento.</color>"
     },
     {
       "theZombieType": 55,
@@ -741,13 +741,13 @@
     },
     {
      "theZombieType": 229,
-     "name": "Jinete de la Oscuridad",
-     "introduce": "<size=39><color=#3D1400>Despertando tras una eternidad de silencio, el Jinete de la Oscuridad cargó día tras día, luchando y conquistando de nuevo, logrando victorias aterradoras. Su corcel y la armadura que le regaló el propio Dr. Zomboss eran testimonio de su honor; cualquiera que se le opusiera sería un enemigo del universo: tras su estandarte, ondeando al viento, el mundo entero lo seguía. Traía un saludo desde la oscuridad. Dondequiera que su sable tocaba, la noche descendía, el telón caía lentamente y un nuevo orden nacía, como si anunciara a todas las plantas: este es el precio por rechazarlo.</color>",
+     "name": "Jinete del Apocalipsis",
+     "introduce": "<size=39><color=#3D1400>Despertando tras una eternidad de silencio, el Jinete del Apocalipsis cargó día tras día, luchando y conquistando de nuevo, logrando victorias aterradoras. Su corcel y la armadura que le regaló el propio Dr. Zomboss eran testimonio de su honor; cualquiera que se le opusiera sería un enemigo del universo: tras su estandarte, ondeando al viento, el mundo entero lo seguía. Traía un saludo desde la oscuridad. Dondequiera que su sable tocaba, la noche descendía, el telón caía lentamente y un nuevo orden nacía, como si anunciara a todas las plantas: este es el precio por rechazarlo.</color>",
      "info": "<size=39>Un jinete proveniente de los bosques más oscuros, listo para aniquilarte.\n\n<color=#3D1400>Durabilidad: </color><color=#4B0082>48000+24000</color>\n<color=#3D1400>Daño: </color><color=#4B0082>80 cada 0,1s</color>\n<color=#3D1400>Características:</color> <color=#4B0082>\n- Minijefe. Es inmune al empujamiento, hipnotización, congelación y a ser aturdido.\n- Mientras corre, el Jinete maldice la primera planta que alcanza en un radio de 3x3 (excluyendo plantas aéreas y macetas) durante 5 segundos.\n- Luego, se detiene brevemente y camina (Las plantas alcanzadas mientras camina no seran maldecidas).\n- Tras 10 segundos de caminata, vuelve a correr. Al perder 2/3 de su salud, invoca un Vegezombi Ferreosargento en cada fila.\n- Recupera 200 PS cada 0,1 segundos.</color>"
    },
    {
      "theZombieType": 230,
-     "name": "Vegezombi de la Oscuridad",
+     "name": "Vegezombi del Apocalipsis",
      "introduce": "<size=39><color=#3D1400>El Vegezombi de la Oscuridad y el Lethal-Star Abanderado se conocen desde hace mucho tiempo. Han atacado jardines juntos, entrenado soldados juntos y competido por el puesto de teniente general. En su tiempo libre, también disfrutan de una emocionante partida de ajedrez chino real, con sus subordinados actuando como piezas y los dos generales al mando, aunque a menudo no pueden resistirse a salir corriendo de las nueve casillas.</color>",
      "info": "<size=39>General caido; ya no es un líder.\n\n<color=#3D1400>Daño: </color><color=#4B0082>100 (Mordisco) 80 cada 0,1s (Guisantes)</color>\n<color=#3D1400>Dureza: </color><color=#4B0082>18000</color>\n<color=#3D1400>Características:</color> <color=#4B0082>Inmune a ser empujado.</color>"
    },

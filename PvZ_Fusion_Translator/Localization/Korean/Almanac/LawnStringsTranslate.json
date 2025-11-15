@@ -39,21 +39,21 @@
       "seedType": 5,
       "name": "먹깨비",
       "introduce": "<size=36><color=black>먹깨비는 작은 공포 컨셉트 가게에서 스턴트 공연을\n할 뻔했지만 매니저가 너무 많은 것을 요구해 무산될\n뻔했습니다. 하지만 먹깨비는 화를 내지 않고는\n\"이건 비즈니스의 일부야\"라고 넘겼습니다.</color></size>",
-      "info": "<size=36>먹깨비는 좀비를 통째로 먹을 수 있지만 좀비를 먹는\n동안엔 취약합니다.\n\n<color=black>대미지: </color><color=#8B0000>즉사</color>\n<color=black>공격 범위: </color><color=#8B0000>전방 1타일</color>\n<color=black>소화 시간: </color><color=#8B0000>30초</color>\n<color=black>특수 능력: </color><color=#8B0000>앞 타일에 있는 가장 가까운 좀비를\n먹습니다.</color></size>",
+      "info": "<size=36>먹깨비는 좀비를 통째로 먹을 수 있지만 좀비를 먹는\n동안엔 취약합니다.\n\n<color=black>대미지: </color><color=#8B0000>즉사</color>\n<color=black>공격 범위: </color><color=#8B0000>전방 1 타일</color>\n<color=black>소화 시간: </color><color=#8B0000>30초</color>\n<color=black>특수 능력: </color><color=#8B0000>앞 타일에 있는 가장 가까운 좀비를\n먹습니다.</color></size>",
       "cost": "<size=36>필요 태양: <color=#8B0000>150</color>\n쿨타임: <color=#8B0000>7.5초</color></size>"
     },
     {
       "seedType": 6,
       "name": "뻐끔 버섯",
       "introduce": "<size=36><color=black>뻐끔 버섯은 \"전 최근에야 좀비의 좀비를 알게\n되었어요.\"라고 합니다. \"많은 균류 친구들처럼 저도\n좀비가 동화에서만 나오는 괴물인지 알았죠. 하지만\n아니었던거에요! 이건 정말 말도 안된다고요!\"</color></size>",
-      "info": "<size=36>뻐끔 버섯은 싼 가격을 가지고 있지만 공격 사거리가\n짧습니다.\n\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>20 | 1.5초</color>\n<color=black>공격 범위: </color><color=#8B0000>전방 2.5타일</color>\n<color=black>특수 능력: </color><color=#8B0000>세 번까지 중첩이 가능합니다.\n작은 식물(좀비의 직선 투사체를 맞지 않습니다)</color></size>\n\n<size=30><color=#2b0057>낮 스테이지에선 필요 태양이 증가합니다!</color></size>",
+      "info": "<size=36>뻐끔 버섯은 싼 가격을 가지고 있지만 공격 사거리가\n짧습니다.\n\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>20 | 1.5초</color>\n<color=black>공격 범위: </color><color=#8B0000>전방 2.5 타일</color>\n<color=black>특수 능력: </color><color=#8B0000>세 번까지 중첩이 가능합니다.\n작은 식물(좀비의 직선 투사체를 맞지 않습니다)</color></size>\n\n<size=30><color=#2b0057>낮 스테이지에선 필요 태양이 증가합니다!</color></size>",
       "cost": "<size=36>필요 태양: <color=#8B0000>0</color> <color=#2b0057>(75)</color>\n쿨타임: <color=#8B0000>7.5초</color></size>"
     },
     {
       "seedType": 7,
       "name": "가스 버섯",
       "introduce": "<size=34><color=black>\"난 이스트 포자를 만드는 빵공장에서 일을 하고 있었지... 답도 없었지.\",\"뻐끔 버섯은 좀비를 날려 버릴 수 있는\n직업이 있다고 해서 가봤는데 이제야 길이 보이는 것\n같아...\"</color></size>",
-      "info": "<size=36>가스 버섯은 스크린 도어를 관통하는 가스를\n발사합니다.\n\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>20 | 1.5초</color>\n<color=black>공격 범위: </color><color=#8B0000>1라인 4타일</color>\n<color=black>특수 능력: </color><color=#8B0000>좀비를 관통합니다.</color></size>\n\n<size=30><color=#2b0057>낮 스테이지에선 필요 태양이 증가합니다!</color></size>",
+      "info": "<size=36>가스 버섯은 스크린 도어를 관통하는 가스를\n발사합니다.\n\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>20 | 1.5초</color>\n<color=black>공격 범위: </color><color=#8B0000>1 라인 4 타일</color>\n<color=black>특수 능력: </color><color=#8B0000>좀비를 관통합니다.</color></size>\n\n<size=30><color=#2b0057>낮 스테이지에선 필요 태양이 증가합니다!</color></size>",
       "cost": "<size=36>필요 태양: <color=#8B0000>75</color> <color=#2b0057>(150)</color>\n쿨타임: <color=#8B0000>7.5초</color></size>"
     },
     {
@@ -95,7 +95,7 @@
       "seedType": 13,
       "name": "스쿼시",
       "introduce": "<size=36><color=black>스쿼시는 항상 \"나 준비됐어!\"라며 소리칩니다.\n\"한탕해 보자고! 빨리 날 내려놔!\n저기 있는 애들 다 뉴비잖아? 내가 다 할게, 응?!\n뭘 기다리는 거야? 나 늙어 죽는다고!\"</color></size>",
-      "info": "<size=36>스쿼시는 다가오는 첫 좀비를 내려찍습니다.\n\n<color=black>대미지: </color><color=#8B0000>1800</color>\n<color=black>공격 범위: </color><color=#8B0000>전방 1타일</color>\n<color=black>사용 방법: </color><color=#8B0000>일회용 식물</color></size>",
+      "info": "<size=36>스쿼시는 다가오는 첫 좀비를 내려찍습니다.\n\n<color=black>대미지: </color><color=#8B0000>1800</color>\n<color=black>공격 범위: </color><color=#8B0000>전방 1 타일</color>\n<color=black>사용 방법: </color><color=#8B0000>일회용 식물</color></size>",
       "cost": "<size=36>필요 태양: <color=#8B0000>50</color>\n쿨타임: <color=#8B0000>30초</color></size>"
     },
     {
@@ -109,7 +109,7 @@
       "seedType": 15,
       "name": "엉킨 켈프",
       "introduce": "<size=36><color=black>엉킨 켈프는 자기 자신이 안 보인다고 생각합니다.\n\"나 그냥 수면 아래에 있는거야... 그리고 아무도 날 못\n보겠지.\"그의 친구들은 항상 보인다고 하지만, 그는\n절대 바꾸지 않습니다.</color></size>",
-      "info": "<size=36>엉킨 켈프는 수중 식물로 자신에게 오는 좀비를 한 마리 끌어내립니다.\n\n<color=black>대미지: </color><color=#8B0000> 즉사</color>\n<color=black>공격 범위: </color><color=#8B0000>전방 1타일</color>\n<color=black>사용 방법: </color><color=#8B0000>일회용 식물</color></size>\n\n<size=30><color=#025b67>물 위에만 설치가 가능합니다!</color></size>",
+      "info": "<size=36>엉킨 켈프는 수중 식물로 자신에게 오는 좀비를 한 마리 끌어내립니다.\n\n<color=black>대미지: </color><color=#8B0000> 즉사</color>\n<color=black>공격 범위: </color><color=#8B0000>전방 1 타일</color>\n<color=black>사용 방법: </color><color=#8B0000>일회용 식물</color></size>\n\n<size=30><color=#025b67>물 위에만 설치가 가능합니다!</color></size>",
       "cost": "<size=36>필요 태양: <color=#8B0000>25</color>\n쿨타임: <color=#8B0000>50초</color></size>"
     },
     {
@@ -123,7 +123,7 @@
       "seedType": 17,
       "name": "스파이크위드",
       "introduce": "<size=36><color=black>스파이크위드는 하키가 최애입니다. 그는 무려 이번\n시즌 박스석 티켓도 있었습니다. 자기 최애 선수 정보도\n살펴보고, 사내 하키 내기에서도 항상 이깁니다. 하지만\n여기 하나의 문제가 있습니다: 그가 퍽을\n무서워한다는거죠.</color></size>",
-      "info": "<size=36>스파이크위드는 위에 있는 좀비를 공격하며 타이어를 터트립니다.\n\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>20 | 1초</color>\n<color=black>공격 범위: </color><color=#8B0000>1타일</color>\n<color=black>특수 능력: </color><color=#8B0000>타이어를 터트립니다.</color></size>",
+      "info": "<size=36>스파이크위드는 위에 있는 좀비를 공격하며 타이어를 터트립니다.\n\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>20 | 1초</color>\n<color=black>공격 범위: </color><color=#8B0000>1 타일</color>\n<color=black>특수 능력: </color><color=#8B0000>타이어를 터트립니다.</color></size>",
       "cost": "<size=36>필요 태양: <color=#8B0000>100</color>\n쿨타임: <color=#8B0000>7.5초</color></size>"
     },
     {
@@ -137,7 +137,7 @@
       "seedType": 19,
       "name": "바다 버섯",
       "introduce": "<size=36><color=black>바다 버섯은 한 번도 바다를 본 적이 없습니다. 바다는\n그의 이름에도 있고, 관련 소문도 들어봤지만, 그럴\n시간이 없었습니다. 하지만, 언젠가 그는 바다에\n닿을 것입니다.</color></size>",
-      "info": "<size=36>바다 버섯은 수중 식물로 짧은 사거리의 포자를\n발사합니다.\n\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>20 | 1.5초</color>\n<color=black>공격 범위: </color><color=#8B0000>1라인 2.5타일</color>\n<color=black>특수 능력: </color><color=#8B0000>세 번까지 중첩이 가능합니다.\n작은 식물</size>\n\n<size=30><color=#2b0057>낮 스테이지에선 필요 태양이 증가합니다!</color></size>\n<size=30><color=#025b67>물 위에만 설치가 가능합니다!</color></size>",
+      "info": "<size=36>바다 버섯은 수중 식물로 짧은 사거리의 포자를\n발사합니다.\n\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>20 | 1.5초</color>\n<color=black>공격 범위: </color><color=#8B0000>전방 2.5 타일</color>\n<color=black>특수 능력: </color><color=#8B0000>세 번까지 중첩이 가능합니다.\n작은 식물</size>\n\n<size=30><color=#2b0057>낮 스테이지에선 필요 태양이 증가합니다!</color></size>\n<size=30><color=#025b67>물 위에만 설치가 가능합니다!</color></size>",
       "cost": "<size=36>필요 태양: <color=#8B0000>0</color> <color=#2b0057>(75)</color>\n쿨타임: <color=#8B0000>7.5초</color></size>"
     },
     {
@@ -235,7 +235,7 @@
       "seedType": 33,
       "name": "꽃니바퀴",
       "introduce": "<size=36><color=black>식물들에서 줄기를 해치지 않고 꽃잎을 돌리는 건\n엄청난 기술입니다. 몇몇 식물학자들은 이 때문에\n꽃니바퀴가 블로버의 먼 친척일지도 모른다고\n추측 중입니다. 꽃니바퀴는 가식적인 말투로 \"이거\n엄청 어려운 거야\", \"진짜 문제는 가벼운 톱니바퀴를\n꽃잎 문양으로 칠하고 쓰는 걸 들키지 않는 거지.\"</color>",
-      "info": "<size=36>가까이 오는 좀비를 톱날로 갈아버립니다!\n\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>8 | 0.02초</color>\n<color=black>공격 범위: </color><color=#8B0000>전방 1타일</color>\n<color=black>보호막 시스템: </color><color=#8B0000>보호막은 보호받는 식물이 받는 피해를 20% 감소시킵니다.\n<color=black>특수 능력: </color><color=#8B0000>좀비가 가까이 오면 범위 대미지를 줍니다, 0.5초마다 보호막 포인트를 5 쌓습니다. 최대 300입니다.</color>",
+      "info": "<size=36>가까이 오는 좀비를 톱날로 갈아버립니다!\n\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>8 | 0.02초</color>\n<color=black>공격 범위: </color><color=#8B0000>전방 1 타일</color>\n<color=black>보호막 시스템: </color><color=#8B0000>보호막은 보호받는 식물이 받는 피해를 20% 감소시킵니다.\n<color=black>특수 능력: </color><color=#8B0000>좀비가 가까이 오면 범위 대미지를 줍니다, 0.5초마다 보호막 포인트를 5 쌓습니다. 최대 300입니다.</color>",
       "cost": "<size=36>필요 태양: <color=#8B0000>100</color>\n쿨타임: <color=#8B0000>7.5초</color>"
     },
     {
@@ -249,7 +249,7 @@
       "seedType": 35,
       "name": "식난로",
       "introduce": "<align=justified><size=36><color=black>식난로는 설원의 제6회 “식물 도우미”상을 수상했습니다. 다른 식물들은 이 상이 충분히 가치 있다고 인정했죠, 사실 식난로는 다른 식물들을 따뜻하게 해주느라 자신의 머리 위 눈조차 치울 시간이 없답니다.</color>",
-      "info": "<size=36>공중을 떠다니는 횃불나무로 식물들이 추위를 견뎌낼 수 있게 해줍니다.\n\n<color=black>범위: </color><color=#8B0000> 1타일</color>\n<color=black>특수능력: </color><color=#8B0000>\n<color=black>•</color> 공중 식물. 눈덩이와 눈보라로부터 식물을 보호합니다.\n<color=black>•</color> 보호 범위 내 얼음 블록에 3초마다 200의 피해를 줍니다.\n<color=black>•</color> 혹한 식물이 심겨져 있을 시 일시적으로 성장하여 발동 범위가 3×3 타일로 증가합니다 (1.2 × 식물 필요 태양) 이후 원래 상태로 돌아옵니다. 기본 지속 시간은 180초입니다.\n<color=#cceaed>흑한 맵 시스템</color>:\n<color=black>•</color> 얼음 블록은 체력 2000을 가지며 직선 발사 투사체와 좀비를 막습니다.\n<color=black>•</color> 식물에게 파괴되면 해당 식물이 생성됩니다.\n<color=black>•</color> 좀비에게 파괴되면 대응하는 좀보타니류 좀비가 생성되며, 없으면 얼귀가 생성됩니다.\n<color=black>•</color> 모든 웨이브 시작 시 눈보라가 발생하여 보호되지 않은 식물을 얼어붙게 합니다.</color>",
+      "info": "<size=36>공중을 떠다니는 횃불나무로 식물들이 추위를 견뎌낼 수 있게 해줍니다.\n\n<color=black>범위: </color><color=#8B0000> 1 타일</color>\n<color=black>특수능력: </color><color=#8B0000>\n<color=black>•</color> 공중 식물. 눈덩이와 눈보라로부터 식물을 보호합니다.\n<color=black>•</color> 보호 범위 내 얼음 블록에 3초마다 200의 피해를 줍니다.\n<color=black>•</color> 혹한 식물이 심겨져 있을 시 일시적으로 성장하여 발동 범위가 3×3 타일로 증가합니다 (1.2 × 식물 필요 태양) 이후 원래 상태로 돌아옵니다. 기본 지속 시간은 180초입니다.\n<color=#cceaed>흑한 맵 시스템</color>:\n<color=black>•</color> 얼음 블록은 체력 2000을 가지며 직선 발사 투사체와 좀비를 막습니다.\n<color=black>•</color> 식물에게 파괴되면 해당 식물이 생성됩니다.\n<color=black>•</color> 좀비에게 파괴되면 대응하는 좀보타니류 좀비가 생성되며, 없으면 얼귀가 생성됩니다.\n<color=black>•</color> 모든 웨이브 시작 시 눈보라가 발생하여 보호되지 않은 식물을 얼어붙게 합니다.</color>",
       "cost": "<size=36>필요 태양: <color=#8B0000>25</color>\n쿨타임: <color=#8B0000>7.5초</color>"
     },
     {
@@ -280,6 +280,13 @@
       "info": "<size=36>마치 바리케이드처럼 우뚝 서서, 자신의 체력을 소모하여 자신과 접촉하는 좀비와 대항합니다.\n\n<color=black>체력: </color><color=#8B0000>1500</color>\n<color=black>특수 능력: </color>\n<color=black>•</color><color=#8B0000> 다른 식물에 의한 피해 흡수가 불가능합니다.</color>\n<color=black>•</color><color=#8B0000> 짓밟는 공격에 면역이고, 공격 시 적을 뒤로 밀쳐냅니다.\n<color=black>•</color><color=#8B0000>해당 식물보다 낮은 체력의 좀비를 즉사시키고, 본인은 좀비의 체력만큼의 피해를 입습니다, 단 해당 식물보다 높은 체력의 좀비의 경우 1500의 피해를 주면서 파괴됩니다.</color>",
       "cost": "<size=36>필요 태양: <color=#8B0000>50</color>\n쿨타임: <color=#8B0000>15초</color>"
     },
+        {
+            "seedType": 228,
+            "name": "좀비 연불꽃",
+            "introduce": "<align=justified><size=36><color=black>\"이 정원의 잘난 규칙 따윈 이제 질렸어. 식물은 그저 원하는 대로 자라면 되는 거야.\" 좀비 연불꽃은 동료들에게 그렇게 말했지만, 다른 식물들은 관심이 없었습니다. 그녀는 생각했습니다. 이제 모든 걱정을 내려놓고, 들풀처럼 자유롭게 살아갈 때가 된 것 같다고. \"나는 식물도, 좀비도, 생산 수단도 아니야. 나는 그냥 나 자신이야.\"</color>",
+            "info": "<size=36>활력을 잃은 연불꽃은 이제 잡초처럼 제거하기 힘들어졌습니다.\n\n<color=black>체력: </color><color=#8B0000>300</color>\n<color=black>특수 능력: </color><color=#8B0000>\n<color=black>•</color> 삽으로 퍼내거나 장갑으로 옮길 수 없습니다. 좀비를 무시합니다.\n<color=black>•</color> 식물의 투사체를 막으며 30 피해를 입습니다.\n<color=black>•</color> 등장 후 10초 후에 랜덤으로 좀보타니 1마리 소환하며, 그 후 15초마다 랜덤으로 좀보타니를 소환하고, 죽을 때마다 한 번 더 소환합니다.\n<color=black>•</color> 비료를 사용하면 즉시 사라지고 식물 상자 시드패킷을 얻습니다.</color>",
+            "cost": "<size=36>설치 시 획득 태양: <color=#8B0000>-125</color>\n쿨타임: <color=#8B0000>50초</color>"
+        },
         {
             "seedType": 229,
             "name": "네잎 블로버",
@@ -367,21 +374,21 @@
       "seedType": 241,
       "name": "위칠리 콩",
       "introduce": "<page><size=36><color=black>다른 식물들은 작은 위칠리 콩이 콩을 어떻게 바꾸는지\n궁금해합니다. 그에 대한 대답은 직접 물어보세요...\n\"캣테일이 왜 겨울에 재채기하는지 알아?\n추워서 \"부들부들\" 떨기 때문이야!\"</color>",
-      "info": "<size=36>위칠리 콩은 눈 콩을 강화합니다.\n\n<color=black>해금 조건: </color><color=#8B0000>\"호두 당구 1\" 클리어</color>\n<color=black>특수 능력: </color><color=#8B0000>\n<color=black>•</color> 다른 식물 위에 심을 수 있습니다.\n<color=black>•</color> 좀비가 공격 할 수 없습니다.\n<color=black>•</color> 눈 콩을 발사하는 식물 위에 심을 경우 투사체를\n빙결 콩으로 강화하며 대미지와 빙결 포인트 부여를\n200% 늘립니다.</color>",
-      "cost": "<size=36>필요 태양: <color=#8B0000>125</color>\n쿨타임: <color=#8B0000>30초</color>"
+      "info": "<size=36>위칠리 콩은 눈 콩을 강화합니다.\n\n<color=black>해금 조건: </color><color=#8B0000>\"호두 당구 1\" 클리어</color>\n<color=black>특수 능력: </color><color=#8B0000>\n<color=black>•</color> 다른 식물 위에 심을 수 있습니다.\n<color=black>•</color> 좀비가 공격 할 수 없습니다.\n<color=black>•</color>3×3내 눈 콩을 발사하는 식물의 투사체를\n빙결 콩으로 강화하며 대미지와 빙결 포인트 부여를\n200% 늘립니다.</color>",
+      "cost": "<size=36>필요 태양: <color=#8B0000>300</color>\n쿨타임: <color=#8B0000>30초</color>"
     },
     {
       "seedType": 242,
       "name": "홍련여왕",
-      "introduce": "<size=36><color=black>작은 정령의 꽃이 어떻게 태양 생산의 마스터가\n되었을까요? 비법은 바로 역경의 극복입니다.\n홍련여왕은 더 이상 태양을 생산하는 데 힘을 소모하지\n않으며, 그녀의 태양처럼 타오르는 머리의 불은 그녀의 힘의\n기원입니다.<page>그 불은 꺼지지 않으며, 다음 홍련여왕에게 이어지고\n새로운 연불꽃을 만들어내기도 합니다.</color>",
-      "info": "<size=36>태양 빛으로 좀비를 재로 만들어버립니다.\n\n<color=blue>'식물 vs 좀비: Cricket Fight S6' 모드의 콜라보 식물\n\n<color=black>해금 조건: </color><color=#8B0000>\"오디세이: 클래식\" 클리어\n<color=black>사용 조건: </color><color=#8B0000>오디세이</color>\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>50(각 태양마다) | 3초</color>\n<color=black>공격 횟수: </color><color=#8B0000>x8</color>\n<color=black>공격 범위: </color><color=#8B0000>모든 라인</color>\n<color=black>체력: </color><color=#8B0000>1000</color>\n<color=black>특수 능력: </color><color=#8B0000>투사체가 좀비를 타격하면 태양을 떨구며,\n인페르노 나무로 대미지를 400% 늘릴 수 있습니다.</color>",
+      "introduce": "<size=36><color=black>작은 정령의 꽃이 어떻게 태양 생산의 마스터가\n되었을까요? 비법은 바로 역경의 극복입니다.\n홍련여왕은 더 이상 태양을 생산하는 데 힘을 소모하지\n않으며, 그녀의 태양처럼 타오르는 머리의 불은 그녀의 힘의 기원입니다.<page>그 불은 꺼지지 않으며, 다음 홍련여왕에게 이어지고\n새로운 연불꽃을 만들어내기도 합니다.</color>",
+      "info": "<size=36>태양 빛으로 좀비를 재로 만들어버립니다.\n\n<color=blue>'식물 vs 좀비: Cricket Fight S6' 모드의 콜라보 식물\n\n<color=black>해금 조건: </color><color=#8B0000>\"오디세이: 클래식\" 클리어\n<color=black>사용 조건: </color><color=#8B0000>오디세이</color>\n<color=black>체력: </color><color=#8B0000>1000</color>\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>50(각 태양마다) | 3초</color>\n<color=black>공격 횟수: </color><color=#8B0000>x8</color>\n<color=black>공격 범위: </color><color=#8B0000>모든 라인</color>\n<color=black>특수 능력: </color><color=#8B0000>투사체가 좀비를 타격하면 태양을 떨구며,\n인페르노 나무로 대미지를 400% 늘릴 수 있습니다.</color>",
       "cost": "<size=36>필요 태양: <color=#8B0000>200</color>\n쿨타임: <color=#8B0000>30초</color>"
     },
     {
       "seedType": 243,
       "name": "햄버거슈터",
       "introduce": "<size=36><color=black>식물들은 햄버거슈터의 기원을 궁금해합니다. 특히\n다른 식물을 쌓아 올려 그의 힘을 강화하는 것에\n대한 것 말이죠. 사실 진실은 멀지 않습니다.\n햄버거슈터는 데이브가 식물로 타코를 만들다 나온\n부산물로, 포장지에는 \"실제 제품은 사진과 다를 수\n있음. 내용물은 자동 충전됨!\"이라 적혀있습니다.</color>",
-      "info": "<size=36>라벨에 따라 버거를 재료를 쌓아보세요!\n\n<color=blue>'식물 vs 좀비: 하이브리드' 모드의 콜라보 식물\n\n<color=black>해금 조건: </color><color=#8B0000>\"꽃병깨기: 연쇄반응\" 클리어</color>\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>20(각 투사체) | 3초</color>\n<color=black>공격 횟수: </color><color=#8B0000>×2</color>\n<color=black>체력: </color><color=#8B0000>1000</color>\n<color=black>태양 생산량 | 태양 생산 쿨타임: </color><color=#8B0000> 25 | 25초</color>\n<color=black>특수 능력: </color><color=#8B0000>랜덤 투사체를 발사합니다.\n선인장, 멜론 펄트, 겨울 멜론을 순서대로 조합해\n업그레이드가 가능합니다.\n\n선인장(레벨 1): 체력 2000, 공격 대미지 30,\n공격 쿨타임 2.5초 공격 횟수 ×4,\n새 투사체: 가시, 버터, 스쿼시<page>\n멜론 펄트(레벨 2): 체력 3000 공격 대미지 40,\n공격 횟수 ×6, 새 투사체: 여름 멜론, 멜론\n\n겨울 멜론(레벨 3): 공격 쿨타임 2초, 공격 횟수 ×8,\n새 투사체: 겨울 멜론, 눈콩, 눈포자, 파멸 고드름</color>",
+      "info": "<size=36>라벨에 따라 버거를 재료를 쌓아보세요!\n\n<color=blue>'식물 vs 좀비: 하이브리드' 모드의 콜라보 식물\n\n<color=black>해금 조건: </color><color=#8B0000>\"꽃병깨기: 연쇄반응\" 클리어</color>\n<color=black>체력: </color><color=#8B0000>1000</color>\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>20(각 투사체) | 3초</color>\n<color=black>공격 횟수: </color><color=#8B0000>×2</color>\n<color=black>태양 생산량 | 태양 생산 쿨타임: </color><color=#8B0000> 25 | 25초</color>\n<color=black>특수 능력: </color><color=#8B0000>랜덤 투사체를 발사합니다.\n선인장, 멜론 펄트, 겨울 멜론을 순서대로 조합해\n업그레이드가 가능합니다.\n\n선인장(레벨 1): 체력 2000, 공격 대미지 30,\n공격 쿨타임 2.5초 공격 횟수 ×4,\n새 투사체: 가시, 버터, 스쿼시<page>\n멜론 펄트(레벨 2): 체력 3000 공격 대미지 40,\n공격 횟수 ×6, 새 투사체: 여름 멜론, 멜론\n\n겨울 멜론(레벨 3): 공격 쿨타임 2초, 공격 횟수 ×8,\n새 투사체: 겨울 멜론, 눈콩, 눈포자, 파멸 고드름</color>",
       "cost": "<size=36>필요 태양: <color=#8B0000>125</color>\n쿨타임: <color=#8B0000>30초</color>"
     },
     {
@@ -402,7 +409,7 @@
       "seedType": 248,
       "name": "캣 스쿼시",
       "introduce": "<page><size=36><color=black>고양이의 우아함과 스쿼시의 투박함이 섞여 만들어진\n새로운 종류의 귀여움을 가지고 있다. \"언젠가 내가\n양쪽 다 마스터하게 된다면, 난 정원을 정복하게\n될꺼다냥!\"이라고 중얼거린다. 실은 매년\n고양이 자격증을 노리는 견습이다.</color></size>",
-      "info": "<size=36>가라 캣 스쿼시, 내려찍기!\n\n<color=black>해금 조건: </color><color=#8B0000>\"스쿼시 결전!\" 클리어\n<color=black>대미지: </color><color=#8B0000>1800</color>\n<color=black>공격 범위: </color><color=#8B0000>전방 1타일</color>\n<color=black>사용 방법: </color><color=#8B0000>일회용 식물</color>\n<color=black>특수 능력: </color><color=#8B0000>좀비를 뭉개면 최대 3개까지 좀비당 1개의\n스쿼시 시드패킷을 드랍합니다. 만약 3마리 이상의\n좀비를 뭉개면 스파이시 스쿼시 시드패킷을 추가로\n드랍합니다. 내려찍기시 대미지를 주지 못하였다면\n캣 스쿼시 시드패킷을 드랍합니다.</color></size>",
+      "info": "<size=36>가라 캣 스쿼시, 내려찍기!\n\n<color=black>해금 조건: </color><color=#8B0000>\"스쿼시 결전!\" 클리어\n<color=black>대미지: </color><color=#8B0000>1800</color>\n<color=black>공격 범위: </color><color=#8B0000>전방 1 타일</color>\n<color=black>사용 방법: </color><color=#8B0000>일회용 식물</color>\n<color=black>특수 능력: </color><color=#8B0000>좀비를 뭉개면 최대 3개까지 좀비당 1개의\n스쿼시 시드패킷을 드랍합니다. 만약 3마리 이상의\n좀비를 뭉개면 스파이시 스쿼시 시드패킷을 추가로\n드랍합니다. 내려찍기시 대미지를 주지 못하였다면\n캣 스쿼시 시드패킷을 드랍합니다.</color></size>",
       "cost": "<size=36>필요 태양: <color=#8B0000>125</color>\n쿨타임: <color=#8B0000>30초</color>"
     },
     {
@@ -482,6 +489,20 @@
             "info": "<size=36>밤으로부터 태어나 전투를 부르는 자. 붉은빛 달 아래, 같이 싸워줄 붉은 좀비 무리들이 끝없이 되살아납니다.\n\n<color=blue>월광의 양배추의 변종</color>\n<color=black>사용 조건: </color><color=#8B0000>미스테리 | 전설의 궁극 식물: 월광의 양배추의 특수 형태 | 이스터에그 식물</color>\n<color=black>특수 능력: </color><color=#8B0000>\n<color=black>•</color> 밤 레벨(안개 등 제외)에서 조합 시 2% 확률로 월광의 양배추대신 등장합니다. 혈월의 양배추는 월광의 양배추의 모든 기본 특성을 유지합니다.\n<color=black>•</color>오디세이 모드에서는 필드에 혈월의 양배추를 한 개만 심을 수 있습니다.\n<color=black>•</color> 혈월의 양배추가 필드에 있는 동안, 월광의 양배추의 소형 달은 소형 붉은 달로 변합니다. 이 소형 달은 더 이상 회복 효과를 제공하지 않고, 대신 10초마다 강화된 매혹된 좀비를 소환합니다. 첫 소환은 3초 쿨타임이 있습니다.\n<color=black>•</color> 혈월의 양배추 하나당 소환된 좀비의 체력과 대미지가 50% 증가합니다.\n<color=black>•</color> 소환된 좀비의 수와 위치는  \"황무지 타일\"에 따라 달라집니다. 황무지 타일은 3×3 범위나 그 위에 혈월의 양배추/월광의 양배추가 없는 타일을 말합니다.</color>",
             "cost": "\n"
         },
+        {
+            "seedType": 303,
+            "name": "따라보리",
+            "introduce": "<align=justified><size=36><color=black>따라보리는 모방의 달인입니다. 모창 대회에 출전한 이후로, 그가 흉내 낸 원본들조차 2등밖에 할 수 없었다고 합니다.</color>",
+            "info": "<size=36>일정 시간 마다 해당 필드의 식물로 변신하며, 모방을 통해 더욱 강해집니다.\n\n<color=black>사용 조건: </color><color=#8B0000>미스테리</color>\n<color=black>특수 능력: </color><color=#8B0000>\n<color=black>•</color> 30초마다 3×3 영역 내에서 랜덤 식물로 변신합니다.\n<color=black>•</color> 따라한 식물은 공격력이 100%, 체력이 50% 추가되며 변할 때마다 체력이 20%, 공격력이 30%씩 증가합니다.\n<color=black>•</color> 변형 가능: 공격력 0이거나 체력이 300 이상인 비 공중식물<page>(호박, 수련잎, 화분 및 기타 보리류 식물과 그 변형 제외)</color>",
+            "cost": "\n"
+        },
+        {
+            "seedType": 304,
+            "name": "슈퍼노바 공주",
+            "introduce": "<align=justified><size=36><color=black>전설에 따르면, 그녀는 한때 태양 자체를 섬기며 그 가장 강렬한 빛을 꽃잎 속에 품었다고 전해집니다. 위험이 다가오면, 각성한 솔라노바는 그 축복을 심판으로 바꿉니다. 그녀가 쏘아 올리는 모든 태양광선은 신성한 불꽃의 계시입니다.</color>",
+            "info": "<size=36>자신이 만든 태양과 주변 투사체를 심판의 태양으로 만들어 좀비를 향해 떨궈버립니다.\n\n<color=blue>솔라노바 공주의 변종</color>\n<color=black>사용 조건: </color><color=#8B0000>미스테리 | 전설의 궁극 식물: 솔라노바\n공주의 특수 형태</color>\n<color=black>태양 생산량 | 태양 생산 쿨타임: </color><color=#8B0000>50 | 3초</color>\n<color=black>대미지: </color><color=#8B0000>1800 (폭발 판정)</color>\n<color=black>특수 능력: </color><color=#8B0000>\n<color=black>•</color> 태양을 생성할 때 좀비가 있으면 태양을 심판의 태양으로 변환하여 가장 가까운 좀비에게 떨궈버립니다.\n<color=black>•</color> 심판의 태양을 발사할 때, 1.5타일 범위 내의 식물의 투사체를 흡수하여 흡수한 투사체당 피해량이 2%씩 증가합니다.\n<color=black>•</color> 심판의 태양: 하늘에서 떨어져 1.5 타일 범위내로 범위 대미지를 입히고 50 태양을 떨어뜨립니다. 공중 좀비를 표적으로 삼을 수 있습니다.\n<color=black>궁극기: </color>16000 코인 필요\n필드에 있는 모든 좀비들에게 심판의 태양을\n떨궈버립니다.</color>",
+            "cost": "\n"
+        },
     {
       "seedType": 900,
       "name": "여왕 버섯",
@@ -493,21 +514,21 @@
       "seedType": 901,
       "name": "체리 개틀링",
       "introduce": "<size=36><color=black>체리 개틀링은 부끄러워하며 \"왜 개틀링 콩이\n인기 많은지 모르겠어... 내 형제랑 나는 똑같이 4발\n발사하는데 말이지.\" 하지만 진실은 모든 식물이\n개틀링 콩의 착한 심성과 뛰어난 요리 실력을 좋아하는\n것뿐입니다.</color></size>",
-      "info": "<size=36>체리 개틀링은 강력한 폭발성 체리탄을 4번 발사합니다.\n\n<color=black>사용 조건: </color><color=#8B0000>오디세이 | 해금 가능</color>\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>300 | 1.5초</color>\n<color=black>공격 횟수: </color><color=#8B0000>4번</color>\n<color=black>오디세이 버프:\n</color><color=#8B0000>1. 투사체 대미지가 300%로 증가합니다.\n2. 공격 속도가 0.75초로 감소됩니다.</color>\n<color=black><page>오디세이 식물 시너지: 우리들의 화력은 최강</color><color=#8B0000>\n<color=black>•</color> 모든 체리 개틀링와 스쿼시 지옥불나무의\n오디세이 버프를 획득해야 상점에서 구매 가능합니다.\n<color=black>•</color> 체리 개틀링와 스쿼시 지옥불나무가 동시에 존재할 때,\n체리 개틀링은 이제 더 많은 체리를 쏘며 스쿼시 지옥불나무는 스파이시 스쿼시를 생산할 공간이 없을 시 모든 줄을 불태웁니다.</color></size>",
+      "info": "<size=36>체리 개틀링은 강력한 폭발성 체리탄을 4번 발사합니다.\n\n<color=black>사용 조건: </color><color=#8B0000>오디세이 | 해금 가능</color>\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>300 | 1.5초</color>\n<color=black>공격 횟수: </color><color=#8B0000>4번</color>\n<color=black>오디세이 버프:\n</color><color=#8B0000>1. 투사체 대미지가 300%로 증가합니다.\n2. 공격 속도가 0.75초로 감소됩니다.</color>\n<color=black><page>오디세이 식물 시너지: 풀 화력</color><color=#8B0000>\n<color=black>•</color> 모든 체리 개틀링와 스쿼시 지옥불나무의\n오디세이 버프를 획득해야 상점에서 구매 가능합니다.\n<color=black>•</color> 체리 개틀링와 스쿼시 지옥불나무가 동시에 존재할 때,\n체리 개틀링은 이제 더 많은 체리를 쏘며 스쿼시 지옥불나무는 스파이시 스쿼시를 생산할 공간이 없을 시 모든 줄을 불태웁니다.</color></size>",
       "cost": "\n<size=36>조합식: <color=#8B0000>풋체리 개틀링 + 체리슈터</color>"
     },
     {
       "seedType": 902,
       "name": "스쿼시 지옥불나무",
       "introduce": "<page><size=36><color=black>스쿼시 지옥불나무는 자신을 고평가하지만, 다른\n식물들은 그를 경멸합니다. 특히 콩 식물 가족들이요.\n\"엄청 까다로운 녀석이라니까? 진짜 강한 건 맞는데,\n체리만 더 강하게 만들잖아!\" 이 말을 들은\n스쿼시 지옥불나무는 화를 내면서 \"난 그냥!\n콩 알레르기가 있는 거라고!!\"</color></size>",
-      "info": "<size=36>콩을 강화하며 스파이시 스쿼시를 만들어냅니다.\n\n<color=black>사용 조건: </color><color=#8B0000>오디세이 | 해금 가능</color>\n<color=black>특수 능력: </color><color=#8B0000>일반 콩을 80 대미지의 지옥불콩으로 변환시키고, 하위 단계의 불콩또한 변환시킵니다.\n체리 투사체를 튕기는 스파이시 스쿼시로 바꾸며\n튕길 때 마다 폭발합니다.\n콩을 20개 변화 시키면 앞에 스파이시 스쿼시를\n생성합니다.\n파괴시 할라페뇨와 동일한 효과를 발동됩니다.\n<color=black><page>오디세이 버프:\n</color><color=#8B0000>1. 스파이시 스쿼시 생산에 필요한 투사체 개수 10개로 감소합니다.\n2. 스파이시 스쿼시를 만들 공간이 없으면 스파이시 스쿼시의 폭발 효과를 즉시 발동합니다.\n<color=black><page>오디세이 식물 시너지: 우리들의 화력은 최강</color><color=#8B0000>\n<color=black>•</color> 모든 체리 개틀링와 스쿼시 지옥불나무의\n오디세이 버프를 획득해야 상점에서 구매 가능합니다.\n<color=black>•</color> 체리 개틀링와 스쿼시 지옥불나무가 동시에 존재할 때,\n체리 개틀링은 이제 더 많은 체리를 쏘며 스쿼시 지옥불나무는 스파이시 스쿼시를 생산할 공간이 없을 시 모든 줄을 불태웁니다.</color></color></size>",
+      "info": "<size=36>콩을 강화하며 스파이시 스쿼시를 만들어냅니다.\n\n<color=black>사용 조건: </color><color=#8B0000>오디세이 | 해금 가능</color>\n<color=black>특수 능력: </color><color=#8B0000>일반 콩을 80 대미지의 지옥불콩으로 변환시키고, 하위 단계의 불콩또한 변환시킵니다.\n폭발성 체리를 튕기는 스파이시 스쿼시로 바꾸며\n튕길 때 마다 폭발합니다.\n콩을 20개 변화 시키면 앞에 스파이시 스쿼시를\n생성합니다.\n파괴시 할라페뇨와 동일한 효과를 발동됩니다.\n<color=black><page>오디세이 버프:\n</color><color=#8B0000>1. 스파이시 스쿼시 생산에 필요한 투사체 개수 10개로 감소합니다.\n2. 스파이시 스쿼시를 만들 공간이 없으면 스파이시 스쿼시의 폭발 효과를 즉시 발동합니다.\n<color=black><page>오디세이 식물 시너지: 풀 화력</color><color=#8B0000>\n<color=black>•</color> 모든 체리 개틀링와 스쿼시 지옥불나무의\n오디세이 버프를 획득해야 상점에서 구매 가능합니다.\n<color=black>•</color> 체리 개틀링와 스쿼시 지옥불나무가 동시에 존재할 때,\n체리 개틀링은 이제 더 많은 체리를 쏘며 스쿼시 지옥불나무는 스파이시 스쿼시를 생산할 공간이 없을 시 모든 줄을 불태웁니다.</color></color></size>",
       "cost": "\n<size=36>조합식: <color=#8B0000>인페르노우드 + 스파이시 스쿼시</color>"
     },
     {
       "seedType": 903,
       "name": "체리질라",
       "introduce": "<page><size=36><color=black>체리질라는 자기 머리 스타일에 대해 \"많은 식물이\n내 공룡 같은 머리 스타일을 좋아하지\"라고 자랑스럽게\n말합니다. \"내가 좀비를 먹고 체리를 뱉는 거?\n으 더럽지! 근데 내 일인 걸 어쩌겠어!\"</color></size>",
-      "info": "<size=36>체리질라는 좀비를 공격하고 체리를 발사합니다.\n\n<color=black>사용 조건: </color><color=#8B0000>오디세이 | 해금 가능</color>\n<color=black>체력: </color><color=#8B0000>8000</color>\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>1000 | 1.75초</color>\n<color=black>공격 범위: </color><color=#8B0000>전방 2타일</color>\n<color=black>특수 능력: </color><color=#8B0000>\n<color=black>•</color> 좀비를 공격하면 좀비에게 1000 대미지를 주고\n자신의 체력을 1000 회복하며, 공격한 좀비의 일부를\n폭발하는 체리(300)로 바꿔 발사해 추가로 대미지를 줍니다.\n<color=black>•</color> 체력이 2000 이하인 좀비를 즉사시키고, 이 경우\n체리질라의 체력을 8000 회복시킵니다.(이를 통해\n최대 체력의 400%까지 체력을 보유할 수 있습니다)\n<color=black>•</color> 위 방식으로 획득한 추가 체력은 초 당 800만큼\n소모되며 일반 최대 체력(8000)에 도달하면\n더이상 체력을 소모하지 않게 됩니다.\n<color=black>•</color> 차량 타입의 좀비는 체리질라를 즉사시키는 대신\n최대 체력의 1/3만 닳게 합니다.</color>\n<color=black><page>오디세이 버프:</color><color=#8B0000>\n1. 체력 회복량 300%으로 증가합니다.\n2. 소화시간이 15초로 줄어듭니다.\n<color=black><page>오디세이 식물 시너지: 둘은 단단하지만 최강</color><color=#8B0000>\n<color=black>•</color> 모든 체리질라와 흑요석 키다리 호두의\n오디세이 버프를 획득해야 상점에서 구매 가능합니다.\n<color=black>•</color> 체리질라와 흑요석 키다리 호두가 동시에 존재할 때,\n체리질라의 공격이 범위 공격으로 바뀌며 최대 체력\n상한이 사라집니다. 흑요석 키다리 호두의\n받는 대미지가 90% 감소합니다.</color></color></size>",
+      "info": "<size=36>체리질라는 좀비를 공격하고 체리를 발사합니다.\n\n<color=black>사용 조건: </color><color=#8B0000>오디세이 | 해금 가능</color>\n<color=black>체력: </color><color=#8B0000>8000</color>\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>1000 | 1.75초</color>\n<color=black>공격 범위: </color><color=#8B0000>전방 2타일</color>\n<color=black>특수 능력: </color><color=#8B0000>\n<color=black>•</color> 큰 식물. 차량을 밀쳐내며, 한 번의 공격으로\n최대 체력의 1/3만큼만 피해를 받습니다.\n<color=black>•</color> 폭발성 체리에 맞으면 체력을 회복합니다. 초과한\n체력은 초당 800씩 소모되며,최대 32000 체력까지 유지됩니다. \n<color=black><page>•</color> 40초마다 연옥 보스 좀비가 아닌 좀비 하나를 집어삼켜 체력을 최대 체력의 400%를 회복하고, ‘포식’ 포인트를 1 얻습니다. \n<color=black>•</color> 물기 공격은 범위 피해를 주며, 좀비 최대 체력의 (3% + 0.2%×포식 포인트)만큼 추가 대미지를 줍니다. 동일한 수치만큼 체력을 회복하며, 공격 후 폭발성 체리를 뱉어냅니다.\n<color=black>•</color> 무적 효과: 치명적인 피해를 받을 경우 체력이 1 남은 상태로 5초 동안 버팁니다. (10초마다 1회 발동)\n<color=black><page>오디세이 버프:</color><color=#8B0000>\n1. 체력 회복량 300%으로 증가합니다.\n2. 소화시간이 15초로 줄어듭니다.\n<color=black><page>오디세이 식물 시너지: 둘은 단단하지만 최강</color><color=#8B0000>\n<color=black>•</color> 모든 체리질라와 흑요석 키다리 호두의\n오디세이 버프를 획득해야 상점에서 구매 가능합니다.\n<color=black>•</color> 체리질라와 흑요석 키다리 호두가 동시에 존재할 때,\n체리질라의 공격이 범위 공격으로 바뀌며 최대 체력\n상한이 사라집니다. 흑요석 키다리 호두의\n받는 대미지가 90% 감소합니다.</color></color></size>",
       "cost": "\n<size=36>조합식: <color=#8B0000>먹깨비질라 + 체리 먹깨비</color>"
     },
     {
@@ -528,7 +549,7 @@
       "seedType": 906,
       "name": "옵시디언락",
       "introduce": "<size=36><color=black>불과 얼음의 세례를 받은 옵시디언락은 강철처럼 단단해졌습니다. 그러나 성격 또한 불안정해졌습니다. 이는 입안에 응축된 강철 때문으로 보이며, 그로 인해 말을 하기를 꺼려하게 되었습니다.</color></size>",
-      "info": "<size=36>옵시디언락은 타이어를 여러 번 터뜨리면서도 경이로운 대미지를 선사합니다.\n\n<color=black>사용 조건: </color><color=#8B0000>오디세이 | 스타터 선택</color>\n<color=black>체력: </color><color=#8B0000>8000</color>\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>300 | 1초</color>\n<color=black>공격 횟수: </color><color=#8B0000>2번</color>\n<color=black>공격 범위: </color><color=#8B0000>1타일</color>\n<color=black>특수 능력: </color><color=#8B0000>15초마다 체력을 500 회복합니다.</color>\n<color=black><page>오디세이 버프:\n</color><color=#8B0000>주는 대미지가 500% 증가합니다. | 흑요석 호두 아종 해금.\n2. 받는 대미지가 95% 감소합니다.</color></size>",
+      "info": "<size=36>옵시디언락은 타이어를 여러 번 터뜨리면서도 경이로운 대미지를 선사합니다.\n\n<color=black>사용 조건: </color><color=#8B0000>오디세이 | 스타터 선택</color>\n<color=black>체력: </color><color=#8B0000>8000</color>\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>300 | 1초</color>\n<color=black>공격 횟수: </color><color=#8B0000>2번</color>\n<color=black>공격 범위: </color><color=#8B0000>1 타일</color>\n<color=black>특수 능력: </color><color=#8B0000>15초마다 체력을 500 회복합니다.</color>\n<color=black><page>오디세이 버프:\n</color><color=#8B0000>주는 대미지가 500% 증가합니다. | 흑요석 호두 아종 해금.\n2. 받는 대미지가 95% 감소합니다.</color></size>",
       "cost": "\n<size=36>조합식: <color=#8B0000>아이스락 + 인페르노락</color>"
     },
     {
@@ -542,7 +563,7 @@
       "seedType": 908,
       "name": "고드름 개틀링 버섯",
       "introduce": "<size=34><color=black>한때 \"우린 군대에 갈 거야!\"라고 외쳤던 작은 뻐끔 버섯들이 결연한 눈빛의 베테랑으로 성장했습니다. 어디서든, 언제든, 고드름 개틀링 버섯 부대는 임무 완수를 위해 헌신합니다.</color></size>",
-      "info": "<size=34>최대 3마리까지 겹쳐 심을 수 있어 한번에 12개의 고드름을 발포합니다!\n\n<color=black>사용 조건: </color><color=#8B0000>오디세이 | 스타터 선택</color>\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>20 | 1.5초</color>\n<color=black>공격 횟수: </color><color=#8B0000>4번\n<color=#0077b6>빙결 시스템: </color><color=#8B0000>공격마다 좀비에게 빙결 포인트를 5 누적시키고, 2번 관통합니다. 각 고드름은 빙결된 좀비에게는 400%의 추가 피해를 줍니다.</color>\n<color=black>오디세이 버프:\n</color><color=#8B0000>1. 투사체가 무한으로 관통합니다. | 대미지가 50% 증가합니다.\n2. 빙결 디버프에 걸린 좀비에게 주는 대미지가 1000% 증가합니다. | 태양 개틀링 버섯 아종 해금</color></size>",
+      "info": "<size=34>최대 3마리까지 겹쳐 심을 수 있어 한번에 12개의 고드름을 발포합니다!\n\n<color=black>사용 조건: </color><color=#8B0000>오디세이 | 스타터 선택</color>\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>20 | 1.5초</color>\n<color=black>공격 횟수: </color><color=#8B0000>4번\n<color=#0077b6>빙결 시스템: </color><color=#8B0000>공격마다 좀비에게 빙결 포인트를 5 누적시키고, 2번 관통합니다. 각 고드름은 빙결된 좀비에게는 400%의 추가 피해를 줍니다.</color>\n<color=black>오디세이 버프:\n</color><color=#8B0000>1. 투사체가 무한으로 관통하며 처음 피격 시 3갈래로 나뉩니다.\n2. 빙결 면역 좀비에게 주는 피해가 1200% 증가합니다. | 태양 개틀링 버섯 아종 해금</color></size>",
       "cost": "\n<size=36>조합식: <color=#8B0000>뻐끔 버섯 + 백설 개틀링"
     },
     {
@@ -563,7 +584,7 @@
       "seedType": 911,
       "name": "레이저 호박",
       "introduce": "<size=32><color=black>\"자석 버섯의 힘은 여전히 무적이지.\" 레이저 호박이 말했습니다. \"항공모함이 등장하고도 합성 장갑, 전자기 캐터펄트, 플라즈마포 같은 건 거의 한 세기 뒤에야 나왔잖아.\" 다른 식물들은 레이저 호박의 첨단 장비를 부러워했지만, 그의 힘이 사실은 중성자 스타푸르츠 유성에서 비롯된 것임을 아는 이는 오직 자석 버섯뿐이었습니다.</color></size>",
-      "info": "<size=32>적에게 유도하는 레이저 드론을 소환합니다.\n\n<color=black>사용 조건: </color><color=#8B0000>오디세이 | 해금 가능</color>\n<color=black>체력: </color><color=#8B0000>16000</color>\n\n<color=#666699>자기장 시스템: </color> <color=#8B0000>만약 다른 금속 호박과 자기장이 연결되어 있을 시 해당 호박의 부가 능력을 얻을 수 있습니다, 또한 30초마다 자기장에 연결된 기계 호박을 같은 레이저 호박으로 변형시킵니다.</color>\n<color=black>특수 능력: </color><color=#8B0000>\n<color=black>•</color> 기본적으로 레이저 드론을 가지고 다니며, 30초마다 3×3 영역 내로 레이저 드론을 상단 좌측부터 소환합니다.\n<color=black>•</color> 섭취시 해당 좀비에게 100 피해를 줍니다.\n<color=black><page>오디세이 버프:\n</color><color=#8B0000>1. 소환되는 윙맨의 수가 3으로 증가합니다.\n2. 윙맨 대미지가 300% 증가합니다.</color></size>",
+      "info": "<size=32>적에게 유도하는 레이저 드론을 소환합니다.\n\n<color=black>사용 조건: </color><color=#8B0000>오디세이 | 해금 가능</color>\n<color=black>체력: </color><color=#8B0000>16000</color>\n<color=#666699>자기장 시스템: </color> <color=#8B0000>만약 다른 금속 호박과 자기장이 연결되어 있을 시 해당 호박의 부가 능력을 얻을 수 있습니다, 또한 30초마다 자기장에 연결된 기계 호박을 같은 레이저 호박으로 변형시킵니다.</color>\n<color=black>특수 능력: </color><color=#8B0000>\n<color=black>•</color> 기본적으로 레이저 드론을 가지고 다니며, 30초마다 3×3 영역 내로 레이저 드론을 상단 좌측부터 소환합니다.\n<color=black>•</color> 섭취시 해당 좀비에게 100 피해를 줍니다.\n<color=black><page>오디세이 버프:\n</color><color=#8B0000>1. 소환되는 윙맨의 수가 3으로 증가합니다.\n2. 윙맨 대미지가 300% 증가합니다.</color></size>",
       "cost": "\n<size=36>조합식: <color=#8B0000>호박 착륙장 + 자석 블로버</color>"
     },
     {
@@ -577,14 +598,14 @@
       "seedType": 913,
       "name": "흑요석 키다리 호두",
       "introduce": "<size=32><color=black>친구의 보호를 받기보다는, 오히려 친구를 지켜주고 싶어 합니다. 보석처럼 단단한 몸과 흔들림 없는 눈빛을 지닌 그는 흑요석 호두의 영혼에서 태어나 얼음과 불의 시련을 견뎌냈습니다. 언젠가 몸이 닳아버릴 날이 오더라도, 다른 식물들을 끝까지 지켜내겠다는 결심은 흔들리지 않습니다.</color></size></size>",
-      "info": "<size=32>흑요석 키다리 호두는 일반 키다리 호두의 400%의 체력을 가졌습니다.\n\n<color=black>사용 조건: </color><color=#8B0000>오디세이 | 해금 가능</color>\n<color=black>체력: </color><color=#8B0000>32000</color>\n<color=black>특수 능력: </color><color=#8B0000>\n<color=black>•</color> 15초마다 체력을 1500 회복합니다.\n<color=black>•</color> 큰 식물(식물을 넘어가는 좀비를 막습니다)\n짓밟는 공격에 200 피해를 대신 입습니다.\n<color=black>•</color> 피해를 입을 시 맵의 모든 흑요석 키다리 호두가 피해를 나눠서 받습니다.\n<color=black>•</color> 얼음 버섯 효과나 할라페뇨의 효과를 받을 시 체력을 대미지량의 10%만큼 회복합니다.\n<color=black>•</color> 풍선 좀비 접근시 풍선을 터트립니다.</color>\n<color=black>\n<color=black>오디세이 버프:\n</color><color=#8B0000>1. 이제 체력이 96000으로 높아집니다.\n2. 흑요석 키다리 호두의 왼쪽과 오른쪽의 식물이 받는 대미지를 흡수합니다.\n\n<color=black>오디세이 식물 시너지: 둘은 단단하지만 최강</color><color=#8B0000>\n<color=black>•</color> 모든 체리질라와 흑요석 키다리 호두의\n오디세이 버프를 획득해야 상점에서 구매 가능합니다.\n<color=black>•</color> 체리질라와 흑요석 키다리 호두가 동시에 존재할 때,\n체리질라의 공격이 범위 공격으로 바뀌며 최대 체력\n상한이 사라집니다. 흑요석 키다리 호두의\n받는 대미지가 90% 감소합니다.</color></color>",
+      "info": "<size=32>흑요석 키다리 호두는 일반 키다리 호두의 400%의 체력을 가졌습니다.\n\n<color=black>사용 조건: </color><color=#8B0000>오디세이 | 해금 가능</color>\n<color=black>체력: </color><color=#8B0000>32000</color>\n<color=black>특수 능력: </color><color=#8B0000>\n<color=black>•</color> 15초마다 체력을 1500 회복합니다.\n<color=black>•</color> 큰 식물(식물을 넘어가는 좀비를 막습니다)\n짓밟는 공격에 대해 면역이며, 받는 피해량은 최대 200으로 제한됩니다.\n<color=black>•</color> 피해를 입을 시 맵의 모든 흑요석 키다리 호두가 피해를 나눠서 받습니다.\n<color=black>•</color> 얼음 버섯 효과나 할라페뇨의 효과를 받을 시 체력을 대미지량의 10%만큼 회복합니다.\n<color=black>•</color> 풍선 좀비 접근시 풍선을 터트립니다.</color>\n<color=black>\n<color=black>오디세이 버프:\n</color><color=#8B0000>1. 이제 체력이 96000으로 높아집니다.\n2. 흑요석 키다리 호두의 왼쪽과 오른쪽의 식물이 받는 대미지를 흡수합니다.\n\n<color=black>오디세이 식물 시너지: 둘은 단단하지만 최강</color><color=#8B0000>\n<color=black>•</color> 모든 체리질라와 흑요석 키다리 호두의\n오디세이 버프를 획득해야 상점에서 구매 가능합니다.\n<color=black>•</color> 체리질라와 흑요석 키다리 호두가 동시에 존재할 때,\n체리질라의 공격이 범위 공격으로 바뀌며 최대 체력\n상한이 사라집니다. 흑요석 키다리 호두의\n받는 대미지가 90% 감소합니다.</color></color>",
       "cost": "\n<size=36>조합식: <color=#8B0000>얼음 키다리 호두 + 불꽃 키다리 호두</color>"
     },
     {
       "seedType": 914,
       "name": "위더 펄트",
       "introduce": "<size=36><color=black>과거의 고난을 이겨낸 위더 펄트는 이제 평온한 삶을 바라고 있습니다. \"이제 내가 원하는 건 고전 영화나 보면서 조용히 사는 거야.\"</color>",
-      "info": "<size=36>속사포로 투척하거나, 혹은 한꺼번에 투척할 수 있습니다.\n\n<color=black>사용 조건: </color><color=#8B0000>오디세이 | 해금 가능</color>\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>120 | 2초\n<color=black>공격 범위: </color><color=#8B0000>스플래시(3×3)</color>\n<color=black>특수 능력: </color><color=#8B0000>매 공격마다 42% 확률로 연속으로 발사합니다, 동일한 확률로 1라인의 모든 좀비를 향해 투사체를 투척합니다. 발사체는 적중 시 마늘쌈, 깐마늘(25% 확률로 갈릭 버터), 통마늘으로 분열됩니다.</color>\n<page><color=black>오디세이 버프:\n<color=#8B0000>1. 매 공격마다 확정적으로 1라인의 모든 좀비를 향해 투사체를 투척합니다.\n2. 1 레벨: 독 포인트가 부여되면 바로 중독하며, 포인트 상한이 해제될때 최고 120으로 상향됩니다.\n2 레벨: 독 포인트의 상한을 완전히 제거됩니다.</color>",
+      "info": "<size=36>속사포로 투척하거나, 혹은 한꺼번에 투척할 수 있습니다.\n\n<color=black>사용 조건: </color><color=#8B0000>오디세이 | 해금 가능</color>\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>120 | 2초\n<color=black>공격 범위: </color><color=#8B0000>스플래시(3×3)</color>\n<color=black>특수 능력: </color><color=#8B0000>매 공격마다 42% 확률로 연속으로 발사합니다, 동일한 확률로 1 라인의 모든 좀비를 향해 투사체를 투척합니다. 발사체는 적중 시 마늘쌈, 깐마늘(25% 확률로 갈릭 버터), 통마늘으로 분열됩니다.</color>\n<page><color=black>오디세이 버프:\n<color=#8B0000>1. 매 공격마다 확정적으로 1 라인의 모든 좀비를 향해 투사체를 투척합니다.\n2. 1 레벨: 독 포인트가 부여되면 바로 중독하며, 포인트 상한이 해제될때 최고 120으로 상향됩니다.\n2 레벨: 독 포인트의 상한을 완전히 제거됩니다.</color>",
       "cost": "\n<size=36>조합식: <color=#8B0000>샐러드 펄트 + 통마늘 펄트</color>"
     },
     {
@@ -598,7 +619,7 @@
       "seedType": 916,
       "name": "마이더스 우산잎",
       "introduce": "<size=32><color=black>겉모습만 봐도 마이더스 우산잎은 장사에 대한 재주가 뛰어나다는 걸 알 수 있습니다. \"맞아, 이 에메랄드 모자는 블록으로 가득한 세계에서 어떤 이와 거래해서 얻은 거야…\"</color>",
-      "info": "<size=32>연금술사 우산잎과 양배추 우산잎의 특성을 둘다 가지고 있습니다!\n\n<color=black>사용 조건: </color><color=#8B0000>오디세이 | 스타터 선택</color>\n<color=black>체력: </color><color=#8B0000>4000</color>\n<color=black>특수 능력: </color><color=#8B0000>\n<color=black>•</color> 조합된 두 식물의 능력이 계승되었습니다.\n<color=black>•</color> 삼치창으로부터 받는 피해량이 70%로 감소되었습니다.\n<color=black>•</color> 튕기는 투사체의 대미지가 100% 증가합니다.\n<color=black>•</color> 또한 투사체가 바로 3라인 내의 좀비에게도 적중할 수 있습니다.\n<color=black>•</color> 2500 골드로 궁극기를 사용하면 체력이 50% 이하인 좀비를 즉시 처치할 수 있습니다.</color>\n<color=black><page>오디세이 버프:<color=#8B0000>\n1. 대미지 버프 수치가 300%으로 증가합니다.\n2. 좀비가 근처에 있을 때 자동으로 궁극기가 발동됩니다. 쿨타임 7.5초 | 에이기스 우산잎 아종 해금</color>",
+      "info": "<size=32>연금술사 우산잎과 양배추 우산잎의 특성을 둘다 가지고 있습니다!\n\n<color=black>사용 조건: </color><color=#8B0000>오디세이 | 스타터 선택</color>\n<color=black>체력: </color><color=#8B0000>4000</color>\n<color=black>특수 능력: </color><color=#8B0000>\n<color=black>•</color> 조합된 두 식물의 능력이 계승되었습니다.\n<color=black>•</color> 삼치창으로부터 받는 피해량이 70%로 감소되었습니다.\n<color=black>•</color> 튕기는 투사체의 대미지가 100% 증가합니다.\n<color=black>•</color> 또한 투사체가 바로 3 라인 내의 좀비에게도 적중할 수 있습니다.\n<color=black>•</color> 2500 골드로 궁극기를 사용하면 체력이 50% 이하인 좀비를 즉시 처치할 수 있습니다.</color>\n<color=black><page>오디세이 버프:<color=#8B0000>\n1. 대미지 버프 수치가 300%으로 증가합니다.\n2. 좀비가 근처에 있을 때 자동으로 궁극기가 발동됩니다. 쿨타임 7.5초 | 에이기스 우산잎 아종 해금</color>",
       "cost": "\n<size=36>조합식: <color=#8B0000>연금술사 우산잎 + 양배추 우산잎</color>"
     },
     {
@@ -619,7 +640,7 @@
       "seedType": 919,
       "name": "피닉스 삼발슈터",
       "introduce": "<size=34><color=black>불이 정말로 식물에게 부활을 가져다주는지는 아무도 모릅니다, 그저 전설일 뿐이죠. 그 전설을 좇던 자들은 모두 재가 되었고, 결국 그가 새로운 전설이 되었습니다. 몇 번이나 불길을 견뎌내야 성공할 수 있는지는 알 수 없지만, 그들을 위해서라면 반드시 해내야 합니다.</color>",
-      "info": "<size=34>불꽃에서 되살아나리! \n\n<color=black>사용 조건: </color><color=#8B0000>오디세이 | 스타터 선택</color>\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>160(각 불 콩 마다) | 1.5초</color>\n<color=black>공격 범위: </color><color=#8B0000>3 라인</color>\n<color=black>특수 능력: </color><color=#8B0000>\n<color=black>•</color> 조합되거나 파괴될 시 모든 라인을 불태웁니다.\n<color=black>•</color> 화염 디버프를 주는 동시에, 2번 관통하는 투사체를 발사힙니다.\n<color=black>•</color> 투사체가 스쿼시 지옥불나무에 닿을 시 대미지가 200% 증가합니다</color>\n<page><color=black>오디세이 버프:\n<color=#8B0000>1. 화염 대미지가 150%로 증가하고, 점화된 콩들은 이제 디버프를 관통합니다.\n2. 투사체가 무한으로 관통하게 되고, 화염 폭발 피해를 입힙니다.</color>",
+      "info": "<size=34>불꽃에서 되살아나리! \n\n<color=black>사용 조건: </color><color=#8B0000>오디세이 | 스타터 선택</color>\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>160(각 피닉스 콩 마다) | 1.5초</color>\n<color=black>공격 범위: </color><color=#8B0000>3 라인</color>\n<color=black>특수 능력: </color><color=#8B0000>\n<color=black>•</color> 조합되거나 파괴될 시 모든 라인을 불태웁니다.\n<color=black>•</color> 화염 디버프를 주는 동시에, 2번 관통하는 투사체를 발사힙니다.\n<color=black>•</color> 투사체가 스쿼시 지옥불나무에 닿을 시 대미지가 200% 증가합니다</color>\n<page><color=black>오디세이 버프:\n<color=#8B0000>1. 화염 대미지가 150%로 증가하고, 점화된 콩들은\n이제 디버프를 관통합니다.\n2. 투사체가 무한으로 관통하게 되고, 화염 폭발 피해를 입힙니다. | 피닉스 드론 아종 해금</color>",
       "cost": "\n<size=36>조합식: <color=#8B0000>타버린 삼발슈터 + 할라페뇨</color>"
     },
     {
@@ -654,7 +675,7 @@
       "seedType": 924,
       "name": "유혹 자석 버섯",
       "introduce": "<align=justified><size=36><color=black>사랑과 우정의 힘으로, 심장이 멈춘 썩은 좀비조차 우리의 가장 친한 친구이자 최고의 동맹이 될 수 있습니다! 물론, 그와 함께 온갖 금속 자석으로 구동되는 다량의 수상한 정신 변형 포자도 필요합니다. 인체에 <b>매우<b> 안전한 포자죠. 음… 적어도 지금은 말입니다…\n- TetsuDaPlanta (@tetsuchris)</color>",
-      "info": "<size=34>카리스마 최대치.\n\n<color=black>사용 조건: </color><color=#8B0000>오디세이 | 해금 가능</color>\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>80 | 2초</color>\n<color=black>특수 능력: </color><color=#8B0000>\n<color=black>•</color> 투사체는 반경 1타일의 범위에 스플래시 대미지를 주며, 체력이 50% 이하인 좀비를 최면에 걸리게 합니다.\n<color=black>•</color> 좀비는 해당 식물을 섭취할수 없으며, 섭취시 매혹 상태가 됩니다.\n<color=black>•</color> 금속 물체를 주면 30초 동안 1단계 충전을 얻으며, 최대 2단계까지 충전할 수 있습니다.\n<color=black>•</color> 1충전일 시 공격을 2번 발사하고, 2충전일 시 공격을 4번 발사합니다.\n<color=#666699>자기장 시스템:</color> 같은 자기장 식물은 대미지 5% 피해 증가를 제공합니다.</color>\n<color=black>오디세이 버프:\n<color=#8B0000>1. 체력 상한이 100%로 증가합니다.\n2. 이제 항상 2스택이 유지됩니다. | 공격 속도가 1초로 감소합니다.</color>",
+      "info": "<size=34>카리스마 최대치.\n\n<color=black>사용 조건: </color><color=#8B0000>오디세이 | 해금 가능</color>\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>80 | 2초</color>\n<color=black>특수 능력: </color><color=#8B0000>\n<color=black>•</color> 투사체는 반경 1 타일의 범위에 스플래시 대미지를 주며, 체력이 50% 이하인 좀비를 최면에 걸리게 합니다.\n<color=black>•</color> 좀비는 해당 식물을 섭취할수 없으며, 섭취시 매혹 상태가 됩니다.\n<color=black>•</color> 금속 물체를 주면 30초 동안 1단계 충전을 얻으며, 최대 2단계까지 충전할 수 있습니다.\n<color=black>•</color> 1충전일 시 공격을 2번 발사하고, 2충전일 시 공격을 4번 발사합니다.\n<color=#666699>자기장 시스템:</color> 같은 자기장 식물은 대미지 5% 피해 증가를 제공합니다.</color>\n<color=black>오디세이 버프:\n<color=#8B0000>1. 체력 상한이 100%로 증가합니다.\n2. 이제 항상 2스택이 유지됩니다. | 공격 속도가 1초로 감소합니다.</color>",
       "cost": "\n<size=36>조합식: <color=#8B0000>매혹 버섯 + 최면 자석 버섯</color>"
     },
     {
@@ -689,7 +710,7 @@
       "seedType": 929,
       "name": "태양 개틀링 버섯",
       "introduce": "<size=36><color=black>\"생산도 전투의 일부다!\" 라고 태양 개틀링 버섯이 땀을 닦으며 말했습니다. 부대는 ‘선샤인 베이 건설대’로 재편되었지만, 전투 의지는 여전히 꺾이지 않았습니다.</color>",
-      "info": "<size=36>당신에게 많은 햇빛을 제공합니다.\n\n<color=black>사용 조건: </color><color=#8B0000>오디세이 | 고드름 개틀링 버섯의 버프 선택</color>\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>20 | 1.5초</color>\n<color=black>공격 횟수: </color><color=#8B0000>4번</color>\n<color=black>특수 능력: </color><color=#8B0000>\n<color=black>•</color> 고드름 개틀링 버섯의 아종\n<color=black>•</color>  빙결 포인트를 부여하지 못하는 대신 첫 번째와 두 번째 좀비에 적중할 때 5 태양을 떨어뜨립니다.\n<color=black>•</color> 이후 관통마다 20의 추가 피해를 입히지만, 공격마다 5 태양을 소모합니다.(총 태양이 15,000 미만일 경우 태양을 소모하지 않습니다)\n<color=black>•</color> 오디세이 버프의 \"획득하는 태양이 100% 증가합니다.\" 효과와 시너지 효과가 있으며, 오디세이 버프가 활성화되었을 때 떨어지는 태양은 각각 15로 계산됩니다.</color><size=36>",
+      "info": "<size=36>당신에게 많은 태양을 제공합니다.\n\n<color=black>사용 조건: </color><color=#8B0000>오디세이 | 고드름 개틀링 버섯의 버프 선택</color>\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>20 | 1.5초</color>\n<color=black>공격 횟수: </color><color=#8B0000>4번</color>\n<color=black>특수 능력: </color><color=#8B0000>\n<color=black>•</color> 고드름 개틀링 버섯의 아종\n<color=black>•</color>  빙결 포인트를 부여하지 못하는 대신 첫 번째와 두 번째 좀비에 적중할 때 5 태양을 떨어뜨립니다.\n<color=black>•</color> 이후 관통마다 20의 추가 피해를 입히지만, 공격마다 5 태양을 소모합니다.(총 태양이 15,000 미만일 경우 태양을 소모하지 않습니다)\n<color=black>•</color> 오디세이 버프의 \"획득하는 태양이 100% 증가합니다.\" 효과와 시너지 효과가 있으며, 오디세이 버프가 활성화되었을 때 떨어지는 태양은 각각 15로 계산됩니다.</color><size=36>",
       "cost": "\n<size=36>전환식: <color=#8B0000> 얼음 버섯 <-> 해바라기</color>"
     },
     {
@@ -703,7 +724,7 @@
       "seedType": 931,
       "name": "흑요석 스파이크 호두",
       "introduce": "<align=justified><size=36><color=black>흑요석 스파이크 호두는 포옹을 사랑합니다. \"따뜻한 포옹은 가장 난폭한 좀비도 진정시킬 수 있지.\" 그의 말처럼, 그가 껴안은 모든 좀비들은 지금 잔디밭에 평온히 누워 있습니다… 아주 고요하게요.",
-      "info": "<size=36>가시로 좀비랑 탈것으로부터 방어합니다.\n\n<color=black>사용 조건: </color><color=#8B0000>오디세이 | 옵시디언락의 버프 선택</color>\n<color=black>체력: </color><color=#8B0000>16000</color>\n<color=black>특수 능력: </color><color=#8B0000>\n<color=black>•</color> 옵시디언락의 아종\n<color=black>•</color> 섭취시 500 피해를 반사합니다.(오디세이 버프 적용 후)\n<color=black>•</color> 받는 피해는 최대 1000입니다.\n<color=black>•</color> 15초마다 체력을 1500 회복합니다.\n<color=black>•</color> 타이어를 관통하여 차량 좀비에게 최대 체력의 50% 피해를 주고, 밀어냅니다.\n<color=black>•</color> 옵시디언락의 버프들을 적용 받습니다.</color>",
+      "info": "<size=36>가시로 좀비랑 탈것으로부터 방어합니다.\n\n<color=black>사용 조건: </color><color=#8B0000>오디세이 | 옵시디언락의 버프 선택</color>\n<color=black>체력: </color><color=#8B0000>16000</color>\n<color=black>특수 능력: </color><color=#8B0000>\n<color=black>•</color> 옵시디언락의 아종\n<color=black>•</color> 섭취시 500 피해를 반사합니다.\n(오디세이 버프 적용 후)\n<color=black>•</color> 받는 피해는 최대 1000입니다.\n<color=black>•</color> 15초마다 체력을 1500 회복합니다.\n<color=black>•</color> 타이어를 관통하여 차량 좀비에게 최대 체력의 50% 피해를 주고, 밀어냅니다.\n<color=black>•</color> 옵시디언락의 버프들을 적용 받습니다.</color>",
       "cost": "\n<size=36>전환식: <color=#8B0000> 스파이크락 <-> 호두</color>"
     },
     {
@@ -745,7 +766,7 @@
       "seedType": 937,
       "name": "테슬라 우산잎",
       "introduce": "<align=justified><size=36><color=black>한때 식물 고아원의 사랑받는 원장이었던 테슬라 우산잎은 단순한 돌보미가 아니라 가족과 같았습니다. 그녀의 넓은 잎은 어린 새싹들에게 완벽한 놀이터가 되어 그늘과 편안함, 기쁨을 제공했습니다. 비록 그 시절은 지났지만, 그녀의 친절은 여전히 남아 있습니다. \"어머, 이 마시멜로 먹어볼래요, 얘야?\" 그녀의 따뜻함은 변함없습니다.</color>",
-      "info": "<size=36>레이저로 공격하며, 에너지를 소모해 피해를 막거나 치료합니다.\n\n<color=black>사용 조건: </color><color=#8B0000>오디세이 | 스타터 선택</color>\n<color=black>체력: </color><color=#8B0000>1000+2000(보호막)</color>\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>300 | 1초</color>\n<color=black>공격 범위: </color><color=#8B0000>(2×빛 레벨+1)줄</color>\n<color=black>특수 능력: </color><color=#8B0000>\n<color=black>•</color> 발광 우산잎의 특성이 계승되었습니다.\n<color=black>•</color> 레이저를 발사하여 좀비를 공격하며, 매초 100% 피해를 줍니다. 공중 좀비를 우선 공격하며, 공중 대상에는 피해가 300%가 됩니다. 한 번에 최대 4마리의 좀비를 공격할 수 있습니다.\n<color=black>•</color> 2초마다 최대 에너지의 10%를 소모하여 3×3 범위 내 최대 2개의 피해를 입은 식물을 최대 체력의 5%(최대 500)만큼 회복합니다. 빛 레벨이 1을 초과할수록 회복량은 레벨마다 100%씩 증가합니다.\n<color=black>•</color> 두 개의 테슬라 우산잎을 위아래로 배치하면 서로 연결되어 감지 범위가 화면 전체로 확장됩니다. 이 상태에서 두 개의 테슬라 우산잎은 동시에 최대 6마리의 좀비를 공격할 수 있으며, 피해가 두 배로 증가합니다. 또한 정확히 6마리의 좀비를 공격 중일 때, 6초마다 임의의 좀비 위치에서 3×3 범위의 폭발이 발생하며, 공격력의 300%만큼 피해를 줍니다.</color><page>\n<color=black>오디세이 버프:</color>\n<color=#8B0000>1. 에너지 상한이 1000% 증가합니다. | 에너지 충전 속도가 2000% 증가합니다. | 체력 회복 속도가 200% 증가합니다.\n2. 일반 공격 대미지가 300% 증가합니다. | 폭발 대미지가 1000% 증가합니다. | 공격 속도가 2초로 감소합니다.</color>",
+      "info": "<size=36>레이저로 공격하며, 에너지를 소모해 피해를 막거나 치료합니다.\n\n<color=black>사용 조건: </color><color=#8B0000>오디세이 | 스타터 선택</color>\n<color=black>체력: </color><color=#8B0000>1000 + 2000(보호막)</color>\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>300 | 1초</color>\n<color=black>공격 범위: </color><color=#8B0000>(2×빛 레벨+1)줄</color>\n<color=black>특수 능력: </color><color=#8B0000>\n<color=black>•</color> 발광 우산잎의 특성이 계승되었습니다.\n<color=black>•</color> 레이저를 발사하여 좀비를 공격하며, 매초 100% 피해를 줍니다. 공중 좀비를 우선 공격하며, 공중 대상에는 피해가 300%가 됩니다. 한 번에 최대 4마리의 좀비를 공격할 수 있습니다.\n<color=black>•</color> 2초마다 최대 에너지의 10%를 소모하여 3×3 범위 내 최대 2개의 피해를 입은 식물을 최대 체력의 5%(최대 500)만큼 회복합니다. 빛 레벨이 1을 초과할수록 회복량은 레벨마다 100%씩 증가합니다.\n<color=black>•</color> 두 개의 테슬라 우산잎을 위아래로 배치하면 서로 연결되어 감지 범위가 화면 전체로 확장됩니다. 이 상태에서 두 개의 테슬라 우산잎은 동시에 최대 6마리의 좀비를 공격할 수 있으며, 피해가 두 배로 증가합니다. 또한 정확히 6마리의 좀비를 공격 중일 때, 6초마다 임의의 좀비 위치에서 3×3 범위의 폭발이 발생하며, 공격력의 300%만큼 피해를 줍니다.</color><page>\n<color=black>오디세이 버프:</color>\n<color=#8B0000>1. 에너지 상한이 1000% 증가합니다. | 에너지 충전 속도가 2000% 증가합니다. | 체력 회복 속도가 200% 증가합니다.\n2. 일반 공격 대미지가 300% 증가합니다. | 폭발 대미지가 1000% 증가합니다. | 공격 속도가 2초로 감소합니다.</color>",
       "cost": "\n<size=36><color=black>조합식: </color><color=#8B0000>등대 선인장 + 발광 우산잎</color>"
     },
     {
@@ -759,14 +780,14 @@
       "seedType": 939,
       "name": "체리 개틀링 드론",
       "introduce": "<align=justified><size=36><color=black>원래 체리 개틀링의 속사형 프로토타입으로 개발된 체리 개틀링 드론은, 최근 좀비 급증에 맞서 실제 체리 탄환을 발사하도록 업그레이드되었으며, 폭발적인 찬사를 받고 있습니다.</color>",
-      "info": "<size=36>밑의 직사형 식물과 겹쳐 심을 시 동등한 화력을 제공합니다.\n\n<color=black>사용 조건: </color><color=#8B0000>오디세이 | 체리 개틀링 해금</color>\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>300 | 1.5초</color>\n<color=black>특수 능력: </color><color=#8B0000>\n<color=black>•</color> 공중식물이며 체리 개틀링의 아종\n<color=black>•</color> 겹쳐 심은 직사 공격형 식물의 공격 속도가 1.5보다 빠를 시 콩 드론은 해당 식물의 공격 속도를 그대로 따라갑니다.\n<color=black>•</color> 필드에 심을수 있는 체리 개틀링 드론의 최대 수: (열의 수 × 2)</color>",
+      "info": "<size=36>밑의 직사형 식물과 겹쳐 심을 시 동등한 화력을 제공합니다.\n\n<color=black>사용 조건: </color><color=#8B0000>오디세이 | 체리 개틀링 해금</color>\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>300 | 1.5초</color>\n<color=black>특수 능력: </color><color=#8B0000>\n<color=black>•</color> 공중식물이자 체리 개틀링의 아종\n<color=black>•</color> 겹쳐 심은 직사 공격형 식물의 공격 속도가 1.5보다 빠를 시 콩 드론은 해당 식물의 공격 속도를 그대로 따라갑니다.\n<color=black>•</color> 필드에 심을수 있는 체리 개틀링 드론의 최대 수: (열의 수 × 2)</color>",
       "cost": "\n<size=36>전환식: <color=#8B0000> 삽 <-> 블로버</color>"
     },
     {
       "seedType": 940,
       "name": "네이팜 버섯",
       "introduce": "<align=justified><size=36><color=black><page>네이팜 버섯은 전장에서 불꽃을 뿜어내는 것만이 아닙니다, 바비큐 실력은 전설적이죠. 그의 꿈은? 마을의 모든 식물과 좀비를 초대해 최고의 바비큐 파티를 여는 것입니다.</color>",
-      "info": "<size=36>네이팜 수박을 투척하며 피격 시 나뉘면서 자리에 작열을 남깁니다\n\n<color=black>사용 조건: </color><color=#8B0000>오디세이 | 해금 가능</color>\n<color=black>체력: </color><color=#8B0000>3000</color>\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>300 | 7.5초\n<color=black>•</color> 30 | 0.02초 (직열)</color>\n<color=black>공격 범위: </color><color=#8B0000>1라인 4타일 / 맵 전체(수동 조작)\n<color=#720026>화염 디버프: </color><color=#8B0000> 각 네이팜 멜론은 2.5초 동안 지속되는 직열 구역을 생성합니다.</color>\n<color=black><page>특수 능력: </color><color=#8B0000>\n<color=black>•</color> 네이팜 멜론을 발사한 후 1.5초 동안 휴식하며, 이후 최소 6초 이상 충전하여 피해량이 1+(충전 시간(초)×50%)로 증가하며 최대 30초까지 충전됩니다.\n<color=black>•</color> 공격은 모든 방어구를 관통하며, 동일한 피해를 주는 네이팜 멜론 2개로 분리되어 주변 좀비를 추가로 공격합니다.</color>\n<color=black>오디세이 버프:</color>\n<color=#8B0000>1. 피해량 누적 속도와 최대 장전 시간이 300%으로 증가합니다.\n2.  작열 구역의 지속 시간이 지속 시간이 200%가 됩니다.</color>",
+      "info": "<size=36>네이팜 수박을 투척하며 피격 시 나뉘면서 자리에 작열을 남깁니다\n\n<color=black>사용 조건: </color><color=#8B0000>오디세이 | 해금 가능</color>\n<color=black>체력: </color><color=#8B0000>3000</color>\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>300 | 7.5초\n<color=black>•</color> 30 | 0.02초 (작열)</color>\n<color=black>공격 범위: </color><color=#8B0000>1 라인 4 타일 / 맵 전체(수동 조작)\n<color=#720026>화염 디버프: </color><color=#8B0000> 각 네이팜 멜론은 2.5초 동안 지속되는 작열 구역을 생성합니다.</color>\n<color=black><page>특수 능력: </color><color=#8B0000>\n<color=black>•</color> 네이팜 멜론을 발사한 후 1.5초 동안 휴식하며, 이후 최소 6초 이상 충전하여 피해량이 1+(충전 시간(초)×50%)로 증가하며 최대 30초까지 충전됩니다.\n<color=black>•</color> 공격은 모든 방어구를 관통하며, 동일한 피해를 주는 네이팜 멜론 2개로 분리되어 주변 좀비를 추가로 공격합니다.</color>\n<color=black>오디세이 버프:</color>\n<color=#8B0000>1. 피해량 누적 속도와 최대 장전 시간이 300%으로 증가합니다.\n2.  작열 구역의 지속 시간이 지속 시간이 200%가 됩니다.</color>",
       "cost": "\n<size=34>조합식: <color=#8B0000>여름 멜론 + 미식축구 가스 버섯</color>"
     },
     {
@@ -780,7 +801,7 @@
       "seedType": 942,
       "name": "양동이슈터 버섯 소대",
       "introduce": "<align=justified><size=36><color=black>양동이슈터 버섯들이 가장 두려워하던 일이 결국 현실이 되고 말았습니다. 정말로 자석 버섯에 붙어버린 것이죠, 그리고 아무도 그들을 떼어낼 수 없었습니다. 하지만 어쩌면 이것은 위장된 축복일지도 모릅니다. 자석 버섯이 모아온 온갖 재료 덕분에 장비를 업그레이드하여, 진정한 \"강철 부대\"가 되었으니까요.</color>",
-      "info": "<size=36>다용도의 일을 수행하는 집단으로 연사, 대공 공격, 저격을 수행합니다.\n\n<color=black>사용 조건: </color><color=#8B0000>오디세이 | 스타터 선택</color>\n<color=black>체력: </color><color=#8B0000>6000</color>\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>80 | 1초\n<color=black>•</color> 240 | 2초 (대공포)\n<color=black>•</color> 400 | 3초 (저격총)\n<color=black>공격 횟수: </color><color=#8B0000>4번(기관총, 그외 1번)</color>\n<color=black><page>특수 능력: </color><color=#8B0000>\n<color=black>•</color> 금속식물\n<color=black>•</color> 기관총 탄환은 대상을 넉백시키고, 대상의 제2 방어구 현재 체력에 비례한 추가 피해를 줍니다. \n<color=black>•</color> 대공포는 같은 줄의 공중 유닛만을 대상으로 하여 넉백과 동일 타일 범위 피해를 가합니다.\n<color=black>•</color> 저격 공격은 저격콩과 동일한 특성을 가집니다.</color>\n<color=black>오디세이 버프:</color>\n<color=#8B0000>1. 저격의 대미지가 1,000,000으로 증가, 1/3 확률로 연사가 가능하지만 저격의 공격 속도가 7.5초로 증가합니다.\n2. 넉백 거리와 대공포 대미지가 300% 증가합니다.</color>",
+      "info": "<size=36>다용도의 일을 수행하는 집단으로 연사, 대공 공격, 저격을 수행합니다.\n\n<color=black>사용 조건: </color><color=#8B0000>오디세이 | 스타터 선택</color>\n<color=black>체력: </color><color=#8B0000>6000</color>\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>80 | 1초\n<color=black>•</color> 240 | 2초 (대공포)\n<color=black>•</color> 400 | 3초 (저격총)\n<color=black>공격 횟수: </color><color=#8B0000>4번(기관총, 그외 1번)</color>\n<color=black><page>특수 능력: </color><color=#8B0000>\n<color=black>•</color> 금속식물\n<color=black>•</color> 기관총 투사체는 대상을 넉백시키고, 대상의 제2 방어구 현재 체력에 비례한 추가 피해를 줍니다. \n<color=black>•</color> 대공포는 같은 줄의 공중 유닛만을 대상으로 하여 넉백과 동일 타일 범위 피해를 가합니다.\n<color=black>•</color> 저격 공격은 저격콩과 동일한 특성을 가집니다.</color>\n<color=black>오디세이 버프:</color>\n<color=#8B0000>1. 저격의 대미지가 1,000,000으로 증가, 1/3 확률로 연사가 가능하지만 저격의 공격 속도가 7.5초로 증가합니다.\n2. 넉백 거리와 대공포 대미지가 300% 증가합니다. | 양동이 버섯 착륙정 아종 해금</color>",
       "cost": "<size=34>\n조합식: <color=#8B0000>자석 버섯 + 양동이슈터 버섯×3</color>"
     },
     {
@@ -881,6 +902,48 @@
             "info": "<size=36>앞에 있는 식물들에게 파괴를 재생으로 전환하고, 시전자에게는 저주를 되돌려줍니다.\n\n<color=black>사용 조건: </color><color=#8B0000>오디세이 | 스타터 선택</color>\n<color=black>대미지: </color><color=#8B0000>1800</color>\n<color=black>소화 시간: </color><color=#8B0000>30초</color>\n<color=black>특수 능력: </color><color=#8B0000>\n<color=black>•</color> 클릭시 파멸 버섯 폭발과 할라페뇨 폭발을 일으킵니다.\n(크레이터는 남기지 않는다)\n<color=black>•</color> 앞 타일에 식물이 있으면 50% 확률로 해당 식물의 시드패킷을 생성합니다.<page>식물이 만약 저주 상태라면 시드패킷이 생성 되지 않고, 저주를 건 좀비는 최대 체력의 15%를 잃게 됩니다.</color>\n<color=black>오디세이 버프:</color>\n<color=#8B0000>1. 이제 시드패킷이 확정적으로 생성됩니다.\n2. 파괴시 효과가 있는 궁극 식물을 파괴할 때 효과가 400% 증폭됩니다.</color>",
             "cost": "\n<size=36>조합식: <color=#8B0000>파멸 먹깨비 + 파멸 할라페뇨</color>"
         },
+        {
+            "seedType": 957,
+            "name": "네뷸라 멜론",
+            "introduce": "<align=justified><size=36><color=black>네뷸라 멜론은 정원에 우주 성운을 재현하는 데 집착합니다. 그러니 밖에서 무언가 성운처럼 보이는 걸 본다면, 도망치세요. 그건 성운이 아니라, 떨어질 준비를 마친 성운 멜론들의 거대한 구름일 뿐입니다.</color>",
+            "info": "<size=36>얼음 고리를 이용해 성운 멜론을 연사하며, 에너지를 모은후 성운을 소환하여 성운 멜론를 비처럼 내리게 합니다.\n\n<color=black>사용 조건: </color><color=#8B0000>오디세이 | 해금 가능</color>\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>300(범위 내 동일 피해) | 0.35초</color>\n<color=#0077b6>빙결 시스템: </color><color=#8B0000>\n<color=black>•</color> 공격 시 빙결 효과가 적용되고, 빙결 포인트를 20 누적 시키며, 빙결된 좀비에게는 400%의 대미지를 입힙니다.\n<color=black>특수 능력: </color><color=#8B0000>\n<color=black>•</color> 좀비를 맞출 때마다 에너지 포인트가 1씩 쌓입니다.\n<color=black>•</color> 포인트가 50 이상 쌓인 상태에서 클릭 시 스택을 30 소모해 하늘에 수박이 내리는 성운 균열을 소환합니다. 에너지 포인트가 100을 초과시 성운 균열의 투사체량이 200%가 됩니다.\n<color=black>•</color> 성운 균열은 필드에 한개만 존재할 수 있으며, 필드 우측에서 소환되어 서서히 좌측으로 이동합니다.\n<color=black>•</color> 성운 멜론은 이미 시간분열 상태인 좀비를 공격시, 범위 내 다른 좀비 최대 2개의 범위 대상(멜론 화분 버프를 받을 경우 3개)도 해당 효과를 받습니다. 시간분열 상태가 아닌 좀비를 우선으로 적용합니다.</color>\n<color=black><page>오디세이 버프:</color>\n<color=#8B0000>1. 처음 5초 동안 성운 균열은 체력이 가장 낮은 좀비에 집중하여 공격 범위를 대상 주위 3 라인으로 좁힙니다.\n2. 대미지 600% 증가 및 스플래시 반경이 50%으로 줄어듭니다.</color>",
+            "cost": "\n<size=36>조합식: <color=#8B0000>겨울 멜론 + 크로노 멜론</color>"
+        },
+        {
+            "seedType": 958,
+            "name": "작열 캣테일",
+            "introduce": "<align=justified><size=36><color=black>그 강은 그녀가 정성스레 꾸민 무대입니다. 잔물결 하나하나가 그녀의 악기 줄입니다. 좀비들이 물속으로 들어오는 순간, 작열 캣테일의 연주가 시작됩니다. 화염구가 서곡이 되고, 열광선이 절정을 이루며, 재가 되어 흩어지는 것이 피날레입니다. 그녀는 적들을 위한 진혼곡을 완성합니다.</color>",
+            "info": "<size=36>작열 캣테일은 꼬리에 체리붐의 힘이 담겨져 있습니다. 유도탄과 열광선을 발사하여 좀비를 날려버리세요!\n\n<color=black>사용 조건: </color><color=#8B0000>오디세이 | 해금 가능</color>\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>300 (각 투사체) | 0.5초</color>\n<color=black>공격 횟수: </color><color=#8B0000>2번</color>\n<color=black>공격 범위: </color><color=#8B0000>맵 전체</color>\n<color=black>특수 능력: </color><color=#8B0000>\n<color=black>•</color> 화면 전체의 좀비를 집중 공격하며 공중 좀비를 우선시합니다.\n<color=black>•</color> 공격 시 좀비에게 화염 디버프를 부여한 후 해당\n대상에게 넉백과 체리 폭발을 일으킵니다.\n<color=black>•</color> 공격 시 라운드당 1 에너지 포인트를 얻습니다.\n할라피뇨나 체리 폭탄의 영향을 받으면 20 체력 회복 및 20 에너지 포인트를 얻습니다.\n<color=black>•</color> 에너지 포인트가 100에 도달시 모든 에너지를 소모하여 ±15° 각도로 관통형 열광선을 발사하며, 0.15초마다 피해를 줍니다. 각 공격은 유도탄과 동일한 효과를 부여하지만, 넉백은 절반만 적용됩니다. 지속시간은 3초이며, 이 동안은 에너지를 얻을 수 없습니다.</color>\n<color=black>오디세이 버프:</color>\n<color=#8B0000>1. 열광선 대미지 빈도가 200%로 됩니다.\n2. 투사체 피해량이 300% 증가합니다.</color>",
+            "cost": "\n<size=36>조합식: <color=#8B0000>화염 캣테일 + 체리붐</color>"
+        },
+        {
+            "seedType": 959,
+            "name": "핵체리 폭탄",
+            "introduce": "<align=justified><size=36><color=black>성격이 불같은 두 체리가 결국 논쟁을 학문적으로 마무리했습니다. 형제는 \"소멸\"이 가장 어울리는 표현이라 합의했죠. \"정말 폭발적인 소멸이야…\" \"아니, 폭발이 아니라 팽창이라고 했잖아!\" …결국 싸움은 다시 시작되었습니다.</color>",
+            "info": "<size=36>핵체리 폭발을 일으키며 잔재를 남깁니다!\n\n<color=black>사용 조건: </color><color=#8B0000>오디세이 | 스타터 선택</color>\n<color=black>대미지: </color><color=#8B0000>3600 (폭발 판정)</color>\n<color=black>공격 범위: </color><color=#8B0000>5×5 타일 / 3×3 타일</color>\n<color=black>사용 방법: </color><color=#8B0000>일회용 식물, 즉시 발동</color>\n<color=black>특수 능력: </color><color=#8B0000>\n<color=black>•</color>파멸 버섯 폭발과 동일한 범위의 방사능 지대를 생성하고, 동일한 피해를 입히는 36개의 핵체리 파편으로 폭발합니다.\n<color=black>•</color> 한 번에 하나의 방사능 지대만 존재할 수 있습니다. 지속 시간은 7초이며, 0.5초마다 (공격력 × 남은 지속 시간)의 피해를 줍니다. 방어구가 없는 좀비에게는 피해가 300% 증가합니다.\n<color=black>•</color> 핵체리 파편은 두 번 관통합니다. 적중 시, 파멸 버섯 효과(크레이터 남기지 않음)와 체리 폭탄 폭발을 일으켜 동일한 피해를 입힙니다.</color>\n<color=black>오디세이 버프:</color>\n<color=#8B0000>1. 방사선 지대 지속 시간이 10초로 증가합니다.\n2. 폭발성 체리, 파멸 콩슈터과 둠 개틀링의 투사체를 1%의 확률로 핵체리의 효과를 발동합니다.</color>",
+            "cost": "\n<size=36>조합식: <color=#8B0000>파멸 체리 폭탄 + 체리 폭탄</color>"
+        },
+        {
+            "seedType": 960,
+            "name": "거대 크툴루 버섯",
+            "introduce": "<align=justified><size=36><color=black>거대한 생명체는 끝없는 심연에서 솟아올라 바다의 파도를 일으킵니다. 그 추종자들은 하늘과 땅, 그리고 바다에 걸쳐 퍼져 있습니다. 식물들은 그것을 전장의 지배자로 찬양하고, 좀비들은 세상을 어둠 속으로 끌어들이리라 경고합니다. 그러나 그 자체의 의지는 여전히 알 수 없습니다.</color>",
+            "info": "<size=36>좀비를 깊은 곳으로 끌어들이는 부하들을 소환하는\n회복력 있는 바다의 군주입니다.\n\n<color=black>사용 조건: </color><color=#8B0000>오디세이 | 해금 가능</color>\n<color=black>체력: </color><color=#8B0000>8000</color>\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>300 | 1.5초</color>\n<color=black>특수 능력: </color><color=#8B0000>\n<color=black>•</color> 짓밟는 공격에 대해 면역이며, 받는 피해량은\n최대 200으로 제한됩니다.\n<color=black>•</color> 투사체를 맞출때마다 1 에너지 포인트를 얻습니다. 바다 버섯 시드패킷을 줄시 5 에너지 포인트를 얻습니다.\n<page><color=black>•</color> 피해를 입을시 1 에너지 포인트를 소모하여 피해량을 1로 줄입니다.\n<color=black>•</color> 15초마다 주변 좀비를 밀어내고 덩쿨 포인트 1을 부여합니다.\n<color=black>•</color> 15초마다 좀비를 잡아 즉시 물에 빠뜨리는 버섯 문어 1마리를 소환합니다. 연옥 보스 좀비에게는 최대 체력의 5%에 해당하는 대미지를 입힙니다.\n<page><color=black>•</color> 특정 시드패킷을 사용하면 형태가 바뀌어 체력 1000을 회복하고 5 에너지 포인트를 얻습니다. 2초 후 해당 버섯 문어를 소환합니다: \n<color=black>-</color> 얼음 버섯 모습: 최대 20 피해를 받습니다.\n<color=black>-</color> 파멸 버섯 모습: 일회용. 가장 높은 체력을 가진 좀비에게 해당 좀비의 최대 체력의 50%에 해당하는 대미지를 입히고, 파멸 버섯 폭발(크레이터 남기지 않음)을 일으키는 파멸 문어를 소환합니다.\n<color=black>-</color> 최면 버섯 모습: 필드 위의 매혹된 좀비들이 대신 피해를 흡수합니다. 매혹된 좀비만을 노리는 최면 문어를 소환하여, 해당 좀비들을 물속으로 끌어당긴 뒤 매혹된 체리라이너로 변환시킵니다.</color>\n<page><color=black>오디세이 버프:</color>\n<color=#8B0000>1. 버섯 문어는 최대 3마리의 좀비를 익사시키거나 300%의 대미지를 입힐 수 있습니다. 익사한 좀비 한 마리당 10 포인트를 제공합니다.\n2. 이제 한번에 투사체를 3개씩 발사합니다.</color>",
+            "cost": "\n<size=36>조합식: <color=#8B0000>거대 크라켄 버섯 + 뽀꾸 버섯</color>"
+        },
+        {
+            "seedType": 961,
+            "name": "양동이 버섯 착륙정",
+            "introduce": "<align=justified><size=36><color=black>최신 자기부상 장치를 장착한 뒤, 양동이 버섯 착륙정은 마침내 정밀 타격 부대로 거듭났습니다. 기술적 한계로 인해 중화기를 사용할 수 없게 되었지만, 속도와 자유로 좀비를 타격하겠다는 그들의 결의는 여전히 굳건합니다.</color>",
+            "info": "<size=36>위치를 지정하면 양송이 버섯 드론을 보내어 발포 명령을 내릴 수 있습니다.\n\n<color=black>사용 조건: </color><color=#8B0000>오디세이 | 양동이 버섯 소대의 버프 선택</color>\n<color=black>체력: </color><color=#8B0000>6000</color>\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>80 | 0.15초</color>\n<color=black>공격 횟수: </color><color=#8B0000>x3</color>\n<color=black>특수 능력: </color>\n<color=black>•</color><color=#8B0000> 양동이 버섯 소대의 아종</color>\n<color=black>•</color><color=#8B0000> 블로버 컨트롤러 클릭시 왼쪽의 원하는 타일에다 양송이 버섯 드론을 배치할 수 있습니다. Ctrl 키를 누르고 있으면 모든 양동이 드론을 동시에 배치할 수 있습니다.\n<page><color=black>•</color> 선택한 타일이나 인접 타일에 좀비가 있을 경우, 양동이 버섯 드론은 0.15초마다 양동이 콩을 발사하여 대상을 넉백시키고, 제2 방어구 체력에 비례한 추가 피해를 입힙니다.</color>",
+            "cost": "\n<size=36>전환식: <color=#8B0000>자석 버섯 <-> 블로버</color>"
+        },
+        {
+            "seedType": 962,
+            "name": "피닉스 드론",
+            "introduce": "<align=justified><size=36><color=black>\"이제 내 이름에 걸맞게 살 때가 왔군요.\" 피닉스 드론은 그렇게 말했습니다. 수년간 지상에 묶여 있었지만, \n이제야 진정한 불사조처럼 하늘을 날 수 있게 되었죠. \n체리 개틀링 드론이 자신보다 먼저 하늘을 점령했다는\n사실에 약간의 아쉬움은 남았지만, 그래도 하늘을 정복하는 기쁨은 여전합니다.</color>",
+            "info": "<size=36>불사조처럼 날개를 펼치고 바람을 타리.\n\n<color=black>사용 조건: </color><color=#8B0000>오디세이 | 피닉스 삼발슈터의 버프 선택</color>\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>160(각 피닉스 콩 마다) | 3초</color>\n<color=black>공격 범위: </color><color=#8B0000>3 라인</color>\n<color=black>특수 능력: </color><color=#8B0000>\n<color=black>•</color> 공중식물이자 피닉스 삼발슈터의 아종\n<color=black>•</color><color=#8B0000> 화염 디버프를 주는 동시에, 2번 관통하는 투사체를 발사힙니다.\n<color=black>•</color> 파괴될 시 3 라인을 불태웁니다.</color>",
+            "cost": "\n<size=36>전환식: <color=#8B0000>삽 <-> 블로버</color>"
+        },
     {
       "seedType": 1000,
       "name": "태양슈터",
@@ -962,14 +1025,14 @@
       "seedType": 1011,
       "name": "먹깨비슈터",
       "introduce": "<size=36><color=black>먹깨비는 늘 먹깨비슈터가 좀비 잔해를 뱉어내는 능력을 부러워했습니다, 그래서 여러 번 그 비법을 배우려고 노력했습니다. 하지만 그는 몰랐습니다. 그것이 특별한 기술이 아니라는 사실을요, 사실은 먹깨비슈터의 입이 살짝 기형이라, 씹는 도중에 좀비 잔해가 새어나오는 것이었습니다.</color></size>",
-      "info": "<size=36>먹깨비슈터는 좀비를 삼킨 뒤 탄을 쏠 수 있습니다.\n\n<color=black>대미지: </color><color=#8B0000>즉사</color>\n<color=black>공격 범위: </color><color=#8B0000>전방 1타일, 1라인 직사</color>\n<color=black>소화 시간: </color><color=#8B0000>30초</color>\n<color=black>특수 능력: </color><color=#8B0000>좀비를 삼킨 직후 30초동안 좀비 잔해(80)를 뱉어서 굴립니다</color>",
+      "info": "<size=36>먹깨비슈터는 좀비를 삼킨 뒤 탄을 쏠 수 있습니다.\n\n<color=black>대미지: </color><color=#8B0000>즉사</color>\n<color=black>공격 범위: </color><color=#8B0000>전방 1 타일, 1 라인 직사</color>\n<color=black>소화 시간: </color><color=#8B0000>30초</color>\n<color=black>특수 능력: </color><color=#8B0000>좀비를 삼킨 직후 30초동안 좀비 잔해(80)를 뱉어서 굴립니다</color>",
       "cost": "\n<size=36>조합식: <color=#8B0000>콩슈터 + 먹깨비</color></size>"
     },
     {
       "seedType": 1012,
       "name": "먹깨비 호두",
       "introduce": "<size=34><color=black>어릴 적 먹깨비 호두는 유난히 편식을 해서 좀비를 한입에 삼키지 못했고, 그 때문에 부모님을 곤란하게 만들었습니다. 그러나 여러 차례의 설득 끝에, 마침내 선배들처럼 좀비를 통째로 삼키는 법을 배우게 되었습니다. \"나 편식하는 거 아냐! 그냥 좀비처럼 먹는 걸 흉내 내고 싶은 거지. 새로운 걸 시도해보는 거라구! 목이 없어서 그런 거 절대 아니야!\" 먹깨비 호두는 좀비를 우적우적 씹으며 그렇게 말했습니다.</color></size>",
-      "info": "<size=34>먹깨비 호두는 좀비를 삼킬 시 체력을 회복합니다.\n<color=black>\n체력: </color><color=#8B0000>4000</color>.\n<color=black>대미지: </color><color=#8B0000> 즉사</color>\n<color=black>공격 범위: </color><color=#8B0000>전방 1타일</color>\n<color=black>소화 시간: </color><color=#8B0000>40초</color>\n<color=black>특수 능력: </color><color=#8B0000>좀비를 삼킨 직후 체력 1000 회복합니다.</color>",
+      "info": "<size=34>먹깨비 호두는 좀비를 삼킬 시 체력을 회복합니다.\n<color=black>\n체력: </color><color=#8B0000>4000</color>.\n<color=black>대미지: </color><color=#8B0000> 즉사</color>\n<color=black>공격 범위: </color><color=#8B0000>전방 1 타일</color>\n<color=black>소화 시간: </color><color=#8B0000>40초</color>\n<color=black>특수 능력: </color><color=#8B0000>좀비를 삼킨 직후 체력 1000 회복합니다.</color>",
       "cost": "\n<size=36>조합식: <color=#8B0000>호두 + 먹깨비</color></size>"
     },
     {
@@ -983,21 +1046,21 @@
       "seedType": 1014,
       "name": "태양 먹깨비",
       "introduce": "<size=36><color=black>모두가 궁금해했습니다. 태양 먹깨비가 먹어 치운 좀비를 어떻게 태양으로 바꾸는지 말입니다. 하지만 태양먹깨비는 항상 그 비밀을 쉽게 공유하지 않았습니다. 어느 날, 해바라기는 자신의 엽록소가 크게 줄어든 것을 발견했습니다. 그제야 진실이 드러났습니다. 태양 먹깨비는 사실 좀비를 태양으로 바꾸는 게 아니었던 것입니다.</color></size>",
-      "info": "<size=36>태양 먹깨비는 좀비를 삼킨 뒤 태양을 생산할 수 있습니다.\n\n<color=black>대미지: </color><color=#8B0000> 즉사</color>\n<color=black>공격 범위: </color><color=#8B0000>전방 1타일</color>\n<color=black>소화 시간: </color><color=#8B0000>40초</color>\n<color=black>특수 능력: </color><color=#8B0000>좀비를 삼킨 직후 태양 100 생산합니다.</color>",
+      "info": "<size=36>태양 먹깨비는 좀비를 삼킨 뒤 태양을 생산할 수 있습니다.\n\n<color=black>대미지: </color><color=#8B0000> 즉사</color>\n<color=black>공격 범위: </color><color=#8B0000>전방 1 타일</color>\n<color=black>소화 시간: </color><color=#8B0000>40초</color>\n<color=black>특수 능력: </color><color=#8B0000>좀비를 삼킨 직후 태양 100 생산합니다.</color>",
       "cost": "\n<size=36>조합식: <color=#8B0000>해바라기 + 먹깨비</color>"
     },
     {
       "seedType": 1015,
       "name": "지뢰 먹깨비",
       "introduce": "<size=34><color=black>맛있고 유혹적인 감자 지뢰는 갓 데운 으깬 감자 맛과 똑같아, 좀비들에게 큰 호평을 받습니다. 그중에서도 감자튀김이 가장 인기가 많습니다. 좀비들이 프라이의 유혹적인 향기에 모여드는 동안, 자신들이 맛있는 감자칩도 함께 먹고 있다는 사실은 전혀 모릅니다. \"기다려봐.\" 지뢰 먹깨비는 입가득 음식물을 채운 채 말했습니다. \"조만간 이 영양분들이 새로운 지뢰가 될 거야.\"</color></size>",
-      "info": "<size=34>좀비를 삼킨 후, 지뢰 먹깨비는 그 앞에 감자 지뢰를 키웁니다.\n\n<color=black>대미지: </color><color=#8B0000> 즉사 / 1800</color>\n<color=black>공격 범위: </color><color=#8B0000>전방 1타일</color>\n<color=black>소화 시간: </color><color=#8B0000>20초</color>\n<color=black>특수 능력: </color><color=#8B0000>작은 식물\n좀비를 삼킨 직후 앞 타일에 감자 지뢰를 설치합니다</color>",
+      "info": "<size=34>좀비를 삼킨 후, 지뢰 먹깨비는 그 앞에 감자 지뢰를 키웁니다.\n\n<color=black>대미지: </color><color=#8B0000> 즉사 / 1800</color>\n<color=black>공격 범위: </color><color=#8B0000>전방 1 타일</color>\n<color=black>소화 시간: </color><color=#8B0000>20초</color>\n<color=black>특수 능력: </color><color=#8B0000>작은 식물\n좀비를 삼킨 직후 앞 타일에 감자 지뢰를 설치합니다</color>",
       "cost": "\n<size=36>조합식: <color=#8B0000>감자 지뢰 + 먹깨비</color>"
     },
     {
       "seedType": 1016,
       "name": "체리 먹깨비",
       "introduce": "<size=36><color=black>체리 폭탄과 한 잔을 마신 이후로, 먹깨비는 끊임없이 \"흥분해 있습니다.\" 매 끼니마다 완전히 골칫덩이가 되어버렸습니다. 씹는 소리는 폭발음으로 바뀌고, 접시와 그릇이 사방으로 날아다니며, 아무도 체리 먹깨비와 함께 식사하려 하지 않았습니다.결국 투표 끝에, 체리 먹깨비는 마당에서 식사를 하게 되었습니다… 적어도 이제 새 그릇을 살 필요는 없어졌습니다.</color></size>",
-      "info": "<size=36>체리 먹깨비는 좀비를 먹으면 체리 폭발이 발생시킵니다.\n\n<color=black>대미지: </color><color=#8B0000> 즉사 / 1800</color>\n<color=black>공격 범위: </color><color=#8B0000>전방 1타일 / 3×3 타일</color>\n<color=black>소화 시간: </color><color=#8B0000>40초</color>\n<color=black>특수 능력: </color><color=#8B0000>적을 섭취 시 체리 폭탄과 동일한 폭발을 일으킵니다.</color>",
+      "info": "<size=36>체리 먹깨비는 좀비를 먹으면 체리 폭발이 발생시킵니다.\n\n<color=black>대미지: </color><color=#8B0000> 즉사 / 1800</color>\n<color=black>공격 범위: </color><color=#8B0000>전방 1 타일 / 3×3 타일</color>\n<color=black>소화 시간: </color><color=#8B0000>40초</color>\n<color=black>특수 능력: </color><color=#8B0000>적을 섭취 시 체리 폭탄과 동일한 폭발을 일으킵니다.</color>",
       "cost": "\n<size=36>조합식: <color=#8B0000>체리 폭탄 + 먹깨비</color></size>"
     },
     {
@@ -1046,7 +1109,7 @@
       "seedType": 1023,
       "name": "향수 버섯",
       "introduce": "<size=34><color=black>알록달록한 향수 버섯이 화려하게 등장합니다!향수 한 방울로 좀비를 순식간에 뒤돌려 버릴 수 있죠. 어떤 이들은 이것이 버섯 가문에 전해 내려오는 비밀 기술이라고 말하고, 또 다른 이들은 최첨단 군사 무기라고 믿습니다. 하지만 향수 버섯은 그저 웃으며 이렇게 말합니다. \"매일 입을 헹구는 걸 도와주는 최면 버섯 덕분이지.\"</color></size>",
-      "info": "<size=34>향수 버섯은 적을 매혹시킬 수 있는 가스를 뿜습니다.\n\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>40 | 1.5초</color>\n<color=black>공격 범위: </color><color=#8B0000>1라인 4타일</color>\n<color=black>특수 능력: </color><color=#8B0000> HP가 50% 미만인 좀비를 일정 확률로 매혹 상태가 됩니다, 좀비가 섭취시 매혹 상태가 되는 대신 본래 가스 버섯으로 되돌아갑니다.</color>",
+      "info": "<size=34>향수 버섯은 적을 매혹시킬 수 있는 가스를 뿜습니다.\n\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>40 | 1.5초</color>\n<color=black>공격 범위: </color><color=#8B0000>1 라인 4 타일</color>\n<color=black>특수 능력: </color><color=#8B0000> HP가 50% 미만인 좀비를 일정 확률로 매혹 상태가 됩니다, 좀비가 섭취시 매혹 상태가 되는 대신 본래 가스 버섯으로 되돌아갑니다.</color>",
       "cost": "\n<size=36>조합식: <color=#8B0000>가스 버섯 + 최면 버섯</color></size>"
     },
     {
@@ -1144,14 +1207,14 @@
       "seedType": 1037,
       "name": "얼음 가스 버섯",
       "introduce": "<size=36><color=black>얼음 가스 버섯은 가스 버섯들 중에서도 단연 돋보입니다. 알래스카의 혹한 속에서 외국에서 수련한 경험 덕분에, 말 그대로 더 \"쿨\"해졌습니다. 비록 머리 스타일 연구는 몇 년밖에 하지 않았지만, 얼음 가스 버섯은 그것에 대해 꽤 자부심을 가지고 있습니다.</color></size>",
-      "info": "<size=36>얼음 가스 버섯의 가스는 좀비를 통과해 얼릴 수 있습니다.\n\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>40 | 1.5초</color>\n<color=black>공격 범위: </color><color=#8B0000>1라인 4타일</color>\n<color=#0077b6>빙결 시스템: </color><color=#8B0000>공격마다 좀비에게 빙결 포인트를 5 누적시킵니다.\n<color=black>특수 능력: </color><color=#8B0000> 비료를 줄 시 쿠울 버섯으로 성장합니다.</color>",
+      "info": "<size=36>얼음 가스 버섯의 가스는 좀비를 통과해 얼릴 수 있습니다.\n\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>40 | 1.5초</color>\n<color=black>공격 범위: </color><color=#8B0000>1 라인 4 타일</color>\n<color=#0077b6>빙결 시스템: </color><color=#8B0000>공격마다 좀비에게 빙결 포인트를 5 누적시킵니다.\n<color=black>특수 능력: </color><color=#8B0000> 비료를 줄 시 쿠울 버섯으로 성장합니다.</color>",
       "cost": "\n<size=36>조합식: <color=#8B0000>가스 버섯 + 얼음 버섯</color></size>"
     },
     {
       "seedType": 1038,
       "name": "추운 버섯",
       "introduce": "<size=36><color=black>추운 버섯은 자신이 다른 겁쟁이 버섯들과는 다르다고 믿습니다. 그들과 달리, 추운 버섯은 두려움에 움츠러들지 않고 주저 없이 모든 활동에 참여합니다. 하지만 그건 단지, 겁을 먹으면 주변 공기의 온도가 급격히 내려가 누구도 추운 버섯을 놀라게 할 수 없기 때문입니다.</color></size>",
-      "info": "<size=36>추운 버섯은 좀비를 느리게 하는 얼음 포자를 쏩니다.\n\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>40 | 1.5초</color>\n<color=#0077b6>빙결 시스템: </color><color=#8B0000>공격마다 좀비에게 빙결 포인트를 10 누적시킵니다.</color>\n<color=black>특수 능력: </color><color=#8B0000> 좀비가 1타일 내로 접근 시 숨어버리면서 3×3 타일 내의 좀비를 얼려버립니다.</color>",
+      "info": "<size=36>추운 버섯은 좀비를 느리게 하는 얼음 포자를 쏩니다.\n\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>40 | 1.5초</color>\n<color=#0077b6>빙결 시스템: </color><color=#8B0000>공격마다 좀비에게 빙결 포인트를 10 누적시킵니다.</color>\n<color=black>특수 능력: </color><color=#8B0000> 좀비가 1 타일 내로 접근 시 숨어버리면서 3×3 타일 내의 좀비를 얼려버립니다.</color>",
       "cost": "\n<size=36>조합식: <color=#8B0000>겁쟁이 버섯 + 얼음 버섯</color></size>"
     },
     {
@@ -1193,7 +1256,7 @@
       "seedType": 1044,
       "name": "꼬마 파멸 버섯",
       "introduce": "<size=36><color=black>꼬마 파멸 버섯은 작지만 성질은 화산 같아. 의견이 맞지 않으면 그대로 폭발해버리지, 눈을 마주칠 필요도 없어. 멀리서 감상하는 게 최선이야. 너무 가까이 다가가면, 일이 꼬일 수도 모르거든.</color></size>",
-      "info": "<size=36>꼬마 파멸 버섯은 좀비와 접촉할 시 폭발합니다.\n\n<color=black>대미지: </color><color=#8B0000>1800 (폭발 판정)</color>\n<color=black>사용 방법: </color><color=#8B0000>일회용 식물</color>\n<color=black>특수 능력: </color><color=#8B0000>작은 식물\n접촉할 시 1타일에 파멸 버섯과 동일한 폭발을 일으킵니다.</color>",
+      "info": "<size=36>꼬마 파멸 버섯은 좀비와 접촉할 시 폭발합니다.\n\n<color=black>대미지: </color><color=#8B0000>1800 (폭발 판정)</color>\n<color=black>사용 방법: </color><color=#8B0000>일회용 식물</color>\n<color=black>특수 능력: </color><color=#8B0000>작은 식물\n접촉할 시 1 타일에 파멸 버섯과 동일한 폭발을 일으킵니다.</color>",
       "cost": "\n<size=36>조합식: <color=#8B0000>뻐끔 버섯 + 파멸 버섯</color></size>"
     },
     {
@@ -1228,14 +1291,14 @@
       "seedType": 1049,
       "name": "매운 켈프",
       "introduce": "<size=36><color=black>\"열정은 불길과 같다\" 라는 말을 매운 켈프는 너무도 잘 알고 있습니다. 아무리 많은 물이라도 그 불타는 열정을 꺼뜨릴 순 없어! 불행히도 근처의 좀비들은 그 \"불판\"의 열기만 느낄 수 있을 뿐이죠. 봐라, 놈들은 이미 이 가차 없는 불길 속에서 잿더미로 되었어!</color></size>",
-      "info": "<size=36>매운 켈프는 접촉 시 1 라인의 모든 좀비를 불태워버릴 것입니다.\n\n<color=black>대미지: </color><color=#8B0000> 즉사 + 1800 (폭발 판정)</color>\n<color=black>공격 범위: </color><color=#8B0000>전방 1타일 / 1 라인 직사</color>\n<color=black>사용 방법: </color><color=#8B0000>일회용 식물",
+      "info": "<size=36>매운 켈프는 접촉 시 1 라인의 모든 좀비를 불태워버릴 것입니다.\n\n<color=black>대미지: </color><color=#8B0000> 즉사 + 1800 (폭발 판정)</color>\n<color=black>공격 범위: </color><color=#8B0000>전방 1 타일 / 1 라인 직사</color>\n<color=black>사용 방법: </color><color=#8B0000>일회용 식물",
       "cost": "\n<size=36>조합식: <color=#8B0000>엉킨 켈프 + 할라페뇨 (In Order)</color></size>"
     },
     {
       "seedType": 1050,
       "name": "스쿼시 켈프",
       "introduce": "<size=36><color=black>스쿼시 켈프는 식물들 사이에서 진정한 철학자로 꼽힙니다. 그는 종종 \"풀은 어디에서 생겨나서 어디로 사라지는가?\" 와 같은 심오한 질문을 곱씹곤 합니다. 하지만 개인 위생에 신경 쓰지 않고, 헝클어진 머리 때문에 다른 식물들은 자연스럽게 거리를 두고 조심합니다.</color></size>",
-      "info": "<size=36>스쿼시 켈프는 3마리의 좀비를 물 속으로 끌어당깁니다!\n\n<color=black>대미지: </color><color=#8B0000>1800</color>\n<color=black>공격 범위: </color><color=#8B0000>전방 1타일</color>\n<color=black>사용 방법: </color><color=#8B0000>삼회용 식물</color></size>",
+      "info": "<size=36>스쿼시 켈프는 3마리의 좀비를 물 속으로 끌어당깁니다!\n\n<color=black>대미지: </color><color=#8B0000>1800</color>\n<color=black>공격 범위: </color><color=#8B0000>전방 1 타일</color>\n<color=black>사용 방법: </color><color=#8B0000>삼회용 식물</color></size>",
       "cost": "\n<size=36>조합식: <color=#8B0000>스쿼시 + 엉킨 켈프</color></size>"
     },
     {
@@ -1249,21 +1312,21 @@
       "seedType": 1052,
       "name": "지옥불나무",
       "introduce": "<size=32><color=black>\"밖이 너무 후끈해!\" 지옥불나무가 화를 내며 말했습니다. 강렬한 날씨 때문에 피부가 그렇다고 생각한 그는, 머리 위 불꽃이 선명한 빨강으로 변한 것도 눈치챘습니다. 이제야말로 \"썰매 투어\"이라는 여름 모험을 시작할 완벽한 때일지도 모르겠네요.</color></size>",
-      "info": "<size=36>지옥불나무는 투사체에 더 강한 효과를 제공합니다!\n\n<color=black>특수 능력: </color><color=#8B0000>\n<color=black>•</color> 파괴시 할라페뇨와 동일한 효과를 발동됩니다.\n<color=black>•</color> 발사체에 점화를 적용하여 다음과 같은 효과를 줍니다:\n-콩, 감자, 불콩: +40 추가 피해\n-최면 콩: +30 추가피해 \n-눈 콩: 일반 콩이 됩니다.\n-체리 탄환, 양동이, 태양: 400% 피해\n-홍련여왕의 태양:\n  이제 태양 5 대신 15를 떨굽니다.\n<color=black>•</color> 접촉시 좀비에게 1.5초마다 40의 지속 피해를 입힙니다.</color></size>",
+      "info": "<size=36>지옥불나무는 투사체에 더 강한 효과를 제공합니다!\n\n<color=black>특수 능력: </color><color=#8B0000>\n<color=black>•</color> 파괴시 할라페뇨와 동일한 효과를 발동됩니다.\n<color=black>•</color> 발사체에 점화를 적용하여 다음과 같은 효과를 줍니다:\n<color=black>-</color> 콩, 감자, 불콩: +40 추가 피해\n<color=black>-</color> 최면 콩: +30 추가피해 \n<color=black>-</color> 눈 콩: 일반 콩이 됩니다.\n<color=black>-</color> 풋체리, 양동이, 태양: 400% 피해\n<color=black>-</color> 홍련여왕의 태양:\n  이제 태양 5 대신 15를 떨굽니다.\n<color=black>-</color> 매운 콩: +30 추가 피해, 피닉스 콩으로 변환\n<color=black>•</color> 접촉시 좀비에게 1.5초마다 40의 지속 피해를 입힙니다.</color></size>",
       "cost": "\n<size=36>조합식: <color=#8B0000>횃불나무 + 할라페뇨 + 할라페뇨</color></size>"
     },
     {
       "seedType": 1053,
       "name": "모닥불나무",
       "introduce": "<align=justified><size=36><color=black>모닥불나무는 높은 온도와 매운맛이 언제나 함께 간다는 사실을 잘 알지 못할지도 모릅니다. 하지만 바비큐 가게에서 쌓은 오랜 경험 덕분에, 그는 확실히 남다른 ‘화끈한 열기’를 지니게 되었습니다.</color></size>",
-      "info": "<size=36>모닥불나무에 의해 강화된 투사체들은 막대한 위력을 발휘합니다.\n\n<color=black>특수 능력: </color><color=#8B0000>\n<color=black>•</color> 파괴시 할라페뇨와 동일한 효과를 발동됩니다.\n<color=black>•</color> 발사체에 점화를 적용하여 다음과 같은 효과를 줍니다:\n-콩, 감자, 불콩: +30 추가 피해\n-눈 콩: 일반 콩이 됩니다.</color></size>",
+      "info": "<size=36>모닥불나무에 의해 강화된 투사체들은 막대한 위력을 발휘합니다.\n\n<color=black>특수 능력: </color><color=#8B0000>\n<color=black>•</color> 파괴시 할라페뇨와 동일한 효과를 발동됩니다.\n<color=black>•</color> 발사체에 점화를 적용하여 다음과 같은 효과를 줍니다:\n<color=black>-</color> 콩, 감자, 불콩: +30 추가 피해\n<color=black>-</color> 눈 콩: 일반 콩이 됩니다.</color></size>",
       "cost": "\n<size=36>조합식: <color=#8B0000>할라페뇨 + 횃불나무</color></size>"
     },
     {
       "seedType": 1054,
       "name": "스파이시 스쿼시",
       "introduce": "<size=36><color=black>\"나는 형만큼 성급하지 않아\" 스파이시 스쿼시가 차분히 말했습니다. \"형은 모든 일을 서두르지만, 나는 진정한 성공은 인내와 세심한 관찰에서 온다는 걸 배웠지. 때로는 잠시 기다리며 불을 은근히 익히는 게 최선일 때도 있어.\"</color></size>",
-      "info": "<size=36>스파이시 스쿼시는 한 열의 모든 좀비를 태워버릴 수 있습니다.\n\n<color=black>대미지: </color><color=#8B0000> 1800 + 즉사</color>\n<color=black>공격 범위: </color><color=#8B0000>전방 1타일 / 1 라인 직사</color>\n<color=black>사용 방법: </color><color=#8B0000>일회용 식물</color>",
+      "info": "<size=36>스파이시 스쿼시는 한 열의 모든 좀비를 태워버릴 수 있습니다.\n\n<color=black>대미지: </color><color=#8B0000> 1800 + 즉사</color>\n<color=black>공격 범위: </color><color=#8B0000>전방 1 타일 / 1 라인 직사</color>\n<color=black>사용 방법: </color><color=#8B0000>일회용 식물</color>",
       "cost": "\n<size=36>조합식: <color=#8B0000>스쿼시 + 할라페뇨</color></size>"
     },
     {
@@ -1284,14 +1347,14 @@
       "seedType": 1057,
       "name": "뜨거운 스쿼시",
       "introduce": "<align=justified><size=36><color=black>뜨거운 스쿼시들이 스쿼시 횃불나무에서 하나둘 튀어나오며 외쳤습니다. \"안이 너무 뜨거워! 우리 몸 전체가 녹아버리겠어!\"</color></size>",
-      "info": "<size=36>그저 달콤한 수액으로 구워 윤기를 낸 스쿼시일 뿐입니다.\n\n<color=black>대미지: </color><color=#8B0000>1800</color>\n<color=black>공격 범위: </color><color=#8B0000>전방 1타일</color>\n<color=black>사용 방법: </color><color=#8B0000>일회용 식물</color>특수 능력: </color><color=#8B0000>\n<color=black>•</color> 조합이 불가능합니다.\n<color=black>•</color> 냉기 화분 위에 10초 동안 있을 경우 일반 스쿼시가 됩니다.</size>",
+      "info": "<size=36>그저 달콤한 수액으로 구워 윤기를 낸 스쿼시일 뿐입니다.\n\n<color=black>대미지: </color><color=#8B0000>1800</color>\n<color=black>공격 범위: </color><color=#8B0000>전방 1 타일</color>\n<color=black>사용 방법: </color><color=#8B0000>일회용 식물</color>특수 능력: </color><color=#8B0000>\n<color=black>•</color> 조합이 불가능합니다.\n<color=black>•</color> 냉기 화분 위에 10초 동안 있을 경우 일반 스쿼시가 됩니다.</size>",
       "cost": "\n<size=36>"
     },
     {
       "seedType": 1058,
       "name": "잿빛 삼발슈터",
       "introduce": "<size=36><color=black>\"왜 할라피뇨만 항상 칭찬을 받는 거지?\" 잿빛 삼발슈터가 연기를 내뿜으며 외쳤습니다. \"사람들이 알아야 하는 건, 할라피뇨와 조합하면 콩이 타버린다는 거야.\" 그는 진지한 표정으로 횃불나무를 바라보며 덧붙였습니다. \"내 말을 믿어, 탄 콩을 씹고 싶은 건 아니잖아!\"</color></size>",
-      "info": "<size=36>타버린 탓에 조합할 수 없는 삼발슈터입니다.\n\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>40(각 콩 마다) | 1.5초</color>\n<color=black>공격 범위: </color><color=#8B0000>3 라인</color>\n<color=black>특수 능력: </color><color=#8B0000>심거나 조합될 시 3라인에 할라페뇨와 동일한 효과를 발동 됩니다.</color>",
+      "info": "<size=36>타버린 탓에 조합할 수 없는 삼발슈터입니다.\n\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>40(각 콩 마다) | 1.5초</color>\n<color=black>공격 범위: </color><color=#8B0000>3 라인</color>\n<color=black>특수 능력: </color><color=#8B0000>심거나 조합될 시 3 라인에 할라페뇨와 동일한 효과를 발동 됩니다.</color>",
       "cost": "\n<size=36>조합식: <color=#8B0000>삼발슈터 + 할라페뇨</color></size>"
     },
     {
@@ -1305,7 +1368,7 @@
       "seedType": 1060,
       "name": "스파이크락",
       "introduce": "<size=36><color=black>스파이크락은 이제 막 유럽 여행에서 돌아왔습니다. 좋은 시간을 보내고, 여러 멋진 사람들을 만나고, 그의 시야를 넓혀줬지요. 그는 박물관이 그렇게나 큰지, 그렇게나 많은 그림이 있다는걸 처음 알았습니다. 스파이크락은 정말 놀랐죠.</color></size>",
-      "info": "<size=36>스파이크락은 지나가는 좀비에게 피해를 주고, 타이어를 여러 번 터뜨립니다.\n\n<color=black>체력: </color><color=#8B0000>450</color>\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>20 | 0.7초</color>\n<color=black>공격 횟수: </color><color=#8B0000>2번</color>\n<color=black>공격 범위: </color><color=#8B0000>1타일</color>\n<color=black>특수 능력: </color><color=#8B0000>타이어를 터뜨리거나 가르강튀아에게 맞을 시 체력이 50 깎입니다.</color></size>",
+      "info": "<size=36>스파이크락은 지나가는 좀비에게 피해를 주고, 타이어를 여러 번 터뜨립니다.\n\n<color=black>체력: </color><color=#8B0000>450</color>\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>20 | 0.7초</color>\n<color=black>공격 횟수: </color><color=#8B0000>2번</color>\n<color=black>공격 범위: </color><color=#8B0000>1 타일</color>\n<color=black>특수 능력: </color><color=#8B0000>타이어를 터뜨리거나 가르강튀아에게 맞을 시 체력이 50 깎입니다.</color></size>",
       "cost": "<size=36>필요 태양:<color=#8B0000>125</color>\n쿨타임: <color=#8B0000>50초</color></size>"
     },
     {
@@ -1319,14 +1382,14 @@
       "seedType": 1062,
       "name": "스코치위드",
       "introduce": "<size=36><color=black>\"연구에 따르면 매운맛은 사실 일종의 고통이다\" 스코치위드는 머리에 달린 붉은 가시를 흔들며 선언했습니다. \"나는 그 사실을 믿지 않는 좀비들에게 직접 체험시켜 줄 생각이다.\"</color></size>",
-      "info": "<size=36>스코치위드는 타이어를 터뜨리고 자신을 밟고 가는 좀비를 발화시킵니다.\n\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>40 | 1.5초\n<color=black>공격 범위: </color><color=#8B0000>1타일</color></color>\n<color=#720026>화염 디버프: </color><color=#8B0000> 좀비가 받는 대미지가 50% 증가하고, 사망시 주변 좀비에게 100의 피해를 입히고 화염 디버프를 적용합니다.\n<color=black>특수 능력: </color><color=#8B0000> 비료를 줄 시 인페르노락으로 성장합니다.</color>",
+      "info": "<size=36>스코치위드는 타이어를 터뜨리고 자신을 밟고 가는 좀비를 발화시킵니다.\n\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>40 | 1.5초\n<color=black>공격 범위: </color><color=#8B0000>1 타일</color></color>\n<color=#720026>화염 디버프: </color><color=#8B0000> 좀비가 받는 대미지가 50% 증가하고, 사망시 주변 좀비에게 100의 피해를 입히고 화염 디버프를 적용합니다.\n<color=black>특수 능력: </color><color=#8B0000> 비료를 줄 시 인페르노락으로 성장합니다.</color>",
       "cost": "\n<size=36>조합식: <color=#8B0000>할라페뇨 + 스파이크위드</color></size>"
     },
     {
       "seedType": 1063,
       "name": "스쿼시위드",
       "introduce": "<size=36><color=black>\"어? 그래.\" 이 말버릇은 스쿼시위드의 것 입니다. 그는 좀처럼 말을 하지 않아서, 주변을 늘 애매모호하게 만들곤 합니다. 저녁 식사 후, 가시 이야기는 언제나 식물들 사이에서 인기 있는 주제가 된다. 평범한 어느 오후, 스쿼시가 근처 좀비를 짓뭉개려 할 때, 그는 발밑에 숨어 있던 가시를 간과했다고 전해진다.</color></size>",
-      "info": "<size=36>공격할 때마다 좀비를 밀쳐냅니다.\n\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>20 | 1.5초\n<color=black>공격 범위: </color><color=#8B0000>1타일</color></color>\n<color=black>특수 능력: </color><color=#8B0000>공격마다 좀비를 1 타일 밀쳐내며 바닥을 튕기면서 범위 피해(40)을 주는 미니 스쿼시를 씁니다</color>",
+      "info": "<size=36>공격할 때마다 좀비를 밀쳐냅니다.\n\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>20 | 1.5초\n<color=black>공격 범위: </color><color=#8B0000>1 타일</color></color>\n<color=black>특수 능력: </color><color=#8B0000>공격마다 좀비를 1 타일 밀쳐내며 바닥을 튕기면서 범위 피해(40)을 주는 미니 스쿼시를 씁니다</color>",
       "cost": "\n<size=36>조합식: <color=#8B0000>스쿼시 + 스파이크위드</color></size>"
     },
     {
@@ -1403,14 +1466,14 @@
       "seedType": 1074,
       "name": "아이스락",
       "introduce": "<size=36><color=black>알래스카에서 돌아온 뒤, 아이스락은 들뜬 마음을 감추지 못했습니다. 좀비들을 꽁꽁 얼려버릴 생각에 신이 난 아이스락은, 좀비들의 발밑에서 \"얼음\"이 터져나가는 상상을 즐겼습니다. 그는 모두가 반드시 \"얼음.\" 라는 단어를 쓰도록 강조하기도 했습니다. 그의 몸에는 아직 북극 모험에서 얻은 냉기가 배어 있었고, 눈빛은 녹지 않는 눈처럼 반짝였습니다.</color></size>",
-      "info": "<size=36>타이어를 터뜨리고 좀비를 얼립니다.\n\n<color=black>체력: </color><color=#8B0000>450</color>\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>40 | 1초</color>\n<color=black>공격 횟수: </color><color=#8B0000>2번</color>\n<color=black>공격 범위: </color><color=#8B0000>1타일 </color>\n<color=#0077b6>빙결 시스템: </color><color=#8B0000>공격 시 좀비에게 빙결 포인트를 5 누적시킵니다.</color>\n<color=black>특수 능력: </color><color=#8B0000>타이어를 터뜨리거나 가르강튀아에게 맞을 시 체력이 50 깎입니다.</color>",
+      "info": "<size=36>타이어를 터뜨리고 좀비를 얼립니다.\n\n<color=black>체력: </color><color=#8B0000>450</color>\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>40 | 1초</color>\n<color=black>공격 횟수: </color><color=#8B0000>2번</color>\n<color=black>공격 범위: </color><color=#8B0000>1 타일 </color>\n<color=#0077b6>빙결 시스템: </color><color=#8B0000>공격 시 좀비에게 빙결 포인트를 5 누적시킵니다.</color>\n<color=black>특수 능력: </color><color=#8B0000>타이어를 터뜨리거나 가르강튀아에게 맞을 시 체력이 50 깎입니다.</color>",
       "cost": "\n<size=36>조합식: <color=#8B0000>얼음 버섯 + 스파이크락</color></size>"
     },
     {
       "seedType": 1075,
       "name": "인페르노락",
       "introduce": "<size=36><color=black>얼마 전, 인페르노락은 멕시코를 여행하다가 현지인들의 뜨거운 열정에 휩쓸려 단숨에 타코에 반해버렸습니다. 이제 그는 아이스락과 함께 타코 박물관에 온 힘을 쏟고 있지만, 아이스락은 그만한 열정을 보이지 않는 듯합니다.</color></size>",
-      "info": "<size=36>밟고 가는 좀비를 화염 디버프를 주고고 바퀴를 터뜨립니다.\n\n<color=black>체력: </color><color=#8B0000>450</color>\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>40 | 1초</color>\n<color=black>공격 횟수: </color><color=#8B0000>2번</color>\n<color=black>공격 범위: </color><color=#8B0000>1타일 </color>\n<color=#720026>화염 디버프: </color><color=#8B0000>공격 시 좀비에게 화염 디버프를 부여합니다.</color>\n<color=black>특수 능력: </color><color=#8B0000>타이어를 터뜨리거나 가르강튀아에게 맞을 시 체력이 50 깎입니다.",
+      "info": "<size=36>밟고 가는 좀비를 화염 디버프를 주고고 바퀴를 터뜨립니다.\n\n<color=black>체력: </color><color=#8B0000>450</color>\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>40 | 1초</color>\n<color=black>공격 횟수: </color><color=#8B0000>2번</color>\n<color=black>공격 범위: </color><color=#8B0000>1 타일 </color>\n<color=#720026>화염 디버프: </color><color=#8B0000>공격 시 좀비에게 화염 디버프를 부여합니다.</color>\n<color=black>특수 능력: </color><color=#8B0000>타이어를 터뜨리거나 가르강튀아에게 맞을 시 체력이 50 깎입니다.",
       "cost": "\n<size=36>조합식: <color=#8B0000>할라페뇨 + 스파이크락</color></size>"
     },
     {
@@ -1452,7 +1515,7 @@
       "seedType": 1081,
       "name": "발광 스타푸르츠",
       "introduce": "<size=30><color=black>낚시등이 하늘로 떠오를 준비를 하는 동안, 물 위에는 별들이 춤춘다. 파도는 달을 실어 나르고, 조수는 별들을 데려온다. 어린 시절, 발광 스타푸르츠는 별을 따는 꿈을 꾸며 물 위에 반짝이는 별빛을 자주 바라보곤 했습니다. 플랜턴을 만나면서 발광 스타푸르츠는 깨달았죠. 눈부신 별을 부러워할 필요는 없다는 것을. 반딧불처럼 미약한 빛이라도, 그 나름의 따스함과 아름다움이 있다는 것을.</color></size>",
-      "info": "<size=34>빛에 따라서 좀비를 추적하는 별을 쏩니다.\n\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>60(각 별 마다) | 3초</color>\n<color=black>공격 범위: </color><color=#8B0000>다섯 방향 / 1라인 / 맵 전체</color>\n<color=#99582a>빛 시스템: </color><color=#8B0000>빛 레벨에 따라서 공격 방식이 바뀝니다: \n1 레벨 = 별들이 1라인의 적을 추적합니다. \n2 레벨= 좀비가 없어도 별을 계속 발사합니다.\n3 레벨 = 추적 범위가 전체로 확장됩니다.</color>",
+      "info": "<size=34>빛에 따라서 좀비를 추적하는 별을 쏩니다.\n\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>60(각 별 마다) | 3초</color>\n<color=black>공격 범위: </color><color=#8B0000>다섯 방향 / 1 라인 / 맵 전체</color>\n<color=#99582a>빛 시스템: </color><color=#8B0000>빛 레벨에 따라서 공격 방식이 바뀝니다: \n1 레벨 = 별들이 1 라인의 적을 추적합니다. \n2 레벨= 좀비가 없어도 별을 계속 발사합니다.\n3 레벨 = 추적 범위가 전체로 확장됩니다.</color>",
       "cost": "\n<size=36>조합식: <color=#8B0000>플랜턴 + 스타푸르츠</color></size>"
     },
     {
@@ -1536,7 +1599,7 @@
       "seedType": 1093,
       "name": "자석 스타푸르츠",
       "introduce": "<size=36><color=black>자석 스타푸르츠는 평생의 꿈을 품고 있습니다. 하늘의 별을 빨아들이는 것이 소원이죠. 그는 매일 밤 별이 빛나는 하늘을 바라보며, 자신의 꿈이 현실이 될 날을 상상합니다.</color></size>",
-      "info": "<size=36>좀비로부터 얻은 강철 물체랑 조합해 그 특성을 이용할 수 있습니다.\n\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>40(각 별 마다) | 1.5초</color>\n<color=black>공격 범위: </color><color=#8B0000>다섯 방향</color>\n<color=black>특수 능력: </color><color=#8B0000>금속류 좀비들에게 200% 피해를 줍니다.</color>",
+      "info": "<size=36>좀비로부터 얻은 금속 물체랑 조합해 그 특성을 이용할 수 있습니다.\n\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>40(각 별 마다) | 1.5초</color>\n<color=black>공격 범위: </color><color=#8B0000>다섯 방향</color>\n<color=black>특수 능력: </color><color=#8B0000>금속류 좀비들에게 200% 피해를 줍니다.</color>",
       "cost": "\n<size=36>조합식: <color=#8B0000>스타푸르츠 + 자석 버섯</color></size>"
     },
     {
@@ -1592,7 +1655,7 @@
       "seedType": 1101,
       "name": "바다 자석 버섯",
       "introduce": "<size=36><color=black>다른 바다 버섯들은 바다 자석 버섯이 철을 흡수해 점점 더 크고 높아지는 이유를 이해하지 못했습니다. \"간단해: E=mc²\" 그가 설명했다. 물론 대부분의 에너지는 공중으로 흩어져 전혀 활용되지 않지만 말이죠.</color></size>",
-      "info": "<size=36>이건 이상하네요. 왜 자라면 뒤에 있는 자석도 같이 자라죠?\n\n<color=black>자기장 범위: </color><color=#8B0000>5×5 → 7×7</color>\n<color=black>특수 능력: </color><color=#8B0000>철재를 3번 끌어당길 시 성장하며 끌어당기는 15초에서 10초로 짧아지며 범위도 넓어집니다.</color>",
+      "info": "<size=36>이건 이상하네요. 왜 자라면 뒤에 있는 자석도 같이 자라죠?\n\n<color=black>자기장 범위: </color><color=#8B0000>5×5 → 7×7</color>\n<color=black>특수 능력: </color><color=#8B0000>금속 물체를 3번 끌어당길 시 성장하며 끌어당기는 15초에서 10초로 짧아지며 범위도 넓어집니다.</color>",
       "cost": "\n<size=36>조합식: <color=#8B0000>바다 버섯 + 자석 버섯</color></size>"
     },
     {
@@ -1613,7 +1676,7 @@
       "seedType": 1104,
       "name": "슈팅 스타푸르츠",
       "introduce": "<size=32><color=black></color>슈팅 스타푸르츠가 가장 좋아하는 밤? 안개가 물러나고 별들과 마음껏 대화할 수 있는 밤입니다. \"별들은 날 완전히 이해해\" 라고 그는 말하지. 별들이 자신만큼이나 자신에게 끌린다고 확신하면서. 언젠가는 반드시 하나가 내려와 인사해 줄 거라고 믿고 있습니다. 그때까지는 계속 별들과 얘기할 거라고 합니다.",
-      "info": "<size=32>궤멸적인 피해를 주는 메테오를 소환합니다.\n\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>60(각 별 마다) | 3초</color>\n<color=black>공격 범위: </color><color=#8B0000>다섯 방향 / 1라인 / 맵 전체</color>\n<color=#99582a>빛 시스템: </color><color=#8B0000>1~3 레벨까지는 발광 스타푸르츠와 같습니다. 4 레벨  도달 시, 일반 매테오랑 별개의 별빛 메테오도 주기적으로 소환합니다. </color>\n<color=#495057>자기장 시스템: </color><color=#8B0000> 자석 식물과 연결된 만큼 피해량이 5% 증가하며, 대미지는 최대 120까지 증가합니다.\n<color=black>특수 능력: </color><color=#8B0000>60초마다 메테오가 떨어져 별빛으로 폭발하며 범위 피해를 줍니다, 또한 서로 연결하면 재사용 대기시간이 감소하며, 최대 13개 연결 시 25초까지 줄어듭니다.</color>",
+      "info": "<size=32>궤멸적인 피해를 주는 메테오를 소환합니다.\n\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>60(각 별 마다) | 3초</color>\n<color=black>공격 범위: </color><color=#8B0000>다섯 방향 / 1 라인 / 맵 전체</color>\n<color=#99582a>빛 시스템: </color><color=#8B0000>1~3 레벨까지는 발광 스타푸르츠와 같습니다. 4 레벨  도달 시, 일반 매테오랑 별개의 별빛 메테오도 주기적으로 소환합니다. </color>\n<color=#495057>자기장 시스템: </color><color=#8B0000> 자석 식물과 연결된 만큼 피해량이 5% 증가하며, 대미지는 최대 120까지 증가합니다.\n<color=black>특수 능력: </color><color=#8B0000>60초마다 메테오가 떨어져 별빛으로 폭발하며 범위 피해를 줍니다, 또한 서로 연결하면 재사용 대기시간이 감소하며, 최대 13개 연결 시 25초까지 줄어듭니다.</color>",
       "cost": "\n<size=36>조합식: <color=#8B0000>플랜턴 + 자석 버섯 + 스타푸르츠</color>"
     },
     {
@@ -1704,14 +1767,14 @@
       "seedType": 1117,
       "name": "깐 마늘 펄트",
       "introduce": "<size=32><color=black>\"90년대 사람들은 좀비를 다루는 최고의 방법은 옥수수 가루와 흑견의 피라고 널리 믿었지요. 우리 식물에게 마늘은 전략적 자원입니다.\" 깐 마늘 펄트는 현명한 태도로 이렇게 말합니다.</color>",
-      "info": "<size=32>좀비를 향해 깐마늘을 투척합니다. 가끔씩 갈릭 버터를 투척합니다.\n\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>40 | 3초 Seconds</color>\n<color=#5E1675>독 시스템: </color><color=#8B0000>최대 5 포인트까지 부여할 수 있으며 마늘 투사체는 ( 20 × 독성 스택 )만큼의 추가 피해를 줍니다.\n<color=black></color>공격할 때마다 독 포인트 1이 쌓이며, 최대 5까지 누적됩니다.\n포인트가 5에 도달하면 중독 디버프가 적용됩니다.\n<color=black>특수 능력: </color><color=#8B0000>25% 확률로 갈릭버터는 80 대미지를 주고 좀비를 4초간 경직시키고 라인을 바꿔버리벼, 갈릭 버터에 맞을 시 좀비를 중독 시키면서 독 포인트를 30까지 중첩시킬 수 있게 만듭니다</color>",
+      "info": "<size=32>좀비를 향해 깐마늘을 투척합니다. 가끔씩 갈릭 버터를 투척합니다.\n\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>40 | 3초</color>\n<color=#5E1675>독 시스템: </color><color=#8B0000>최대 5 포인트까지 부여할 수 있으며 마늘 투사체는 (20 × 독 포인트)만큼의 추가 피해를 줍니다.\n<color=black></color>공격할 때마다 1 독 포인트가 쌓이며, 최대 5까지 누적됩니다.\n포인트가 5에 도달하면 독 디버프가 적용됩니다.\n<color=black>특수 능력: </color><color=#8B0000>25% 확률로 갈릭버터는 80 대미지를 주고 좀비를 4초간 경직시키고 라인을 바꿔버리고, 갈릭 버터에 맞을 시 좀비를 독 시키면서 독 포인트를 30까지 중첩시킬 수 있게 만듭니다</color>",
       "cost": "\n<size=36>조합식: <color=#8B0000>옥수수 펄트 + 마늘</color>"
     },
     {
       "seedType": 1118,
       "name": "마늘쌈 펄트",
       "introduce": "<size=34><color=black>\"양배추와 마늘의 조합은 신선하고 맛있으며 건강에도 좋고, 만들기도 간단합니다. 서빙하기 전에 마늘 몇 쪽을 넣으면 맛이 한층 살아납니다.\" 마늘 셰프가 이렇게 설명합니다. 또한 마늘을 먹으면 탈모 예방에도 어느 정도 효과가 있다고 합니다.</color>",
-      "info": "<size=34>마늘쌈를 투척합니다.\n\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>40 | 3초</color>\n<color=#5E1675>독 시스템: </color><color=#8B0000>투사체는 뒤쪽의 좀비에게 한번 튕겨wlau, 좀비에게 독 포인트를 1 부여합니다. 만약 좀비한테 독 포인트가 없을 경우 계속해서 튕겨질 수 있습니다.</color>",
+      "info": "<size=34>마늘쌈를 투척합니다.\n\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>40 | 3초</color>\n<color=#5E1675>독 시스템: </color><color=#8B0000>투사체는 뒤쪽의 좀비에게 한번 튕겨지며, 좀비에게 독 포인트를 1 부여합니다. 만약 좀비한테 독 포인트가 없을 경우 계속해서 튕겨질 수 있습니다.</color>",
       "cost": "\n<size=36>조합식: <color=#8B0000>양배추 펄트 + 마늘</color>"
     },
     {
@@ -1781,7 +1844,7 @@
       "seedType": 1128,
       "name": "양배추 우산잎",
       "introduce": "<size=36><color=black>성공 비결을 묻자, 양배추 우산잎은 이렇게 대답했습니다. \"사실은, 공들이 내 머리 위에 쉬게 두는 걸 정말 즐겨요.\" 잠시 뜸을 들이더니 이어 말했습니다. \"하지만 다른 식물들은 모두 저를 일급 보호자라고 칭찬해 준답니다.\"</color>",
-      "info": "<size=36>캐터펄트류 투사체를 튕겨낼 수 있습니다. 좀비가 없을 시 당분간 투사체를 저장할 수 있으며 대미지를 극히 증폭시킬 수 있습니다.\n\n<color=black>체력: </color><color=#8B0000>1000</color>\n<color=black>특수 능력: </color><color=#8B0000>식물의 곡사형 투사체도 튕겨낼 수 있으며, 튕겨낸 투사체는 1라인 내의 좀비를 향하며 대미지가 75% 증가합니다. 좀비가 없을 시 투사체를 하나 저장할 수 있습니다.</color>\n</color><color=#8B0000>주변의 좀비를 밀쳐내며 40의 피해를 줍니다. 단, 그만큼 체력이 소모됩니다.\n</color><color=#8B0000>자세한 내용은 버터 우산잎 도감을 확인해주시길 바랍니다.</color>",
+      "info": "<size=36>캐터펄트류 투사체를 튕겨낼 수 있습니다. 좀비가 없을 시 당분간 투사체를 저장할 수 있으며 대미지를 극히 증폭시킬 수 있습니다.\n\n<color=black>체력: </color><color=#8B0000>1000</color>\n<color=black>특수 능력: </color><color=#8B0000>식물의 곡사형 투사체도 튕겨낼 수 있으며, 튕겨낸 투사체는 1 라인 내의 좀비를 향하며 대미지가 75% 증가합니다. 좀비가 없을 시 투사체를 하나 저장할 수 있습니다.</color>\n</color><color=#8B0000>주변의 좀비를 밀쳐내며 40의 피해를 줍니다. 단, 그만큼 체력이 소모됩니다.\n</color><color=#8B0000>자세한 내용은 버터 우산잎 도감을 확인해주시길 바랍니다.</color>",
       "cost": "\n<size=36>조합식: <color=#8B0000>양배추 펄트 + 우산잎</color>"
     },
     {
@@ -1816,7 +1879,7 @@
       "seedType": 1133,
       "name": "우산잎 화분",
       "introduce": "<size=34><color=black>다른 화분들은 우산잎 화분의 빽빽한 잎사귀를 보고 의아해하지만, 우산잎 화분은 이렇게 말합니다. \"그냥 <i>화분의 헤어 케어 가이드</i>라는 책을 읽었을 뿐입니다.\"</color>",
-      "info": "<size=34>우산잎류의 식물을 강화합니다.\n\n<color=black>특수 능력: </color><color=#8B0000>위에 심겨진 우산잎 식물의 능력을 증폭시킵니다.\n<color=black>버터 우산잎:</color> <color=#8B0000>좀비를 정지시키는 시간이 2초 증가, 밀쳐내는 거리 50% 증가</color>\n<color=black>멜론 우산잎:</color> <color=#8B0000>투사체 피해량 200%</color>\n<color=black>양배추 우산잎:</color> <color=#8B0000>튕겨내는 범위가 1라인에서 3라인으로 증가합니다.\n<color=black>그 외의 우산잎류 식물: </color><color=#8B0000>밀쳐내는 거리를 200% 증가합니다.</color></color>",
+      "info": "<size=34>우산잎류의 식물을 강화합니다.\n\n<color=black>특수 능력: </color><color=#8B0000>위에 심겨진 우산잎 식물의 능력을 증폭시킵니다.\n<color=black>버터 우산잎:</color> <color=#8B0000>좀비를 정지시키는 시간이 2초 증가, 밀쳐내는 거리 50% 증가</color>\n<color=black>멜론 우산잎:</color> <color=#8B0000>투사체 피해량 200%</color>\n<color=black>양배추 우산잎:</color> <color=#8B0000>튕겨내는 범위가 1 라인에서 3 라인으로 증가합니다.\n<color=black>그 외의 우산잎류 식물: </color><color=#8B0000>밀쳐내는 거리를 200% 증가합니다.</color></color>",
       "cost": "\n<size=36>조합식: <color=#8B0000>화분 + 우산잎</color>"
     },
     {
@@ -1879,7 +1942,7 @@
       "seedType": 1142,
       "name": "황금 멜론 펄트",
       "introduce": "<size=36><color=black>황금 멜론 펄트는 자신의 황금빛 껍질과 씨앗에 관한 질문에는 신경 쓰지 않지만, \"씨가 없는가요?\"라는 질문만큼은 절대 참지 못합니다.</color>",
-      "info": "<size=36>좀비를 향해 금빛 수박을 투척합니다. 그의 궁극기로 화면 전체에 황금빛 멜론을 비처럼 뿌립니다.\n\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>120 | 3초</color>\n<color=black>공격 범위: </color><color=#8B0000>스플래시(3×3)</color>\n<color=black>궁극기: </color><color=#8B0000>3000 코인 필요 | 쿨타임: 2초\n</color><color=#8B0000>3×3 영역의 범위 피해(120)를 주는 황금 수박 60개를 화면 전체에 무작위로 발사합니다.</color>",
+      "info": "<size=36>좀비를 향해 금빛 수박을 투척합니다. 그의 궁극기로 화면 전체에 황금빛 멜론을 비처럼 뿌립니다.\n\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>120 | 3초</color>\n<color=black>공격 범위: </color><color=#8B0000>스플래시(3×3)</color>\n<color=black>궁극기: </color><color=#8B0000>3000 코인 필요 | 쿨타임: 2초\n</color><color=#8B0000>3×3 영역의 범위 피해(120)를 주는 황금 수박 60개를 화면 전체에 랜덤으로 발사합니다.</color>",
       "cost": "\n<size=36>업그레이드 비용: </color><color=#8B0000>3000 코인</color>"
     },
     {
@@ -1935,7 +1998,7 @@
       "seedType": 1150,
       "name": "황금 자석",
       "introduce": "<size=36><color=black>수많은 시간을 회계 사무소에서 보내던 끝에, 황금 자석은 자신의 무시무시한 흡인 잠재력을 깨닫고 전직하여 전사가 되었습니다. \"솔직히 돈 세는 것보다 이게 훨씬 재미있다구요.\" 그는 이렇게 말합니다. \"어차피 돈은 나무에서 열리진 않지만, 이상하게도 작물에서는 자라나더라구요.\" 물론, 그의 이런 장난스러운 행동 때문에 곁의 식물 동료들이 종종 고생을 하게 됩니다.</color>",
-      "info": "<size=36>투사체를 끌어당깁니다!\n\n<color=black>특수 능력: </color><color=#8B0000>5초마다 3라인의 직사형 투사체를 자신에게로 끌어들이고 끌어들인 투사체만큼 전부 25 골드씩 환산합니다.</color>",
+      "info": "<size=36>투사체를 끌어당깁니다!\n\n<color=black>특수 능력: </color><color=#8B0000>5초마다 3 라인의 직사형 투사체를 자신에게로 끌어들이고 끌어들인 투사체만큼 전부 25 골드씩 환산합니다.</color>",
       "cost": "\n<size=36>조합식: <color=#8B0000>자석 버섯 + 금잔화</color>"
     },
     {
@@ -1977,7 +2040,7 @@
       "seedType": 1156,
       "name": "뜨거운 켈프",
       "introduce": "<align=justified><size=36><color=black>온천을 관리하는 일은 쉽지 않지만, 뜨거운 켈프는 고객 불만이 전혀 없다는 점에 자부심을 가지고 있습니다. 사실, 손님들은 온천에 너무 만족한 나머지 다시 돌아오지 않을 정도입니다.</color>",
-      "info": "<size=36>뜨거운 켈프? 혹시 용암 같은 데서 사는 걸까요?\n\n<color=black>대미지: </color><color=#8B0000> 즉사</color>\n<color=black>공격 범위: </color><color=#8B0000>전방 1타일</color>\n<color=black>사용 방법: </color><color=#8B0000>일회용 식물</color>\n<color=black>특수 능력: </color><color=#8B0000>\n<color=black></color> 조합이 불가능합니다.</size>",
+      "info": "<size=36>뜨거운 켈프? 혹시 용암 같은 데서 사는 걸까요?\n\n<color=black>대미지: </color><color=#8B0000> 즉사</color>\n<color=black>공격 범위: </color><color=#8B0000>전방 1 타일</color>\n<color=black>사용 방법: </color><color=#8B0000>일회용 식물</color>\n<color=black>특수 능력: </color><color=#8B0000>\n<color=black></color> 조합이 불가능합니다.</size>",
       "cost": "\n<size=36>"
     },
     {
@@ -1991,21 +2054,21 @@
       "seedType": 1158,
       "name": "자석 가스 버섯",
       "introduce": "<size=36><color=black>자석 가스 버섯은 설명합니다. \"저는 예전에는 빵을 발효시키곤 했습니다. 하지만 이제는 빵 오븐을 만들기 위해 금속을 수집합니다.\"</color>",
-      "info": "<size=36>양동이를 주면 흥미로운 일이 생길 것 같군요.\n\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>40 | 1.5초</color>\n<color=black>공격 범위: </color><color=#8B0000>1라인 4타일</color>\n<color=black>특수 능력: </color><color=#8B0000>금속류 좀비들에게 200% 피해를 줍니다.</color>",
+      "info": "<size=36>양동이를 주면 흥미로운 일이 생길 것 같군요.\n\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>40 | 1.5초</color>\n<color=black>공격 범위: </color><color=#8B0000>1 라인 4 타일</color>\n<color=black>특수 능력: </color><color=#8B0000>금속류 좀비들에게 200% 피해를 줍니다.</color>",
       "cost": "\n<size=36>조합식: <color=#8B0000>가스 버섯 + 자석 버섯</color>"
     },
     {
       "seedType": 1159,
       "name": "가스틸 버섯",
       "introduce": "<size=36><color=black>\"또 해고됐어!\" 잠시 전만 해도 자석 가스 버섯이었던 가스틸 버섯이 울부짖습니다. \"오븐이 아니라 실수로 커피 메이커를 만든 것뿐인데요!\"</color>",
-      "info": "<size=36>미식축구 헬멧을 주면 또 다른 반전이 있을까요?\n\n<color=black>체력: </color><color=#8B0000>2000</color>\n<color=black>미지 | 공격 쿨타임: </color><color=#8B0000>50 | 1.5초</color>\n<color=black>공격 범위: </color><color=#8B0000>1라인 4타일</color>\n<color=black>특수 능력: </color><color=#8B0000>제2 방어구를 든 좀비에게 300% 피해를 줍니다.</color>",
+      "info": "<size=36>미식축구 헬멧을 주면 또 다른 반전이 있을까요?\n\n<color=black>체력: </color><color=#8B0000>2000</color>\n<color=black>미지 | 공격 쿨타임: </color><color=#8B0000>50 | 1.5초</color>\n<color=black>공격 범위: </color><color=#8B0000>1 라인 4 타일</color>\n<color=black>특수 능력: </color><color=#8B0000>제2 방어구를 든 좀비에게 300% 피해를 줍니다.</color>",
       "cost": "\n<size=36>조합식: <color=#8B0000>자석 가스 버섯 + 양동이</color>"
     },
     {
       "seedType": 1160,
       "name": "미식축구 가스 버섯",
       "introduce": "<size=36><color=black>\"저는 항상 미식축구 선수가 되는 꿈을 꾸었고, 이제 이 영광의 모자를 얻게 되었습니다.\" 미식축구 가스 버섯은 자랑스럽게 말합니다. \"하지만 오늘은 벤치에서 쉬기로 했습니다.\" 사실 그는 단순히 경기장의 경비 역할을 하며, 지나치게 열광적인 팬들을 포자로 막고 있습니다.</color>",
-      "info": "<size=36>방어구를 뚫는 가스를 발사합니다!\n\n<color=black>체력: </color><color=#8B0000>3000</color>\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>100 | 1.5초</color>\n<color=black>공격 범위: </color><color=#8B0000>1라인 4타일</color>\n<color=black>특수 능력: </color><color=#8B0000>\n<color=black>•</color> 금속 식물. 고급 식물로 간주됩니다.\n<color=black>•</color> 좀비의 본체와 방어구 둘다 피해를 줍니다.</color>",
+      "info": "<size=36>방어구를 뚫는 가스를 발사합니다!\n\n<color=black>체력: </color><color=#8B0000>3000</color>\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>100 | 1.5초</color>\n<color=black>공격 범위: </color><color=#8B0000>1 라인 4 타일</color>\n<color=black>특수 능력: </color><color=#8B0000>\n<color=black>•</color> 금속 식물. 고급 식물로 간주됩니다.\n<color=black>•</color> 좀비의 본체와 방어구 둘다 피해를 줍니다.</color>",
       "cost": "\n<size=36>조합식: <color=#8B0000>가스틸 버섯 + 미식축구 헬멧</color>"
     },
     {
@@ -2026,7 +2089,7 @@
       "seedType": 1163,
       "name": "지뢰 할라페뇨",
       "introduce": "<size=36><color=black>지뢰 할라페뇨는 체리 감자 지뢰의 유능한 조수이지만, 대부분의 요리가 손님들에게 낮은 평가를 받습니다. 그녀는 이렇게 느낍니다. \"도대체 무슨 일이야—\" 자신이 죄책감을 느끼지만 이유를 알지 못합니다. 사실 그녀는 매운맛에 둔감하여 항상 고추를 너무 많이 넣습니다.</color>",
-      "info": "<size=36>터진 라인을 기준으로 7개의 감자 지뢰로 나뉩니다. \n\n<color=black>대미지: </color><color=#8B0000>1800 (폭발)</color>\n<color=black>사용 방법: </color><color=#8B0000>일회용 식물</color>\n<color=black>특수 능력: </color><color=#8B0000>파괴시 1라인을 7개의 감자 지뢰로 채웁니다.</color>",
+      "info": "<size=36>터진 라인을 기준으로 7개의 감자 지뢰로 나뉩니다. \n\n<color=black>대미지: </color><color=#8B0000>1800 (폭발)</color>\n<color=black>사용 방법: </color><color=#8B0000>일회용 식물</color>\n<color=black>특수 능력: </color><color=#8B0000>파괴시 1 라인을 7개의 감자 지뢰로 채웁니다.</color>",
       "cost": "\n<size=36>조합식: <color=#8B0000>감자 지뢰 + 할라페뇨</color>"
     },
     {
@@ -2039,15 +2102,15 @@
     {
       "seedType": 1165,
       "name": "백설 특전사",
-      "introduce": "<size=36><color=black>백설 특전사은 콩 가문의 총사령관으로서, 그는 수 마일 밖에서도 식물과 좀비들을 긴장하게 만드는 위엄을 지니고 있다. 그러나 자랑스러운 자신의 빙결 능력에 대해서는 언제나 침묵을 지킵니다. 그러던 어느 날, 작은 콩 하나가 그의 일기를 우연히 펼쳐보게 되었습니다. \"그때 내가 알았더라면 불꽃 저격콩와 내기를 걸지 않았을 것이다. 얼음 벌판에서 거의 얼어 죽을 뻔했고, 결국 지금의 모습이 되고 말았다. 오늘 밤, 반드시 녀석에게 고추 세 그릇을 먹여주겠다.\"</color>",
-      "info": "<size=36>좀비를 향해 3방향으로 눈 콩을 쏘며, 낮은 확률로 세 방향으로 콩을 한 무더기로 난사합니다!\n\n<color=black>사용 조건: </color><color=#8B0000>오디세이</color>\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>20 | 1.5초</color>\n<color=black>공격 횟수: </color><color=#8B0000>6번</color>\n<color=black>특수 능력: </color><color=#8B0000>2% 확률로 5초동안 눈 콩을 3라인까지 퍼질 정도로 퍼부습니다.</color>",
+      "introduce": "<size=36><color=black>백설 특전사는 콩 가문의 총사령관으로서, 그는 수 마일 밖에서도 식물과 좀비들을 긴장하게 만드는 위엄을 지니고 있다. 그러나 자랑스러운 자신의 빙결 능력에 대해서는 언제나 침묵을 지킵니다. 그러던 어느 날, 작은 콩 하나가 그의 일기를 우연히 펼쳐보게 되었습니다. \"그때 내가 알았더라면 불꽃 저격콩와 내기를 걸지 않았을 것이다. 얼음 벌판에서 거의 얼어 죽을 뻔했고, 결국 지금의 모습이 되고 말았다. 오늘 밤, 반드시 녀석에게 고추 세 그릇을 먹여주겠다.\"</color>",
+      "info": "<size=36>좀비를 향해 3방향으로 눈 콩을 쏘며, 낮은 확률로 세 방향으로 콩을 한 무더기로 난사합니다!\n\n<color=black>사용 조건: </color><color=#8B0000>오디세이</color>\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>20 | 1.5초</color>\n<color=black>공격 횟수: </color><color=#8B0000>6번</color>\n<color=black>특수 능력: </color><color=#8B0000>2% 확률로 5초동안 눈 콩을 3 라인까지 퍼질 정도로 퍼부습니다.</color>",
       "cost": "\n<size=36>조합식: <color=#8B0000>특전사 콩 + 얼음 버섯</color>"
     },
     {
       "seedType": 1166,
       "name": "체리 자석 버섯",
       "introduce": "<size=36><color=black>\"잘 파는 것도 능력이야\"라고 자석 버섯이 말했습니다. 오직 자석 버섯만이 증오를 사랑으로 바꿀 수 있습니다. 그는 한때 체리를 가장 싫어했습니다. 사실 지금도 싫어하지만, 어쩌면 사업 기회를 발견한 것일지도 모릅니다.</color>",
-      "info": "<size=36>금속을 끌어당겨 폭발성 체리로 만듭니다!\n\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>300 | 3초</color>\n<color=black>특수 능력: </color><color=#8B0000>좀비에게서 철재를 끌어당기지 않는 대신 금속 물체를 주거나 후방에 자석 꽃을 배치하면 철재 재료를 무기화 시킵니다, 무기화된 철재는 공격 시 3×3 범위 피해(300)을 입히며 최대 5번까지 사용 가능합니다.</color>",
+      "info": "<size=36>금속을 끌어당겨 폭발성 체리로 만듭니다!\n\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>300 | 3초</color>\n<color=black>특수 능력: </color><color=#8B0000>좀비에게서 금속 물체를 끌어당기지 않는 대신 금속 물체를 주거나 후방에 태양 자석 버섯을 배치하면 금속 물체를 무기화 시킵니다, 무기화된 금속 물체는 공격 시 3×3 범위 피해(300)을 입히며 최대 5번까지 사용 가능합니다.</color>",
       "cost": "\n<size=36>조합식: <color=#8B0000>자석 버섯 + 체리 폭탄</color>"
     },
     {
@@ -2061,7 +2124,7 @@
       "seedType": 1168,
       "name": "특전사 콩",
       "introduce": "<size=36><color=black>미친 좀비들과 강력한 동료들을 마주한 특전사 콩, 더 큰 도전을 위해 마당에 나온 그는 엄청난 압박을 느끼며 성격도 점점 거칠어지고 있습니다. 하지만 식물들은 멀리서 콩을 미친 듯이 쏘아대는 특전사 콩의 극단적인 폭력성에 늘 충격을 받습니다. 심지어 미치광이 개틀링 버섯은 이미 그의 연락처를 받아야겠다고 마음먹었습니다.</color>",
-      "info": "<size=36>좀비를 향해 콩을 쏘며, 낮은 확률로 무작위한 콩을 한 무더기로 난사합니다!\n\n<color=black>사용 조건: </color><color=#8B0000>오디세이</color>\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>20 | 1.5초</color>\n<color=black>공격 횟수: </color><color=#8B0000>6번</color>\n<color=black>특수 능력: </color><color=#8B0000>2% 확률로 5초동안 무작위한 콩(일반 콩, 불콩, 눈 콩, 최면 콩)을 3라인까지 퍼질 정도로 퍼부습니다. </color>",
+      "info": "<size=36>좀비를 향해 콩을 쏘며, 낮은 확률로 무작위한 콩을 한 무더기로 난사합니다!\n\n<color=black>사용 조건: </color><color=#8B0000>오디세이</color>\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>20 | 1.5초</color>\n<color=black>공격 횟수: </color><color=#8B0000>6번</color>\n<color=black>특수 능력: </color><color=#8B0000>2% 확률로 5초동안 무작위한 콩(일반 콩, 불콩, 눈 콩, 최면 콩)을 3 라인까지 퍼질 정도로 퍼부습니다. </color>",
       "cost": "\n<size=36>조합식: <color=#8B0000>저격콩 + 콩슈터</color>"
     },
     {
@@ -2075,7 +2138,7 @@
       "seedType": 1170,
       "name": "감자 지뢰 버섯",
       "introduce": "<align=justified><size=36><color=black>일부 식물들이 물었습니다: \"감자 지뢰 버섯의 머리 위는 왜 빨간가요?\", 그는 이렇게 대답했습니다: \"글쎄요, 제가 먼저 물어볼게요..\"</color>",
-      "info": "<size=36>스스로 증식합니다!\n\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>20 | 1.5초</color>\n<color=black>공격 범위: </color><color=#8B0000>1라인 2.5타일</color>\n<color=black>특수 능력: </color><color=#8B0000>작은 식물\n20초마다 새로운 감자 지뢰 버섯을 생성합니다.(버섯 당 한 번만 가능합니다) 파괴시 주변 좀비에게 300의 피해를 입힙니다.</color>",
+      "info": "<size=36>스스로 증식합니다!\n\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>20 | 1.5초</color>\n<color=black>공격 범위: </color><color=#8B0000>1 라인 2.5 타일</color>\n<color=black>특수 능력: </color><color=#8B0000>작은 식물\n20초마다 새로운 감자 지뢰 버섯을 생성합니다.(버섯 당 한 번만 가능합니다) 파괴시 주변 좀비에게 300의 피해를 입힙니다.</color>",
       "cost": "\n<size=36>조합식: <color=#8B0000>뻐끔 버섯 + 감자 지뢰</color>"
     },
     {
@@ -2089,7 +2152,7 @@
       "seedType": 1172,
       "name": "마늘 가스 버섯",
       "introduce": "<size=36><color=black>창백한 피부, 성당 돔과 겨룰 만한 머리 모양, 그리고 비뚤어진 이로 가득한 미소를 가진 파울 버섯은 동화 속 악당 오디션을 보는 것처럼 보입니다. 아이러니하게도, 그는 보통 뱀파이어 역할에 캐스팅됩니다.</color>",
-      "info": "<size=36>마늘 향을 풍기는 독성 가스를 뿌립니다!\n\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>30 | 1.5초</color>\n<color=black>공격 범위: </color><color=#8B0000>1라인 4타일</color>\n<color=#5E1675>독 시스템: </color><color=#8B0000>공격 시 좀비에게 독 포인트 1를 부여합니다.</color>\n<color=black>특수 능력: </color><color=#8B0000>섭취시 라인을 바꿉니다.</color>",
+      "info": "<size=36>마늘 향을 풍기는 독성 가스를 뿌립니다!\n\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>30 | 1.5초</color>\n<color=black>공격 범위: </color><color=#8B0000>1 라인 4 타일</color>\n<color=#5E1675>독 시스템: </color><color=#8B0000>공격 시 좀비에게 1 독 포인트를 부여합니다.</color>\n<color=black>특수 능력: </color><color=#8B0000>섭취시 라인을 바꿉니다.</color>",
       "cost": "\n<size=36>조합식: <color=#8B0000>가스 버섯 + 마늘</color>"
     },
     {
@@ -2103,7 +2166,7 @@
       "seedType": 1174,
       "name": "거대 먹깨비",
       "introduce": "<size=36><color=black>거대 먹깨비는 고메 왕 콘테스트에서 그랑프리를 차지하며, 44초 만에 기가 가르강 케이크 10개를 해치웠습니다 — 그중 3초는 출발 신호를 못 들어서 허비한 시간입니다. \"비슷한 대회가 또 있으면 꼭 불러주세요. 정원 근처 뷔페는 이제 저를 들여보내주질 않거든요,\" 라고 거대 먹깨비는 인터뷰에서 말했습니다.</color>",
-      "info": "<size=36>너무 가까이 접근한 좀비를 죄다 먹어치웁니다!\n\n<color=black>대미지: </color><color=#8B0000>즉사</color>\n<color=black>공격 범위: </color><color=#8B0000>전방 1타일</color>\n<color=black>소화 시간: </color><color=#8B0000>(8+3 × in(좀비의 체력)</color>\n<color=black>특수 능력: </color><color=#8B0000> 연옥 보스 좀비, 중무장 가르강튀아를 제외한 모든 좀비를 삼킬 수 있으나, 삼킨 좀비의 체력에 비례해서 소화 시간이 증가합니다.예시: \n<color=black>•</color><color=#8B0000>일반 좀비: 24.8초\n<color=black>•</color><color=#8B0000>양동이좀비: 29.9초\n<color=black>•</color><color=#8B0000>기가 가르강튀아: 34초\n<color=black>•</color><color=#8B0000>기가 가르강튀아 10마리: 41초</color>",
+      "info": "<size=36>너무 가까이 접근한 좀비를 죄다 먹어치웁니다!\n\n<color=black>대미지: </color><color=#8B0000>즉사</color>\n<color=black>공격 범위: </color><color=#8B0000>전방 1 타일</color>\n<color=black>소화 시간: </color><color=#8B0000>(8+3 × in(좀비의 체력)</color>\n<color=black>특수 능력: </color><color=#8B0000> 연옥 보스 좀비, 중무장 가르강튀아를 제외한 모든 좀비를 삼킬 수 있으나, 삼킨 좀비의 체력에 비례해서 소화 시간이 증가합니다. 예시: \n<color=black>•</color><color=#8B0000>일반 좀비: 24.8초\n<color=black>•</color><color=#8B0000>양동이좀비: 29.9초\n<color=black>•</color><color=#8B0000>기가 가르강튀아: 34초\n<color=black>•</color><color=#8B0000>기가 가르강튀아 10마리: 41초</color>",
       "cost": "\n<size=36>조합식: <color=#8B0000>먹깨비 - [먹깨비] - 먹깨비</color>"
     },
     {
@@ -2124,7 +2187,7 @@
       "seedType": 1177,
       "name": "쌍둥이 꽃니바퀴",
       "introduce": "<size=36><color=black>쌍둥이 꽃니바퀴의 두 머리는 끊임없이 다투고 있습니다, 한쪽은 회전이 최선의 방법이라고 주장하고, 다른 쪽은 톱니를 발사하는 것이 더 낫다고 주장합니다. 그럼에도 불구하고, 그들의 팀워크는 여전히 경쟁을 단번에 베어냅니다.</color>",
-      "info": "<size=36>가까이 오는 좀비를 톱날로 갈아버리고 장거리 공격을 시전합니다!\n\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>5(코앞) / 16(장거리) | 0.02초 / 1.5초</color>\n<color=black>공격 범위: </color><color=#8B0000>전방 1타일 / 맵 전체</color>\n<color=black>특수 능력: </color><color=#8B0000>0.5초마다 보호막 포인트를 5 쌓습니다. 최대 300입니다.</color>",
+      "info": "<size=36>가까이 오는 좀비를 톱날로 갈아버리고 장거리 공격을 시전합니다!\n\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>5(코앞) / 16(장거리) | 0.02초 / 1.5초</color>\n<color=black>공격 범위: </color><color=#8B0000>전방 1 타일 / 맵 전체</color>\n<color=black>특수 능력: </color><color=#8B0000>0.5초마다 보호막 포인트를 5 쌓습니다. 최대 300입니다.</color>",
       "cost": "\n<size=36>조합식: <color=#8B0000>꽃니바퀴 + 꽃니바퀴</color>"
     },
     {
@@ -2145,7 +2208,7 @@
       "seedType": 1180,
       "name": "아이스위드",
       "introduce": "<align=justified><size=36><color=black>속보! 제1회 식물 vs. 좀비 하키 토너먼트! 아이스위드가 압도적인 실력으로 승리하며 봅슬레이 좀비들을 허둥대게 만들었습니다.하지만 이제 좀비들이 반칙을 외치고 있네요! \"난 아무 잘못도 하지 않았어\" 아이스위드는 서리 돋친 가시를 고쳐 세우며 주장합니다. \"이 스프링들? 그냥 경기 전에 착용하는 안전 장비일 뿐이라고\"",
-      "info": "<size=36>아이스위드는 자신을 밟고가는 좀비를 느리게 합니다.\n\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>20 | 1초</color>\n<color=black>공격 범위: </color><color=#8B0000>1타일</color>\n<color=#0077b6>빙결 시스템: </color><color=#8B0000>공격마다 좀비에게 빙결 포인트를 10 누적시킵니다.\n<color=black>특수 능력: </color><color=#8B0000> 비료를 줄 시 아이스락으로 성장합니다.</color>",
+      "info": "<size=36>아이스위드는 자신을 밟고가는 좀비를 느리게 합니다.\n\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>20 | 1초</color>\n<color=black>공격 범위: </color><color=#8B0000>1 타일</color>\n<color=#0077b6>빙결 시스템: </color><color=#8B0000>공격마다 좀비에게 빙결 포인트를 10 누적시킵니다.\n<color=black>특수 능력: </color><color=#8B0000> 비료를 줄 시 아이스락으로 성장합니다.</color>",
       "cost": "\n<size=36><color=black>조합식: </color><color=#8B0000>스파이크위드 + 얼음 버섯</color>"
     },
     {
@@ -2180,7 +2243,7 @@
       "seedType": 1185,
       "name": "발광 우산잎",
       "introduce": "<align=justified><size=36><color=black>안개 너머에서 그녀는 바라본다. 인간의 눈먼 한계에 닿지 않는 예언자로서. 신께서 빛을 창조하시던 그 순간, 그녀는 앞으로 나섰다. \"전능하신 이의 명으로, 나는 세스의 땅에 왔다. 불길이 도사리고 있으나, 이 성스러운 빛으로 길 잃은 자들을 그 손아귀에서 지켜내리라\"</color>",
-      "info": "<size=36>안개를 제거하고 탄환을 막아냅니다.\n\n<color=black>체력: </color><color=#8B0000>1000+2000(보호막)</color>\n<color=black>범위: </color><color=#8B0000>3×3 타일</color>\n<color=#99582a>빛 시스템:</color></color><color=#8B0000>\n<color=black>•</color> 주변 3×3 타일에 빛 레벨 1을 부여하고 안개를 제거합니다.\n<color=black>•</color> 보호막을 소모하여 투사체를 막습니다. 각 차단 시 투사체의 피해량에 비례해 보호막이소모 됩니다(농구공 제외)\n<color=black>•</color> 매초마다 (25 × 발광 레벨)만큼 회복하며, 보호막을 전부 소진할 시 5초동안 보호막을 회복할 수 없습니다.\n<color=black>•</color> 피해를 흡수할 때는 먼저 보호막을 소모하며, 보호막은 체력 1 당 5에 해당합니다.</color>",
+      "info": "<size=36>안개를 제거하고 탄환을 막아냅니다.\n\n<color=black>체력: </color><color=#8B0000>1000 + 2000(보호막)</color>\n<color=black>범위: </color><color=#8B0000>3×3 타일</color>\n<color=#99582a>빛 시스템:</color></color><color=#8B0000>\n<color=black>•</color> 주변 3×3 타일에 빛 레벨 1을 부여하고 안개를 제거합니다.\n<color=black>•</color> 보호막을 소모하여 투사체를 막습니다. 각 차단 시 투사체의 피해량에 비례해 보호막이소모 됩니다(농구공 제외)\n<color=black>•</color> 매초마다 (25 × 발광 레벨)만큼 회복하며, 보호막을 전부 소진할 시 5초동안 보호막을 회복할 수 없습니다.\n<color=black>•</color> 피해를 흡수할 때는 먼저 보호막을 소모하며, 보호막은 체력 1 당 5에 해당합니다.</color>",
       "cost": "<size=36>\n<size=36>조합식: <color=#8B0000>플랜턴 + 우산잎</color>"
     },
     {
@@ -2215,7 +2278,7 @@
       "seedType": 1190,
       "name": "지뢰 호박",
       "introduce": "<align=justified><size=36><color=black>한때 감자튀김 가게를 운영하던 지뢰 호박은 단순한 사업 방식을 가지고 있었습니다. 감자튀김은 반으로 잘라도 가격은 그대로.하지만 손님들은 동의하지 않았죠, 이제 정원에서는 전혀 다른 종류의 거래를 제공합니다. 폭발로 끝나는 거래를요. 그럼에도 불구하고, 사람들은 왠지 여전히 그의 옛 메뉴를 떠올립니다.</color>",
-      "info": "<size=36>식물을 지키고 체력이 1/3 깎일 때마다 폭발합니다. 총알을 막을 수 없습니다.\n\n<color=black>체력: </color><color=#8B0000>4000</color>\n<color=black>특수 능력: </color><color=#8B0000>\"작은\" 식물(일반 투사체를 맞지 않습니다) 하지만 그 안에 있는 작은 식물이 아닌 식물들은 공격을 받습니다. 체력이 66%, 33%에 도달 시 소형 폭발(500) 시전합니다.</color>",
+      "info": "<size=36>식물을 지키고 체력이 1/3 깎일 때마다 폭발합니다. 총알을 막을 수 없습니다.\n\n<color=black>체력: </color><color=#8B0000>4000</color>\n<color=black>특수 능력: </color><color=#8B0000>\"작은\" 식물(일반 투사체를 맞지 않습니다) 하지만 그 안에 있는 작은 식물이 아닌 식물들은 공격을 받습니다.\n체력이 66%, 33%에 도달 시 소형 폭발(500) 시전합니다.</color>",
       "cost": "<size=36>\n<size=36>조합식: <color=#8B0000>감자 지뢰 + 호박</color>"
     },
     {
@@ -2229,14 +2292,14 @@
       "seedType": 1192,
       "name": "파멸 먹깨비",
       "introduce": "<align=justified><size=36><color=black>먹깨비의 많이 먹기 챔피언십에서 파멸 먹깨비는 막강한 존재감을 뽐냈습니다, 하지만 조금 과하게 나아가 버렸죠. \"그는 자기 케이크만 먹은 게 아니에요, 제 케이크까지 태워버렸다고요!\" 한 참가자가 회상합니다. 결국, 과도한 파괴로 인해 실격 처리되는 것은 놀라운 일이 아니었습니다.</color>",
-      "info": "<size=36>좀비를 먹으면 파멸적인 폭발이 발생합니다.\n\n<color=black>대미지: </color><color=#8B0000>즉사 / 1800 (폭발 판정)</color>\n<color=black>공격 범위: </color><color=#8B0000>전방 1타일 / 5×5 타일</color>\n<color=black>소화 시간: </color><color=#8B0000>40초</color>\n<color=black>특수 능력: </color><color=#8B0000>적을 섭취 시 파멸 버섯과 동일한 폭발을 일으키며 앞의 타일에 크레이터를 남긴다.</color>",
+      "info": "<size=36>좀비를 먹으면 파멸적인 폭발이 발생합니다.\n\n<color=black>대미지: </color><color=#8B0000>즉사 / 1800 (폭발 판정)</color>\n<color=black>공격 범위: </color><color=#8B0000>전방 1 타일 / 5×5 타일</color>\n<color=black>소화 시간: </color><color=#8B0000>40초</color>\n<color=black>특수 능력: </color><color=#8B0000>적을 섭취 시 파멸 버섯과 동일한 폭발을 일으키며 앞의 타일에 크레이터를 남긴다.</color>",
       "cost": "<size=36>\n<size=36>조합식: <color=#8B0000>먹깨비 + 파멸 버섯</color>"
     },
     {
       "seedType": 1193,
       "name": "불꽃 버섯",
       "introduce": "<align=justified><size=36><color=black>불꽃 버섯은 레스토랑의 수석 셰프로서, 철판 위에서 펼치는 화려한 불용춤은 모든 저녁 식사의 필수 쇼입니다. 하지만 매번 최소 한 명의 손님이 화상을 입고 맙니다. 소문에 따르면, 이를 보상하기 위해 불꽃 버섯은 앵콜 공연까지 선사했다고 하네요.</color>",
-      "info": "<size=36>불꽃 버섯의 가스는 좀비를 통과해 화염을 걸수 있습니다.\n\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>33 | 1.5초</color>\n<color=black>공격 범위: </color><color=#8B0000>1라인 4타일</color>\n<color=black>특수능력: </color><color=#8B0000>공격 마다 좀비에게 화염 디버프를 부여합니다.</color>",
+      "info": "<size=36>불꽃 버섯의 가스는 좀비를 통과해 화염을 걸수 있습니다.\n\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>33 | 1.5초</color>\n<color=black>공격 범위: </color><color=#8B0000>1 라인 4 타일</color>\n<color=black>특수능력: </color><color=#8B0000>공격 마다 좀비에게 화염 디버프를 부여합니다.</color>",
       "cost": "<size=36>\n조합식: 가스 버섯 + 할라페뇨<color=#8B0000></color>"
     },
     {
@@ -2257,14 +2320,14 @@
       "seedType": 1196,
       "name": "스프링 멜론",
       "introduce": "<align=justified><size=36><color=black>\"호흡을 고르고, 집중하며, 정확히 때린다!\" 스프링 멜론은 언제나 인내심을 가지고 완벽한 순간을 기다립니다. 어떻게 그렇게 침착함을 유지하느냐고 물으면, 그는 늘 자신의 스승인 흉내쟁이를 언급하곤 합니다.</color>",
-      "info": "<size=36>충전 후에 수박을 투척하는 거대한 버섯입니다.\n\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>120 | 4초</color>\n<color=black>공격 범위: </color><color=#8B0000> 1라인 4타일</color>\n<color=black>특수 능력 </color><color=#8B0000>범위 내에 좀비가 없을 때, 충전되며 다음 공격의 피해량이 매초마다 30 누적됩니다.</color>",
+      "info": "<size=36>충전 후에 수박을 투척하는 거대한 버섯입니다.\n\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>120 | 4초</color>\n<color=black>공격 범위: </color><color=#8B0000> 1 라인 4 타일</color>\n<color=black>특수 능력 </color><color=#8B0000>범위 내에 좀비가 없을 때, 충전되며 다음 공격의 피해량이 매초마다 30 누적됩니다.</color>",
       "cost": "<size=36>\n조합식: <color=#8B0000>가스 버섯 + 멜론 펄트</color>"
     },
     {
       "seedType": 1197,
       "name": "불꽃별나무",
       "introduce": "<align=justified><size=36><color=black>대학을 졸업한 뒤, 불꽃별나무는 산간 지역으로 돌아가 가르치기 시작했습니다. \"“교육을 받는 순간부터 깨달았죠. 지식은 ‘불꽃’처럼 전해져야 한다는 것을!\" 지식의 불꽃은 학생들의 열정을 지폈고, 좀비들마저 불태웠습니다.</color>",
-      "info": "<size=36>스타푸르츠 모양의 횃불나무입니다. 별 투사체를 점화시킵니다.\n\n<color=black>특수 능력: </color><color=#8B0000>조커 스타푸르츠, 스타 선인장, 매운 스타푸르츠의 투사체를 제외한 별 투사체를 점화시켜 20의 추가 피해를 주고 인접한 좀비에게 범위 피해를 입히게 합니다, 투사체의 부가 효과도 같이 제거됩니다.</color>",
+      "info": "<size=36>스타푸르츠 모양의 횃불나무입니다. 별 투사체를 점화시킵니다.\n\n<color=black>특수 능력: </color><color=#8B0000>조커 스타푸르츠, 스타 선인장, 매운 스타푸르츠의 투사체를 제외한 별 투사체를 점화시켜 20의 추가 피해를 주고 인접한 좀비에게 범위 피해를 입히게 합니다, 하지만 투사체의 부가 효과는 사라지게 됩니다.</color>",
       "cost": "<size=36>\n조합식: <color=#8B0000>횃불나무 + 스타푸르츠</color>"
     },
     {
@@ -2313,7 +2376,7 @@
       "seedType": 1204,
       "name": "우산 드론",
       "introduce": "<align=justified><size=36><color=black>사임 후, 우산 드론 세계 여행을 떠났습니다 \"바람을 타고 마음이 원하는 곳으로 항해하는 것, 정말 낭만적이지 않나요?\" 그는 여행 경험을 책으로 엮었고, 그 책은 각계각층으로부터 찬사를 받았습니다.</color>",
-      "info": "<size=36>떠 있는 작은 우산잎으로, 아래 1타일만 보호할 수 있습니다.\n\n<color=black>특수 능력: </color><color=#8B0000>공중 식물. 우산잎과 동일한 특성을 지니지만, 바로 아래 식물만 보호할 수 있습니다.</color>",
+      "info": "<size=36>떠 있는 작은 우산잎으로, 아래 1 타일만 보호할 수 있습니다.\n\n<color=black>특수 능력: </color><color=#8B0000>공중 식물. 우산잎과 동일한 특성을 지니지만, 바로 아래 식물만 보호할 수 있습니다.</color>",
       "cost": "<size=36>\n조합식: <color=#8B0000>우산잎 + 블로버</color>"
     },
     {
@@ -2334,7 +2397,7 @@
       "seedType": 1207,
       "name": "체리 우산",
       "introduce": "<align=justified><size=36><color=black>체리 우산은 새로운 헤어스타일로 바꾸어, 길거리를 떠도는 불량학생처럼 더 반항적이고 예민해 보입니다. 하지만 겉모습에 속지 마세요. 사실 마음은 부드럽고, 심지어 이발사가 떨어진 낙엽을 치우는 일도 돕습니다.</color>",
-      "info": "<size=36>튕겨낼 시 작은 체리 폭발을 일으킵니다. 그리고 체리 폭발의 힘을 흡수하여 주변 식물을 보호합니다.\n\n<color=black>체력: </color><color=#8B0000>600</color>\n<color=black>특수 능력: </color><color=#8B0000>\n<color=black>•</color> 우산잎의 특성이 계승되었습니다.\n<color=black>•</color> 좀비가 접근할 시 300의 범위 피해를 주며 1타일 밀쳐냅니다. \n<color=black>•</color> 폭발성 공중 투사체를 무효화합니다.\n<color=black>•</color> 3×3 영역 내의 체리 방어 식물이 체력을 회복할 때마다 포인트가 1 증가하며, 최대 100 까지 쌓입니다. \n<color=black>•</color> 2 포인트를 사용하여 주변 3×3 영역의 모든 피해를 흡수합니다.</color>",
+      "info": "<size=36>튕겨낼 시 작은 체리 폭발을 일으킵니다. 그리고 체리 폭발의 힘을 흡수하여 주변 식물을 보호합니다.\n\n<color=black>체력: </color><color=#8B0000>600</color>\n<color=black>특수 능력: </color><color=#8B0000>\n<color=black>•</color> 우산잎의 특성이 계승되었습니다.\n<color=black>•</color> 좀비가 접근할 시 300의 범위 피해를 주며 1 타일 밀쳐냅니다. \n<color=black>•</color> 폭발성 공중 투사체를 무효화합니다.\n<color=black>•</color> 3×3 영역 내의 체리 방어 식물이 체력을 회복할 때마다 포인트가 1 증가하며, 최대 100 까지 쌓입니다. \n<color=black>•</color> 2 포인트를 사용하여 주변 3×3 영역의 모든 피해를 흡수합니다.</color>",
       "cost": "<size=36>\n조합식: <color=#8B0000>체리 폭탄 + 우산잎</color>"
     },
     {
@@ -2411,7 +2474,7 @@
       "seedType": 1218,
       "name": "촉촉꽃니",
       "introduce": "<align=justified><size=36><color=black>촉촉꽃니는 고압 물대포를 장착한 후, 절단 효율이 크게 향상되었습니다. 하지만 한 가지 단점이 있습니다. 눈 덮인 설원에서는 흐르는 물을 구하기 어렵습니다.</color>",
-      "info": "<size=36>냉가를 받을 시 좀비에게 빙결를 부여합니다.\n\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>8 | 0.02초</color>\n<color=black>공격 범위: </color><color=#8B0000>전방 1타일</color>\n<color=#0077b6>빙결 시스템: </color><color=#8B0000>\n<color=black>•</color> 눈덩이/얼음 삼지창/얼음 버섯에 영향을 받을 때 각각 1/1/15의 냉기 포인트를 부여됩니다.\n<color=black>•</color> 냉기 포인트가 있을 때, 공격은 피해가 200%가 되며, 좀비에게 저체온증과 빙결 포인트를 1 누적시킵니다. 다만 1/9 확률로 충전을 소모합니다. </color>\n<color=black>특수 능력: </color><color=#8B0000>눈덩이로부터 얼어붙지 않습니다.</color>",
+      "info": "<size=36>냉가를 받을 시 좀비에게 빙결를 부여합니다.\n\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>8 | 0.02초</color>\n<color=black>공격 범위: </color><color=#8B0000>전방 1 타일</color>\n<color=#0077b6>빙결 시스템: </color><color=#8B0000>\n<color=black>•</color> 눈덩이/얼음 삼지창/얼음 버섯에 영향을 받을 때 각각 1/1/15의 냉기 포인트를 부여됩니다.\n<color=black>•</color> 냉기 포인트가 있을 때, 공격은 피해가 200%가 되며, 좀비에게 저체온증과 빙결 포인트를 1 누적시킵니다. 다만 1/9 확률로 충전을 소모합니다. </color>\n<color=black>특수 능력: </color><color=#8B0000>눈덩이로부터 얼어붙지 않습니다.</color>",
       "cost": "<size=36>\n조합식: <color=#8B0000>꽃니바퀴 + 아쿠아 알로에</color>"
     },
     {
@@ -2481,14 +2544,14 @@
       "seedType": 1228,
       "name": "얼음 스쿼시",
       "introduce": "<align=justified><size=36><color=black>자신의 화를 다스리기 위해 얼음 스쿼시는 사흘 밤낮 동안 냉동고에 스스로를 가두었습니다. 이제 분위기를 얼음처럼 차갑게 유지하며, 다른 식물들은 함부로 말을 걸어 도발할 엄두조차 내지 못합니다. 좀비에 대해서는… 아무도 얼음을 깨는 시도를 할 수 없다고만 해두겠습니다.</color>",
-      "info": "<size=36>냉기의 힘을 가진 스쿼시입니다.\n\n<color=black>대미지: </color><color=#8B0000>1800</color>\n<color=black>공격 범위: </color><color=#8B0000>전방 1타일</color>\n<color=black>사용 방법: </color><color=#8B0000>일회용 식물</color>\n<color=black>특수 능력: </color><color=#8B0000>3×3 범위 내의 좀비에게도 피해(600)를 주며 4초간 좀비를 얼립니다.</color>",
+      "info": "<size=36>냉기의 힘을 가진 스쿼시입니다.\n\n<color=black>대미지: </color><color=#8B0000>1800</color>\n<color=black>공격 범위: </color><color=#8B0000>전방 1 타일</color>\n<color=black>사용 방법: </color><color=#8B0000>일회용 식물</color>\n<color=black>특수 능력: </color><color=#8B0000>3×3 범위 내의 좀비에게도 피해(600)를 주며 4초간 좀비를 얼립니다.</color>",
       "cost": "\n<size=36>조합식: <color=#8B0000>스쿼시 + 얼음 버섯</color>"
     },
     {
       "seedType": 1229,
       "name": "최면 스쿼시",
       "introduce": "<align=justified><size=36><color=black>\"드디어 깨달았어, 좀비들은 사실 우리의 친구야\"최면 스쿼시는 이렇게 말하며 순식간에 좀비 친구 모임에 가입했습니다. 하지만 문제는, 그의 지나치게 급진적인 ‘우정 표현 방식’ 때문에 다른 회원들이 전부 보수파로 돌아서 버렸다는 것이죠.</color>",
-      "info": "<size=36>적을 매혹시키는 스쿼시입니다.\n\n<color=black>대미지: </color><color=#8B0000>1800</color>\n<color=black>공격 범위: </color><color=#8B0000>전방 1타일</color>\n<color=black>사용 방법: </color><color=#8B0000>일회용 식물</color>\n<color=black>특수 능력: </color><color=#8B0000>범위 내의 좀비를 매혹시키고, 매혹되지 않을 시 1800의 피해를 줍니다.</color>",
+      "info": "<size=36>적을 매혹시키는 스쿼시입니다.\n\n<color=black>대미지: </color><color=#8B0000>1800</color>\n<color=black>공격 범위: </color><color=#8B0000>전방 1 타일</color>\n<color=black>사용 방법: </color><color=#8B0000>일회용 식물</color>\n<color=black>특수 능력: </color><color=#8B0000>범위 내의 좀비를 매혹시키고, 매혹되지 않을 시 1800의 피해를 줍니다.</color>",
       "cost": "\n<size=36>조합식: <color=#8B0000>스쿼시 + 최면 버섯</color>"
     },
     {
@@ -2509,14 +2572,14 @@
       "seedType": 1232,
       "name": "엉킨 지뢰",
       "introduce": "<align=justified><size=36><color=black>원래는 거대한 쓰나미에 떠밀려온 해상 기뢰였지만, 지금은 흙 속에 반쯤 묻혀 있습니다. 겉을 덮은 해초는 이미 말라버렸지만, 내부의 폭약은 여전히 치명적입니다.</color>",
-      "info": "<size=36>켈프로 엉켜진 지뢰입니다.\n\n<color=black>대미지: </color><color=#8B0000> 즉사</color>\n<color=black>공격 범위: </color><color=#8B0000>전방 1타일</color>\n<color=black>사용 방법: </color><color=#8B0000>일회용 식물, 발동하는데 시간이 필요함</color>\n<color=black>특수 능력: </color><color=#8B0000>\n<color=black>•</color> 작은 식물\n<color=black>•</color> 첫번째 좀비를 끌어당겨 즉사시킨 뒤로 감자 지뢰의 효과를 발동합니다.</color>",
+      "info": "<size=36>켈프로 엉켜진 지뢰입니다.\n\n<color=black>대미지: </color><color=#8B0000> 즉사</color>\n<color=black>공격 범위: </color><color=#8B0000>전방 1 타일</color>\n<color=black>사용 방법: </color><color=#8B0000>일회용 식물, 발동하는데 시간이 필요함</color>\n<color=black>특수 능력: </color><color=#8B0000>\n<color=black>•</color> 작은 식물\n<color=black>•</color> 첫번째 좀비를 끌어당겨 즉사시킨 뒤로 감자 지뢰의 효과를 발동합니다.</color>",
       "cost": "\n<size=36>조합식: <color=#8B0000>엉킨 켈프 + 감자지뢰</color>"
     },
     {
       "seedType": 1233,
       "name": "켈프 지뢰",
       "introduce": "<align=justified><size=36><color=black>\"조심하세요, 선박들 앞에 암초가 있습니다!\" 켈프 지뢰는 강의 안전요원으로서 붉은 불빛을 밝혀 위험을 알립니다. 그가 등장하는 곳이라면, 어김없이 위험이 뒤따라오기 마련이죠.</color>",
-      "info": "<size=36>감자 지뢰처럼 폭발하는 켈프입니다.\n\n<color=black>대미지: </color><color=#8B0000> 즉사</color>\n<color=black>공격 범위: </color><color=#8B0000>전방 1타일</color>\n<color=black>사용 방법: </color><color=#8B0000>일회용 식물</color>\n<color=black>특수 능력: </color><color=#8B0000>\n<color=black>•</color> 작은 식물\n<color=black>•</color> 좀비를 끌어당길 시 3×3 타일 내의 좀비에게 범위 피해(600)를 같이 줍니다.</color>",
+      "info": "<size=36>감자 지뢰처럼 폭발하는 켈프입니다.\n\n<color=black>대미지: </color><color=#8B0000> 즉사</color>\n<color=black>공격 범위: </color><color=#8B0000>전방 1 타일</color>\n<color=black>사용 방법: </color><color=#8B0000>일회용 식물</color>\n<color=black>특수 능력: </color><color=#8B0000>\n<color=black>•</color> 작은 식물\n<color=black>•</color> 좀비를 끌어당길 시 3×3 타일 내의 좀비에게 범위 피해(600)를 같이 줍니다.</color>",
       "cost": "\n<size=36>조합식: <color=#8B0000>감자지뢰 + 엉킨 켈프</color>"
     },
     {
@@ -2544,14 +2607,14 @@
       "seedType": 1237,
       "name": "가시 덩굴",
       "introduce": "<align=justified><size=36><color=black>가시 덩굴은 스파이크위드 가문에서 늘 가장 작고 눈에 띄지 않으며, 절반 정도만 수면 위로 올라와 있었습니다. 다른 식물들이 그를 격려하려고 노력했습니다. \"야, 적어도 넌 저 늙은 스파이크 호두보다는 인기가 더 많잖아.\"</color>",
-      "info": "<size=36>스파이크위드의 수생 버전이며, 줄기가 얽히고 꼬여 있는 형태입니다.\n\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>20 | 1초</color>\n<color=black>공격 범위: </color><color=#8B0000>1타일</color>\n<color=black>특수 능력: </color><color=#8B0000>공격 시 좀비에게 켈프 포인트를 1 부여합니다, 탈 것에 피해를 입힐 시 역으로 체력을 10 잃습니다.</color>",
+      "info": "<size=36>스파이크위드의 수생 버전이며, 줄기가 얽히고 꼬여 있는 형태입니다.\n\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>20 | 1초</color>\n<color=black>공격 범위: </color><color=#8B0000>1 타일</color>\n<color=black>특수 능력: </color><color=#8B0000>공격 시 좀비에게 켈프 포인트를 1 부여합니다, 탈 것에 피해를 입힐 시 역으로 체력을 10 잃습니다.</color>",
       "cost": "\n<size=36>조합식: <color=#8B0000>스파이크위드 + 엉킨 켈프</color>"
     },
     {
       "seedType": 1238,
       "name": "켈프 위드",
       "introduce": "<align=justified><size=36><color=black>현재 유명한 수생 발 마사지 제국의 창립자입니다. 켈프 위드는 스파 테라피의 기준을 새롭게 정의했습니다. 모든 생태계에 지점을 두고 있으며, 차량용 마사지 레인 신상품까지 선보여 사업이 호황을 누리고 있습니다.</color>",
-      "info": "<size=36>지상의 켈프 포인트를 부여할 수 있는 스파이크위드입니다.\n\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>20 | 1초</color>\n<color=black>공격 범위: </color><color=#8B0000>1타일</color>\n<color=black>특수 능력: </color><color=#8B0000>공격 시 좀비에게 덤불 포인트를 1 부여하며, 덤불 포인트는 기존 피해량의 1/3씩 피해가 누적됩니된다.</color>",
+      "info": "<size=36>지상의 켈프 포인트를 부여할 수 있는 스파이크위드입니다.\n\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>20 | 1초</color>\n<color=black>공격 범위: </color><color=#8B0000>1 타일</color>\n<color=black>특수 능력: </color><color=#8B0000>공격 시 좀비에게 덤불 포인트를 1 부여하며, 덤불 포인트는 기존 피해량의 1/3씩 피해가 누적됩니된다.</color>",
       "cost": "\n<size=36>조합식: <color=#8B0000>엉킨 켈프 + 스파이크위드</color>"
     },
     {
@@ -2572,7 +2635,7 @@
       "seedType": 1241,
       "name": "발광 먹깨비",
       "introduce": "<align=justified><size=36><color=black>발광 먹깨비는 굶주린 적이 한 번도 없다고 전해집니다. 한 번 물면 반드시 통통한 좀비를 잡아내기 때문입니다. 그는 자신의 비결을 담은 책까지 출판하였는데, 제목은 바로 \"꿈틀... 꿈틀... 좀비는 은은한 빛을 좋아한다\" 입니다.</color>",
-      "info": "<size=36>불빛으로 좀비를 유인해 간식 마냥 잡아먹습니다.\n\n<color=black>대미지: </color><color=#8B0000>즉사</color>\n<color=black>공격 범위: </color><color=#8B0000>전방 1타일</color></color>\n<color=black>소화 시간: </color><color=#8B0000>40초</color>\n<color=#99582a>빛 시스템: </color><color=#8B0000> 빛 레벨에 따라서 소화 시간이 10초씩 줄어들어 최대 10초까지 줄일 수 있습니다.</color>\n<color=black>특수 능력: </color><color=#8B0000>삼킨 직후에 해당 열에 좀비가 없을 경우 위아래 열의 좀비를 자기 쪽으로 끌어당길 수 있습니다.</color>",
+      "info": "<size=36>불빛으로 좀비를 유인해 간식 마냥 잡아먹습니다.\n\n<color=black>대미지: </color><color=#8B0000>즉사</color>\n<color=black>공격 범위: </color><color=#8B0000>전방 1 타일</color></color>\n<color=black>소화 시간: </color><color=#8B0000>40초</color>\n<color=#99582a>빛 시스템: </color><color=#8B0000> 빛 레벨에 따라서 소화 시간이 10초씩 줄어들어 최대 10초까지 줄일 수 있습니다.</color>\n<color=black>특수 능력: </color><color=#8B0000>삼킨 직후에 해당 열에 좀비가 없을 경우 위아래 열의 좀비를 자기 쪽으로 끌어당길 수 있습니다.</color>",
       "cost": "\n<size=36>조합식: <color=#8B0000>먹깨비 + 플랜턴</color>"
     },
     {
@@ -2635,7 +2698,7 @@
       "seedType": 1250,
       "name": "스쿼시 호두",
       "introduce": "<align=justified><size=36><color=black>아이들 놀이터에서 줄기로 끌려 잔디밭에 떨어진 스쿼시 호두는, 찌그러진 고무공 같다는 이유로 거절당했습니다. 이제 화가 나고 울퉁불퉁해진 그는 미친 듯이 튀며 외칩니다. \"마음껏 놀 거야! 마음껏!\"</color>",
-      "info": "<size=36>스쿼시처럼 뛰어다니는 호두입니다.\n\n<color=black>체력: </color><color=#8B0000>4000</color>\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>160 | 1.5초</color>\n<color=black>공격 범위: </color><color=#8B0000>전방 1타일\n<color=black>특수 능력: </color><color=#8B0000>좀비가 인접할 시 그 자리에서 점프하면서 범위 피해를 줍니다. 대신 점프하는 동안에는 좀비를 막지 않습니다.</color>",
+      "info": "<size=36>스쿼시처럼 뛰어다니는 호두입니다.\n\n<color=black>체력: </color><color=#8B0000>4000</color>\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>160 | 1.5초</color>\n<color=black>공격 범위: </color><color=#8B0000>전방 1 타일\n<color=black>특수 능력: </color><color=#8B0000>좀비가 인접할 시 그 자리에서 점프하면서 범위 피해를 줍니다. 대신 점프하는 동안에는 좀비를 막지 않습니다.</color>",
       "cost": "\n<size=36>조합식: <color=#8B0000>호두 + 스쿼시</color>"
     },
     {
@@ -2656,7 +2719,7 @@
       "seedType": 1253,
       "name": "강철 스쿼시",
       "introduce": "<align=justified><size=36><color=black>강철 스쿼시는 차가운 강철로 장갑을 두르고 더 단단하고, 무겁고, 더 큰 피해를 입힙니다. 단, 얼굴의 \"리벳\" 이야기는 꺼내지 마세요. 그는 그것이 구조적인 것일 뿐, 여드름이 아니라고 주장합니다.</color>",
-      "info": "<size=36>철근마냥 단단하고 무거워진 스쿼시입니다.\n\n<color=black>체력: </color><color=#8B0000>1000</color>\n<color=black>대미지: </color><color=#8B0000>3240</color>\n<color=black>공격 범위: </color><color=#8B0000>전방 1타일</color>\n<color=black>사용 방법: </color><color=#8B0000>일회용 식물</color>\n<color=black>특수 능력: </color><color=#8B0000>금속 식물(체리 폭발 피해를 반감하며 금속 재료로 체력을 500 회복시킬 수 있습니다)</color>",
+      "info": "<size=36>철근마냥 단단하고 무거워진 스쿼시입니다.\n\n<color=black>체력: </color><color=#8B0000>1000</color>\n<color=black>대미지: </color><color=#8B0000>3240</color>\n<color=black>공격 범위: </color><color=#8B0000>전방 1 타일</color>\n<color=black>사용 방법: </color><color=#8B0000>일회용 식물</color>\n<color=black>특수 능력: </color><color=#8B0000>금속 식물(체리 폭발 피해를 반감하며 금속 재료로 체력을 500 회복시킬 수 있습니다)</color>",
       "cost": "\n<size=36>조합식: <color=#8B0000>스쿼시 + 양동이</color>"
     },
     {
@@ -2782,14 +2845,14 @@
       "seedType": 1271,
       "name": "특전사 삼발슈터",
       "introduce": "<align=justified><size=36><color=black>이 삼총사는 특히 콩 소대 훈련소에서 진지한 헌신을 보여주었습니다. 항상 일제히 사격을 하고, 서로 간의 논쟁도 기록적인 시간 안에 해결했죠. 그 결과 특전사 삼발슈터라는 칭호를 얻었고, 세 개의 별이 각각의 헬멧에 나뉘어 새겨졌습니다.\n\n-Mr. Etc. 씀</color>",
-      "info": "<size=36>좀비를 향해 콩을 쏘며, 낮은 확률로 3라인에다 콩을 한 무더기로 난사합니다!\n\n<color=black>사용 조건: </color><color=#8B0000>오디세이</color>\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>20(각 콩 마다) | 1.5초</color>\n<color=black>공격 횟수: </color><color=#8B0000>6번</color>\n<color=black>공격 범위: </color><color=#8B0000>3 라인 </color>\n<color=black>특수 능력: </color><color=#8B0000>6% 확률로 머리 셋 전부 콩을 3라인까지 퍼질 정도로 퍼부습니다.</color>",
+      "info": "<size=36>좀비를 향해 콩을 쏘며, 낮은 확률로 3 라인에다 콩을 한 무더기로 난사합니다!\n\n<color=black>사용 조건: </color><color=#8B0000>오디세이</color>\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>20(각 콩 마다) | 1.5초</color>\n<color=black>공격 횟수: </color><color=#8B0000>6번</color>\n<color=black>공격 범위: </color><color=#8B0000>3 라인 </color>\n<color=black>특수 능력: </color><color=#8B0000>6% 확률로 머리 셋 전부 콩을 3 라인까지 퍼질 정도로 퍼부습니다.</color>",
       "cost": "\n<color=black><size=36>조합식: <color=#8B0000>삼발슈터 + 특전사 콩</color>"
     },
     {
       "seedType": 1272,
       "name": "파멸 저격콩",
       "introduce": "<align=justified><size=36><color=black>\"죽은 밤에 식물들이 속삭이는 소리… 들어본 적 있나?\" 파멸 저격콩은 낡은 소총을 닦으며 중얼거립니다. \"녀석은 느리지만, 날 실망시킨 적은 없어…\" 어둠을 가르는 섬광. \"48발 중 50발 명중 기록, 갱신할 시간이군.\"</color>",
-      "info": "<size=36>관통 사격과 빠른 연사. 충전 사격은 거대한 범위 피해를 입힙니다.\n\n<color=black>사용 조건: </color><color=#8B0000>오디세이</color>\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>100 | 0.3초</color>\n<color=black>공격 범위: </color><color=#8B0000>맵 전체 </color>\n<color=black>특수 능력: </color><color=#8B0000>\n<color=black>•</color>적을 명중할 때마다 파멸 포인트와 광란 포인트 획득할 수 있으며, 각 포인트가 쌓일 때마다 효과를 발휘합니다. </color>\n</color><color=#8B0000><color=black>•</color>파멸 포인트 300을 쌓을 시 다음 공격은 파멸 버섯 폭발(720)을 일으킵니다.\n<color=black>•</color>광란 포인트 100을 쌓을 시 8초간 연사 속도가 200% 증가합니다.\n</color><color=#8B0000><color=black>•</color>파멸 포인트 300을 쌓을 시 다음 공격은 파멸 버섯 폭발(720)을 일으킵니다.\n</color><color=#8B0000>-10% 확률로 600% 피해를 줄 수 있으며, 잿불 상태의 좀비를 명중 시 무조건 600%의 피해를 줍니다.</color>",
+      "info": "<size=36>관통 사격과 빠른 연사. 충전 사격은 거대한 범위 피해를 입힙니다.\n\n<color=black>사용 조건: </color><color=#8B0000>오디세이</color>\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>100 | 0.3초</color>\n<color=black>공격 범위: </color><color=#8B0000>맵 전체</color>\n<color=black>특수 능력: </color><color=#8B0000>\n<color=black>•</color>적을 명중할 때마다 파멸 포인트와 광란 포인트 획득할 수 있으며, 각 포인트가 쌓일 때마다 효과를 발휘합니다. </color>\n</color><color=#8B0000><color=black>•</color>파멸 포인트 300을 쌓을 시 다음 공격은 파멸 버섯 폭발(720)을 일으킵니다.\n<color=black>•</color>광란 포인트 100을 쌓을 시 8초간 연사 속도가 200% 증가합니다.\n</color><color=#8B0000><color=black>•</color>파멸 포인트 300을 쌓을 시 다음 공격은 파멸 버섯 폭발(720)을 일으킵니다.\n</color><color=#8B0000>-10% 확률로 600% 피해를 줄 수 있으며, 잿불 상태의 좀비를 명중 시 무조건 600%의 피해를 줍니다.</color>",
       "cost": "\n<size=36>조합식: <color=#8B0000>저격콩 + 파멸 버섯</color>"
     },
     {
@@ -2885,8 +2948,8 @@
     },
     {
       "seedType": 1286,
-      "name": "최면 멜론 펄트",
-      "introduce": "<align=justified><size=36><color=black>최면 멜론 펄트는 친구 사귀기, 그림 그리기, 칵테일 섞기를 좋아합니다. 그녀는 바에서 스타 바텐더로 활약하며, 아이스 최면 멜론 주스는 클래식 칵테일보다 더 인기가 많습니다. 일부 독특한 팬들은 맛보기 위해 좀비로 분장하기도 합니다.</color>",
+      "name": "최면 멜론",
+      "introduce": "<align=justified><size=36><color=black>최면 멜론는 친구 사귀기, 그림 그리기, 칵테일 섞기를 좋아합니다. 그녀는 바에서 스타 바텐더로 활약하며, 아이스 최면 멜론 주스는 클래식 칵테일보다 더 인기가 많습니다. 일부 독특한 팬들은 맛보기 위해 좀비로 분장하기도 합니다.</color>",
       "info": "<size=36>여러 좀비를 매혹시킬 수 있는 최면 멜론을 던집니다.\n\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>120 | 3초</color>\n<color=black>공격 범위: </color><color=#8B0000>스플래시(3×3)</color>\n<color=black>특수 능력: </color><color=#8B0000>\n<color=black>•</color> 범위 공격을 포함한 투사체는 25% 확률로 체력이 50% 미만인 좀비를 매혹시킵니다.\n<color=black>•</color> 좀비가 섭취시 매혹 상태가 되는 대신 본래 멜론 펄트로 되돌아갑니다.</color>",
       "cost": "\n<size=36>조합식: <color=#8B0000>멜론 펄트 + 최면 버섯</color>"
     },
@@ -2915,21 +2978,21 @@
       "seedType": 1290,
       "name": "저격 버섯 소대",
       "introduce": "<align=justified><size=36><color=black>져걱 버섯 소대가 늘 말하곤 합니다. \"역사의 큰 물결 속에서는, 오래 갈라진 건 반드시 합쳐지고, 오래 합쳐진 건 반드시 갈라지지… 너도 예외는 아니야.\" 한가한 시간에는 삼국지를 읽는 걸 좋아합니다. \"과거는 그저 낡은 이야기일 뿐. 지금 이 순간, 내가 가장 날카로운 저격수다!\"</color>",
-      "info": "<size=36>분산 상태에서는 점사로 저격하고, 합체 상태에서는 폭발로 광역 공격을 할 수 있습니다.\n\n<color=black>사용 조건: </color><color=#8B0000>오디세이</color>\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>500 / 1500 | 3 / 0.5초</color>\n<color=black>공격 횟수: </color><color=#8B0000>3번 / 1번</color>\n<color=black>특수 능력: </color><color=#8B0000>\n<color=black>•</color> 작은 식물\n<color=black>•</color>분산 상태에서 6번 공격 시 다음 공격은 헤드샷을 날려 확정적으로 좀비를 즉사시킵니다.\n<color=black>•</color>  15번 공격 시 15초간 하나로 합쳐지며, 그후 다시 분산 합니다.\n<color=black>•</color> 합체 상태에서 0.5초마다 범위 피해(1500)를 주는 폭발을 일으킵니다.</color>",
+      "info": "<size=36>분산 상태에서는 점사로 저격하고, 합체 상태에서는 폭발로 광역 공격을 할 수 있습니다.\n\n<color=black>사용 조건: </color><color=#8B0000>오디세이</color>\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>500 / 1500 | 3 / 0.5초</color>\n<color=black>공격 횟수: </color><color=#8B0000>3번 / 1번</color>\n<color=black>공격 범위: </color><color=#8B0000>맵 전체</color>\n<color=black>특수 능력: </color><color=#8B0000>\n<color=black>•</color> 작은 식물\n<color=black>•</color>분산 상태에서 6번 공격 시 다음 공격은 헤드샷을 날려 확정적으로 좀비를 즉사시킵니다.\n<color=black>•</color>  15번 공격 시 15초간 하나로 합쳐지며, 그후 다시 분산 합니다.\n<color=black>•</color> 합체 상태에서 0.5초마다 범위 피해(1500)를 주는 폭발을 일으킵니다.</color>",
       "cost": "\n<size=36>조합식: <color=#8B0000>뻐끔 버섯×3 + 저격콩</color>"
     },
     {
       "seedType": 1291,
       "name": "상어 버섯",
       "introduce": "<align=justified><size=36><color=black>\"나는 광활한 바다에서 왔다\" 상어 버섯이 자랑합니다. \"이 상어 흉내로 어떤 포식자도 겁줄 수 있다. 이는 심해에서만 가능한 진화지\" 그는 바다 버섯들에게 자신의 과거 이야기를 즐겨 들려주지만, 바다를 떠난 이유는 결코 밝히지 않습니다. 흉내 때문에 진짜 상어가 따라올 수 있기 때문입니다.</color>",
-      "info": "<size=36>바다 버섯을 \"먹이\"로 삼는 식성의 가스 버섯으로, 적을 쫓아내기 위해 거대 크라켄 버섯의 위협을 빌려옵니다.\n\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>20 | 1.5초</color>\n<color=black>공격 범위: </color><color=#8B0000>1라인 4타일 / 1라인 직사</color>\n<color=black>특수 능력: </color><color=#8B0000>\n<color=black>•</color> 바다 버섯을 줄시, 바다 버섯을 잡아먹으며, 10초간 사거리 제한이 사라집니다.\n<color=black>•</color> 거대 크라켄 버섯이 적을 밀칠 경우 상어 버섯 또한 3초간 적을 밀칠 수 있습니다.</color>",
+      "info": "<size=36>바다 버섯을 \"먹이\"로 삼는 식성의 가스 버섯으로, 적을 쫓아내기 위해 거대 크라켄 버섯의 위협을 빌려옵니다.\n\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>20 | 1.5초</color>\n<color=black>공격 범위: </color><color=#8B0000>1 라인 4 타일 / 1 라인 직사</color>\n<color=black>특수 능력: </color><color=#8B0000>\n<color=black>•</color> 바다 버섯을 줄시, 바다 버섯을 잡아먹으며, 10초간 사거리 제한이 사라집니다.\n<color=black>•</color> 거대 크라켄 버섯이 적을 밀칠 경우 상어 버섯 또한 3초간 적을 밀칠 수 있습니다.</color>",
       "cost": "\n<size=36>조합식: <color=#8B0000>가스 버섯 + 바다 버섯</color>"
     },
     {
       "seedType": 1292,
       "name": "최면 특전사",
-      "introduce": "<align=justified><size=36><color=black>최면 특전사은 좀비들에게 푹 빠져 있습니다. 그녀는 모든 콩을 하나하나 분홍빛으로 정성스레 칠한 뒤, 발사되어 번쩍 빛나며 폭발하는 순간을 감탄합니다 \"이건 좀비들을 위한 선물이야.\" 그녀는 미소 지으며, 가능한 한 많이 쏘아 보내길 원합니다.</color>",
-      "info": "<size=36>좀비를 향해 최면콩을 쏘며, 낮은 확률로 최면 콩을 한 무더기로 난사합니다!\n\n<color=black>사용 조건: </color><color=#8B0000>오디세이</color>\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>20 | 1.5초</color>\n<color=black>공격 횟수: </color><color=#8B0000>6번</color>\n<color=black>특수 능력: </color><color=#8B0000>2% 확률로 5초동안 최면 콩을 3라인까지 퍼질 정도로 퍼부습니다. </color>",
+      "introduce": "<align=justified><size=36><color=black>최면 특전사는 좀비들에게 푹 빠져 있습니다. 그녀는 모든 콩을 하나하나 분홍빛으로 정성스레 칠한 뒤, 발사되어 번쩍 빛나며 폭발하는 순간을 감탄합니다 \"이건 좀비들을 위한 선물이야.\" 그녀는 미소 지으며, 가능한 한 많이 쏘아 보내길 원합니다.</color>",
+      "info": "<size=36>좀비를 향해 최면콩을 쏘며, 낮은 확률로 최면 콩을 한 무더기로 난사합니다!\n\n<color=black>사용 조건: </color><color=#8B0000>오디세이</color>\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>20 | 1.5초</color>\n<color=black>공격 횟수: </color><color=#8B0000>6번</color>\n<color=black>특수 능력: </color><color=#8B0000>2% 확률로 5초동안 최면 콩을 3 라인까지 퍼질 정도로 퍼부습니다. </color>",
       "cost": "\n<size=36>조합식: <color=#8B0000>특전사 콩 + 최면 버섯</color>"
     },
     {
@@ -2950,7 +3013,7 @@
             "seedType": 1295,
             "name": "삼층 호두",
             "introduce": "<align=justified><size=36><color=black>\"평범한 호두 셋이 모이면 제갈량보다 낫다!\" 삼층 호두는 함께 힘을 합쳐 떨어질 수 없는 동료가 되었고, 상상조차 못할 잠재력을 발휘합니다. 이 셋은 물리학에 재능이 있으며, 특히 유체 역학에 강점을 가지고 있는 듯합니다.</color>",
-            "info": "<size=36>삼층 호두는 다양한 높이에서 다양한 굴리는 투사체를 발사합니다!\n\n<color=black>대미지 | 공격 쿨타임 </color><color=#8B0000>\n<color=black>•</color> 12000~8000 체력: 80(2번 관통)\n<color=black>•</color> 8000~4000 체력: 60(4번 관통)\n<color=black>•</color> 4000~0 체력: 40 (6번 관통)</color>\n<color=black>특수 능력: </color><color=#8B0000>\n큰 식물\n총 체력이 12,000입니다. 호두 하나당 체력이 4,000입니다. 호두를 하나를 잃으면 최대 체력이 4,000만큼 영구적으로 감소합니다.</color>",
+            "info": "<size=36>삼층 호두는 다양한 높이에서 다양한 굴리는 투사체를 발사합니다!\n\n<color=black>대미지 | 공격 쿨타임 </color><color=#8B0000>\n<color=black>•</color> 12000~8000 체력: 80(2번 관통)\n<color=black>•</color> 8000~4000 체력: 60(4번 관통)\n<color=black>•</color> 4000~0 체력: 40 (6번 관통)</color>\n<color=black>특수 능력: </color><color=#8B0000>\n<color=black>•</color> 큰 식물\n<color=black>•</color> 총 체력이 12,000입니다. 호두 하나당 체력이 4,000입니다. 호두를 하나를 잃으면 최대 체력이 4,000만큼 영구적으로 감소합니다.</color>",
             "cost": "\n<size=36>조합식: <color=#8B0000>호두 + 삼발슈터</color>"
         },
         {
@@ -2971,14 +3034,14 @@
             "seedType": 1298,
             "name": "콩깍지 버섯",
             "introduce": "<align=justified><size=36><color=black>\"콩을 쏠 것인가, 쏘지 않을 것인가?\" 그것이 콩깍지 버섯의 질문입니다. 어릴 적부터 그는 콩 발사를 거부했고, 대신 다른 식물들을 돕고 싶다고 밝혔습니다. 그의 이타적인 마음이 어디서 비롯되었는지 묻자, 그는 이렇게 대답했습니다. \"플랜턴은 제가 자라오면서 가장 큰 롤모델이었습니다.\"\n\n-Berfy Boy 씀</color>",
-            "info": "<size=36>뿜어내는 가스는 사거리가 길고, 투사체를 빠르게 만들수 있습니다!\n\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>20 | 1.5초</color>\n<color=black>공격 범위: </color><color=#8B0000>1라인 직사</color>\n<color=black>특수 능력: </color><color=#8B0000>가스를 내뿜는 동안 전방의 직선 투사체의 속도를 증가시키고 0.02초마다 피해량을 1만큼 증가시킵니다. 이 효과는 중첩 가능합니다.</color>",
+            "info": "<size=36>뿜어내는 가스는 사거리가 길고, 투사체를 빠르게 만들수 있습니다!\n\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>20 | 1.5초</color>\n<color=black>공격 범위: </color><color=#8B0000>1 라인 직사</color>\n<color=black>특수 능력: </color><color=#8B0000>가스를 내뿜는 동안 전방의 직선 투사체의 속도를 증가시키고 0.02초마다 피해량을 1만큼 증가시킵니다. 이 효과는 중첩 가능합니다.</color>",
             "cost": "\n<size=36>조합식: <color=#8B0000>콩슈터 + 가스 버섯</color>"
         },
         {
             "seedType": 1299,
             "name": "호두박",
             "introduce": "<align=justified><size=36><color=black>호두박에게 중요한 것은 작은 호두들이 잘 자랄 수 있는 내부 환경을 만드는 것입니다. 좀비들의 물어뜯음이나 외부의 소음 따위는 전혀 신경 쓰지 않습니다. 그가 오직 신경 쓰는 것은 다른 식물들이 그의 내부 공간을 차지하는 일인데, 그 공간은 오직 미니호두들을 위해 남겨둔 자리이기 때문입니다.</color>",
-            "info": "이 딱딱한 호박은 계속해서 안에서 유용한 호두를 생성합니다!<size=36>\n\n<color=black>체력: </color><color=#8B0000>8000</color>\n<color=black>특수 능력: </color><color=#8B0000>50초마다 작은 호두를 생성합니다. 호두가 전부 성장시 3x3 영역 내 피해 입은 호박류 식물이이 있을시 해당 식물을 1000 만큼 회복시키거나 호두 시드패킷을 생선합니다. 호두 시드패킷은 호두박 하나당 최대 3개까지 생성됩니다.</color>",
+            "info": "이 딱딱한 호박은 계속해서 안에서 유용한 호두를 생성합니다!<size=36>\n\n<color=black>체력: </color><color=#8B0000>8000</color>\n<color=black>특수 능력: </color><color=#8B0000>50초마다 작은 호두를 생성합니다. 호두가 전부 성장시 3×3 영역 내 피해 입은 호박류 식물이이 있을시 해당 식물을 1000 만큼 회복시키거나 호두 시드패킷을 생선합니다. 호두 시드패킷은 호두박 하나당 최대 3개까지 생성됩니다.</color>",
             "cost": "\n<size=36>조합식: <color=#8B0000>호두 + 호박</color>"
         },
         {
@@ -2999,7 +3062,7 @@
             "seedType": 1302,
             "name": "뽀꾸 버섯",
             "introduce": "<align=justified><size=36><color=black>번식과 증식은 생명의 본능입니다. 특정 조건에서 뽀꾸 버섯은 함께 자라며 파도를 거슬러 올라가고, 무리를 지어 헤엄치며 포식자를 혼란스럽게 합니다. 최근에는 소형 번식을 가능하게 하는 기술이 마침내 개발되어 곧바로 수족관에 적용되었습니다.</color>",
-            "info": "<size=36>강력한 번식력을 가진 버섯입니다, 바다 생태계에서 중요한 식물이죠.\n\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>20 | 1.5초</color>\n<color=black>공격 횟수: </color><color=#8B0000>2번 / 3번</color>\n<color=black>공격 범위: </color><color=#8B0000>전방 2.5타일</color>\n<color=black>특수 능력: </color><color=#8B0000>\n<color=black>•</color> 심은 직후 2마리입니다.\n<color=black>•</color> 15초가 지난시 3마리로 증식됩니다.\n<color=black>•</color> 이후 15초가 지날때마다 앞에 있는 특정 식물에게 바다 버섯을 먹입니다. 먹이 공급 실패시 바다 버섯 시드패킷을 생성합니다.</color>",
+            "info": "<size=36>강력한 번식력을 가진 버섯입니다, 바다 생태계에서 중요한 식물이죠.\n\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>20 | 1.5초</color>\n<color=black>공격 횟수: </color><color=#8B0000>2번 / 3번</color>\n<color=black>공격 범위: </color><color=#8B0000>전방 2.5 타일</color>\n<color=black>특수 능력: </color><color=#8B0000>\n<color=black>•</color> 심은 직후 2마리입니다.\n<color=black>•</color> 15초가 지난시 3마리로 증식됩니다.\n<color=black>•</color> 이후 15초가 지날때마다 앞에 있는 특정 식물에게 바다 버섯을 먹입니다. 먹이 공급 실패시 바다 버섯 시드패킷을 생성합니다.</color>",
             "cost": "\n<size=36>조합식: <color=#8B0000>뻐끔 버섯 + 바다 버섯</color>"
         },
         {
@@ -3041,7 +3104,7 @@
             "seedType": 1308,
             "name": "태양초 고추",
             "introduce": "<align=justified><size=36><color=black>왜 이렇게 많은 식물들이 그녀와 거리를 두는 걸까요? 그녀는 그 이유를 알 수 없습니다. \"나는 당신을 지킬 수도 있고, 햇살도 가져다줄 수 있어요!\" 그녀는 자신이 할라페뇨보다 더 밝고 햇살 같은 존재라고 믿지만, 다른 식물들은 그녀를 오히려 파괴적인 존재로 생각합니다.</color>",
-            "info": "<size=36>다른 식물들을 태워 자신의 힘을 강화합니다.\n\n<color=black>대미지: </color><color=#8B0000>1800 (폭발 판정)</color>\n<color=black>공격 범위: </color><color=#8B0000>1 라인 직사</color>\n<color=black>특수 능력: </color>\n<color=#8B0000><color=black>•</color> 좀비 한마리당 25 태양으로 생산됩니다.\n<color=black>•</color> 또한 해당 라인에 있는 모든 식물에 1800 피해를 입힙니다. 영향을 받은 식물은 각각 50 태양를 소모하고, 태양초 고추의 피해량을 500 증가시킵니다. 식물이 파괴될 경우, 1/3 확률로 체력 1을 남기고 생존합니다.</color>",
+            "info": "<size=36>다른 식물들을 태워 자신의 힘을 강화합니다.\n\n<color=black>대미지: </color><color=#8B0000>1800 (폭발 판정)</color>\n<color=black>공격 범위: </color><color=#8B0000>1 라인 직사</color>\n<color=black>사용 방법: </color><color=#8B0000>일회용 식물, 즉시 발동</color>\n<color=black>특수 능력: </color>\n<color=#8B0000><color=black>•</color> 좀비 한마리당 25 태양으로 생산됩니다.\n<color=black>•</color> 또한 해당 라인에 있는 모든 식물에 1800 피해를 입힙니다. 영향을 받은 식물은 각각 50 태양를 소모하고, 태양초 고추의 피해량을 500 증가시킵니다. 식물이 파괴될 경우, 1/3 확률로 체력 1을 남기고 생존합니다.</color>",
             "cost": "\n<size=36>조합식: <color=#8B0000>해바라기 + 할라페뇨</color>"
         },
         {
@@ -3069,7 +3132,7 @@
             "seedType": 1312,
             "name": "던지미 버섯",
             "introduce": "<align=justified><size=36><color=black>던지미 버섯은 꼬마 호두 버섯 무리를 훈련시켰지만 전투법은 가르쳐주지 않았습니다. 누군가가 \"좀비에게 어떻게 대항하나요?\"라고 묻자 그는 \"단단한 껍질과 죽기 살기의 각오로!\"라고 대답했습니다. 그리고는 그들을 좀비에게 내던졌습니다. \"이건 제가 야구에서 배운 기술이죠.\"라고 그는 자랑스럽게 말했습니다.</color>",
-            "info": "<size=36>근처에 꼬마 호두 버섯을 머리로 날려버립니다.\n\n<color=black>체력: </color><color=#8B0000>4000</color>\n<color=black>특수 능력: </color><color=#8B0000> 3x3 범위 내의 꼬마 호두 버섯을 집어 투사체로 날립니다. 투사체의 대미지는 꼬마 호두 버섯의 체력과 같습니다. 투사체가 좀비에게 명중하여 처치할 수 있는 피해를 입히면, 관통하며 대미지은 입힌 대미지만큼 감소합니다.</color>",
+            "info": "<size=36>근처에 꼬마 호두 버섯을 머리로 날려버립니다.\n\n<color=black>체력: </color><color=#8B0000>4000</color>\n<color=black>특수 능력: </color><color=#8B0000> 3×3 범위 내의 꼬마 호두 버섯을 집어\n투사체로 날립니다. 투사체의 대미지는 꼬마 호두 버섯의 체력과 같습니다. 투사체가 좀비에게 명중하여 처치할 수 있는 피해를 입히면, 관통하며 대미지은 입힌 대미지만큼 감소합니다.</color>",
             "cost": "\n<size=36>조합식: <color=#8B0000>호두 + 가스 버섯</color>"
         },
         {
@@ -3095,8 +3158,8 @@
         },
         {
             "seedType": 1316,
-            "name": "크로노 멜론 펄트",
-            "introduce": "<align=justified><size=36><color=black>\"나는 그저 거인의 어깨 위에 서 있을 뿐입니다!\" 크로노 멜론 펄트는 겸손하게 말합니다. \"나는 시간을 되돌릴 힘은 없었어. 그저 시간의 혼란을 퍼뜨렸을 뿐이야.\"</color>",
+            "name": "크로노 멜론",
+            "introduce": "<align=justified><size=36><color=black>\"나는 그저 거인의 어깨 위에 서 있을 뿐입니다!\" 크로노 멜론는 겸손하게 말합니다. \"나는 시간을 되돌릴 힘은 없었어. 그저 시간의 혼란을 퍼뜨렸을 뿐이야.\"</color>",
             "info": "<size=36>스플래시 대미지를 통해 순간이동 효과를 확산시킵니다.\n\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>80 | 3초</color>\n<color=black>특수 능력: </color><color=#8B0000>\n<color=black>•</color> 스플래시 대미지는 기본 대미지와 동일하며 감소하지 않습니다.\n<color=black>•</color>좀비가 직접 타격을 받거나 범위 내에 시간분열 효과가 있을 경우, 최대 3개의 범위 대상(멜론 화분 버프를 받은 경우 6개)도 해당 효과를 받습니다.</color>",
             "cost": "\n<size=36>조합식: <color=#8B0000>자석 멜론 펄트 + 크로노 파편</color>"
         },
@@ -3104,7 +3167,7 @@
             "seedType": 1317,
             "name": "파멸 할라페뇨",
             "introduce": "<align=justified><size=36><color=black>\"이제 터질 거야! 내 앞에 있는 모두 조심해, 식물이든 좀비든! 상호 파괴가 확실하다!\"라고 파멸 할라페뇨가 말합니다. 약간 떨리는 그의 몸은 엄청난 에너지가 쌓였음을 나타내거나, 아니면 발끝으로 서서 불안정한 자세를 취하고 있기 때문일 수도 있습니다.</color>",
-            "info": "<size=36>식물을 태우고 연쇄 폭발을 일으킵니다!\n\n<color=black>대미지: </color><color=#8B0000>1800 (폭발 판정)</color>\n<color=black>공격 범위: </color><color=#8B0000>1 라인 / 5×5 타일</color>\n<color=black>특수 능력: </color><color=#8B0000>\n<color=black>•</color> 클릭시 폭발하며 할라페뇨와 파멸 버섯과 동일한 폭발을 일으킵니다.\n<color=black>•</color>같은 라인에 식물이 있으면, 크레이터를 남기지 않고 파멸 버섯 폭발을 일으켜 해당 타일에 있는 모든 식물을 파괴합니다. 파괴된 식물은 25% 확률로 시드패킷으로 변환됩니다.</color>",
+            "info": "<size=36>식물을 태우고 연쇄 폭발을 일으킵니다!\n\n<color=black>대미지: </color><color=#8B0000>1800 (폭발 판정)</color>\n<color=black>공격 범위: </color><color=#8B0000>1 라인 / 5×5 타일</color>\n<color=black>사용 방법: </color><color=#8B0000>일회용 식물, 클릭시 발동</color>\n<color=black>특수 능력: </color><color=#8B0000>\n<color=black>•</color> 클릭시 폭발하며 할라페뇨와 파멸 버섯과 동일한 폭발을 일으킵니다.\n<color=black>•</color>같은 라인에 식물이 있으면, 크레이터를 남기지 않고 파멸 버섯 폭발을 일으켜 해당 타일에 있는 모든 식물을 파괴합니다. 파괴된 식물은 25% 확률로 시드패킷으로 변환됩니다.</color>",
             "cost": "\n<size=36>조합법: <color=#8B0000>파멸 버섯 + 할라페뇨</color>"
         },
         {
@@ -3113,6 +3176,139 @@
             "introduce": "<align=justified><size=36><color=black>좀비들이 \"탱크\"를 가져왔다고 들었어? 그럼 살아있는 기관총 요새를 보여주지, 콩호박! 탄약은… 음, 설계자가 설치하는 걸 깜빡했지! 하지만 문제 없어! 콩들을 잘 조율해서 탄약을 \"공유\"하게 하면 되니까!</color>",
             "info": "<size=36>안에 있는 콩슈터들의 행동에 따라 투사체를 발사하는데 도움을 주죠!\n\n<color=black>체력: </color><color=#8B0000>4000</color>\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>? | 3초</color>\n<color=black>특수 능력: </color><color=#8B0000> 콩슈터류 식물이 안에 있으면 투사체의 수 ,대미지, 종류에 따라 3초마다 발사합니다. 이러한 발사는 안에 있는 식물에서 발사된 것으로 간주됩니다.</color>",
             "cost": "\n<size=36>조합식: <color=#8B0000>콩슈터 + 호박</color>"
+        },
+        {
+            "seedType": 1319,
+            "name": "칠리 콩슈터",
+            "introduce": "<align=justified><size=36><color=black>이 콩슈터는 구운 콩을 너무 좋아해서 전장에서도 틈틈이 간식을 먹습니다. \"아악! 내 콩!\" 이번엔 또 간식을 발사해버린 모양입니다.</color>",
+            "info": "<size=36>화염 디버프를 주는 매운 콩을 쏩니다.\n\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>30 | 1.5초</color>\n<color=black>특수 능력: </color><color=#8B0000> 공격 시 좀비에게 화염 디버프를 부여합니다.",
+            "cost": "\n<size=36>조합식: <color=#8B0000>콩슈터 + 할라페뇨</color>"
+        },
+        {
+            "seedType": 1320,
+            "name": "칠리피터",
+            "introduce": "<align=justified><size=36><color=black>\"두 배의 화력, 두 배의 짜릿함, 두 배의 재미! 칠리 콩슈터보다 내가 더 좋아하는 건, 바로 두 번 연속으로 훠궈 먹기지!\" 그가 그렇게 외치지만, 지옥불나무는 이제 일이 두 배로 늘어났다는 사실을 아직 모릅니다.</color>",
+            "info": "<size=36>매운 콩을 두 발을 연속해서 쏩니다.\n\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>30 | 1.5초</color>\n<color=black>공격 횟수: </color><color=#8B0000>2번</color>\n<color=black>특수 능력: </color><color=#8B0000>\n<color=black>•</color> 공격 시 좀비에게 화염 디버프를 부여합니다.\n<color=black>•</color> 심은 지 15초 후 클릭하면 칠리 스플릿슈터로 업그레이드됩니다.</color>",
+            "cost": "\n<size=36>조합식: <color=#8B0000>리피터 + 할라페뇨</color>"
+        },
+        {
+            "seedType": 1321,
+            "name": "칠리 스플릿슈터",
+            "introduce": "<align=justified><size=36><color=black>\"젠장! 지원은 어디 있나! 좌측 기관총수, 우측으로 이동해!\" 성격이 급하고 쉽게 흥분하는 이 콩슈터는 종종 팀원들에게 소리치지만, 다행히 아직 그들에게 콩을 쏘진 않았습니다.</color>",
+            "info": "<size=36>매운 콩을 앞이랑 뒤로 쏩니다.\n\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>30 | 1.5초</color>\n<color=black>공격 횟수: </color><color=#8B0000>3번</color>\n<color=black>특수 능력: </color><color=#8B0000>\n<color=black>•</color> 공격 시 좀비에게 화염 디버프를 부여합니다.\n<color=black>•</color> 심은 지 15초 후 클릭하면 칠리 개틀링으로 업그레이드됩니다.</color>",
+            "cost": "\n<size=36>조합식: <color=#8B0000>스플릿슈터 + 할라페뇨</color>"
+        },
+        {
+            "seedType": 1322,
+            "name": "칠리 개틀링",
+            "introduce": "<align=justified><size=36><color=black>끝없는 화상 환자들을 치료하는 데 지친 이 콩 의사는\n이제 자랑스러운 발명품인 화염 요법으로 문제의 근원을 치료하기로 했습니다.</color>",
+            "info": "<size=36>칠리 개틀링은 매운 콩을 연속으로 네번 쏩니다.\n\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>30 | 1.5초</color>\n<color=black>공격 횟수: </color><color=#8B0000>4번</color>\n<color=black>특수 능력: </color><color=#8B0000>공격 시 좀비에게 화염 디버프를 부여합니다.</color>",
+            "cost": "\n<size=36>조합식: <color=#8B0000>개틀링 콩 + 할라페뇨</color>"
+        },
+        {
+            "seedType": 1323,
+            "name": "마늘 호박",
+            "introduce": "<align=justified><size=36><color=black>수많은 개조 끝에 마늘 호박이 드디어 실전에 투입되었습니다. 일반 마늘과 달리 낮은 방어력, 공간 효율, 그리고 투사체로부터 식물을 보호하지 못하는 문제를 모두 해결했지요. 다만 그 냄새만큼은… 이제 모두의 인내심을 시험할 때입니다.</color>",
+            "info": "<size=36>마늘 향을 풍기는 호박입니다.\n\n<color=black>체력: </color><color=#8B0000>4000</color>\n<color=black>특수 능력: </color><color=#8B0000> 섭취 시 즉시 좀비를 10초간 중독시키며 1 독 포인트를 부여합니다. 또한 해당 좀비의 라인을 바꿉니다.</color>",
+            "cost": "\n<size=36>조합식: <color=#8B0000>마늘 > 호박</color>"
+        },
+        {
+            "seedType": 1324,
+            "name": "태양 호박",
+            "introduce": "<align=justified><size=36><color=black>요즘 캠핑에 푹 빠진 태양 호박은 이렇게 말합니다. \n\"캠핑이 최고예요! 모두를 지켜주면서 작은 태양이 될 수 있잖아요!\" 비가 오든 좀비가 오든, 동료들은 그녀가\n곁에 있는 걸 늘 반깁니다.</color>",
+            "info": "<size=36>식물을 보호하면서 햇빛을 생산합니다.\n\n<color=black>체력: </color><color=#8B0000>4000 + ?</color>\n<color=black>태양 생산량 | 태양 생산 쿨타임: </color><color=#8B0000>25 | 25초</color>\n<color=black>특수 능력: </color><color=#8B0000> 태양을 생산할 때마다 타일 내 모든 식물에게 보호막 포인트 50을 부여합니다. 해당 보호막에는 상한이 없습니다.</color>",
+            "cost": "\n<size=36>조합식: <color=#8B0000>해바라기 + 호박</color>"
+        },
+        {
+            "seedType": 1325,
+            "name": "오로라 버섯",
+            "introduce": "<align=justified><size=36><color=black>극지의 일출만큼이나 희귀한 이 냉기의 장인은 모든 시간을 디저트 제작 연구에 바칩니다. 그의 대표작인 선니 오렌지 선데이는 식물이든 좀비든 모두가 사랑하지만, 먹고 나면 마지막 온기마저 사라진다고 합니다.</color>", 
+            "info": "<size=36>점차 녹아내리면서 단계적으로 빙결과 태양을 방출합니다.\n\n<color=black>태양 생산량 | 태양 생산 쿨타임: </color><color=#8B0000>25 | 25초</color>\n<color=black>사용 방법: </color><color=#8B0000>삼회용 식물</color>\n<color=black>특수 능력: </color><color=#8B0000>\n<color=black>•</color> 태양이 생산될 때마다 모든 빙결된 좀비가 태양을 15개씩 떨어뜨립니다.\n<color=black>•</color> 처음 두 번의 태양 생산 주기 동안은 좀비들을 느리게 만듭니다. 세 번째 주기에는 얼음 버섯과 동일한 효과를 발동한 뒤 사라집니다.</color>",
+            "cost": "\n<size=36>조합식: <color=#8B0000>해바라기 + 얼음 버섯</color>"
+        },
+        {
+            "seedType": 1326,
+            "name": "혜성 버섯",
+            "introduce": "<align=justified><size=36><color=black>매년 그녀는 정원 다트 대회에 참가합니다. 하늘을 나는 좀비, 수영하는 좀비, 최면에 걸린 좀비, 심지어 최면에 걸린 채 날아다니는 좀비까지 — 그녀의 태양 모양 다트는 모두 정확히 맞힙니다. 하지만 아무리 완벽한 명중률을 자랑해도 그녀는 한 번도 우승하지 못했습니다… 심사위원들이 그녀를 찾지 못하니까요.</color>",
+            "info": "<size=36>태양을 생성하고. 섭취시 좀비들 사이로 튀어나가는 태양 혜성을 방출합니다.\n\n<color=black>태양 생산량 | 태양 생산 쿨타임: </color><color=#8B0000>25 | 25초</color>\n<color=black>사용 방법: </color><color=#8B0000>일회용 식물</color>\n<color=black>특수 능력: </color><color=#8B0000>\n<color=black>•</color> 섭취시 해당 대상을 매혹 상태로 만드며, 태양 혜성을 소환합니다.\n<color=black>•</color> 태양 혜성은 좀비를 추적하며(매혹된 좀비를 우선), 최대 10회까지 튕깁니다. 매혹된 좀비를 맞히면 200 대미지를 주고 25 태양을 떨어뜨리며, 일반 좀비를 맞히면 10 대미지를 주고 15 태양을 떨어뜨립니다.\n<color=black>•</color> 혜성이 튀어 오르거나 사라진 후, 추가로 25 태양을 떨어뜨립니다.</color>",
+            "cost": "\n<size=36>조합식: <color=#8B0000>해바라기 + 최면 버섯</color>"
+        },
+        {
+            "seedType": 1327,
+            "name": "먹깨비 호박",
+            "introduce": "<align=justified><size=36><color=black>먹깨비 호박은 먹깨비들을 위한 체육관을 열었습니다. 소화를 돕고, 지방을 태우며, 건강을 유지하기 위한 목적이었죠. 체육관은 엄청난 인기를 끌었지만, 정작 그는 불만이 많습니다. \"운동하라고 만든 곳인데 전부 먹기만 하잖아! 내 체육관이 뷔페가 됐다고!\"라며 분통을 터뜨립니다.</color>",
+            "info": "<size=36>호박 안에 있는 먹깨비류 식물의 소화를 촉진하는 소화 보조제를 제공합니다.\n\n<color=black>체력: </color><color=#8B0000>4000</color>\n<color=black>특수 능력: </color><color=#8B0000>\n<color=black>•</color> 먹깨비 호박은 주기적으로 예비 소화 주머니를 사용하여 먹깨비류 식물이 같은 타일에 있는 동안 즉시 삼키는 것을 마칠 수 있도록 돕습니다.\n<color=black>•</color> 먹깨비 호박은 40초마다 소화 주무니 1개를 생성하며, 동시에 최대 3개까지 생성할 수 있습니다. 첫 번째 소화 주머니 생성에는 7.5초가 걸립니다.</color>",
+            "cost": "\n<size=36>조합식: <color=#8B0000>먹깨비 + 호박</color>"
+        },
+        {
+            "seedType": 1328,
+            "name": "마늘 삼발슈터",
+            "introduce": "<align=justified><size=36><color=black>\"윽, 너희 취향 최악이야! 진짜 싫어!\" 세 번째 머리가 울부짖습니다. 좀비들은 그가 냄새 때문에 우는 줄 알지만, 사실은 둘의 끔찍한 음악 취향 때문이었습니다. \"우리 코도 없는데 말이야.\" 첫 번째 머리가 변명하듯 말합니다.</color>",
+            "info": "<size=36>악취를 남기는 마늘 콩을 쏘고, 중독된 좀비가 공격 시 독안개를 방출하게 합니다.\n\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>30 | 1.5초</color>\n<color=black>공격 범위: </color><color=#8B0000>3 라인</color>\n<color=#5E1675>독 시스템: </color><color=#8B0000>\n<color=black>•</color> 공격 시 좀비에게 1 독 포인트를 부여합니다.\n<color=black>•</color> 공격받은 좀비가 이미 중독 상태일 경우, 좀비 발밑에 6초 동안 지속되는 독안개를 생성하여, 해당 범위 내에 있는 모든 좀비에게 초당 1 독 포인트를 부여합니다. 각 레인에는 최대 1개의 독 구름이 생성될 수 있습니다.</color>",
+            "cost": "\n<size=36>조합식: <color=#8B0000>삼발슈터 + 마늘</color>"
+        },
+        {
+            "seedType": 1329,
+            "name": "마늘 저격콩",
+            "introduce": "<align=justified><size=36><color=black>실제로는 바이러스를 옮기지 않지만, 모두가 그녀를 피합니다. 강렬한 마늘 냄새만으로도 충분하기 때문입니다. \"이 냄새가 오히려 바이러스를 막아준다구요.\" 그녀는 주장하지만, 좀비들은 믿지 않습니다.</color>",
+            "info": "<size=36>이 저격콩은 바이러스처럼 번식하는 감염성 안개을 퍼뜨리는 것을 목표로 합니다.\n\n<color=black>사용 조건: </color><color=#8B0000>오디세이</color>\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>500 | 3초</color>\n<color=black>공격 범위: </color><color=#8B0000>맵 전체</color>\n<color=black>특수 능력: </color><color=#8B0000> 대상의 위치에 감염성 안개를 생성합니다. 헤드샷 시에는 대신 독안개를 생성합니다.</color>\n<color=#5E1675>감염성 안개: </color><color=#8B0000>\n<color=black>•</color> 잔디밭내에서 랜덤으로 이동합니다.\n<color=black>•</color> 15초간 지속됩니다. 매초 안에 있는 좀비에게 갈릭 버터와 1 마늘 포인트를 부여합니다. (독안개은 범위와 빈도가 두 배로 증가합니다.)\n<color=black>•</color> 마늘 포인트를 부여할 때 (20×마늘 포인트)의 대미지를 입힙니다. 대상이 독에 면역인 경우, 대신 300 대미지를 입힙니다.\n<color=black>•</color> 대상의 머리가 사라졌을 경우(HP가 임계치 이하일 때) 즉시 사망하며, 그 위치에 새로운 감염성 안개가 생성됩니다.\n<color=black>•</color> 이미 감염성 안개가 30개가 존재하는 경우 새로운 감염성 안개를 생성되지 않고 대신 가장 가까운 감염성 안개의 범위를 확장하고 피해량을 10% 증가시킵니다.</color>",
+            "cost": "\n<size=36>조합식: <color=#8B0000>저격콩 + 마늘</color>"
+        },
+        {
+            "seedType": 1330,
+            "name": "삼발 풋체리슈터",
+            "introduce": "<align=justified><size=36><color=black>\"맛있는 체리요!\" \"신선한 체리요!\" \"저렴한 체리요!\" 삼발 풋체리슈터의 세 개의 입이 끊임없이 외치지만, 그들의 체리 장사는 좀처럼 흥하지 않습니다. 먹어본 이들의 평은 한결같습니다. 체리가 <i>너무</i> 끈적거린다고요.</color>",
+            "info": "<size=36>3  인접한 3 라인에 접착형 풋체리를 발사합니다. 좀비에게 붙어서 잠시 후 익으면 폭발합니다.\n\n<color=black>\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>20 | 1.5초</color>\n<color=black>공격 범위: </color><color=#8B0000>3 라인</color>\n<color=black>특수 능력: </color><color=#8B0000>\n<color=black>•</color> 투사체는 대상에게 부착되어 6초 후 1 타일 범위로 폭발합니다. 각 좀비는 접착형 풋체리을 하나만 부착할 수 있습니다.\n<color=black>•</color> 접착형 풋체리가 부착된 동안에는 체리탄이나 폭발성 체리로부터 받는 피해량이 25% 증가합니다.</color>",
+            "cost": "\n<size=36>조합식: <color=#8B0000>체리 폭탄 + 삼발슈터</color>"
+        },
+        {
+            "seedType": 1331,
+            "name": "풋체리 특전사",
+            "introduce": "<align=justified><size=36><color=black>제5회 정원 속사 챔피언십에서 풋체리 특전사는 자신의 승리 비결을 공개했습니다. \"저는 특별 제작한 체리탄을 씁니다. 크기가 작아서 많이 장전할 수 있고, 끈적여서 연속 사격에도 뭉쳐 나가죠. 물론 총열을 항상 잘 윤활하는 게 아주 중요합니다.\"</color>",
+            "info": "<size=36>좀비를 향해 접착형 풋체리를 쏘며, 낮은 확률로 접착형 풋체리를 한 무더기로 난사합니다!\n\n<color=black>사용 조건: </color><color=#8B0000>오디세이</color>\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>20 | 1.5초</color>\n<color=black>공격 횟수: </color><color=#8B0000>6번</color>\n<color=black>특수 능력: </color><color=#8B0000>2% 확률로 5초동안 접착형 풋체리를\n3 라인까지 퍼질 정도로 퍼부습니다. 해당 풋체리는 즉시 폭발하여 피해 범위 내 모든 좀비에게 접착형 풋체리를 붙입니다.</color>",
+            "cost": "\n<size=36>조합식: <color=#8B0000>체리 폭탄 + 특전사 콩</color>"
+        },
+        {
+            "seedType": 1332,
+            "name": "파멸 체리 폭탄",
+            "introduce": "<align=justified><size=36><color=black>\"정원에서 허가 없이 파티를 열 수는 없습니다.\" 파멸 체리 폭탄이 등록되지 않은 좀비들을 태연하게 꾸짖습니다. \"처음은 경고일 뿐입니다. 그 이후에도 떠나지 않으면 조치를 취합니다. 뭐, 경고조차 견디지 못하는 녀석도 있긴 하지만요.\"</color>",
+            "info": "<size=36>먼저 체리 폭발을 한 후, 그 결과로 나오는 재를 이용해 더욱 강력한 파멸 버섯 폭발을 일으킵니다.\n\n<color=black>대미지: </color><color=#8B0000>1800 (폭발 판정)</color>\n<color=black>공격 범위: </color><color=#8B0000>3×3 타일 / 5×5 타일</color>\n<color=black>사용 방법: </color><color=#8B0000>일회용 식물, 즉시 발동</color>\n<color=black>특수 능력: </color><color=#8B0000>\n<color=black>•</color> 융합 시 체리 폭탄 폭발을 일으키고, 1.5초 후에 파멸 버섯처럼 폭발합니다.\n<color=black>•</color> 파멸 버섯 폭발은 기본 1800의 폭발 피해를 입히며, 초기 체리 폭발에 휘말린 좀비 수만큼 파멸 폭발의 피해량이 300씩 증가합니다.</color>",
+            "cost": "\n<size=36>조합식: <color=#8B0000>체리 폭탄 + 파멸 버섯</color>"
+        },
+        {
+            "seedType": 1333,
+            "name": "최리 버섯",
+            "introduce": "<align=justified><size=36><color=black>좀비버디즈 클럽에서 거의 제명될 뻔했습니다. 그녀가 최면을 건 좀비들은 항상 분노하고 파괴적이 되었고, 클럽은 이를 평화로운 가치에 반하는 행동으로 여겼습니다. 그녀는 단 한 문장으로 자신을 변호했습니다. \"저는 단지 제 좀비 친구들이 닥터 에드거에게 쌓인 분노를 풀도록 돕고 있을 뿐입니다.\"</color>",
+            "info": "<size=36>좀비를 더욱 폭발적으로 만드는 촉매입니다.\n\n<color=black>사용 방법: </color><color=#8B0000>일회용 식물</color>\n<color=black>특수 능력: </color><color=#8B0000>섭취할 시 좀비를 매혹된 체리슈터 좀비로 바꿔버립니다.</color>",
+            "cost": "\n<size=36>조합식: <color=#8B0000>체리 폭탄 + 최면 버섯</color>"
+        },
+        {
+            "seedType": 1334,
+            "name": "바다 호박",
+            "introduce": "<align=justified><size=36><color=black>한때 세계 해양 생물 축제의 스타이자 바다 버섯 군락의 자랑이었던 바다 호박은 더 이상 물 위에 뜰 수 없습니다. 모든 것은 그 끔찍한 할로윈 파티 이후로 바뀌었습니다. 완벽한 공연을 위해 호박 머리를 썼지만, 그 후로 결코 벗을 수 없게 되었습니다.</color>",
+            "info": "<size=36>바다 버섯을 흡입하면 체력을 회복합니다.\n\n<color=black>체력: </color><color=#8B0000>4000</color>\n<color=black>특수 능력: </color><color=#8B0000>육지 식물. 바다 버섯을 줄시 최대 체력의 1/3을 회복합니다.</color>",
+            "cost": "\n<size=36>조합식: <color=#8B0000>바다 버섯 + 호박</color>"
+        },
+        {
+            "seedType": 1335,
+            "name": "최면 먹깨비",
+            "introduce": "<align=justified><size=36><color=black>최면 먹깨비는 동료 먹깨비들을 얕잡아 봅니다. 그는 동료들이 무례하고, 입맛이 까다롭고, 게으르며, 정원에 아무것도 기여하지 않는다고 생각합니다. 반면 자신은 눈부시고 빛나는 피부를 가지고 있죠.</color>",
+            "info": "<size=36>매혹된 좀비를 잡아먹고 최면 버섯으로 바꿔줍니다.\n\n<color=black>대미지: </color><color=#8B0000>즉사</color>\n<color=black>공격 범위: </color><color=#8B0000>전방 1 타일</color>\n<color=black>소화 시간: </color><color=#8B0000>12초</color>\n<color=black>특수 능력: </color><color=#8B0000>\n<color=black>•</color> 매혹된 좀비만을 잡아먹으며, 성공적으로 삼키면 최면 버섯 시드패킷을 떨어뜨립니다.(시드패킷는 소화한 후 주는게 아닙니다.)\n<color=black>•</color> 좀비가 섭취시 매혹 상태가 되는 대신 본래 먹깨비로 되돌아갑니다.</color>",
+            "cost": "\n<size=36>조합식: <color=#8B0000>먹깨비 + 최면 버섯</color>"
+        },
+        {
+            "seedType": 1336,
+            "name": "최면 할라페뇨",
+            "introduce": "<align=justified><size=36><color=black>\"저는 사실 아주 무해해요.\" 최면 할라페뇨는 모자를 고쳐 쓰며 말했죠. \"저는 좀비들이 숨겨둔 연약함을 찾도록 돕고, 가식을 버리고 솔직하고 열린 친구가 되도록 이끌어요.\" 타오르는 불꽃은요? \"그냥 최면 효과의 색깔 반응일 뿐이에요. 연약한 좀비들에게는 별로 해가 되지 않아요.”</color>",
+            "info": "<size=36>불타는 매력으로 폭발하여 좀비들이 매혹 상태로 만듭니다.\n\n<color=black>공격 범위: </color><color=#8B0000>1 라인</color>\n<color=black>사용 방법: </color><color=#8B0000>일회용 식물, 즉시 발동</color>\n<color=black>특수 능력: </color><color=#8B0000>\n<color=black>•</color> 900 이하의 체력을 가진 좀비를 매혹 상태로 만듭니다.\n<color=black>•</color> 매혹되지 않을 시 1800 대미지를 줍니다.</color>",
+            "cost": "\n<size=36>조합식: <color=#8B0000>최면 버섯 + 할라페뇨</color>"
+        },
+        {
+            "seedType": 1337,
+            "name": "버터위드",
+            "introduce": "<align=justified><size=36><color=black>다른 스파이크위드들과 달리, 버터위드는 유난히 온순합니다. 뾰족한 가시도 없고, 거친 스포츠도 싫어하며, 그저 좀비들에게 직접 만든 버터 케이크를 맛보게 해주고 싶을 뿐입니다. 하지만 시력이 너무 나빠서, 항상 엉뚱한 곳에 버터를 바르고 맙니다.</color>",
+            "info": "<size=36>대미지를 입히지 않는 끈적끈적하고 느린 함정입니다.\n\n<color=black>대미지: </color><color=#8B0000>없음</color>\n<color=black>공격 범위: </color><color=#8B0000>1 타일</color>\n<color=black>특수 능력: </color><color=#8B0000>\n<color=black>•</color>  지나가는 비공중 좀비의 속도를 느려지게 만들고 3초마다 1초간 경직시킵니다.\n<color=black>•</color> 더 이상 타이어를 터트리지 않으며 차량류을 무시합니다.</color>",
+            "cost": "\n<size=36>조합식: <color=#8B0000>스파이크위드 + 옥수수 펄트</color>"
         },
     {
       "seedType": 350,
@@ -3160,7 +3356,7 @@
       "seedType": 356,
       "name": "체리 먹깨비 (TD)",
       "introduce": "<align=justified><size=36><color=black>체리 폭탄과 한 잔을 마신 이후로, 먹깨비는 끊임없이 \"흥분해 있습니다.\" 매 끼니마다 완전히 골칫덩이가 되어버렸습니다. 씹는 소리는 폭발음으로 바뀌고, 접시와 그릇이 사방으로 날아다니며, 아무도 체리 먹깨비와 함께 식사하려 하지 않았습니다.결국 투표 끝에, 체리 먹깨비는 마당에서 식사를 하게 되었습니다… 적어도 이제 새 그릇을 살 필요는 없어졌습니다.</color>",
-      "info": "<size=36>체리 먹깨비는 좀비를 먹으면 체리 폭발이 발생시킵니다.\n\n<color=blue>R 키를 누르면 반전 시킬수 있습니다.</color>\n<color=black>대미지: </color><color=#8B0000> 즉사 / 1000</color>\n<color=black>공격 범위: </color><color=#8B0000>전방 1타일 / 3×3 타일</color>\n<color=black>소화 시간: </color><color=#8B0000>40초</color>\n<color=black>특수 능력: </color><color=#8B0000>적을 섭취 시 1000 대미지를 주는 체리 폭탄 폭발을 일으킵니다.</color>\n<color=black><page>업그레이드 목록: </color><color=#8B0000>\n<color=black>• 기본 업그레이드: </color>(200 태양) 폭발 범위 +50%, 섭취 시간 -10\n<color=black>• 고급 업그레이드 선택 1: </color>(500 태양) 폭발 공격력 +100%\n<color=black>• 고급 업그레이드 선택 2: </color>(500 태양) 섭취 시간 15초로 변경</color>",
+      "info": "<size=36>체리 먹깨비는 좀비를 먹으면 체리 폭발이 발생시킵니다.\n\n<color=blue>R 키를 누르면 반전 시킬수 있습니다.</color>\n<color=black>대미지: </color><color=#8B0000> 즉사 / 1000</color>\n<color=black>공격 범위: </color><color=#8B0000>전방 1 타일 / 3×3 타일</color>\n<color=black>소화 시간: </color><color=#8B0000>40초</color>\n<color=black>특수 능력: </color><color=#8B0000>적을 섭취 시 1000 대미지를 주는 체리 폭탄 폭발을 일으킵니다.</color>\n<color=black><page>업그레이드 목록: </color><color=#8B0000>\n<color=black>• 기본 업그레이드: </color>(200 태양) 폭발 범위 +50%, 섭취 시간 -10\n<color=black>• 고급 업그레이드 선택 1: </color>(500 태양) 폭발 공격력 +100%\n<color=black>• 고급 업그레이드 선택 2: </color>(500 태양) 섭취 시간 15초로 변경</color>",
       "cost": "<size=36>필요 태양: <color=#8B0000>500</color>\n쿨타임: <color=#8B0000>50초</color></size>"
     },
     {
@@ -3272,7 +3468,7 @@
       "seedType": 1805,
       "name": "저격 고드름 버섯",
       "introduce": "<align=justified><size=36><color=black>저격 고드름 버섯은 분대에서 가장 키가 작은 저격수입니다. 하지만 그는 그것을 문제라 여기지 않습니다. \"내 동료 저격수 친구들은, 그래, 키도 크고 위압적이지만 항상 다른 식물들의 지원이 필요하지. 하지만 나는? 나 혼자서도 충분히 해낼 수 있어!\"</color>",
-      "info": "<size=36>좀비를 저격하여 느리게 만듭니다.\n\n<color=black>사용 조건: </color><color=#8B0000>오디세이</color>\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>500 | 3초</color>\n<color=black>공격 범위: </color><color=#8B0000>맵 전체 </color>\n<color=#0077b6>빙결 시스템: </color><color=#8B0000>공격시 좀비에게 빙결 포인트를 100 누적시키고, 빙결된 좀비에게는 400%의 추가 피해를 줍니다.</color>\n<color=black>특수 능력: </color><color=#8B0000>\n<color=black>•</color> 1타일 내에 스플래시 대미지를 입힙니다.\n<color=black>•</color> 6번의 공격마다 헤드샷으로 좀비를 즉사시킵니다.<page>\n<color=black>오디세이 버프:\n</color><color=#8B0000>1. (고드름 개틀링 버섯의 오디세이 버프 1) 스플래시 범위가 3×3으로 증가합니다.\n2. (고드름 개틀링 버섯의 오디세이 버프 2) 이제 빙결된 좀비에게 1000%의 대미지를 입힙니다.</color>",
+      "info": "<size=36>좀비를 저격하여 느리게 만듭니다.\n\n<color=black>사용 조건: </color><color=#8B0000>오디세이</color>\n<color=black>대미지 | 공격 쿨타임: </color><color=#8B0000>500 | 3초</color>\n<color=black>공격 범위: </color><color=#8B0000>맵 전체 </color>\n<color=#0077b6>빙결 시스템: </color><color=#8B0000>공격시 좀비에게 빙결 포인트를 100 누적시키고, 빙결된 좀비에게는 400%의 추가 피해를 줍니다.</color>\n<color=black>특수 능력: </color><color=#8B0000>\n<color=black>•</color> 1 타일 내에 스플래시 대미지를 입힙니다.\n<color=black>•</color> 6번의 공격마다 헤드샷으로 좀비를 즉사시킵니다.<page>\n<color=black>오디세이 버프:\n</color><color=#8B0000>1. (고드름 개틀링 버섯의 오디세이 버프 1) 스플래시 범위가 3×3으로 증가합니다.\n2. (고드름 개틀링 버섯의 오디세이 버프 2) 이제 빙결된 좀비에게 1000%의 대미지를 입힙니다.</color>",
       "cost": "<size=36>조합식: <color=#8B0000>저격콩 + 고드름 개틀링 버섯</color>"
     }
   ]

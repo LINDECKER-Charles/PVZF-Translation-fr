@@ -28,7 +28,6 @@
       "info": "<size=39>Las nueces tienen cáscaras duras que puedes utilizar para proteger tus otras plantas.\n\n<color=#3D1400>Dureza: </color><color=red>4000</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Juglans praesidium</color></size>",
       "cost": "<size=39>Costo: <color=red>50</color>\nRecarga: <color=red>30 Segundos</color></size>"
     },
-
     {
       "seedType": 4,
       "name": "Patatapum",
@@ -36,7 +35,6 @@
       "info": "<size=39>Patatapum asesta un buen golpe, pero necesita armarse antes. Plántala al frente de los zombis para que explote al contacto.\n\n<color=#3D1400>Daño: </color><color=red>1800 (área de 1x1)</color>\n<color=#3D1400>Tiempo De Armado: </color><color=red>14s</color>\n<color=#3D1400>Nombre Científico: </color><color=red>Solanum explosivum</color></size>",
       "cost": "<size=39>Costo: <color=red>25</color>\nRecarga: <color=red>30 Segundos</color></size>"
     },
-
     {
       "seedType": 5,
       "name": "Planta Carnívora",
@@ -1039,10 +1037,13 @@
       "name": "227"
     },
     {
-      "seedType": 228,
-      "name": "228"
-    },
-    {
+    "seedType": 228,
+    "name": "Necroflama",
+   "introduce": "<size=39><color=#3D1400>\"Estoy harta de todas las reglas del jardín. Las plantas deberían crecer siguiendo su propio corazón.\" solía decir la Necroflama a sus compañeros, pero las demás plantas no la tomaban en serio. Tal vez ha llegado el momento de abandonar todas las preocupaciones y convertirse en una hierba libre, pensó ella. \"No soy una planta, ni un zombi, ni una herramienta. Yo soy simplemente yo.\"</color></size>",
+   "info": "<size=39>Esta Endoflama que ha perdido su poder es tan difícil de eliminar como una mala hierba.</color>\n\n<color=#3D1400>Especial:</color> <color=red>\n- Actua como un obstáculo en el campo más que una planta. No puede ser eliminada o movida, y, los zombis la ignorarán.\n- Absorbe cualquier proyectil proveniente de una planta y recibirá 30 de daño.\n- Tras 10 segundos de estar en el campo, invoca aleatoriamente un Vegezombi. Luego invoca otro cada 15 segundos, y al morir, invoca otro más.\n- Al usar fertilizante en ella, desaparece y deja caer un Regalo Planta.</color>\n<size=39><color=#3D1400>Nombre Científico:</color> <color=red>Lilium solis</color></size>",
+  "cost": "<size=39>Costo: <color=red>-125</color>\nRecarga: <color=red>50 Segundos</color></size>"
+ },
+ {
     "seedType": 229,
     "name": "Trebolador Suertudo",
    "introduce": "<size=39><color=#3D1400>El Trebolador Suertudo nunca consideró que el número cuatro fuera de mala suerte, pues creía que su adorable apariencia y buena fortuna cambiarían la percepción que las plantas tenían de él. Sin embargo, en comparación con sus sentimientos sobre el número cuatro, las plantas estaban más preocupadas pensando en qué tipo de viento que podía alterar el interior de una caja apretada.</color></size>",
@@ -1130,7 +1131,7 @@
       "seedType": 241,
       "name": "Arándano Gélido",
       "introduce": "<size=39><color=#3D1400>¿Cómo puede un pequeño y delicado arándano flotante hacer que su alrededor se vuelva tan frío? Arándano Gélido dice: “Es natural, amigo. Todo mi ser tiene que ver con el frio, ¡Incluso mis bromas! Escucha: ¿Qué le dice un pingüino a una pingüina? ¡Cómo tú ningüina!”</color>",
-      "info": "<size=39>Potencia a los proyectiles de las plantas de hielo. \n\n<color=#3D1400>Desbloqueo: <color=red>Completa Nuez-Billar</color>\n<color=#3D1400>Características:</color> <color=red>Es invencible y no puede ser atacado por los zombis, ocupa una posición aérea en el campo, y mejora a las plantas congeladas debajo de el, duplicando su daño y Puntos Criogénicos.</color>",
+      "info": "<size=39>Potencia a los proyectiles de las plantas de hielo. \n\n<color=#3D1400>Desbloqueo: <color=red>Completa Nuez-Billar</color>\n<color=#3D1400>Características:</color> <color=red>Es invencible y no puede ser atacado por los zombis, ocupa una posición aérea en el campo, y mejora a las plantas congeladas debajo de el en un área de 3x3, duplicando su daño y Puntos Criogénicos.</color>",
       "cost": "Costo: <color=red>125</color>\nRecarga: <color=red>30 segundos</color>"
     },
     {
@@ -1414,18 +1415,24 @@
     "seedType": 302,
     "name": "Sangreomenia",
    "introduce": "<size=39><color=#3D1400>\"La luna de sangre amanece. ¿No lo sientes?\" Dice Sangreomenia, casi callada. \"Gotas rojas cayendo, luces parpadeando, espinas afilandose... Resistir es inútil, mounstros sin cerebro. Arrodillense ante mi y les ayudare estar en mi lado bueno.\"</color></size>",
-   "info": "<size=39>Crea lunas de sangre que invocan zombis.</color>\n\n<color=#3D1400>Especial:</color> <color=red>\n- Tiene un 2% de aparecer al intentar fusionar a Seleneomenia durante niveles de Noche (excluyendo Niebla, etc).\n- Hereda la mayoria de las características de Seleneomenia, y solo puedes tener uno en los Modos Odisea.\n- Cuando Sangreomenia está en el campo, las Mini-Lunas de Seleneomenia se convierten en Mini-Lunas Sangrientas. Estas ya no brindan salud, pero invocan zombis hipnotizados fuertes cada 10s.\n- La primera invocación tiene una recarga de 3s. Cada Sangreomenia brinda +50% Durabilidad y Daño a los zombis invocados.\n- El numero y posición de las invocaciones dependen en \"casillas vacias\", definidas como casillas sin un Sangreomenia o Seleneomenia en ellas o alrededor de ellas.</color></size>",
+   "info": "<size=39>Crea lunas de sangre que invocan zombis.</color>\n\n<color=#3D1400>Especial:</color> <color=red>\n- Tiene un 2% de aparecer al intentar fusionar a Seleneomenia durante niveles nocturnos.\n- Hereda la mayoria de las características de Seleneomenia, y solo puedes tener uno en los Modos Odisea.\n- Cuando Sangreomenia está en el campo, las Mini-Lunas de Seleneomenia se convierten en Mini-Lunas Sangrientas. Estas ya no brindan salud, pero invocan zombis hipnotizados fuertes cada 10s.\n- La primera invocación tiene una recarga de 3s. Cada Sangreomenia brinda +50% Durabilidad y Daño a los zombis invocados.\n- El numero y posición de las invocaciones dependen en \"casillas vacias\", definidas como casillas sin un Sangreomenia o Seleneomenia en ellas o alrededor de ellas.</color></size>",
   "cost": "<color=purple><size=33>Condición de Uso:\nModo Cosecha | Planta Odisea Legendaria\nModo Odisea | 2% Chance al Fusionar Seleneomenia</color></size>"
  },
  {
-      "seedType": 303,
-      "name": "303"
-    },
-    {
-      "seedType": 304,
-      "name": "304"
-    },
-    {
+   "seedType": 303,
+   "name": "Imaltadora",
+   "introduce": "<size=39><color=#3D1400>Imaltadora es un maestro de la imitación. Desde que se unió a un espectáculo de imitaciones, incluso los originales a los que imitaba solo podían quedar en segundo lugar.</color></size>",
+   "info": "<size=39>Regularmente se transforma en plantas ofensivas o defensivas cercanas, volviéndose más fuerte mediante la imitación.\n\n<color=#3D1400>Especial:</color> <color=red>\n- Cada 30 segundos, se transforma en una planta aleatoria dentro de un área de 3x3.\n- Obtiene +100% daño de ataque y +50% PS máximps en su primera transformación exitosa; el resto de transformaciones añaden +30% poder de ataque y +20% PS máximos.\n- Puede transformarse en: plantas no aéreas cuyo daño no sea 0 o cuya dureza supere los 300, excluyendo Calabazas, Nenúfares, Macetas y otras Cebadas (y sus transformaciones).</color></size>",
+  "cost": "<color=purple>Condición de Uso:\nModo Cosecha | Planta Odisea Legendaria</color></size>"
+ },
+ {
+   "seedType": 304,
+   "name": "Supernova Noble",
+   "introduce": "<size=39><color=#3D1400>La leyenda dice que una vez sirvió al propio Sol, llevando su luz más feroz dentro de su radiante florecimiento. Cuando el peligro se acerca, la Supernova Noble convierte esa bendición en juicio: cada rayo de luz solar que dispara es un decreto de fuego sagrado.</color></size>",
+   "info": "<size=39>Forja su sol producido y proyectiles cercanos en juicios solares que caen desde el cielo, causando daño explosivo.\n\n<color=#3D1400>Producción Solar: </color><color=red>50 cada 3s</color>\n<color=#3D1400>Daño:</color> <color=red>1800\n<color=#3D1400>Especial:</color> <color=red>\n- Al producir sol, si hay zombis presentes, convierte el sol en un juicio solar y lo dispara al zombi más cercano.\n- Al disparar un juicio solar, absorbe proyectiles de plantas dentro de un radio de 1,5 casillas, obteniendo +2% de daño por cada proyectil absorbido.\n- Juicios Solares: Caen desde el cielo, infligen daño en área (radio de 1,5 casillas) y dejan caer 50 de sol; zombis aéreos pueden ser afectados por ellos.\n<color=#3D1400>Uso de Monedas:</color><color=red> Consume 16000 monedas para disparar un juicio solar a cada zombi presente.</color></size>",
+  "cost": "<color=purple>Condición de Uso:\nModo Cosecha | Planta Odisea Legendaria</color></size>"
+ },
+ {
       "seedType": 305,
       "name": "305"
     },
@@ -1701,7 +1708,7 @@
       "name": "Escarchador (TD)",
       "introduce": "<size=39><color=#3D1400>Escarchador es un aire acondicionado a -4 °C. Cuando sopla su brisa fría, se siente como entrar directamente en el invierno. Incluso Hielaguisantes estuvo congelado; el viento helado congeló sus propios proyectiles. ¿Qué podría ser más frío que eso? La respuesta: La atmósfera después de que Arándano Gélido contara uno de sus chistes totalmente inauditos.</color></size>",
       "info": "<size=39>Soporte del <color=#0077b6>Sistema Criogénico</color>\nPasivamente enfría a zombis.</color>\n\n<color=#3D1400>Daño:</color> <color=red>1 cada 1s (hasta 10s)\n<color=#3D1400>Especial:</color> <color=red>Acumula 200 Puntos Criogénicos a todos los zombis en pantalla durante 10 segundos. Durante este tiempo, todas los guisantes helados en pantalla se convierten en guisantes criogenizados.</color></size>",
-      "cost": "<size=39>Costo: <color=red>125</color>\nRecarga: <color=red>50 Segundos</color></size>"
+      "cost": "<size=39>Costo: <color=red>300</color>\nRecarga: <color=red>50 Segundos</color></size>"
     },
     {
             "seedType": 364,
@@ -3885,7 +3892,7 @@
    "seedType": 908,
    "name": "Copitralladora",
    "introduce": "<size=39><color=#3D1400>Las Setas Desesporadas que gritaban \u0022¡Al ejército!\u0022 ahora son veteranos de mirada fría. La Compañía Cristalizada cumple su misión sin fallar.</color></size>",
-   "info": "<size=39>Parte del <color=#0077b6>Sistema Criogénico</color>\nDisparan 4 carámbanos individualmente; ¡12 si están todos juntos!\n<color=#0077b6>Sistema Criogénico:</color>\n</color>- Aplica 5 puntos al impacto.\n- Daño x4 a zombis congelados.</color>\n\n<color=#3D1400>Daño:</color> <color=red>20*4 cada 1,5s (perforante x2)\n\n<color=purple>Mejoras de Odisea:</color>\n</color></color>- Daño x10 a zombis congelados | Subespecie Solitralladora Desbloqueada</color>\n- Sus carámbanos pueden perforar infinitamente. Daño +50%</color>\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Guisantrallaseta + Seta Congelada</color></size>",
+   "info": "<size=39>Parte del <color=#0077b6>Sistema Criogénico</color>\nDisparan 4 carámbanos individualmente; ¡12 si están todos juntos!\n<color=#0077b6>Sistema Criogénico:</color>\n</color>- Aplica 5 puntos al impacto.\n- Daño x4 a zombis congelados.</color>\n\n<color=#3D1400>Daño:</color> <color=red>20*4 cada 1,5s (perforante x2)\n\n<color=purple>Mejoras de Odisea:</color>\n</color></color>- Carámbanos infligen 3 veces más daño a los zombis congelados y resistentes al congelamiento | Subespecie Solitralladora Desbloqueada</color>\n- Sus carámbanos pueden perforar infinitamente y pueden dividirse en dos pequeños al impactar a un zombi.</color>\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Guisantrallaseta + Seta Congelada</color></size>",
       "cost": "<size=33>Costo: <color=red>475, 625</color>   Recarga: <color=red>87,5 Segundos</color>\nPlantas Requeridas: <color=red>6\n<color=purple>Condición de Uso: Modo Odisea - Selección Inicial</color></size>"
     },
     {
@@ -3962,7 +3969,7 @@
    "seedType": 919,
    "name": "Tripitidora Fénix",
    "introduce": "<size=39><color=#3D1400>Nadie sabe si el fuego realmente trae renacimiento a las plantas; es solo una leyenda. Aquellos que lo persiguieron se convirtieron en cenizas, hasta que él se convirtió en la nueva leyenda. \"No sé cuántas veces debo soportar las llamas para tener éxito, pero por ellos, debo hacerlo.</color></size>",
-   "info": "<size=39>Parte del <color=#FF4500>Sistema Pirogénico</color>\n¡Renacida del fuego!\n<color=#FF4500>Sistema Pirogénico:</color>\n- Aplica el Efecto Pirogénico al impacto.\n- Explosión propaga el efecto a zombis cercanos.</color>\n\n<color=#3D1400>Daño:</color> <color=red>160*3 cada 1,5s (perforante x2)\n\n<color=#3D1400>Especial:</color> <color=red>Quema todo el campo al aparecer y al morir. Su daño es duplicado al pasar por una Plantorcha Infernal.\n\n<color=purple>Mejoras de Odisea:</color>\n</color></color>- Multiplicador de daño de quemadura → 150%. Guisantes en llamas ahora infligen el Efecto Pirogénico</color>\n- Sus proyectiles perforan infinitamente y causan explosiones pirogénicas por golpe</color>\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Tripitidora Carbonizada + Jalapeño</color></size>",
+   "info": "<size=39>Parte del <color=#FF4500>Sistema Pirogénico</color>\n¡Renacida del fuego!\n<color=#FF4500>Sistema Pirogénico:</color>\n- Aplica el Efecto Pirogénico al impacto.\n- Explosión propaga el efecto a zombis cercanos.</color>\n\n<color=#3D1400>Daño:</color> <color=red>160*3 cada 1,5s (perforante x2)\n\n<color=#3D1400>Especial:</color> <color=red>Quema todo el campo al aparecer y al morir. Su daño es duplicado al pasar por una Plantorcha Infernal.\n\n<color=purple>Mejoras de Odisea:</color>\n</color></color>- Sus proyectiles perforan infinitamente y causan explosiones pirogénicas por golpe | Subespecie Dron Fénix Desbloqueado\n- Multiplicador de daño de quemadura → 150%. Guisantes en llamas ahora infligen el Efecto Pirogénico</color>\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Tripitidora Carbonizada + Jalapeño</color></size>",
       "cost": "<size=33>Costo: <color=red>650</color>   Recarga: <color=red>157,5 Segundos</color>\nPlantas Requeridas: <color=red>4\n<color=purple>Condición de Uso: Modo Odisea - Selección Inicial</color></size>"
     },
     {
@@ -4123,7 +4130,7 @@
    "seedType": 942,
    "name": "Ferreonexo",
    "introduce": "<size=39><color=#3D1400>Lo que siempre temieron las Ferrosetitas finalmente ocurrió: fueron atrapados por la Magnetoseta, y nadie pudo separarlas. Quizás fue una bendición disfrazada, ya que los materiales acumulados por la Magnetoseta les ayudaron a actualizar su equipo, y ahora son un verdadero 'ejército de acero'.</color></size>",
-   "info": "<size=39>Parte del <color=#8B0000>Sistema Magnético</color>\n¡Atacan enemigos terrestres y áereos simultaneamente!\n\n<color=#3D1400>Dureza: </color><color=red>6000</color>\n<color=#3D1400>Daño:</color> <color=red>80*4 cada 1s (Ametralladora), 240 cada 2s (Cañón), 400 cada 3s (Francotirador)\n\n<color=#3D1400>Especial:</color> <color=red>\n- La ametralladora empuja zombis y hace daño adicional dependiendo del PS actual de la armadura tipo 2 de un zombi.\n- El cañón solo dispara a enemigos aéreos, causando daño por salpicadura dentro de una casilla y empujandolos.\n- El francotirador tiene las mismas características de Francoguisantes.\n\n<color=purple>Mejoras de Odisea:</color>\n</color></color></color>- Distancia de empuje y daño por salpicadura del cañón x3</color>\n- El daño del francotirador aumenta a 1 millón, con 1/3 de probabilidad de disparar varias veces instantáneamente, pero el intervalo de disparo se duplica</color>\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Ferrosetita (x3 en una casilla) + Magnetoseta</color></size>",
+   "info": "<size=39>Parte del <color=#8B0000>Sistema Magnético</color>\n¡Atacan enemigos terrestres y áereos simultaneamente!\n\n<color=#3D1400>Dureza: </color><color=red>6000</color>\n<color=#3D1400>Daño:</color> <color=red>80*4 cada 1s (Ametralladora), 240 cada 2s (Cañón), 400 cada 3s (Francotirador)\n\n<color=#3D1400>Especial:</color> <color=red>\n- La ametralladora empuja zombis y hace daño adicional dependiendo del PS actual de la armadura tipo 2 de un zombi.\n- El cañón solo dispara a enemigos aéreos, causando daño por salpicadura dentro de una casilla y empujandolos.\n- El francotirador tiene las mismas características de Francoguisantes.\n\n<color=purple>Mejoras de Odisea:</color>\n</color></color></color>- Distancia de empuje y daño por salpicadura del cañón x3 | Subespecie Trevoltio Desbloqueado</color>\n- El daño del francotirador aumenta a 1 millón, con 1/3 de probabilidad de disparar varias veces instantáneamente, pero el intervalo de disparo se duplica</color>\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Ferrosetita (x3 en una casilla) + Magnetoseta</color></size>",
       "cost": "<size=33>Costo: <color=red>400, 700</color>   Recarga: <color=red>52,5 Segundos</color>\nPlantas Requeridas: <color=red>7 (+ Cubo)\n<color=purple>Condición de Uso: Modo Odisea - Selección Inicial</color></size>"
     },
     {
@@ -4226,35 +4233,47 @@
  },
  {
     "seedType": 957,
-    "name": "Lanzavórtices",
-   "introduce": "<size=39><color=#3D1400>INTRO</color></size>",
-   "info": "<size=39>INFO\n\n<color=#3D1400>Dureza: </color><color=red>4000</color>\n<color=#3D1400>Daño:</color> <color=red>20 cada 1,5s\n\n<color=#3D1400>Especial:</color> <color=red>SPECIAL\n\n<color=purple>Mejoras de Odisea:</color>\n</color></color></color>- MODIFIER1</color>\n- MODIFIER2</color>\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Melonpulta Congelada + Cronomelón</color></size>",
-   "cost": "<size=33>Costo: <color=red>775, 925</color>   Recarga: <color=red>72,5 Segundos Segundos</color>\nPlantas Requeridas: <color=red>4 (+ Cronofragmento)\n<color=purple>Condición de Uso: Modo Odisea - Selección Inicial</color></size>"
+    "name": "Melonpulta Subzero",
+   "introduce": "<size=39><color=#3D1400>La Melonpulta Subzero está obsesionado con recrear nebulosas cósmicas en el jardín. Así que, si alguna vez ves una formándose ahí afuera, corre. Eso no es una nebulosa, es un enorme cumulonimbo de melones criogénicos esperando para caer.</color></size>",
+   "info": "<size=39>Parte del <color=#0077b6>Sistema Criogénico</color>\nLanza una serie de melones criogénicos. También, puede invocar una Nebulosa.\n<color=#0077b6>Sistema Criogénico:</color>\n</color>- Aplica 20 puntos al impacto.\n- Daño x4 a zombis congelados.</color>\n\n<color=#3D1400>Daño:</color> <color=red>300\n\n<color=#3D1400>Especial:</color> <color=red>\n- Se fija en un zombi y dispara continuamente melones criogénicos, infligiendo daño de área sin disminución en un área pequeña.\n- Cada impacto agrega una carga. Cuando estas cargas superan 50, entra en su segunda fase. En su segunda fase, hacerle clic con el ratón invocará una Nebulosa.\n- Cuando estas cargas superan 100, entra en su tercera fase, donde el poder de la Nebulosa invocada aumenta significativamente.\n- La Nebulosa dispara rápidamente una gran cantidad de melones criogénicos. Aparece en el lado izquierdo de la pantalla y se mueve continuamente hacia la derecha. Sólo puede existir una Nebulosa a la vez.\n\n<color=purple>Mejoras de Odisea:</color>\n</color></color></color>- La tasa de daño de la Nebulosa se mejora considerablemente</color>\n- Daño de melón criogénico x6, pero, su área de daño por salpicadura se reduce</color>\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Melonpulta Congelada + Cronomelón</color></size>",
+   "cost": "<size=33>Costo: <color=red>775, 925</color>   Recarga: <color=red>72,5 Segundos</color>\nPlantas Requeridas: <color=red>4 (+ Cronofragmento)\n<color=purple>Condición de Uso: Modo Odisea - Selección Inicial</color></size>"
  },
  {
     "seedType": 958,
-    "name": "Rabo de Bengalí",
-   "introduce": "<size=39><color=#3D1400>INTRO</color></size>",
-   "info": "<size=39>INFO\n\n<color=#3D1400>Dureza: </color><color=red>4000</color>\n<color=#3D1400>Daño:</color> <color=red>20 cada 1,5s\n\n<color=#3D1400>Especial:</color> <color=red>SPECIAL\n\n<color=purple>Mejoras de Odisea:</color>\n</color></color></color>- MODIFIER1</color>\n- MODIFIER2</color>\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Ramo de Cerezas + Rabo de León</color></size>",
+    "name": "Rabo de León",
+   "introduce": "<size=39><color=#3D1400>El río es su escenario cuidadosamente dispuesto, cada onda es una cuerda en su instrumento. Cuando los zombis se adentran en el agua,  Rabo de León inicia su actuación: proyectiles de fuego como preludio, rayos de calor como clímax y cenizas como final. Así compone un réquiem para sus enemigos.</color></size>",
+   "info": "<size=39>Parte del <color=#FF4500>Sistema Pirogénico</color>\nDispara proyectiles explosivos y suelta un láser todo poderoso al obtener suficientes cargas.\n<color=#FF4500>Sistema Pirogénico:</color>\n- Aplica el Efecto Pirogénico al impacto.\n- Explosión propaga el efecto a zombis cercanos.</color>\n<color=blue>Solo disponible en la Ruta Acuática del Modo Odisea.\n\n<color=#3D1400>Daño:</color> <color=red>300*2 cada 0,5s\n<color=#3D1400>Rango: </color><color=red>Todo el jardín\n\n<color=#3D1400>Especial:</color> <color=red>\n- Sus proyectiles son teleridigidos y al impactar, explotan, empujando y aumentando la carga de Rabo de León en 1.\n- Cuando Rabo de León es afectado por una Petacereza o Jalapeño, obtiene 20 cargas y se cura en 20.\n- Cuando estas cargas alcanzan 100, dispara un láser que inflige 300 de daño en área cada 0,15 segundos empujando y quemando cada zombi impactado.\n\n<color=purple>Mejoras de Odisea:</color>\n</color></color></color>- Su láser inflige daño al doble de velocidad</color>\n- Daño de proyectil x3</color>\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Ramo de Cerezas + Rabo de Tigre</color></size>",
    "cost": "<size=33>Costo: <color=red>525</color>   Recarga: <color=red>200 Segundos</color>\nPlantas Requeridas: <color=red>4\n<color=purple>Condición de Uso: Modo Odisea - Desbloqueable</color></size>"
  },
  {
-      "seedType": 959,
-      "name": "959"
-    },
-    {
-      "seedType": 960,
-      "name": "960"
-    },
-    {
-      "seedType": 961,
-      "name": "961"
-    },
-    {
-      "seedType": 962,
-      "name": "962"
-    },
-    {
+   "seedType": 959,
+   "name": "Cereza Nuclear",
+   "introduce": "<size=39><color=#3D1400>La disputa entre estas dos cerezas de mal genio finalmente terminó con un avance teórico. Los hermanos acordaron que \"aniquilación\" era el término más apropiado. \"Qué aniquilación tan explosiva…\" \"¡No, no debería ser una explosión, sino una expansión!\" Y bueno… la discusión volvió a empezar.</color></size>",
+   "info": "<size=39>Libera una explosión radiactiva devastadora.\n\n<color=#3D1400>Daño:</color> <color=red>3600 (área de 7x7)\n<color=#3D1400>Uso: </color><color=red>Único, Instantáneo\n\n<color=#3D1400>Especial:</color> <color=red>\n- Desata una enorme explosión nuclear, dispara 36 cerezas radiactivas a su alrededor y deja una zona de radiación en el centro de la explosión.\n- Las cerezas radiactivas liberan tanto una explosión de Petacereza como una explosión de Petaseta con el mismo daño que la explosión principal al impactar un zombi. Pueden perforar zombis 3 veces.\n- La zona de radiación dura 7 segundos, haciendo (daño de la explosión principal * tiempo restante de la radiación en segundos) de daño a los zombis dentro de ella cada 0,5 segundos, haciendo triple daño a los zombis sin armadura.\n\n<color=purple>Mejoras de Odisea:</color>\n</color></color></color>- Zona de radiación dura mucho más y causa más daño</color>\n- Cerezas explosivas y proyectiles Petaseta tienen una chance de convertirse en cerezas radiactivas al impacto.</color>\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Cereza Negra + Petacereza</color></size>",
+   "cost": "<size=33>Costo: <color=red>425, 500</color>   Recarga: <color=red>150 Segundos</color>\nPlantas Requeridas: <color=red>3\n<color=purple>Condición de Uso: Modo Odisea - Selección Inicial</color></size>"
+ },
+ {
+   "seedType": 960,
+   "name": "Escilaseta",
+   "introduce": "<size=39><color=#3D1400>Surge desde el abismo sin fondo, llevando las mareas a la superficie. Sus seguidores se extienden por el cielo, la tierra y el mar. Las plantas lo alaban como el soberano del campo de batalla; los zombis advierten que arrastrará al mundo hacia la oscuridad. Sus propios pensamientos, sin embargo, siguen siendo un misterio.</color></size>",
+   "info": "<size=39>Parte del <color=#03311C>Sistema Enredadera</color>\nGenera Algasetas que rastrean zombis para ahogarlos. Puede cambiar de forma con ciertas plantas...\n<color=#03311C>Sistema Enredadera:</color></color>\n- Aplica 1 punto al impacto cada 15 segundos.</color>\n\n<color=#3D1400>Dureza: </color><color=red>8000</color>\n<color=#3D1400>Daño:</color> <color=red>300 cada 1,5s\n\n<color=#3D1400>Especial:</color> <color=red>\n- Repele vehículos y recibe como máximo 200 de daño por golpe.\n- Dispara Marsetas como proyectiles. Al impactar con un zombi, cae al agua y otorga un punto de energía a Escilaseta. Al ser dañado, puede consumir 1 punto de energía para recibir 1 de daño.\n- Cada 15 segundos, genera una Algaseta que arrastra el zombi más cercano al agua. En cambio, los mini-jefes solo reciben 5% de su durabilidad máxima como daño.\n- Cada 15 segundos, también empuja zombis otorgando 1 Punto Enredadera.\n- Plantas como Seta Congelada / Petaseta / Hipnoseta pueden ser utilizadas en Escilaseta para recuperar 1000 PS y cambiar de forma.\n  - Seta Congelada: Máxima cantidad de daño recibido: 200 → 20\n  - Petaseta: Inmediatamente genera una Algaseta Atómica que rastrea el zombi con más salud en el campo, haciendo daño igual al 50% de su durabilidad máxima y generando una explosión Petaseta. Se transforma de vuelta a una Escilaseta normal después.\n  - Hipnoseta: La Algaseta Hipnótica generada agarrará zombis hipnotizados hacia el agua y los transforma en Submarinones Carmesí. Al ser dañada, cualquier zombi hipnotizado en el campo absorberá ese daño.\n\n<color=purple>Mejoras de Odisea:</color>\n</color></color></color>- Una Algaseta puede arrastrar hasta 3 zombis al agua y hacer el triple de daño. Por cada zombi arrastrado al agua se le otorgará 10 puntos de energía a Escilaseta</color>\n- Escilaseta puede disparar 3 Marsetas a la vez.</color>\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Krakenseta + Pescaseta</color></size>",
+   "cost": "<size=33>Costo: <color=red>100, 325</color>   Recarga: <color=red>152,5 Segundos</color>\nPlantas Requeridas: <color=red>6\n<color=purple>Condición de Uso: Modo Odisea - Desbloqueable</color></size>"
+ },
+ {
+   "seedType": 961,
+   "name": "Trevoltio",
+   "introduce": "<size=39><color=#3D1400>Después de instalar los últimos dispositivos de suspensión magnética, los Escua-drones (y su anfitrión Trevoltio) finalmente se convirtieron en un equipo de ataque con precisión. Debido a limitaciones técnicas, ya no pueden usar armas pesadas y deben confiar en ametralladoras, pero su determinación de golpear a los zombis con velocidad y libertad permanece intacta.</color></size>",
+   "info": "<size=39>Parte del <color=#8B0000>Sistema Magnético</color>\nPuedes controlar los Escua-drones de Trevoltio con tu ratón.\n\n<color=#3D1400>Daño:</color> <color=red>80*3\n\n<color=#3D1400>Especial:</color> <color=red>Subespecie de Ferreonexo que se puede cambiar entre Trebolador y Magnetoseta. Al aparecer, genera unos Escua-drones; al hacer clic con el ratón en Trevoltio, se puede elegir el objetivo de los Escua-drones. Al hacer esto puedes presionar la tecla CTRL y cliquear un zombi para que todos los Escua-drones de diferentes Trevoltios lo ataquen. Por cada modificador que tenga Ferreonexo, el daño de los Escua-drones se multiplicará por 3.\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Ferreonexo + Trebolador</color></size>",
+   "cost": "<size=33>Costo: <color=red>500, 800</color>   Recarga: <color=red>67,5 Segundos</color>\nPlantas Requeridas: <color=red>8 (+ Cubo)\n<color=purple>Condición de Uso: Mejora de Odisea - S.I</color></size>"
+ },
+ {
+   "seedType": 962,
+   "name": "Dron Fénix",
+   "introduce": "<size=39><color=#3D1400>\"Ha llegado el momento de estar a la altura de mi nombre\", dijo el Dron Fénix. Durante años estuvo atrapado en tierra, pero ahora por fin puede remontar el vuelo como un verdadero fénix. Aunque le frustra un poco que el Dron Cerezantralladora se le haya adelantado, conquistar los cielos sigue siendo un placer.</color></size>",
+   "info": "<size=39>Parte del <color=#FF4500>Sistema Pirogénico</color>\nAbre sus alas como un verdadero fénix y vuela por los cielos.\n<color=#FF4500>Sistema Pirogénico:</color>\n- Aplica el Efecto Pirogénico al impacto.\n- Explosión propaga el efecto a zombis cercanos.</color>\n\n<color=#3D1400>Daño:</color> <color=red>160*3 cada 3s (perforante x2)\n\n<color=#3D1400>Especial:</color> <color=red>Subespecie de Tripitidora Fénix que se puede cambiar entre Trebolador y la pala (otorgará un paquete de semilla de Tripitidora Fénix).\n- Planta aérea. Al morir, quema 3 filas.\n\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Tripitidora Fénix + Trebolador</color></size>",
+   "cost": "<size=33>Costo: <color=red>750</color>   Recarga: <color=red>172,5 Segundos</color>\nPlantas Requeridas: <color=red>5\n<color=purple>Condición de Uso: Mejora de Odisea - S.I</color></size>"
+ },
+ {
       "seedType": 963,
       "name": "963"
     },
@@ -4887,9 +4906,9 @@
     },
     {
       "seedType": 1069,
-      "name": "Rabo de León",
-      "introduce": "<size=39><color=#3D1400>\"De cola de gato a cola de dragón,\" rugió Rabo de León. Rabo de Husky susurró: \"Ego de felino...\"</color></size>",
-      "info": "<size=39>Soporte del <color=#FF4500>Sistema Pirogénico</color>\nRabo de León hace más daño a zombis quemados.\n<color=#FF4500>Sistema Pirogénico:</color>\n</color>- No quema por si mismo, pero causa x3 de daño a zombis con el efecto pirogénico.</color>\n\n<color=#3D1400>Daño: </color><color=red>40*2 cada 1,5s</color>\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Jalapeño + Rabo de Gato</color></size>",
+      "name": "Rabo de Tigre",
+      "introduce": "<size=39><color=#3D1400>\"De cola de gato a cola de dragón,\" rugió Rabo de Tigre. Rabo de Husky susurró: \"Ego de felino...\"</color></size>",
+      "info": "<size=39>Soporte del <color=#FF4500>Sistema Pirogénico</color>\nRabo de Tigre hace más daño a zombis quemados.\n<color=#FF4500>Sistema Pirogénico:</color>\n</color>- No quema por si mismo, pero causa x3 de daño a zombis con el efecto pirogénico.</color>\n\n<color=#3D1400>Daño: </color><color=red>40*2 cada 1,5s</color>\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Jalapeño + Rabo de Gato</color></size>",
       "cost": "<size=39>Costo: <color=red>250</color>   Recarga: <color=red>100 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
     {
@@ -5162,7 +5181,7 @@
       "seedType": 1108,
       "name": "Bipeticereza",
       "introduce": "<size=39><color=#3D1400>Lanzacerezas se arrastró fuera de la trinchera, desconcertada. \u0022¿Quién tiró esa bomba?\u0022 exigió. \u0022Lo siento, hermana.\u0022 respondió tímidamente Bipeticereza.</color></size>",
-      "info": "<size=39>Bipeticereza dispara cerezas hacia delante y hacia atrás.\n\n<color=#3D1400>Daño: </color><color=red>40*3 cada 1,5s</color>\n<color=#3D1400>Especial: </color><color=red>Las cerezas disparados hacia atrás rebotarán y se moverán hacia delante. Hazle clic 15 segundos tras plantarlo para fusionarlo con otro Lanzaguisantes gratis.\n<color=#3D1400>Fórmula: </color><color=red>Bipetidora + Petacereza\n<color=#3D1400>Nombre Científico: </color><color=red>Prunus retrofractum</color></size>",
+      "info": "<size=39>Bipeticereza dispara cerezas hacia delante y hacia atrás.\n\n<color=#3D1400>Daño: </color><color=red>40*3 cada 1,5s</color>\n<color=#3D1400>Especial: </color><color=red>Las cerezas disparados hacia atrás rebotarán y se moverán hacia delante. Hazle clic 15 segundos tras plantarlo para fusionarlo con otro Lanzaguisantes gratis.\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Bipetidora + Petacereza</color></size>",
       "cost": "<size=39>Costo: <color=red>450</color>   Recarga: <color=red>72,5 Segundos</color>\nPlantas Requeridas: <color=red>4</color></size>"
     },
     {
@@ -5561,7 +5580,7 @@
       "seedType": 1165,
       "name": "Sargento Níveo",
       "introduce": "<size=39><color=#3D1400>Como comandante de la familia de los guisantes, la Sargento Níveo tiene tal presencia que incluso a kilómetros de distancia, las plantas y zombis tiemblan de miedo. Sin embargo, nunca habla sobre su habilidad para congelar rápidamente. Hasta que un día, un pequeño guisante, sin querer, abrió su diario: \"Si hubiera sabido que no debía apostar con el Francoguisantes Ígneo, no solo casi me congelo hasta morir en la tundra, sino que ahora me veo así. Esta noche tengo que traer a ese tipo y hacer que coma tres grandes tazones de chile picante.\"</color></size>",
-      "info": "<size=39>Parte del <color=#0077b6>Sistema Criogénico</color>\nDispara guisantes congelados, y tiene chance de disparar muchos de estos.\n<color=#0077b6>Sistema Criogénico:</color>\n</color>- Aplica 10 puntos al impacto.\n- Daño x4 a zombis congelados.</color>\n\n<color=#3D1400>Daño: </color><color=red>20*6 cada 1,5s</color>\n<color=#3D1400>Especial: </color><color=red>Tiene un 2% de probabilidad de disparar una ráfaga de guisantes durante 5 segundos.</color>\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Sargento Guisante + Seta Congelada</color></size>",
+      "info": "<size=39>Parte del <color=#0077b6>Sistema Criogénico</color>\nDispara guisantes congelados, y tiene chance de disparar muchos de estos.\n<color=#0077b6>Sistema Criogénico:</color>\n</color>- Aplica 10 puntos al impacto.\n- Daño x4 a zombis congelados.</color>\n\n<color=#3D1400>Daño: </color><color=red>20*6 cada 1,5s</color>\n<color=#3D1400>Especial: </color><color=red>Tiene un 2% de probabilidad de disparar una ráfaga de guisantes cada disparo durante 5 segundos.</color>\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Sargento Guisante + Seta Congelada</color></size>",
    "cost": "<size=33>Costo: <color=red>675, 750</color>   Recarga: <color=red>57,5 Segundos</color>\nPlantas Requeridas: <color=red>2\n<color=purple>Condición de Uso: Modo Odisea</color></size>"
  },
  {
@@ -5582,7 +5601,7 @@
       "seedType": 1168,
       "name": "Sargento Guisante",
       "introduce": "<size=39><color=#3D1400>Frente a los zombis más locos y los compañeros más poderosos, el Sargento Guisante siente la presión de los desafíos constantes, y su temperamento se vuelve más explosivo. Sin embargo, cuando las plantas miran a la máquina disparando guisantes a gran velocidad, siempre se impresionan por su estética de violencia pura. Incluso la Guisantralladora ha decidido pedir su número de hoja.</color>",
-      "info": "<size=39>Dispara ráfagas de guisantes.\n\n<color=#3D1400>Daño:</color> <color=red>20*6 cada 1,5s</color>\n<color=#3D1400>Especial:</color> <color=red>Tiene un 2% de probabilidad de disparar una ráfaga de guisantes durante 5 segundos. Esta ráfaga de guisantes pueden variar entre: guisantes normales, guisantes congelados, guisantes hipnóticos y guisantes calientes.</color>",
+      "info": "<size=39>Dispara ráfagas de guisantes.\n\n<color=#3D1400>Daño:</color> <color=red>20*6 cada 1,5s</color>\n<color=#3D1400>Especial:</color> <color=red>Tiene un 2% de probabilidad de disparar una ráfaga de guisantes cada disparo durante 5 segundos. Esta ráfaga de guisantes pueden variar entre: guisantes normales, guisantes congelados, guisantes hipnóticos y guisantes calientes.</color>",
       "cost": "<size=39>Costo: <color=red>600</color>   Recarga: <color=red>7,5 Segundos</color>\n<color=purple>Condición de Uso: Modo Odisea</color></size>"
     },
     {
@@ -6638,114 +6657,136 @@
         },
         {
     "seedType": 1319,
-    "name": "Igneoguisantes",
-   "introduce": "<size=39><color=#3D1400>INTRO</color></size>",
+    "name": "Ignaguisantes",
+   "introduce": "<size=39><color=#3D1400>Este Lanzaguisantes ama tanto los guisantes asados que, incluso en medio del campo de batalla, come bocadillos entre disparos. \"¡Ahh! ¡Mis guisantes!\" Parece que volvió a escupir su merienda por accidente.</color></size>",
    "info": "<size=39>Parte del <color=#FF4500>Sistema Pirogénico</color>\nLanza guisantes ardientes.\n<color=#FF4500>Sistema Pirogénico:</color>\n- Aplica el Efecto Pirogénico al impacto.\n- Explosión propaga el efecto a zombis cercanos.</color>\n\n<color=#3D1400>Daño:</color> <color=red>30 cada 1,5s\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Lanzaguisantes + Jalapeño</color></size>",
    "cost": "<size=39>Costo: <color=red>225</color>   Recarga: <color=red>57,5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
         },
         {
     "seedType": 1320,
-    "name": "Repetidígneo",
+    "name": "Repeti-ígneo",
+   "introduce": "<size=39><color=#3D1400>\"¡Doble potencia de fuego, doble emoción, doble diversión! ¡Comparado con Ignaguisantes, me gusta comer hotpot dos veces seguidas!\" No se da cuenta de que Plantorcha Infernal ahora tiene el doble de trabajo.</color></size>",
    "info": "<size=39>Parte del <color=#FF4500>Sistema Pirogénico</color>\nLanza dos guisantes ardientes a la vez.\n<color=#FF4500>Sistema Pirogénico:</color>\n- Aplica el Efecto Pirogénico al impacto.\n- Explosión propaga el efecto a zombis cercanos.</color>\n\n<color=#3D1400>Daño:</color> <color=red>30*2 cada 1,5s\n<color=#3D1400>Especial: </color><color=red>Los guisantes disparados hacia atrás rebotarán y se moverán hacia delante. Hazle clic 15 segundos tras plantarlo para fusionarlo con otro Lanzaguisantes gratis.\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Repetidora + Jalapeño</color></size>",
    "cost": "<size=39>Costo: <color=red>325</color>   Recarga: <color=red>65 Segundos</color>\nPlantas Requeridas: <color=red>3</color></size>"
         },
         {
     "seedType": 1321,
-    "name": "Bipetidígneo",
-   "introduce": "<size=39><color=#3D1400>INTRO</color></size>",
+    "name": "Bipeti-ígneo",
+   "introduce": "<size=39><color=#3D1400>\"¡Maldita sea! ¿Dónde está nuestro apoyo? ¡Guisantralladora a la izquierda, muévete a la derecha!\" Temperamental y de fácil enojo, esta Bipetidora a menudo grita a sus compañeros, aunque por suerte aún no ha empezado a dispararles.</color></size>",
    "info": "<size=39>Parte del <color=#FF4500>Sistema Pirogénico</color>\nLanza tres guisantes ardientes a la vez.\n<color=#FF4500>Sistema Pirogénico:</color>\n- Aplica el Efecto Pirogénico al impacto.\n- Explosión propaga el efecto a zombis cercanos.</color>\n\n<color=#3D1400>Daño:</color> <color=red>30*3 cada 1,5s\n<color=#3D1400>Especial: </color><color=red>Los guisantes disparados hacia atrás rebotarán y se moverán hacia delante. Hazle clic 15 segundos tras plantarlo para fusionarlo con otro Lanzaguisantes gratis.\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Bipetidora + Jalapeño</color></size>",
    "cost": "<size=39>Costo: <color=red>425</color>   Recarga: <color=red>72,5 Segundos</color>\nPlantas Requeridas: <color=red>4</color></size>"
         },
         {
     "seedType": 1322,
-    "name": "Igneatralladora",
-   "introduce": "<size=39><color=#3D1400>INTRO</color></size>",
+    "name": "Ignatralladora",
+   "introduce": "<size=39><color=#3D1400>Cansado de atender a víctimas de quemaduras sin fin, este doctor guisante ahora lleva su orgullosa invención de la piroterapia para curar el problema desde la raíz.</color></size>",
    "info": "<size=39>Parte del <color=#FF4500>Sistema Pirogénico</color>\nLanza cuatro guisantes ardientes consecutivamente.\n<color=#FF4500>Sistema Pirogénico:</color>\n- Aplica el Efecto Pirogénico al impacto.\n- Explosión propaga el efecto a zombis cercanos.</color>\n\n<color=#3D1400>Daño:</color> <color=red>30*4 cada 1,5s\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Guisantralladora + Jalapeño</color></size>",
    "cost": "<size=39>Costo: <color=red>525</color>   Recarga: <color=red>80 Segundos</color>\nPlantas Requeridas: <color=red>5</color></size>"
         },
         {
     "seedType": 1323,
     "name": "Calabaza Ajo",
-   "introduce": "<size=39><color=#3D1400>INTRO</color></size>",
+   "introduce": "<size=39><color=#3D1400>Después de innumerables revisiones, la Calabaza Ajo finalmente está lista para el combate. En comparación con el Ajo común, soluciona problemas como la defensa débil, la eficiencia del espacio y la incapacidad de proteger a las plantas de los proyectiles. En cuanto a ese olor… bueno, es hora de poner a prueba la resistencia de todos.</color></size>",
       "info": "<size=39>Parte del <color=#133816>Sistema Venenoso</color>\nRepele zombis a otras filas y protege a una planta dentro suyo.\n<color=#133816>Sistema Venenoso:</color></color>\n- Envenena al zombi que lo muerde.</color></color>\n\n<color=#3D1400>Dureza: </color><color=red>4000</color>\n<color=#3D1400>Especial: </color><color=red>Desvía a zombis a otras líneas tras morderlo. Puede mantener una planta dentro.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Calabaza + Ajo</color></size>",
       "cost": "<size=39>Costo: <color=red>175</color>   Recarga: <color=red>37,5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
     },
     {
     "seedType": 1324,
     "name": "Calabaza Solar",
-   "introduce": "<size=39><color=#3D1400>INTRO</color></size>",
+   "introduce": "<size=39><color=#3D1400>Recientemente obsesionada con acampar, la Calabaza Solar sonríe: \"¡Acampar es lo mejor! ¡Puedo proteger a todos y ser su pequeño sol!\" Llueva o haya zombis, a sus compañeros les encanta tenerla cerca.</color></size>",
    "info": "<size=39>INFO</color>\n\n<color=#3D1400>Dureza: </color><color=red>4000</color>\n<color=#3D1400>Producción Solar:</color> <color=red>25 cada 25s\n<color=#3D1400>Especial:</color> <color=red>\n<color=#3D1400>Especial:</color><color=red>Se da a si mismo 50 PE al generar sol sin límite.\n<color=#3D1400>Puntos Escuderos (PE):</color> <color=red>Los puntos escuderos son puntos de salud adicionales que se le puede dar a una planta.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Calabaza + Girasol</color></size>",
    "cost": "<size=39>Costo: <color=red>175</color>   Recarga: <color=red>37,5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
         },
         {
     "seedType": 1325,
     "name": "Seta Aurora",
-   "introduce": "<size=39><color=#3D1400>INTRO</color></size>",
+   "introduce": "<size=39><color=#3D1400>Tan raro como un amanecer polar, este innovador helado pasa todo su tiempo perfeccionando su arte de hacer postres. Su característico sundae Naranja Soleada es amado tanto por plantas como por zombis (aunque les agote el último de su calor).</color></size>",
    "info": "<size=39>Soporte del <color=#0077b6>Sistema Criogénico</color>\nCuando la Seta Aurora genera sol, todos los zombis ya congelados soltarán soles.</color>\n\n<color=#3D1400>Producción Solar: </color><color=red>25 cada 25s</color>\n<color=#3D1400>Especial:</color> <color=red>Solo puede generar sol tres veces. Las primeras 2 veces ralentizarán a todos los zombis, y la tercera vez, todos los zombis se congelarán y Seta Aurora desaparecerá. Al producir sol, cada zombi que ya esté congelado dejará caer 15 de sol.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Girasol + Seta Congelada</color></size>",
    "cost": "<size=39>Costo: <color=red>125, 200</color>   Recarga: <color=red>57,5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
         },
         {
     "seedType": 1326,
-    "name": "Reflejaseta",
-   "introduce": "<size=39><color=#3D1400>INTRO</color></size>",
-   "info": "<size=39>Invoca un Cometa Solar que rebota entre zombis para obtener sol.</color>\n\n<color=#3D1400>Producción Solar: </color><color=red>25 cada 25s</color>\n<color=#3D1400>Especial:</color> <color=red>Cuando es comida, hipnotiza al zombi mordiendola y invoca un Cometa Solar. Este Cometa Solar busca zombis y rebota entre ellos, hasta 10 veces. Cuando golpea a un zombi hipnotizado, le inflige 200 de daño y suelta 25 soles. A un zombi no hipnotizado, le inflige 100 de daño, haciéndolo soltar 15 soles. Después de que el Cometa complete sus rebotes o desaparezca, suelta 25 soles adicionales.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Girasol + Hipnoseta</color></size>",
+    "name": "Refractaseta",
+   "introduce": "<size=39><color=#3D1400>Cada año, Refractaseta participa en el concurso de dardos del jardín, golpeando a zombis que vuelan, nadan con snorkel o incluso hipnotizados con sus dardos en forma de sol. A pesar de su precisión impecable, nunca gana… los jueces nunca logran encontrarla.</color></size>",
+   "info": "<size=39>Invoca un Cometa Solar que rebota entre zombis para obtener sol.</color>\n\n<color=#3D1400>Producción Solar: </color><color=red>25 cada 25s</color>\n<color=#3D1400>Especial:</color> <color=red>\n- Al ser comida, hipnotiza al zombi mordiendola y invoca un Cometa Solar. Este Cometa Solar busca zombis y rebota entre ellos, hasta 10 veces.\n- Cuando golpea a un zombi hipnotizado, le inflige 200 de daño y suelta 25 soles. A un zombi no hipnotizado, le inflige 100 de daño, haciéndolo soltar 15 soles.\n- Después de que el Cometa complete sus rebotes o desaparezca, suelta 25 soles adicionales.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Girasol + Hipnoseta</color></size>",
    "cost": "<size=39>Costo: <color=red>125, 200</color>   Recarga: <color=red>37,5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
         },
         {
-            "seedType": 1327,
-            "name": "Chompkin",
-            "introduce": "<align=justified><size=36><color=black></color>",
-            "info": "<size=36>\n\n<color=black>Toughness: 4000</color><color=#8B0000></color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Chompkin periodically uses a reserve Digestive Sac to help the Chomper plant in the same tile to instantly finish swallowing.\n<color=black>•</color> Chompkin starts with 1 Digestive Sac and regenerates 1 every 40s, up to a maximum of 3 at the same time.</color>",
-            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Chomper > Pumpkin</color>"
+    "seedType": 1327,
+    "name": "Calabaza Carnívora",
+   "introduce": "<size=39><color=#3D1400>Calabaza Carnívora abrió un gimnasio para cualquier Planta Carnívora, destinado a ayudarles a digerir mejor, quemar grasa y mantenerse en forma. Se volvió increíblemente popular, pero él no está contento. \"¡No están entrenando, están comiendo! ¡Mi gimnasio se ha convertido en un buffet!\" se queja.</color></size>",
+   "info": "<size=39>Ayuda a Plantas Carnívoras tragar zombis instantáneamente.</color>\n\n<color=#3D1400>Dureza: </color><color=red>4000</color>\n<color=#3D1400>Especial:</color> <color=red>\n- La Calabaza Carnívora periódicamente usa un Saco Digestivo de reserva para que la Planta Carnívora en esa misma casilla termine de masticar instantáneamente.\n- Empieza con un Saco Digestivo y regenera uno cada 40s, hasta un máximo de tres al mismo tiempo.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Planta Carnívora + Calabaza</color></size>",
+   "cost": "<size=39>Costo: <color=red>275</color>   Recarga: <color=red>37,5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
         },
         {
-            "seedType": 1328,
-            "name": "Stench-spreader",
-            "introduce": "<align=justified><size=36><color=black></color>",
-            "info": "<size=36>\n\n<color=black>Damage: 30×3/1.5s</color><color=#8B0000></color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Projectiles add 1 Poison value to zombies on hit.\n<color=black>•</color> If the zombie hit is already in a Poisoned state, creates a poison cloud at the zombie's feet that lasts for 6s, applying 1 Poison value per second to all zombies caught within.</color>",
-            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Threepeater + Garlic</color>"
+    "seedType": 1328,
+    "name": "Tripitipeste",
+   "introduce": "<size=39><color=#3D1400>INTRO</color></size>",
+   "info": "<size=39>Parte del <color=#133816>Sistema Venenoso</color>\nDeja una nube asquerosa a zombis envenenados.\n<color=#133816>Sistema Venenoso:</color></color>\n- Aplica 1 punto al impacto.\n- Si el zombi impactado ya esta en el Estado Venenoso, crea una nube en la posición del zombi que permanece durante 6s, aplicando 1 punto por segundo a todos los zombis en su área.</color></color>\n\n<color=#3D1400>Daño:</color> <color=red>30*3 cada 1,5s\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Tripitidora + Ajo</color></size>",
+   "cost": "<size=39>Costo: <color=red>325</color>   Recarga: <color=red>15 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
         },
         {
-            "seedType": 1329,
-            "name": "Plaguebringer Snipea",
-            "introduce": "<align=justified><size=36><color=black></color>",
-            "info": "<size=36>\n\n<color=black>Damage: s</color><color=#8B0000></color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> \n<color=black>•</color> </color>",
-            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Snipea + Garlic</color>"
+   "seedType": 1329,
+   "name": "Francoguisantes Tóxico",
+   "introduce": "<size=39><color=#3D1400>En realidad no tiene viruses, pero todos la evitan: ese fuerte olor a ajo es suficiente. \"El olor en realidad previene los virus\", insiste. Los zombis no le creen.</color></size>",
+   "info": "<size=39>Parte del <color=#133816>Sistema Venenoso</color>\nPuede convertir el campo en una zona tóxica.\n<color=#133816>Sistema Venenoso:</color></color>\n- Crea una Nube Infectante en la ubicación del objetivo. Los tiros a la cabeza crean en su lugar una Nube Virulenta.\n- Nubes Virulentas:\n  • Se mueve aleatoriamente por el campo.\n  • Duran 15 segundos. Cada segundo inflige Mantequilla Apestosa y 1 Punto Venenoso a todos los zombis dentro (con las Nubes Virulentas teniendo radio y frecuencia de daño duplicados).\n  • Al infligir Puntos Venenosos, causa (20 * Puntos Venenosos) de daño. Si el objetivo es inmune al veneno, causa 300 de daño en su lugar.\n  • Los objetivos que pierden su cabeza (PS por debajo del umbral) mueren instantáneamente, generando una nueva Nube Virulenta en su posición.\n  • Si ya existen 30 Nubes Virulentas, no se generarán nuevas y en su lugar se expandirá el radio de la nube más cercana y se aumentará su daño en 10%.</color>\n\n<color=#3D1400>Daño: </color><color=red>500 cada 3s</color>\n<color=#3D1400>Fórmula de Fusión: </color><color=red>Francoguisantes + Ajo</color></size>",
+   "cost": "<size=33>Costo: <color=red>650</color>   Recarga: <color=red>15 Segundos</color>\nPlantas Requeridas: <color=red>2\n<color=purple>Condición de Uso: Modo Odisea</color></size>"
+ },
+ {
+    "seedType": 1330,
+    "name": "Tripiticereza",
+   "introduce": "<size=39><color=#3D1400>\"Cerezas deliciosas.\" \"Cerezas frescas.\" \"Cerezas baratas.\" Las tres cabezas de Tripiticereza gritan incansablemente, pero su negocio de cerezas nunca parece despegar. Quienes las han probado dicen que estas cerezas son simplemente <i>demasiado</i> pegajosas.</color></size>",
+   "info": "<size=39>Dispara cerezas medio maduras por tres filas. Se pegan a los zombis, y después de un breve retraso, explotan.</color>\n\n<color=#3D1400>Daño:</color> <color=red>20*3 cada 1,5s\n<color=#3D1400>Especial:</color> <color=red>\n- Sus proyectiles se adhieren a zombis y explotan después de 6 segundos con un radio de efecto de 1 casilla. Cada zombi solo puede tener una cereza medio madura adherida.\n- Mientras están adheridas, las cerezas medio maduras absorben el 25% de todo el daño de proyectiles y explosiones de tipo cereza que recibe un zombi, sumando eso al daño final de su explosión.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Petacereza + Tripitidora</color></size>",
+   "cost": "<size=39>Costo: <color=red>425</color>   Recarga: <color=red>57,5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
         },
         {
-            "seedType": 1330,
-            "name": "Cherry-spreader",
-            "introduce": "<align=justified><size=36><color=black></color>",
-            "info": "<size=36>\n\n<color=black>Damage: 20×3/1.5s</color><color=#8B0000></color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> \n<color=black>•</color> </color>",
-            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Cherry Bomb + Threepeater</color>"
+    "seedType": 1331,
+    "name": "Sargento Cereza",
+   "introduce": "<size=39><color=#3D1400>En el 5º Campeonato Anual de Dibujo Rápido del Jardín, el Sargento Cereza compartió su secreto para la victoria: \"Uso proyectiles de cereza especialmente fabricados. Su pequeño tamaño me permite almacenar muchos, y la pegajosidad ayuda a que se agrupen para ráfagas rápidas. Por supuesto, mantener el cañón bien lubricado es absolutamente esencial.\"</color></size>",
+   "info": "<size=39>Dispara cerezas medio maduras, con una chance de disparar una ráfaga gigante de ellas.</color>\n\n<color=#3D1400>Daño:</color> <color=red>20*6 cada 1,5s\n<color=#3D1400>Especial:</color> <color=red>Tiene un 2% de probabilidad de disparar una ráfaga de cerezas cada disparo durante 5 segundos. Estas cerezas explotan instantáneamente y pegan una cereza medio madura a todos los zombis en el radio de daño.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Sargento Cereza + Petacereza</color></size>",
+   "cost": "<size=33>Costo: <color=red>750</color>   Recarga: <color=red>57,5 Segundos</color>\nPlantas Requeridas: <color=red>X\n<color=purple>Condición de Uso: Modo Odisea</color></size>"
+ },
+ {
+    "seedType": 1332,
+    "name": "Cereza Negra",
+   "introduce": "<size=39><color=#3D1400>\"No puedes organizar una fiesta en el jardín sin un permiso.\" La Cereza Negra reprende con calma a los zombis no registrados. \"La primera vez es solo una advertencia. Si después de eso aún no se van, tomaremos medidas. Bueno, algunos ni siquiera soportan la advertencia.\"</color></size>",
+   "info": "<size=39>Libera una explosión de Petacereza de nuevo; usa las cenizas restantes para una explosión de Petaseta aun más fuerte.</color>\n\n<color=#3D1400>Daño: </color><color=red>1800 (área de 3x3, 7x7)</color>\n<color=#3D1400>Uso: </color><color=red>Único, Instantáneo\n<color=#3D1400>Especial:</color> <color=red>\n- Al ser fusionado, suelta una explosión de Petacereza, y tras 1,5 segundos, explota como una Petaseta.\n- La explosión de Petaseta hace 1800 daño base, incrementándose en 300 por cada zombi muerto en la explosión de Petacereza inicial.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Petacereza + Petaseta</color></size>",
+   "cost": "<size=39>Costo: <color=red>275</color>   Recarga: <color=red>100 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
         },
         {
-            "seedType": 1331,
-            "name": "Dynamite Commando",
-            "introduce": "<align=justified><size=36><color=black></color>",
-            "info": "<size=36>\n\n<color=black>Damage: 20×6/1.5s</color><color=#8B0000></color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> \n<color=black>•</color> </color>",
-            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Cherry Bomb + Pea-storm Commando</color>"
+    "seedType": 1333,
+    "name": "Hipnocereza",
+   "introduce": "<size=39><color=#3D1400>Casi fue expulsada del Club de Amigos Zombis. Los zombis que hipnotizaba siempre terminaban furiosos y destructivos, algo que el club consideraba contrario a sus valores pacíficos. Ella se defendió con una sola frase: \"Solo estoy ayudando a mis amigos zombis a liberar su frustración hacia el Dr. Zomboss.\"</color></size>",
+   "info": "<size=39>Convierte zombis en poder de fuego puro.</color>\n\n<color=#3D1400>Especial:</color> <color=red>Al ser mordida, desaparece y transforma el zombi que la mordió en un Vegezombi Explosivo hipnotizado.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Petacereza + Hipnoseta</color></size>",
+   "cost": "<size=39>Costo: <color=red>225, 300</color>   Recarga: <color=red>80 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
         },
         {
-            "seedType": 1332,
-            "name": "Black Cherry",
-            "introduce": "<align=justified><size=36><color=black></color>",
-            "info": "<size=36>\n\n<color=black>Damage: 20×6/1.5s</color><color=#8B0000></color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> \n<color=black>•</color> </color>",
-            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Cherry Bomb + Doom-shroom</color>"
+    "seedType": 1334,
+    "name": "Calabaza Coral",
+   "introduce": "<size=39><color=#3D1400>Antaño una estrella del Festival Mundial de Vida Marina y el orgullo de la colonia de Marsetas, Calabaza Coral ya no puede flotar en el agua. Todo cambió después de aquella espantosa fiesta de Halloween. Se puso una cabeza de calabaza para una actuación perfecta, solo para descubrir que nunca podría volver a quitársela.</color></size>",
+   "info": "<size=39>Se regenera a si mismo utilizando paquetes de semilla de Marseta.</color>\n\n<color=#3D1400>Dureza: </color><color=red>4000</color>\n<color=#3D1400>Especial:</color> <color=red>Solo se puede plantar en tierra. Puede ser alimentado paquetes de semilla de Marseta para recuperar 1/3 de sus PS máximos.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Calabaza + Marseta (En Orden)</color></size>",
+   "cost": "<size=39>Costo: <color=red>125, 200</color>   Recarga: <color=red>37,5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
         },
         {
-            "seedType": 1333,
-            "name": "Sea-shell",
-            "introduce": "<align=justified><size=36><color=black></color>",
-            "info": "<size=36>\n\n<color=black>Toughness: 4000</color><color=#8B0000></color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> \n<color=black>•</color> </color>",
-            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Sea-shroom > Pumpkin</color>"
+    "seedType": 1335,
+    "name": "Carnívora Hipnótica",
+   "introduce": "<size=39><color=#3D1400>La Carnívora Hipnótica desprecia a las demás Plantas Carnívoras. Piensa que esas criaturas rudas comen zombis con exigencias, solo se dedican a devorar sin producir nada ni aportar al jardín, y lo más importante: no tienen una piel tan deslumbrante como la suya.</color></size>",
+   "info": "<size=39>Esta carnívora tiene gustos especificos; solo come zombis hipnotizados, para una buena causa.</color>\n\n<color=#3D1400>Daño: </color><color=red>Muerte Instantánea</color>\n<color=#3D1400>Rango: </color><color=red>1 casilla al frente</color>\n<color=#3D1400>Tiempo De Masticado: </color><color=red>12s</color>\n<color=#3D1400>Especial:</color> <color=red>\n- Solo come zombis hipnotizados y suelta un paquete de semillas de Hipnoseta al terminar de comer.\n- Cuando un zombi lo muerde, ese zombi queda hipnotizado y la planta vuelve a ser una Planta Carnívora.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Planta Carnívora + Hipnoseta</color></size>",
+   "cost": "<size=39>Costo: <color=red>225, 300</color>   Recarga: <color=red>37,5 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
         },
         {
-            "seedType": 1334,
-            "name": "Catalyst-shroom",
-            "introduce": "<align=justified><size=36><color=black></color>",
-            "info": "<size=36>\n\n<color=black>Toughness: 4000</color><color=#8B0000></color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> \n<color=black>•</color> </color>",
-            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Cherry Bomb + Hypno-shroom</color>"
+    "seedType": 1335,
+    "name": "Jalapeño Hipnótico",
+   "introduce": "<size=39><color=#3D1400>\"Soy muy amable\", dijo el Jalapeño Hipnótico mientras se acomodaba el sombrero. \"Puedo ayudar a los zombis a encontrar la fragilidad escondida en su corazón, guiarlos para que dejen atrás las máscaras innecesarias y se conviertan en nuestros sinceros amigos.\" En cuanto a las llamas ardientes, es solo la magia del encanto, y no harán daño a los frágiles amigos zombis.</color></size>",
+   "info": "<size=39>Explota con un encanto ardiente, causando cambios de lado en zombis.</color>\n\n<color=#3D1400>Daño:</color> <color=red>1800 (área lineal)\n<color=#3D1400>Uso:</color> <color=red>Único, Instantáneo\n<color=#3D1400>Especial:</color> <color=red>\n- Hipnotiza todos los zombis con menos de 900 PS en su fila.\n- Hace 1800 de daño a todos los otros zombis en dicha fila.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Hipnoseta + Jalapeño</color></size>",
+   "cost": "<size=39>Costo: <color=red>200, 275</color>   Recarga: <color=red>80 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
+        },
+        {
+    "seedType": 1337,
+    "name": "Mantecahierba",
+   "introduce": "<size=39><color=#3D1400>A diferencia de otras Pinchohierbas, la Mantecahierba es excepcionalmente amable. No tiene espinas afiladas, no le gustan los deportes violentos y solo quiere que los zombis prueben un trozo de su pastel de mantequilla casero. Desafortunadamente, con su mala vista, siempre ofrece la mantequilla en el lugar equivocado.</color></size>",
+   "info": "<size=39>Trampa lenta y mantecosa que no causa daño.</color>\n\n<color=#3D1400>Daño:</color> <color=red>0 cada 1,5s\n<color=#3D1400>Especial:</color> <color=red>\n- Ralentiza todos los zombis que caminen sobre ella y les pega mantequilla durante 1 segundo, cada 3 segundos.\n- Pierde la habilidad de reventar neumáticos y es ignorado por vehículos.</color>\n<size=39><color=#3D1400>Fórmula de Fusión:</color> <color=red>Pinchohierba + Lanzamaíz</color></size>",
+   "cost": "<size=39>Costo: <color=red>200</color>   Recarga: <color=red>15 Segundos</color>\nPlantas Requeridas: <color=red>2</color></size>"
         }
     ]
 }

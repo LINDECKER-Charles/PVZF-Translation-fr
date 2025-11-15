@@ -130,19 +130,19 @@
             "theZombieType": 21,
             "name": "Diamond-box Zombie",
             "introduce": "<align=justified><size=36><color=black>Tonight, Diamond-box Zombies will unveil their dazzling world. Their eyes shine like the brightest stars in the night sky, and the golden light appears to flow like a river through time, illuminating the uncertain path ahead. Each time the lid of the box is gently opened, it feels like unlocking a door to another realm.</color>",
-            "info": "<size=36>Is this.. a Conehead Zombie? \n\n<color=black>Toughness: </color><color=#4B0082>2000 + 4400 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>Turns into a Gold-box Zombie upon dying.</color>"
+            "info": "<size=36>Is this.. a Conehead Zombie? \n\n<color=black>Toughness: </color><color=#4B0082>2000 + 4400 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>Turns into a Gold-box Zombie upon losing its armor.</color>"
         },
         {
             "theZombieType": 22,
             "name": "Gold-box Zombie",
             "introduce": "<align=justified><size=36><color=black>\"Underneath the golden box, other boxes in different colors await. Can you guess what the box inside is made from?\"</color>",
-            "info": "<size=36>Is this.. a Conehead Zombie? \n\n<color=black>Toughness: </color><color=#4B0082>2000 + 2200 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>Turns into a Silver-box Zombie upon dying.</color>"
+            "info": "<size=36>Is this.. a Conehead Zombie? \n\n<color=black>Toughness: </color><color=#4B0082>2000 + 2200 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>Turns into a Silver-box Zombie upon losing its armor.</color>"
         },
         {
             "theZombieType": 23,
             "name": "Silver-box Zombie",
             "introduce": "<align=justified><size=36><color=black>Silver-box Zombie thinks of the box on his head as a pot, so it must be one. Given his mindset, why don't you grasp his perspective? And you do see the exclamation mark on his box, right?</color>",
-            "info": "<size=36>Is this.. a Conehead Zombie? \n\n<color=black>Toughness: </color><color=#4B0082>2000 + 1100 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>Turns into a Conehead Zombie upon dying.</color>"
+            "info": "<size=36>Is this.. a Conehead Zombie? \n\n<color=black>Toughness: </color><color=#4B0082>2000 + 1100 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>Turns into a Conehead Zombie upon losing its armor.</color>"
         },
         {
             "theZombieType": 24,
@@ -208,7 +208,7 @@
             "theZombieType": 34,
             "name": "Pogo Melon Zombie",
             "introduce": "<align=justified><size=36><color=black>Quote: \"It's highly unlikely for shells to explode in the same crater twice! This is what 'Crater Theory' states.\" Pogo Melon Zombie says while adjusting his melon peel hat. However, no one told him that his red-and-green color scheme stands out a bit too much in a crowd of zombies.</color>",
-            "info": "<size=36>This zombie charges up and leaps into your defenses!\n\n<color=black>Toughness: </color><color=#4B0082>270 + 2200 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>Charges up for 5 seconds, then performs a big jump (about 4 Tiles long).\n<color=black>Weakness: </color><color=#4B0082>Umbrella Fusions</color>"
+            "info": "<size=36>This zombie charges up and leaps into your defenses!\n\n<color=black>Toughness: </color><color=#4B0082>270 + 2200 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>If in the right side of the lawn, charges up for 5s, then performs a big jump (about 4 Tiles long). Only does this once.\n<color=black>Weakness: </color><color=#4B0082>Umbrella Fusions</color>"
         },
         {
             "theZombieType": 35,
@@ -262,7 +262,7 @@
             "theZombieType": 45,
             "name": "Bungee Zombie",
             "introduce": "<align=justified><size=36><color=black>Bungee Zombie loves to take risks. After all, what's the point of being dead if you don't live a little?</color>",
-            "info": "<size=36>Descends from the sky and steals a plant. Prioritizes Pumpkins.\n\n<color=black>Toughness: </color><color=#4B0082>720</color>\n<color=black>Weakness: </color><color=#4B0082>Umbrellas</color>\n<color=black>Odyssey Modifier:\n</color><color=#4B0082>Gains a 90% damage reduction, and can now drop Ultimate zombies as close as column 5 (excluding Diamond Mystery-boxes and Mini-bosses).</color>"
+            "info": "<size=36>Descends from the sky and steals a plant. Prioritizes Pumpkins.\n\n<color=black>Toughness: </color><color=#4B0082>720</color>\n<color=black>Weakness: </color><color=#4B0082>Umbrellas</color>\n<color=black>Odyssey Modifier:\n</color><color=#4B0082>Gains a 90% damage reduction, and can now drop Ultimate zombies as close as column 4 (excluding Diamond Mystery-boxes and Mini-bosses).</color>"
         },
         {
             "theZombieType": 46,
@@ -352,13 +352,13 @@
             "theZombieType": 62,
             "name": "Furling",
             "introduce": "<align=justified><size=36><color=black>Though just a cub, Furling has big dreams — to dominate the tundra like the mighty Elder Snowfur, not hang around with mischievous Imp Zombies. It ran off from camp to make a name for itself… and accidentally rolled into the plants' territory. Oof!</color>",
-            "info": "<size=36>A baby Snowfur that loves to tumble, but rarely survives it.\n\n<color=black>Toughness: </color><color=#4B0082>300</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Rolls forward. Upon hitting a plant, deals damage equal to its current HP, then dies.\n<color=black>•</color> Has a 2/3 chance to evade any damage.</color>"
+            "info": "<size=36>A baby Snowfur that loves to tumble, but rarely survives it.\n\n<color=black>Toughness: </color><color=#4B0082>300</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Rolls forward. Upon hitting a plant, deals damage equal to its current HP, then dies.\n<color=black>•</color> Has a 1/3 chance to evade any damage.</color>"
         },
         {
             "theZombieType": 63,
             "name": "Burglar Bungee Zombie",
             "introduce": "<align=justified><size=36><color=black>Living it large after a recent heist, Burglar Bungee Zombie bought a new suit to flaunt their wealth. Not all heists are successful, but where a heist is failed, Burglar Bungee Zombie leaves a \"present\" for the unsuspecting lawns that believe one Umbrella is enough to save the day.\n\n-Written by Hazy</color>",
-            "info": "<size=36>Carries valuables but also mystery-boxes!\n\n<color=black>Toughness: </color><color=#4B0082>1350</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> If bounced away by an Umbrella Leaf, returns shortly after to drop a Mystery Gargantuar on the right side of the lawn. Can be bounced away again and won't return a second time.\n<color=black>•</color> Drops a Diamond and 100 Sun if defeated.</color>"
+            "info": "<size=36>Carries valuables but also mystery-boxes!\n\n<color=black>Toughness: </color><color=#4B0082>1350</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Only appears in flag waves.\n<color=black>•</color> If bounced away by an Umbrella Leaf, returns shortly after to drop a Mystery Gargantuar on the right side of the lawn. Can be bounced away again and won't return a second time.\n<color=black>•</color> Drops 3 Diamond and 200 Sun if defeated.</color>"
         },
         {
             "theZombieType": 64,
@@ -376,7 +376,7 @@
             "theZombieType": 67,
             "name": "Tumbling",
             "introduce": "<align=justified><size=36><color=black>Tumbling used to be a Furling. One day, it went out to play and got covered in sand at the beach, transforming it into the Tumbling. \"Sometimes plants ignore me because I use sand as camouflage!\" it thought to itself.</color>",
-            "info": "<size=36>Moves like a tumbleweed; small size makes it harder to hit.\n\n<color=black>Toughness: </color><color=#4B0082>300</color>\n<color=black>Traits: </color><color=#4B0082>Rolls forward, ignoring plants 2/3 of the time. When colliding with a plant, deals damage equal to its own health and dies. Has a 1/3 chance to evade any damage.</color>"
+            "info": "<size=36>Moves like a tumbleweed; small size makes it harder to hit.\n\n<color=black>Toughness: </color><color=#4B0082>300</color>\n<color=black>Traits: </color><color=#4B0082>Rolls forward, ignoring plants 2/3 of the time (each can ignore a maximum of 3 plants). When colliding with a plant, deals damage equal to its own health and dies. Has a 1/3 chance to evade any damage.</color>"
         },
         {
             "theZombieType": 68,
@@ -407,6 +407,24 @@
             "name": "Lifelink Ladder Zombie",
             "introduce": "<align=justified><size=36><color=black>\"The strong never complain about their environment, and I never rely on ladders!\" says Lifelink Ladder Zombie while gripping the ladder. \"This bad boy in my hand is a defensive tool, and the one I set down is still my weapon against damage!\" He sets down the ladder and listens to nuts cracking.</color>",
             "info": "<size=36>Wields a wooden ladder imbued with a lifelink curse.\n\n<color=black>Toughness: </color><color=#4B0082>720 + 1350 (Type 2)</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> After placing a ladder, any final damage dealt to the placer is fully transferred to the Plant in the Lifelink Ladder's tile, causing equal HP loss. If transferred damage exceeds 8k or the placer dies via insta-kills, the ladder is destroyed.\n<color=black>•</color> The Lifelink Ladder cannot be attracted by Magnet-shrooms.</color>"
+        },
+        {
+            "theZombieType": 73,
+            "name": "Necroflame",
+            "introduce": "<align=justified><size=36><color=black>No one knows why she appears among the undead, nor how she can summon endless waves of zombies. Some say she is the gravestone of Endoflame; others call her a traitor among plants. Whatever the truth, Necroflame keeps it buried deep within. Perhaps she once tried to explain, but no one could understand.</color>",
+            "info": "<size=36>An evil flower that summons zombies and can replace plants like a gravestone.\n\n<color=black>Toughness: </color><color=#4B0082>300</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Appears only in the 5 rightmost columns of the lawn. Prefers empty tiles; otherwise replaces a random plant.\n<color=black>•</color> Cannot be shoveled or moved with gloves. Ignored by Zombies.\n<color=black>•</color> Absorbs plant-side projectiles that pass through it, taking 30 damage each time.\n<color=black>•</color> 10s after appearance, summons a random Zombotany; summons another every 15s thereafter, and once more upon death.\n<color=black>•</color> When fertilized, drops a Plant Giftbox and disappears.</color>"
+        },
+        {
+            "theZombieType": 74,
+            "name": "Hypno Pepper Zombie",
+            "introduce": "<align=justified><size=36><color=black>On her first appearance at the Hypnotized Zombie Beauty Pageant, Hypno Pepper Zombie won unanimous praise from all judges and took the first place with ease. Both plant and zombie judges called her 'hot' abd 'spicy'. Aside from a few mysteriously missing contestants, it was a flawless event.</color>",
+            "info": "<size=36>Burns Hypnotized Zombies in her lane.\n\n<color=black>Toughness: </color><color=#4B0082>720</color>\n<color=black>Traits: </color><color=#4B0082> Immune to Stuns. Self-destructs after some time, releasing a row of flames that deals 1800 damage only to Hypnotized Zombies in her lane.</color>"
+        },
+        {
+            "theZombieType": 75,
+            "name": "Hypno Pepper Digger Zombie",
+            "introduce": "<align=justified><size=36><color=black>Hypno Pepper Digger excels at sneaking behind defenses, using her magically infused pickaxe to convert plants into zombies. But those newly made zombies are righteous at heart: they dislike ambush tactics and will turn against her… unaware that they are also 'ambushing the ambusher'.</color>",
+            "info": "<size=36>Uses her pickaxe to convert plants into Hypnotized Zombies, then burns them with a self-destruct flame.\n\n<color=black>Toughness: </color><color=#4B0082>1500</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Immune to Stuns. If pickaxe hasn't been removed, attacks convert non-defensive plants into random hypnotized zombotanies, or apply 500 mining progress to defensive plants.\n<color=black>•</color>On reaching the backline and emerging, she will self-destruct like the Hypno Pepper Zombie after a short delay, releasing a row of flames that deals 1800 damage only to Hypnotized Zombies in her lane.</color>"
         },
         {
             "theZombieType": 100,
@@ -476,7 +494,7 @@
         },
         {
             "theZombieType": 111,
-            "name": "Frost-nut Zombie",
+            "name": "Frost Tall-nut Zombie",
             "introduce": "<align=justified><size=36><color=black>Frost-nut Zombie's head has sparked numerous opinions in the zombie world. Some say he aims to distance himself from the cold world, while others suspect it relates to Dr. Edgar's wild experiments. Yet, only he knows that this headgear appeared after he ate a specific blue mushroom.</color>",
             "info": "<size=36>A sturdy zombie that can also nullify the Chill effect from ice projectiles.\n\n<color=black>Toughness: </color><color=#4B0082>270 + 2200 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>Immune to chill and freeze.</color>"
         },
@@ -518,7 +536,7 @@
         },
         {
             "theZombieType": 118,
-            "name": "Pea Commando Football Zombie",
+            "name": "Pea-storm Football Zombie",
             "introduce": "<align=justified><size=36><color=black>They say fate is unpredictable, and Pea Commando Football Zombie would have to agree. One second, he's in a vegetarian batting cage. The next? He's accidentally ingested a high-powered pitching machine. Now, his new un-life is just one endless round of rapid-fire peas.</color>",
             "info": "<size=36>Unleashes a relentless barrage of peas at your defenses!\n\n<color=black>Damage: </color><color=#4B0082>20/0.1s</color>\n<color=black>Toughness: </color><color=#4B0082>270 + 1400 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>Constantly shoots volleys of peas at your plants.</color>"
         },
@@ -598,7 +616,7 @@
             "theZombieType": 205,
             "name": "Kirov Zomppelin",
             "introduce": "<align=justified><size=36><color=black>Was that a huge flying object? No, it was actually a gigantic airship, featuring a sturdy shell and the ability to release a squadron of fighters. Even when destroyed, the airship could still wreak havoc on surrounding creatures, causing other zombies to keep their distance, fearing that a crash might send them to their demise.</color>",
-            "info": "<size=36>An aircraft carrier being developed by Gfishtus Corps.\n\n<color=black>Toughness: </color><color=#4B0082>3000</color>\n<color=black>Traits: </color><color=#4B0082>Summons a Kirov Drone into action every second. Crashlands upon death, dealing immense damage to plants on impact.</color>\n<color=black>Odyssey Modifiers:\n</color><color=#4B0082>1. Zomppelins and Kirov Zomppelins now have their movement speed ×5 and become immune to Blovers.\n2. Each Kirov Drone Toughness increased to 25k.</color>"
+            "info": "<size=36>An aircraft carrier being developed by Gfishtus Corps.\n\n<color=black>Toughness: </color><color=#4B0082>3000</color>\n<color=black>Traits: </color><color=#4B0082>Summons a Kirov Drone into action every 3s.</color>\n<color=black>Odyssey Modifiers:\n</color><color=#4B0082>1. Zomppelins and Kirov Zomppelins now have their movement speed ×5 and become immune to Blovers.\n2. Each Kirov Drone Toughness increased to 25k.</color>"
         },
         {
             "theZombieType": 206,
@@ -622,7 +640,7 @@
             "theZombieType": 209,
             "name": "Clown-on-the-Pogo Zombie",
             "introduce": "<align=justified><size=36><color=black>\"What, this? Just fashion, my friend,\" Clown-on-the-Pogo Zombie smirks whenever his appearance is brought up. But those who've known him long enough don't buy it. His look isn't just about style—it's a quiet, unspoken tribute to a love that once meant everything. Some trends fade, but some memories never do.</color></size>",
-            "info": "<size=36>The bomb is hidden in his pogo stick.\n\n<color=black>Toughness: </color><color=#4B0082>720 + 4400 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>Inherits traits from Pogo Melon Zombie. If he dies while holding his pogo stick, he'll explode and transform into a King Jack-in-the-Box Zombie.</color>\n<color=black>Odyssey Modifiers:\n</color><color=#4B0082>1. On-death explosion is now guaranteed | Pogo Melon Zombies and Clown-on-the-Pogo Zombies have their charge time reduced to 0.75s.\n2. Jack-in-the-Box Zombies affected by the explosion will turn into Clown-on-the-Pogo Zombies.\n<color=black>Weakness: </color>Umbrella fusions</color>"
+            "info": "<size=36>The bomb is hidden in his pogo stick.\n\n<color=black>Toughness: </color><color=#4B0082>720 + 4400 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>Inherits traits from Pogo Melon Zombie. If he dies while holding his pogo stick, he'll explode and transform into a King Jack-in-the-Box Zombie.</color>\n<color=black>Odyssey Modifiers:\n</color><color=#4B0082>1. On-death explosion is now guaranteed | Pogo Melon Zombies and Clown-on-the-Pogo Zombies have their charge time reduced to 0.5s.\n2. Jack-in-the-Box Zombies affected by the explosion will turn into Clown-on-the-Pogo Zombies.\n<color=black>Weakness: </color>Umbrella fusions</color>"
         },
         {
             "theZombieType": 210,
@@ -724,7 +742,7 @@
             "theZombieType": 226,
             "name": "Alpha Assassin Squad",
             "introduce": "<align=justified><size=36><color=black>The Alpha Assassin Squad moves like shadows, striking faster than a breath and leaving no trace behind—except for the occasional zombie body, of course. They never miss a target, and they never leave anyone alive to tell the tale.</color>",
-            "info": "<size=36>Typically operating in pairs, with elite members deploying as a full squad when necessary.\n\n<color=black>Damage: </color><color=#4B0082>500 × 2</color>\n<color=black>Toughness: </color><color=#4B0082>6000 + 6000 (Type 2)</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Immune to being hypnotized. Appear in pairs. When appearing as a miniboss, 5 spawn in one lane at once, with their health increased by 5×.\n<color=black>•</color> If they take fatal damage while any member of the group is still alive, they become incapacitated. Otherwise, the whole squad dies simultaneously.\n<color=black>•</color> While incapacitated, they're immune to damage and knockback (only for the first occasion), block projectiles, but won't be targeted by plants.\n<color=black>•</color> After 10s of incapacitation, they revive with full health, charge forward 2.5 tiles, which deals 500 damage to all plants they collide with, and trigger a Jack-in-the-Box Explosion.\n<color=black>•</color> If killed by Chompers or other insta-kill methods, both they and their squad immediately perish.</color>\n<color=black>Odyssey Modifiers:\n</color><color=#4B0082>1. Now always invincible when incapacitated.\n2. Can now appear as a Mini-boss.</color>"
+            "info": "<size=36>Typically operating in pairs, with elite members deploying as a full squad when necessary.\n\n<color=black>Damage: </color><color=#4B0082>500 × 2</color>\n<color=black>Toughness: </color><color=#4B0082>6000 + 6000 (Type 2)</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Immune to being hypnotized. Appear in pairs. When appearing as a mini-boss, 5 spawn in one lane at once, with their health increased by 5×.\n<color=black>•</color> If they take fatal damage while any member of the group is still alive, they become incapacitated. Otherwise, the whole squad dies simultaneously.\n<color=black>•</color> While incapacitated, they're immune to damage and knockback (only for the first occasion), block projectiles, but won't be targeted by plants.\n<color=black>•</color> After 10s of incapacitation, they revive with full health, charge forward 2.5 tiles, which deals 500 damage to all plants they collide with, and trigger a Jack-in-the-Box Explosion.\n<color=black>•</color> If killed by Chompers or other insta-kill methods, both they and their squad immediately perish.</color>\n<color=black>Odyssey Modifiers:\n</color><color=#4B0082>1. Now always invincible when incapacitated.\n2. Can now appear as a Mini-boss.</color>"
         },
         {
             "theZombieType": 227,
@@ -748,7 +766,61 @@
             "theZombieType": 230,
             "name": "<color=#4B0082>Dismounted Archduke",
             "introduce": "<align=justified><size=36><color=black>Giga Football Archduke has known Giga Football Striker for a long time. They attack gardens together, train soldiers, and compete for deputies. In their spare time, they play intense real-life Chinese chess, with subordinates as pieces and the two commanders directing from the center—though they often can't resist moving outside the nine-square board.</color>",
-            "info": "<size=36>A fallen commander, no longer wielding power.\n\n<color=black>Damage: </color><color=#4B0082>80/0.1s; 100 (bite)</color>\n<color=black>Toughness: </color><color=#4B0082>18000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Immune to knock-backs.</color>"
+            "info": "<size=36>A fallen commander, no longer wielding power.\n\n<color=black>Damage: </color><color=#4B0082>80/0.1s; 100 (bite)</color>\n<color=black>Toughness: </color><color=#4B0082>18000</color>\n<color=black>Traits: </color><color=#4B0082>Immune to knockbacks.</color>"
+        },
+        {
+            "theZombieType": 231,
+            "name": "<color=#4B0082><u><i>Vengeful Archduke</i></u>",
+            "introduce": "<align=justified><size=36><color=black>War is the finest whetstone for a commander. Once demoted and defeated, the Giga Football Archduke returned from hellish training with his steed, ready to rebuild his command platform from the corpses of his enemies.</color>",
+            "info": "<size=36>\"Come, my fallen warriors - take their souls!\"\n\n<color=black>Damage: </color><color=#4B0082>500 (sword slash)</color>\n<color=black>Toughness: </color><color=#4B0082>90000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Boss. Crushes plants. Normally moves up and down in the rightmost column. Periodically uses one of the following skills:\n<color=black>1.</color> Waves his banner to summon 1 zombie in each lane.\n<color=black>2.</color> Charges forward, releasing a sword slash, then turns and releases another.\n<color=black>3.</color> Fires three wide sword slashes ahead.\n<color=black>4.</color> Summons a Phantom Archduke at the far right of each lane that charges left, dealing 1000 damage to plants along the way.\n<color=black>5.</color> Leaps to a random spot in the left or middle area, crushing plants, then returns to the right side.</color>"
+        },
+        {
+            "theZombieType": 232,
+            "name": "<color=#4B0082>Phantom Archduke",
+            "introduce": "<align=justified><size=36><color=black>\"He has returned!\" cry the zombies in awe. \"He has returned!\" panic the plants. Meanwhile, Dr. Zomboss tinkers proudly with his hologram projector, confident it will shine in the zombie war of vengeance.</color>",
+            "info": "<size=36>An army of holograms that tear through defenses despite being mere projections.\n\n<color=black>Toughness: </color><color=#4B0082>15000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Immune to chill, freeze, stun, and knockback. Ignores plants while charging left, dealing 1000 damage to all plants it passes through.\n<color=black>•</color> Does not trigger Lawn-mowers or game overs.</color>"
+        },
+        {
+            "theZombieType": 233,
+            "name": "Element-infused Gargantuar",
+            "introduce": "<align=justified><size=36><color=black>Long ago, Master Zomboss sought to train more versatile soldiers by infusing his Gargantuars with the powers of the four elements - fire, water, air, and earth. The experiment was a success… mostly. While the Fire-forged, Wind-charged and Soil-bound Gargs quickly bonded over their newfound strength, the Tide-tempered Garg found himself left out. \"We already make a perfect set of signal colors without you,\" the other three grumbled. \"Red, yellow, green - you're just… extra blue.\"</color>",
+            "info": "<size=36>A fully armed Gargantuar zombie with eye color indicating their elemental affinity.\n\n<color=black>Toughness: </color><color=#4B0082>16000 + 16000 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082></color>\n<color=black>•</color> Does not throw Imps. Smashing deals 3600 damage to hypnotized zombies. Gains one of four appearances (eye colors) at spawn, each with unique elemental affinity:\n<color=red>• Flame-forged Gargantuar:</color> Immune to Enflamed; has inherent 66% incoming damage reduction.\n<color=blue>• Tide-tempered Gargantuar:</color> Immune to chill, freeze, and knockback; has double speed; each smash counts as 5 attacks.\n<color=yellow>• Wind-charged Gargantuar:</color> Immune to stun; jumps a short distance forward after each smash and does an additional smash.\n<color=green>• Soil-bound Gargantuar:</color> Immune to poison; recovers 10% max HP after smashing.\n<color=black>Odyssey Modifiers:\n</color><color=#4B0082>1. Appearance no longer matters, has all four affinities at once\n2. Smashing attack range increased by 1 Tile</color>"
+        },
+        {
+            "theZombieType": 234,
+            "name": "<color=#4B0082><u>Imperator's Ark of the Duck</u>",
+            "introduce": "<align=justified><size=36><color=black>As the boss of all Imps, he reigns supreme in their world. No need to be as knowledgeable as Scholar Zombie, nor as elegant as Michael Zombie - he just does what delights him: riding his beloved golden speedboat nicknamed Ark of the Duck and causing major trouble for those pesky plants. There's no need for explanation: let's set sail and embrace the adventure!</color>",
+            "info": "<size=36>Final Imp at the end of your Odyssey. Pilots the luxurious Ark of the Duck, leading the undead fleet.\n\n<color=black>Toughness: </color><color=#4B0082>48000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Mini-boss. Immune to stun and tangle.\n<color=black>•</color> Crushes plants rapidly.\n<color=black>•</color> Has an inherent 80% incoming damage reduction for himself.\n<color=black>•</color> When present, all zombies a 20% movement speed boost and a 20% chance to reduce incoming damage to 1.\n<color=black>•</color> Upon death, ejects the Imperator onto nearby land.</color>"
+        },
+        {
+            "theZombieType": 235,
+            "name": "<color=#4B0082>Imperator",
+            "introduce": "<align=justified><size=36><color=black>Even amidst fierce battles, Imperator still wishes for some leisure time: no brains to chase, no plants to fight, just a quiet walk, pondering over what trick to perform on his subjects at Halloween. But the call of duty as a member of royalty always brings him back to the throne, ready to lead the next charge.</color>",
+            "info": "<size=36>Imperator in retreat, but once he escapes, he'll surely return.\n\n<color=black>Damage: </color><color=#4B0082>80/0.1s; 100 (bite)</color>\n<color=black>Toughness: </color><color=#4B0082>18000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Mini-boss. Immune to stun and knockback but loses the damage reduction buff.\n<color=black>•</color> For every other mini-boss present, gains a 20% incoming damage reduction.\n<color=black>•</color> Upon landing, turns around and retreats, ignoring plants.\n<color=black>•</color> Upon exiting the lawn, he re-enters on a new Ark of the Duck.</color>"
+        },
+        {
+            "theZombieType": 236,
+            "name": "Frost Legion Frayer Disc",
+            "introduce": "<align=justified><size=36><color=black>This new model of the Freezer Disc is equipped with an advanced anti-gravity emitter and plant sensor that allows full autonomous flight and combat. Its pilot doesn't even need to operate it, or stay awake. So why keep a pilot at all? \"Some zombies are too stupid to do anything else,\" Dr. Edgar Zomboss said, as he welded the cockpit shut.</color>",
+            "info": "<size=36>Equipped with two classic sci-fi weapons.\n\n<color=black>Toughness: </color><color=#4B0082>3000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Every 2s, locks onto the nearest plant within a 2.5-tile radius and fires a Dissolver Beam, dealing 300 damage, prioritizing non-pumpkin, non-pot, non-flying plants.\n<color=black>•</color> When close to a plant, hovers directly above it and unleashes a Siphon Drainer that deals 10 damage every 0.02s to all plants on that tile. If hypnotized, the damage becomes healing instead with equal the amount.\n<color=black>Odyssey Modifiers:\n</color><color=#4B0082>1. Dissolver Beams now target the farthest plant within range\n2. Siphon Drainer's range: 1 Tile → 3×3 Area</color>"
+        },
+        {
+            "theZombieType": 237,
+            "name": "Bombeluga Sub",
+            "introduce": "<align=justified><size=36><color=black>Painted pink, this massive vessel was meant to be hidden among the Sharkmarines, but all the pink paint was mistaken for brain juice and eaten by zombies. Not a single drop left.</color>",
+            "info": "<size=36>Harnesses allied cherry explosions to boost its own power.\n\n<color=black>Toughness: </color><color=#4B0082>9000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Sinks plants.\n<color=black>•</color> When a zombie-side cherry explosion hits plants and causes splash damage, any affected Bombeluga Sub restores 150 HP and gains 0.3× movement speed, stacking up to 8×.\n<color=black>•</color> Tangle value on this zombie will not exceed 10.</color>"
+        },
+        {
+            "theZombieType": 238,
+            "name": "Frost Legion Beastmaster",
+            "introduce": "<align=justified><size=36><color=black>Adult Snowfurs instinctively protect the young in their pack. Taking advantage of this trait, the Beastmaster disguised himself as a Furling and successfully tamed one. The price? He'll probably have to live like a Furling for the rest of his unlife.</color>",
+            "info": "<size=36>Rides a Snowfur that pushes your defenses backward.\n\n<color=black>Toughness: </color><color=#4B0082>9000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Immune to Chill and Freeze. Vulnerable to Deep Chill.\n<color=black>•</color> Upon contacting with a Pot, crush-immune or Titan plant, attempts to crush it. Otherwise pushes all connecting plants in the lane one tile left.\n<color=black>•</color> If unable to push (blocked by Titans or no space), instantly destroys the leftmost plant to make room.\n<color=black>•</color> Flying plants are unaffected by the push.\n<color=black>•</color> When below half max HP, leaps 2.2 tiles forward ignoring plants.</color>"
+        },
+        {
+            "theZombieType": 239,
+            "name": "Clown-on-the-Jetski Zombie",
+            "introduce": "<align=justified><size=36><color=black>The first zombie to use pogo sticks and Jack-in-the-Boxes on water. How did he do it? \"Science! Newton's third law, nitroglycerin, and springs! Oh yeah!\" Is he a genius or a maniac? Who knows!</color>",
+            "info": "<size=36>Uses a modified pogo stick to jetski across water lanes, rushing at plants and littering a cluster of Jack-in-the-Boxes.\n\n<color=black>Toughness: </color><color=#4B0082>6000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Very fast. When stopped by a plant, dies instantly and litters bombs that detonate like Jack-in-the-Boxes within a 3.5-tile radius, for a total of (plants hit × map lanes) bombs.\n<color=black>•</color> Always triggers a Jack-in-the-Box explosion on death.</color>"
         },
         {
             "theZombieType": 300,
@@ -838,7 +910,7 @@
             "theZombieType": 314,
             "name": "Narwhalmarine",
             "introduce": "<align=justified><size=36><color=black>Edgar's proudest innovation, designed for maximum acceleration. All crew must pass brutal G-force centrifuge tests. \"It's like ten Gargantuars sat on you,\" says one survivor.</color>",
-            "info": "<size=36>The steel spear of the water lanes.\n\n<color=black>Toughness: </color><color=#4B0082>12000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Tier 3 Evolved Zombie.\n<color=black>•</color> Charges at extreme speed, cutting through water lane plants.\n<color=black>•</color> Once per unit, doubles movement speed of all zombies in a 3×3 area (stackable up to 2 times).</color>"
+            "info": "<size=36>The steel spear of the water lanes.\n\n<color=black>Toughness: </color><color=#4B0082>12000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Tier 3 Evolved Zombie.\n<color=black>•</color> Charges at extreme speed, cutting through water lane plants.\n<color=black>•</color> Once per unit, 0.3s after its appearance, doubles movement speed of all zombies in a 3×3 area (stackable up to 2 times).</color>"
         },
         {
             "theZombieType": 315,
@@ -910,7 +982,7 @@
             "theZombieType": 326,
             "name": "Emperor Clown-on-the-Pogo Zombie",
             "introduce": "<align=justified><size=36><color=black>After much time, he's finally overcome the pain of his breakup. Now he's dressed in flashy colors and ready to court a new goddess. He's now pursuing Queen Jill-in-the-Box. Hopefully, his emotional stamina has improved.</color>",
-            "info": "<size=36>With an upgraded charging system, the smoke from his explosive pogo stick masks his decoy stand-in.\n\n<color=black>Toughness: </color><color=#4B0082>12000 + 12000 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Tier 3 Evolved Zombie.\n<color=black>•</color> Inherits the traits of King Clown-on-the-Pogo Zombie but charging duration is reduced to 0.75s.\n<color=black>•</color> Can cheat death if holding his pogo stick.</color>"
+            "info": "<size=36>With an upgraded charging system, the smoke from his explosive pogo stick masks his decoy stand-in.\n\n<color=black>Toughness: </color><color=#4B0082>12000 + 12000 (Type 1)</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Tier 3 Evolved Zombie.\n<color=black>•</color> Inherits the traits of King Clown-on-the-Pogo Zombie but charging duration is reduced to 0.5s.\n<color=black>•</color> Can cheat death if holding his pogo stick.</color>"
         },
         {
             "theZombieType": 327,
@@ -921,14 +993,14 @@
         {
             "theZombieType": 328,
             "name": "Kirov Mothership",
-            "introduce": "<align=justified><size=36><color=black>The Kirov mothership is a core product of Gfishtus Corps, and the company claims it uses cutting-edge drone technology. But if you examine the debris of its minions closely, you'll often find \"CCCP\" painted in red.</color>",
-            "info": "<size=36>An aerial mothership that deploys Kirovs Drones.\n\n<color=black>Toughness: </color><color=#4B0082>6000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Tier 2 Evolved Zombie.\n<color=black>•</color> Every ~2 seconds, summons a Kirov Drone with 0.1× its own HP.\n<color=black>•</color> Crashes after taking 30 hits from Magnetar stars.</color>"
+            "introduce": "<align=justified><size=36><color=black>The Kirov mothership is a core product of Gfishtus Corps, and the company claims it uses cutting-edge drone technology. But if you examine the debris of its minions closely, you'll often find \"Recycled\" painted in red.</color>",
+            "info": "<size=36>An aerial mothership that deploys Kirovs Drones.\n\n<color=black>Toughness: </color><color=#4B0082>6000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Tier 2 Evolved Zombie.\n<color=black>•</color> Every 3s, summons a Kirov Drone with 0.1× its own HP.\n<color=black>•</color> Crashes after taking 30 hits from Magnetar stars.</color>"
         },
         {
             "theZombieType": 329,
             "name": "Kirov Flagship",
             "introduce": "<align=justified><size=36><color=black>High-altitude infiltration! Integrated recon and assault! Total firepower coverage! Fully digitalized unmanned combat! Gfishtus Corps proudly presents Kirov 2.0! It's the ultimate beast, except for the ridiculously short flight range that relegates it to being a mere frigate under a larger mothership. The mothership, of course, is sold separately.</color>",
-            "info": "<size=36>An aerial supremacy that deploys rapid carpet bombers.\n\n<color=black>Damage: </color><color=#4B0082>300/1.5s</color>\n<color=black>Toughness: </color><color=#4B0082>12000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Tier 3 Evolved Zombie.\n<color=black>•</color> Every ~4 seconds, summons 2 Supersonic Bombers to quickly decimate the lane.\n<color=black>•</color> Crashes after taking 40 hits from Magnetar stars.</color>"
+            "info": "<size=36>An aerial supremacy that deploys rapid carpet bombers.\n\n<color=black>Damage: </color><color=#4B0082>300/1.5s</color>\n<color=black>Toughness: </color><color=#4B0082>12000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Tier 3 Evolved Zombie.\n<color=black>•</color> Every 3s, summons 2 Supersonic Bombers to quickly decimate the lane.\n<color=black>•</color> Crashes after taking 40 hits from Magnetar stars.</color>"
         },
         {
             "theZombieType": 330,
