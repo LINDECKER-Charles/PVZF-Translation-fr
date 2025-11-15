@@ -281,6 +281,13 @@
             "cost": "<size=36>Cost: <color=#8B0000>50</color>\nRecharge: <color=#8B0000>15s</color>"
         },
         {
+            "seedType": 227,
+            "name": "Diamond Imitater",
+            "introduce": "<align=justified><size=36><color=black>He is a merchant, the most stereotypical one. No stance, no loyalty, driven only by profit. He freely changes sides between plants and zombies, smuggling goods. What he brings you might be the key to a comeback… or complete trash… or even a powerful enemy. But what happens to you ultimately has nothing to do with him. After all, you knew exactly what was you were buying.</color>",
+            "info": "<size=36>I'm shipping it out! - Wait, no, I've caused trouble again!\n\n<color=#4A2900>Unlock Conditions: Complete Odyssey Gacha: Diamond Imitater</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> 1.5s after appearing, generates a random plant, zombie, or event.\n<color=black>•</color> Chances: Odyssey plants (10%); Plants obtainable from Giftboxes (50%); Odyssey zombies (10%); Bosses, Mini-bosses, or Odyssey zombies (10%); Common zombies (15%); Random events (5%). Generated zombies have random 0.8×/1×/1.2× health.\n<color=black>•</color> List of Events: \n<color=black>-</color> 1. Gain 200 Sun.\n<color=black>-</color> 2. Acquire an Odyssey Modifier.\n<color=black>-</color> 3. Instantly kill all zombies within 1.5 Tiles' range.\n<color=black>-</color> 4. Deal 4000 damage to plants in a 3×3 area.\n<color=black>-</color> 5. Create a column of Fireballs rolling right, inflicting Enflamed and leaving a 40-damage fire trail.</color>",
+            "cost": "<size=36>Cost: <color=#8B0000>25</color>\nRecharge: <color=#8B0000>15s</color>"
+        },
+        {
             "seedType": 228,
             "name": "Necroflame",
             "introduce": "<align=justified><size=36><color=black>\"I'm done with all the pretentious rules of the garden. Plants should grow as they please,\" Necroflame once told her companions, but the other plants didn't care. Maybe it's time to let go of all worries and live freely like a wild weed, she thought. \"I'm not a plant, nor a zombie, nor some means of production. I am simply myself.\"</color>",

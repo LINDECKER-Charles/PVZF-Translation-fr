@@ -73,6 +73,8 @@
   BoatImp = 71,
   SuperLadderZombie = 72,
   EndoFlameZombie = 73,
+  HypnoJalapenoZombie = 74,
+  HypnoJalapenoPickaxeZombie = 75,
   PeaShooterZombie = 100,
   CherryShooterZombie = 101,
   SuperCherryShooterZombie = 102,

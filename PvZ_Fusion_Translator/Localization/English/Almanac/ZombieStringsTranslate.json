@@ -412,7 +412,19 @@
             "theZombieType": 73,
             "name": "Necroflame",
             "introduce": "<align=justified><size=36><color=black>No one knows why she appears among the undead, nor how she can summon endless waves of zombies. Some say she is the gravestone of Endoflame; others call her a traitor among plants. Whatever the truth, Necroflame keeps it buried deep within. Perhaps she once tried to explain, but no one could understand.</color>",
-            "info": "<size=36>An evil flower that summons zombies and can replace plants like a gravestone.\n\n<color=black>Toughness: </color><color=#8B0000>300</color>\n<color=black>Traits: </color><color=#8B0000>\n<color=black>•</color> Appears only in the 5 rightmost columns of the lawn. Prefers empty tiles; otherwise replaces a random plant.\n<color=black>•</color> Cannot be shoveled or moved with gloves. Ignored by Zombies.\n<color=black>•</color> Absorbs plant-side projectiles that pass through it, taking 30 damage each time.\n<color=black>•</color> 10s after appearance, summons a random Zombotany; summons another every 15s thereafter, and once more upon death.\n<color=black>•</color> When fertilized, drops a Plant Giftbox and disappears.</color>"
+            "info": "<size=36>An evil flower that summons zombies and can replace plants like a gravestone.\n\n<color=black>Toughness: </color><color=#4B0082>300</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Appears only in the 5 rightmost columns of the lawn. Prefers empty tiles; otherwise replaces a random plant.\n<color=black>•</color> Cannot be shoveled or moved with gloves. Ignored by Zombies.\n<color=black>•</color> Absorbs plant-side projectiles that pass through it, taking 30 damage each time.\n<color=black>•</color> 10s after appearance, summons a random Zombotany; summons another every 15s thereafter, and once more upon death.\n<color=black>•</color> When fertilized, drops a Plant Giftbox and disappears.</color>"
+        },
+        {
+            "theZombieType": 74,
+            "name": "Hypno Pepper Zombie",
+            "introduce": "<align=justified><size=36><color=black>On her first appearance at the Hypnotized Zombie Beauty Pageant, Hypno Pepper Zombie won unanimous praise from all judges and took the first place with ease. Both plant and zombie judges called her 'hot' abd 'spicy'. Aside from a few mysteriously missing contestants, it was a flawless event.</color>",
+            "info": "<size=36>Burns Hypnotized Zombies in her lane.\n\n<color=black>Toughness: </color><color=#4B0082>720</color>\n<color=black>Traits: </color><color=#4B0082> Immune to Stuns. Self-destructs after some time, releasing a row of flames that deals 1800 damage only to Hypnotized Zombies in her lane.</color>"
+        },
+        {
+            "theZombieType": 75,
+            "name": "Hypno Pepper Digger Zombie",
+            "introduce": "<align=justified><size=36><color=black>Hypno Pepper Digger excels at sneaking behind defenses, using her magically infused pickaxe to convert plants into zombies. But those newly made zombies are righteous at heart: they dislike ambush tactics and will turn against her… unaware that they are also 'ambushing the ambusher'.</color>",
+            "info": "<size=36>Uses her pickaxe to convert plants into Hypnotized Zombies, then burns them with a self-destruct flame.\n\n<color=black>Toughness: </color><color=#4B0082>1500</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Immune to Stuns. If pickaxe hasn't been removed, attacks convert non-defensive plants into random hypnotized zombotanies, or apply 500 mining progress to defensive plants.\n<color=black>•</color>On reaching the backline and emerging, she will self-destruct like the Hypno Pepper Zombie after a short delay, releasing a row of flames that deals 1800 damage only to Hypnotized Zombies in her lane.</color>"
         },
         {
             "theZombieType": 100,
@@ -784,7 +796,7 @@
             "theZombieType": 235,
             "name": "<color=#4B0082>Imperator",
             "introduce": "<align=justified><size=36><color=black>Even amidst fierce battles, Imperator still wishes for some leisure time: no brains to chase, no plants to fight, just a quiet walk, pondering over what trick to perform on his subjects at Halloween. But the call of duty as a member of royalty always brings him back to the throne, ready to lead the next charge.</color>",
-            "info": "<size=36>Imperator in retreat, but once he escapes, he'll surely return.\n\n<color=black>Damage: </color><color=#4B0082>80/0.1s; 100 (bite)</color>\n<color=black>Toughness: </color><color=#4B0082>18000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Mini-boss. Immune to stun and knockback but loses the damage reduction buff.\n<color=black>•</color> For every other mini-boss present, gains a 20% incoming damage reduction.\n<color=black>•</color> Upong landing, turns around and retreats, ignoring plants.\n<color=black>•</color> Upon exiting the lawn, he re-enters on a new Ark of the Duck.</color>"
+            "info": "<size=36>Imperator in retreat, but once he escapes, he'll surely return.\n\n<color=black>Damage: </color><color=#4B0082>80/0.1s; 100 (bite)</color>\n<color=black>Toughness: </color><color=#4B0082>18000</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Mini-boss. Immune to stun and knockback but loses the damage reduction buff.\n<color=black>•</color> For every other mini-boss present, gains a 20% incoming damage reduction.\n<color=black>•</color> Upon landing, turns around and retreats, ignoring plants.\n<color=black>•</color> Upon exiting the lawn, he re-enters on a new Ark of the Duck.</color>"
         },
         {
             "theZombieType": 236,

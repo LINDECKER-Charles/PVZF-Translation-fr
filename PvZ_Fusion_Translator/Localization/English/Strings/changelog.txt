@@ -33,6 +33,7 @@ Plants VS. Zombies: Fusion - Update 3.1 Changelog
   - Prometheus Liontail (Pepper Popper > Flame Cattail)
   - Scylla Leviathan (Minnow-shroom + Kraken-shroom)
 - Unique/Misc. Plants:
+ - Diamond Imitater (Beat Odyssey Gacha: Diamond Imitater to obtain it)
  - Mimic-rye (Legendary Harvest Mode Card)
  - Enlightened Solarnova (Legendary Harvest Mode Card)
  - Plaguebringer Snipea (Snipea + Garlic)
@@ -47,6 +48,8 @@ Plants VS. Zombies: Fusion - Update 3.1 Changelog
 - Frost Legion Beastmaster
 - Clown-on-the-Jetski Zombie
 - Necroflame
+- Hypno Pepper Zombie
+- Hypno Pepper Digger
 
 4. New Skins
 - Endoflame > Queen Endoflame
